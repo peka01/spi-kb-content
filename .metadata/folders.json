@@ -14,5 +14,13 @@
     "id": "folder-1764579275638",
     "createdAt": "2025-12-01T08:54:35.638Z",
     "updatedAt": "2025-12-01T08:54:35.638Z"
+  },
+  {
+    "name": "Byråstöd",
+    "parentId": null,
+    "order": 2,
+    "id": "folder-1764579420360",
+    "createdAt": "2025-12-01T08:57:00.360Z",
+    "updatedAt": "2025-12-01T08:57:00.360Z"
   }
 ]
