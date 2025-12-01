@@ -6,12 +6,13 @@ format: md
 status: draft
 folderId: folder-1764579266505
 createdAt: '2025-12-01T10:03:10.260Z'
-updatedAt: '2025-12-01T10:07:14.430Z'
+updatedAt: '2025-12-01T10:17:46.829Z'
 publishedAt: null
 metadata:
   productId: bokforing-fakturering
-  productArea: forsaljning
-  featureCategory: Kundfaktura
+  area1: Fakturering
+  area2: Kundfakturor
+  solution: Bokföring & Fakturering
   targetAudience:
     - administrator
     - ekonomiansvarig
