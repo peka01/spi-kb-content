@@ -6,7 +6,7 @@ format: md
 status: draft
 folderId: folder-1764579266505
 createdAt: '2025-12-01T10:03:10.260Z'
-updatedAt: '2025-12-01T10:17:46.829Z'
+updatedAt: '2025-12-01T11:03:16.658Z'
 publishedAt: null
 metadata:
   productId: bokforing-fakturering
@@ -25,6 +25,7 @@ metadata:
 # Ta bort faktura
 
 ## Översikt
+dsfsdf
 Denna artikel beskriver hur du använder den nya funktionen för att ta bort en kundfaktura direkt från redigeringsvyn i Visma Bokföring & Fakturering. Den nya knappen "Ta bort faktura" gör det enklare och snabbare att radera fakturor som skapats av misstag eller inte längre behövs, innan de har skickats eller bokförts.
 
 Du hittar knappen "Ta bort faktura" i verktygsfältet när du skapar eller redigerar en kundfaktura.
