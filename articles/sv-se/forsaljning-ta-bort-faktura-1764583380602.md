@@ -6,7 +6,7 @@ format: md
 status: draft
 folderId: folder-1764579266505
 createdAt: '2025-12-01T10:03:10.260Z'
-updatedAt: '2025-12-01T11:05:35.737Z'
+updatedAt: '2025-12-01T11:07:36.657Z'
 publishedAt: null
 metadata:
   productId: bokforing-fakturering
