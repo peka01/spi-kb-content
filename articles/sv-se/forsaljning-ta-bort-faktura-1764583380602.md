@@ -1,13 +1,13 @@
 ---
+id: article-1764583390260-x1qdl1cn5
 title: Ta bort faktura
 slug: forsaljning-ta-bort-faktura-1764583380602
 format: md
 status: draft
-folderId: null
-publishedAt: null
-id: article-1764583390260-x1qdl1cn5
+folderId: folder-1764579266505
 createdAt: '2025-12-01T10:03:10.260Z'
-updatedAt: '2025-12-01T10:03:10.260Z'
+updatedAt: '2025-12-01T10:07:14.430Z'
+publishedAt: null
 metadata:
   productId: bokforing-fakturering
   productArea: forsaljning
@@ -19,7 +19,7 @@ metadata:
   tags:
     - new_feature
     - forsaljning
-  locale: sv-se
+  locale: sv
 ---
 # Ta bort faktura
 
