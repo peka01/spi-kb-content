@@ -4,9 +4,9 @@ title: Ta bort faktura
 slug: forsaljning-ta-bort-faktura-1764583380602
 format: md
 status: draft
-folderId: folder-1764579266505
+folderId: folder-1764589436701
 createdAt: '2025-12-01T10:03:10.260Z'
-updatedAt: '2025-12-01T11:10:51.898Z'
+updatedAt: '2025-12-01T11:45:44.406Z'
 publishedAt: null
 metadata:
   productId: bokforing-fakturering
