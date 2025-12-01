@@ -1,20 +1,22 @@
 ---
+id: article-1764588269562-xofwxzm1b
 title: Enhanced VAT Report with Multiple Tax Rates
 slug: accounting-enhanced-vat-report-with-multiple-tax-rates-1764588254327
 format: md
 status: draft
-folderId: null
-publishedAt: null
-id: article-1764588269562-xofwxzm1b
+folderId: folder-1764589519031
 createdAt: '2025-12-01T11:24:29.562Z'
-updatedAt: '2025-12-01T11:24:29.562Z'
+updatedAt: '2025-12-01T11:47:12.377Z'
+publishedAt: null
 metadata:
   productId: Bokföring & Fakturering
   area1: accounting
   area2: vat-reporting
+  solution: Bokföring & Fakturering
   tags:
     - update
     - accounting
+  locale: sv
 ---
 # Förbättrad Momsrapport med Flera Skattesatser
 
@@ -35,10 +37,4 @@ Denna artikel beskriver den uppdaterade momsrapporteringsfunktionen i Visma Bokf
     *   Välj den period för vilken du vill generera en momsrapport.
 
 2.  ### Granska den förbättrade rapporten
-    *   I rapportformuläret (`{{VATReportForm}}`) kommer du nu att se ett nytt avsnitt som bryter ner transaktionerna per momssats. Detta ger en detaljerad bild av hur varje skattesats bidrar till den totala momsen.
-    *   Granska sammanfattningen (`{{VATSummary}}`) som nu visar delsummor för varje momssatskategori (t.ex. 6%, 12%, 25%).
-    *   *Exempel:* Om ditt företag har sålt både böcker (6% moms) och konsulttjänster (25% moms) under samma månad, kommer rapporten tydligt att visa intäkter och utgående moms separat för varje skattesats.
-
-3.  ### Exportera rapporten (Valfritt)
-    *   Klicka på `{{Button.Exportera}}` eller välj `{{ExportOptions}}`.
-    *   Välj önskat format (Excel, PDF). Den
+    *   I rapportformuläret
