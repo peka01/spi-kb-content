@@ -4,15 +4,13 @@ title: Skapa en faktura
 slug: skapa-en-faktura
 format: md
 status: draft
-folderId: folder-1764579266505
+folderId: folder-1764589436701
 createdAt: '2025-12-01T07:34:19.520Z'
-updatedAt: '2025-12-01T08:57:23.877Z'
+updatedAt: '2025-12-01T11:46:02.637Z'
 publishedAt: null
 metadata:
-  productArea: ''
-  featureCategory: ''
   tags: []
-  locale: sv-se
+  locale: sv
 ---
 Testarikel för att skapa en faktura på svenska
 Testar en commit
