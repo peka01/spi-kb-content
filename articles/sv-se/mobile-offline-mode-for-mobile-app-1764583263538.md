@@ -1,13 +1,13 @@
 ---
+id: article-1764583279030-btd44jxs2
 title: Offline Mode for Mobile App
 slug: mobile-offline-mode-for-mobile-app-1764583263538
 format: md
 status: draft
-folderId: null
-publishedAt: null
-id: article-1764583279030-btd44jxs2
+folderId: folder-1764670628741
 createdAt: '2025-12-01T10:01:19.030Z'
-updatedAt: '2025-12-01T10:01:19.030Z'
+updatedAt: '2025-12-02T10:17:20.513Z'
+publishedAt: null
 metadata:
   productId: visma-spcs
   productArea: mobile
