@@ -4,9 +4,9 @@ title: Fortnox som datakälla
 slug: fortnox-som-datakalla
 format: md
 status: draft
-folderId: null
+folderId: folder-1764579275638
 createdAt: '2025-12-03T15:30:11.669Z'
-updatedAt: '2025-12-03T15:41:43.913Z'
+updatedAt: '2025-12-03T15:43:15.720Z'
 publishedAt: null
 metadata:
   productId: Skatt & Bokslut
