@@ -6,14 +6,16 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-03T15:30:11.669Z'
-updatedAt: '2025-12-03T15:37:15.386Z'
+updatedAt: '2025-12-03T15:41:43.913Z'
 publishedAt: null
 metadata:
   productId: Skatt & Bokslut
   area1: ''
   area2: ''
+  solution: Skatt & Bokslut
   tags:
-    - update
+    - import
+    - datakälla
   locale: sv
 ---
 # Förbättringar för Fortnox-import i Visma Skatt & Bokslut
