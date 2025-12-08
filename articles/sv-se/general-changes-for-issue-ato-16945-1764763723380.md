@@ -6,7 +6,7 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-03T12:08:58.003Z'
-updatedAt: '2025-12-08T13:28:58.136Z'
+updatedAt: '2025-12-08T16:18:10.652Z'
 publishedAt: null
 metadata:
   productId: skatt-&-bokslut
@@ -17,8 +17,6 @@ metadata:
     - general
   locale: sv-se
 ---
-Här är din kunskapsbasartikel:
-
 # Ny integrationsmöjlighet: Förbereder för import från Fortnox / New Integration Capability: Preparing for Fortnox Import
 
 ## Översikt / Overview
@@ -38,82 +36,131 @@ Här är din kunskapsbasartikel:
 ## Steg / Steps
 **SV:** Denna uppdatering etablerar den tekniska grunden för Fortnox-integrationen i bakgrunden. I denna version finns inga direkta användaråtgärder tillgängliga i användargränssnittet för att konfigurera eller utföra en import.
 
-Detaljerade steg för hur du konfigurerar och använder Fortnox-importfunktionen kommer att tillhandahållas i en kommande release när integrationen är fullt utvecklad, säkerställd med tokenkryptering, och tillgänglig i användargränssn
+Detaljerade steg för hur du konfigurerar och använder Fortnox-importfunktionen kommer att tillhandahållas i en kommande release när integrationen är fullt utvecklad, säkerställd med tokenkryptering, och tillgänglig i användargränssnittet.
 
+**EN:** This update establishes the technical foundation for the Fortnox integration in the background. In this version, no direct user actions are available in the user interface to configure or perform an import.
+
+Detailed steps on how to configure and use the Fortnox import function will be provided in a future release when the integration is fully developed, secured with token encryption, and available in the user interface.
 
 ---
 
-## Update: Fortnox Integration - Version 1.0
+# Fortnox Integration - Version 1.0
 
-This update introduces the integration with Fortnox, allowing users to import accounting data and export closing entries.
+## Översikt / Overview
+**SV:** Denna sektion beskriver den nya Fortnox-integrationen, inklusive dess installation, processen för dataimport och exportmöjligheter för bokslutsposter.
 
-### Overview
-This section details the new Fortnox integration, covering its setup, data import process, and export capabilities for closing entries.
+**EN:** This section details the new Fortnox integration, covering its setup, data import process, and export capabilities for closing entries.
 
-### Prerequisites
+## Förutsättningar / Prerequisites
+**SV:**
+- Tillgång till dina Fortnox-kontouppgifter.
+- Ett aktivt S&B (Skatt & Bokslut)-konto.
+
+**EN:**
 - Access to your Fortnox account credentials.
 - An active S&B (Skatt & Bokslut) account.
 
-### Steps
+## Steg / Steps
 
-#### 1. Initial Setup and Data Import
+### 1. Initial Setup and Data Import
+**SV:**
+1.  **Startguide:**
+    *   Ett nytt alternativ, "Fortnox", har lagts till som den femte datakällan i Startguiden.
+    *   Detta möjliggör import av redovisningsdata från Fortnox via API:et.
+2.  **Fortnox-inloggning och Token:**
+    *   När du väljer att importera från Fortnox, kommer du att omdirigeras till Fortnox inloggningsportal.
+    *   Logga in med dina Fortnox-uppgifter.
+    *   Efter lyckad inloggning genereras en token, giltig i 30 dagar.
+    *   Alla efterföljande import- eller exportåtgärder inom dessa 30 dagar kommer att uppdatera token för ytterligare 30 dagar från det datumet.
+3.  **Dataimport och Bilagor:**
+    *   Vid import av data från Fortnox skapas automatiskt två bilagor:
+        *   En kopplad till konto 1510 (Kundfordringar).
+        *   En kopplad till konto 2440 (Leverantörsskulder).
+    *   Ytterligare bilagor kan komma att läggas till i framtida versioner.
+4.  **Valideringar:**
+    *   Importprocessen kommer att använda samma valideringar som SIE4, inklusive kontroller för:
+        *   Organisationsnummerns giltighet.
+        *   Filstorleksgränser (100 MB).
+        *   Automatisk ifyllnad av saknade verifikatserier.
+        *   Hoppa över objekt om fler än 500 finns.
+5.  **Översiktssida:**
+    *   En ny textsträng, "Importera från Fortnox", finns nu tillgänglig på översiktssidan.
 
+**EN:**
 1.  **Start Guide:**
     *   A new option, "Fortnox," has been added as the fifth data source in the Start Guide.
     *   This allows for the import of accounting data from Fortnox via the API.
-
 2.  **Fortnox Login and Token:**
     *   When you choose to import from Fortnox, you will be redirected to the Fortnox login portal.
     *   Log in using your Fortnox credentials.
     *   Upon successful login, a token will be generated, valid for 30 days.
     *   Any subsequent import or export action within these 30 days will refresh the token for another 30 days from that date.
-
 3.  **Data Import and Appendices:**
     *   When importing data from Fortnox, two appendices will be automatically created:
-        *   One linked to Account 1510 (Kundfordingar - Accounts receivable ledger).
-        *   One linked to Account 2440 (Leverantörsskulder - Accounts payable ledger).
+        *   One linked to Account 1510 (Accounts receivable ledger).
+        *   One linked to Account 2440 (Accounts payable ledger).
     *   Additional appendices may be added in future releases.
-
 4.  **Validations:**
     *   The import process will utilize the same validations as SIE4, including checks for:
         *   Organization number validity.
         *   File size limits (100 MB).
         *   Automatic filling of missing voucher series.
         *   Skipping objects if more than 500 are present.
-
 5.  **Overview Page:**
     *   A new text string, "Import from Fortnox," is now available on the overview page.
 
-#### 2. Period Closing and Transaction Analysis
+### 2. Period Closing and Transaction Analysis
+**SV:** Periodavslut och Transaktionsanalys stöds nu för Fortnox som datakälla, vilket speglar funktionaliteten som är tillgänglig för SIE4-importer.
 
-*   Period closing and Transaction Analysis are now supported for the Fortnox data source, mirroring the functionality available for SIE4 imports.
+**EN:** Period closing and Transaction Analysis are now supported for the Fortnox data source, mirroring the functionality available for SIE4 imports.
 
-#### 3. Exporting Closing Entries
+### 3. Exporting Closing Entries
+**SV:**
+1.  **Exportfunktionalitet:**
+    *   Ett nytt alternativ, "Exportera bokslutsposter till Fortnox (utan bilagor)", är tillgängligt.
+    *   Att klicka på detta alternativ öppnar ett modal-fönster.
+2.  **Val av Verifikatserie:**
+    *   Inom modal-fönstret kan du välja önskad verifikatserie i Fortnox för dina V- och S-verifikat. En rullgardinsmeny med tillgängliga verifikatserier från Fortnox presenteras.
+3.  **Initiera Export:**
+    *   Att klicka på "Exportera" i modal-fönstret påbörjar exportprocessen.
+4.  **Hantering av Tokenförlust:**
+    *   Om din Fortnox-token har gått ut eller förlorats, kommer exportknappen att vara inaktiverad.
+    *   En tooltip kommer att visa meddelandet: "Du har förlorat din token, för att fortsätta importera igen."
 
+**EN:**
 1.  **Export Functionality:**
     *   A new option, "Export closing entries to Fortnox (without attachments)," is available.
     *   Clicking this option will open a modal window.
-
 2.  **Voucher Series Selection:**
     *   Within the modal, you can select the desired voucher series in Fortnox for your V and S vouchers. A dropdown list of available voucher series from Fortnox will be presented.
-
 3.  **Initiating Export:**
     *   Clicking "Export" in the modal will begin the export process.
-
 4.  **Token Loss Handling:**
     *   If your Fortnox token has expired or been lost, the export button will be disabled.
     *   A tooltip will display the message: "You have lost your token, to proceed import again."
 
-#### 4. Maintenance and Activity Log
+### 4. Maintenance and Activity Log
+**SV:**
+1.  **Hantering av Datakällor:**
+    *   Fortnox är nu listat som en Datakälla under Underhåll > Inställningar.
+    *   Du kan ändra din datakälla här, med samma logik som tillämpas på SIE4.
+2.  **Aktivitetslogg:**
+    *   Fortnox har lagts till i importmeddelandena inom Aktivitetslogg / Systemuppgifter.
 
+**EN:**
 1.  **Data Source Management:**
     *   Fortnox is now listed as a Data Source under Maintenance > Settings.
     *   You can change your data source here, using the same logic as applied to SIE4.
-
 2.  **Activity Log:**
     *   Fortnox has been added to the import messages within the Activity Log / System Tasks.
 
-### Related Articles
-*   [Period Closing in S&B]
-*   [Transaction Analysis Guide]
-*   [Managing Data Sources]
+## Relaterade artiklar / Related Articles
+**SV:**
+- [Periodavslut i S&B]
+- [Guide för Transaktionsanalys]
+- [Hantering av Datakällor]
+
+**EN:**
+- [Period Closing in S&B]
+- [Transaction Analysis Guide]
+- [Managing Data Sources]
