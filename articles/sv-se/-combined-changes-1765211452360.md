@@ -1,13 +1,13 @@
 ---
+id: article-1765211456339-37cm5xual
 title: Combined Changes
 slug: '-combined-changes-1765211452360'
 format: md
 status: draft
 folderId: null
-publishedAt: null
-id: article-1765211456339-37cm5xual
 createdAt: '2025-12-08T16:30:56.339Z'
-updatedAt: '2025-12-08T16:30:56.339Z'
+updatedAt: '2025-12-08T16:33:12.463Z'
+publishedAt: null
 metadata:
   productId: Skatt & Bokslut
   area1: ''
@@ -15,6 +15,7 @@ metadata:
   tags:
     - update
     - ''
+  locale: sv-se
 ---
 # Uppdatering: Kombinerade ändringar i Skatt & Bokslut
 
