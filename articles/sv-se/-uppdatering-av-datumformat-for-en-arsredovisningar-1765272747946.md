@@ -6,11 +6,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-09T09:32:32.147Z'
-updatedAt: '2025-12-09T10:18:22.915Z'
+updatedAt: '2025-12-09T11:56:50.194Z'
 publishedAt: null
-pendingReview: false
-reviewedAt: '2025-12-09T10:18:22.455Z'
-lastLLMUpdateAt: '2025-12-09T09:41:51.094Z'
+pendingReview: true
+reviewedAt: null
+lastLLMUpdateAt: '2025-12-09T11:56:50.190Z'
 metadata:
   productId: Skatt & Bokslut
   area1: ''
@@ -23,14 +23,14 @@ metadata:
 # Uppdatering av datumformat för EN Årsredovisningar
 
 ## Översikt
-Denna artikel beskriver en uppdatering av datumformatet som används för låsta årsredovisningsdata i engelska rapporter. Denna ändring har gjorts för att adressera kundfeedback och förbättra tydligheten.
+Denna artikel beskriver en uppdatering av datumformatet som används för låsta årsredovisningsdata i engelska rapporter. Denna ändring har gjorts för att adressera kundfeedback och förbättra tydligheten, samt för att implementera specifika ändringar relaterade till ärende #VEA-68397.
 
 ## Förutsättningar
 * Du har tillgång till Skatt & Bokslut-modulen.
 * Du arbetar med årsredovisningar som ska exporteras eller visas på engelska.
 
 ## Varför det är viktigt
-Denna uppdatering säkerställer att datumformatet i engelska årsredovisningar är konsekvent och följer standardiserade engelska konventioner. Detta förbättrar tydligheten och läsbarheten för internationella användare och mottagare av rapporterna, och är ett resultat av värdefull kundfeedback.
+Denna uppdatering säkerställer att datumformatet i engelska årsredovisningar är konsekvent och följer standardiserade engelska konventioner. Detta förbättrar tydligheten och läsbarheten för internationella användare och mottagare av rapporterna, och är ett resultat av värdefull kundfeedback samt specifika krav från ärende #VEA-68397.
 
 ## Hur du använder det
 Inga specifika åtgärder krävs från din sida för att dra nytta av denna uppdatering. Ändringen sker automatiskt i systemet.
@@ -41,7 +41,7 @@ När du genererar eller visar en årsredovisning på engelska, kommer datum som 
 Om ett datum tidigare visades som `2025-12-08` i en engelsk rapport, kommer det nu att visas som `December 8, 2025`.
 
 ## Tekniska detaljer
-Ändringen avser hur datum hanteras och formateras för låsta data i årsredovisningar (AR) som är inställda på engelska språket. Detta är en frontend-justering som påverkar presentationen av datum i de genererade rapporterna. Ändringen implementerades via PR #8681 (ATO-17497).
+Ändringen avser hur datum hanteras och formateras för låsta data i årsredovisningar (AR) som är inställda på engelska språket. Detta är en frontend-justering som påverkar presentationen av datum i de genererade rapporterna. Ändringen implementerades via PR #8681 (ATO-17497) och relaterade ändringar för ärende #VEA-68397.
 
 ## Relaterade artiklar
 * [Skapa årsredovisning](länk/till/årsredovisning)
