@@ -6,10 +6,10 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-09T14:31:57.799Z'
-updatedAt: '2025-12-09T14:46:08.711Z'
+updatedAt: '2025-12-09T14:48:50.448Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: '2025-12-09T14:45:33.762Z'
+pendingReview: false
+reviewedAt: '2025-12-09T14:48:49.883Z'
 lastLLMUpdateAt: '2025-12-09T14:46:08.705Z'
 metadata:
   productId: Bokföring & Fakturering
