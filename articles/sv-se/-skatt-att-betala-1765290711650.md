@@ -6,11 +6,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-09T14:31:57.799Z'
-updatedAt: '2025-12-09T14:48:50.448Z'
+updatedAt: '2025-12-09T14:52:34.646Z'
 publishedAt: null
-pendingReview: false
+pendingReview: true
 reviewedAt: '2025-12-09T14:48:49.883Z'
-lastLLMUpdateAt: '2025-12-09T14:46:08.705Z'
+lastLLMUpdateAt: '2025-12-09T14:52:33.853Z'
 metadata:
   productId: Bokföring & Fakturering
   solution: Bokföring & Fakturering
@@ -24,7 +24,7 @@ metadata:
 # Moms att betala
 
 ## Översikt
-Den här artikeln beskriver en ny funktion i Bokföring & Fakturering som ger en tydligare indikation på om du ska betala moms eller få moms återbetald. Denna uppdatering är utformad för att göra det enklare för dig att förstå din momssituation.
+Den här artikeln beskriver en ny funktion i Bokföring & Fakturering som ger en tydligare indikation på om du ska betala moms eller få moms återbetald. Denna uppdatering gör det enklare för dig att förstå din momssituation.
 
 ## Förutsättningar
 *   Du har åtkomst till modulen Bokföring & Fakturering.
@@ -34,7 +34,7 @@ Den här artikeln beskriver en ny funktion i Bokföring & Fakturering som ger en
 Denna uppdatering lägger till en ny indikator på momsrapporten.
 
 1.  Navigera till din **Momsrapport**.
-2.  På rapporten ser du en ny text som indikerar momshanteringen baserat på saldot i fält 49 (netto moms):
+2.  På rapporten ser du en ny text som indikerar momshanteringen baserat på saldot i fält 49 (netto moms).
     *   Om beloppet i fält 49 är **positivt** (utgående moms är större än ingående moms), visar rapporten **"Moms att betala"**.
     *   Om beloppet i fält 49 är **negativt** (ingående moms är större än utgående moms), visar rapporten **"Moms att återbetala"**.
 
