@@ -6,11 +6,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-09T09:32:32.147Z'
-updatedAt: '2025-12-09T09:41:51.099Z'
+updatedAt: '2025-12-09T10:17:37.503Z'
 publishedAt: null
-pendingReview: true
+pendingReview: false
+reviewedAt: '2025-12-09T10:17:37.497Z'
 lastLLMUpdateAt: '2025-12-09T09:41:51.094Z'
-reviewedAt: null
 metadata:
   productId: Skatt & Bokslut
   area1: ''
