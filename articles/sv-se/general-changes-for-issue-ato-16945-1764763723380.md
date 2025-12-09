@@ -6,8 +6,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-03T12:08:58.003Z'
-updatedAt: '2025-12-08T16:18:10.652Z'
+updatedAt: '2025-12-09T08:44:26.448Z'
 publishedAt: null
+pendingReview: true
+lastLLMUpdateAt: '2025-12-09T08:44:26.432Z'
+reviewedAt: null
 metadata:
   productId: skatt-&-bokslut
   area1: general
@@ -17,48 +20,27 @@ metadata:
     - general
   locale: sv-se
 ---
-# Ny integrationsmöjlighet: Förbereder för import från Fortnox / New Integration Capability: Preparing for Fortnox Import
+# Ny integrationsmöjlighet: Förbereder för och konfigurerar Fortnox-import / New Integration Capability: Preparing for and Configuring Fortnox Import
 
 ## Översikt / Overview
-**SV:** Denna artikel beskriver den initiala utvecklingen för att möjliggöra import av data från Fortnox till vår tjänst. Med denna uppdatering läggs grunden för en framtida, djupare integration som kommer att förenkla datahanteringen för dig. Denna version fokuserar på att etablera den tekniska infrastrukturen i bakgrunden.
+**SV:** Denna artikel beskriver utvecklingen för att möjliggöra import av data från Fortnox till vår tjänst. Med denna uppdatering läggs grunden för en djupare integration som förenklar datahanteringen. Artikeln täcker den initiala tekniska infrastrukturen, installation, processen för dataimport, exportmöjligheter för bokslutsposter samt underhåll.
 
-**EN:** This article describes the initial development to enable data import from Fortnox into our service. With this update, the foundation is laid for a future, deeper integration that will simplify data management for you. This version focuses on establishing the technical infrastructure in the background.
-
-## Förutsättningar / Prerequisites
-**SV:** För denna initiala uppdatering krävs inga specifika åtgärder från din sida. När den fullständiga Fortnox-integrationen släpps och blir tillgänglig i användargränssnittet kommer du att behöva:
-- Ett aktivt Fortnox-konto.
-- Rätt behörigheter för att koppla Visma-tjänsten till ditt Fortnox-konto.
-
-**EN:** For this initial update, no specific actions are required from your side. When the full Fortnox integration is released and becomes available in the user interface, you will need:
-- An active Fortnox account.
-- The correct permissions to connect the Visma service to your Fortnox account.
-
-## Steg / Steps
-**SV:** Denna uppdatering etablerar den tekniska grunden för Fortnox-integrationen i bakgrunden. I denna version finns inga direkta användaråtgärder tillgängliga i användargränssnittet för att konfigurera eller utföra en import.
-
-Detaljerade steg för hur du konfigurerar och använder Fortnox-importfunktionen kommer att tillhandahållas i en kommande release när integrationen är fullt utvecklad, säkerställd med tokenkryptering, och tillgänglig i användargränssnittet.
-
-**EN:** This update establishes the technical foundation for the Fortnox integration in the background. In this version, no direct user actions are available in the user interface to configure or perform an import.
-
-Detailed steps on how to configure and use the Fortnox import function will be provided in a future release when the integration is fully developed, secured with token encryption, and available in the user interface.
-
----
-
-# Fortnox Integration - Version 1.0
-
-## Översikt / Overview
-**SV:** Denna sektion beskriver den nya Fortnox-integrationen, inklusive dess installation, processen för dataimport och exportmöjligheter för bokslutsposter.
-
-**EN:** This section details the new Fortnox integration, covering its setup, data import process, and export capabilities for closing entries.
+**EN:** This article describes the development to enable data import from Fortnox into our service. With this update, the foundation is laid for a deeper integration that simplifies data management. The article covers the initial technical infrastructure, setup, data import process, export capabilities for closing entries, and maintenance.
 
 ## Förutsättningar / Prerequisites
 **SV:**
 - Tillgång till dina Fortnox-kontouppgifter.
 - Ett aktivt S&B (Skatt & Bokslut)-konto.
+- För den initiala uppdateringen krävdes inga specifika åtgärder från din sida. När den fullständiga Fortnox-integrationen släpptes och blev tillgänglig i användargränssnittet behövde du:
+    - Ett aktivt Fortnox-konto.
+    - Rätt behörigheter för att koppla Visma-tjänsten till ditt Fortnox-konto.
 
 **EN:**
 - Access to your Fortnox account credentials.
 - An active S&B (Skatt & Bokslut) account.
+- For the initial update, no specific actions were required from your side. When the full Fortnox integration was released and became available in the user interface, you needed:
+    - An active Fortnox account.
+    - The correct permissions to connect the Visma service to your Fortnox account.
 
 ## Steg / Steps
 
