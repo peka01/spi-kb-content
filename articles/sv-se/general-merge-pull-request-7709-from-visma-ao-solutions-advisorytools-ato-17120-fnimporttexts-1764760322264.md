@@ -9,8 +9,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-03T11:12:02.277Z'
-updatedAt: '2025-12-08T16:18:17.796Z'
+updatedAt: '2025-12-09T08:44:32.331Z'
 publishedAt: null
+pendingReview: true
+lastLLMUpdateAt: '2025-12-09T08:44:32.315Z'
+reviewedAt: null
 metadata:
   productId: skatt-&-bokslut
   area1: general
@@ -87,6 +90,12 @@ The process for exporting closing entries to Fortnox has been refined.
 
 *   Support has been added for including manual external components, such as icons, with associated licenses. This includes nodes for licenses like Lucide.
 *   Scripts have been updated to handle manually added nodes for external components.
+
+### Combined Changes
+
+#### User Impact
+
+*   **Date Format for AR Locked Data in English:** For users operating in English, the date format for Accounts Receivable (AR) locked data has been corrected. This ensures consistency and accuracy when handling financial records in English.
 
 ## Related Articles
 * [Importing Data from Fortnox](link_to_fortnox_import_article)
