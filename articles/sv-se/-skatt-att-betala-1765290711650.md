@@ -6,11 +6,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-09T14:31:57.799Z'
-updatedAt: '2025-12-09T14:53:41.016Z'
+updatedAt: '2025-12-09T14:55:09.493Z'
 publishedAt: null
-pendingReview: false
+pendingReview: true
 reviewedAt: '2025-12-09T14:53:41.008Z'
-lastLLMUpdateAt: '2025-12-09T14:52:33.853Z'
+lastLLMUpdateAt: '2025-12-09T14:55:09.485Z'
 metadata:
   productId: Bokföring & Fakturering
   solution: Bokföring & Fakturering
@@ -24,7 +24,7 @@ metadata:
 # Moms att betala
 
 ## Översikt
-Den här artikeln beskriver en ny funktion i Bokföring & Fakturering som ger en tydligare indikation på om du ska betala moms eller få moms återbetald. Denna uppdatering gör det enklare för dig att förstå din momssituation.
+Denna artikel beskriver en ny funktion i Bokföring & Fakturering som tydligare indikerar om du ska betala moms eller få moms återbetald. Denna uppdatering förenklar förståelsen av din momssituation.
 
 ## Förutsättningar
 *   Du har åtkomst till modulen Bokföring & Fakturering.
