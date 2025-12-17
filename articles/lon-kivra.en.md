@@ -1,28 +1,28 @@
 ---
+folderId: dVnXDkNUCnXswUuCe3hb
+lastLLMUpdateAt: '2025-12-11T10:22:40.973Z'
 languages:
   - sv
   - en
-lastLLMUpdateAt: '2025-12-11T10:22:40.973Z'
-folderId: dVnXDkNUCnXswUuCe3hb
 status: draft
-updatedAt: '2025-12-17T08:17:08.026Z'
-title: Kivra
-publishedAt: null
+updatedAt: '2025-12-17T08:22:47.550Z'
 format: md
-createdAt: '2025-12-17T08:17:08.026Z'
-slug: kivra
-reviewedAt: '2025-12-11T10:23:54.179Z'
-currentVersion: 3
+publishedAt: null
+createdAt: '2025-12-17T08:22:47.550Z'
 pendingReview: false
-id: article-1765959428026-iirbdhm2o
+reviewedAt: '2025-12-11T10:23:54.179Z'
+slug: kivra
+title: Kivra
+currentVersion: 3
+id: article-1765959767550-81m261nf9
 metadata:
-  area1: ''
+  area2: ''
+  productId: Lön
   targetAudience: []
   solution: Lön
-  area2: ''
   tags:
     - update
-  productId: Lön
+  area1: ''
 ---
 # Using Kivra in Payroll
 
