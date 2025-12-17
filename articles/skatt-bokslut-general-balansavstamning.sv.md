@@ -9,21 +9,21 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-17T06:56:11.985Z'
-updatedAt: '2025-12-17T12:19:23.931Z'
+updatedAt: '2025-12-17T13:09:25.846Z'
 publishedAt: null
 pendingReview: true
 reviewedAt: null
-lastLLMUpdateAt: '2025-12-17T12:19:23.931Z'
+lastLLMUpdateAt: '2025-12-17T13:09:25.845Z'
 currentVersion: 5
 metadata:
-  productId: Skatt & Bokslut
-  area2: ''
-  area1: general
-  solution: Skatt & Bokslut
   targetAudience: []
   tags:
     - update
     - general
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  area2: ''
+  area1: general
 ---
 # Balansavstämning
 
@@ -39,7 +39,7 @@ Balansavstämning – översikten hittar du under både **Periodavslut** och **�
 ### Anpassningsbara kolumner
 Vilka kolumner som visas i översikten varierar beroende på storleken på den skärm du arbetar på. På mindre skärmar visas endast de viktigaste kolumnerna.
 
-Du kan välja vilka kolumner som ska visas i Balansavstämning och Resultatanalys genom att klicka på **{{resource:Tooltip_Hide_Show_Columns}}** i den övre delen av fönstret. Inställningen sparas per företag och gäller för alla perioder. För att återställa till standardinställningen, välj **Återställ till förvalda kolumner**.
+Du kan välja vilka kolumner som ska visas i Balansavstämning och Resultatanalys genom att klicka på knappen **Dölj/Lägg till kolumn** i den övre delen av fönstret. Inställningen sparas per företag och gäller för alla perioder. För att återställa till standardinställningen, välj **Återställ till förvalda kolumner**.
 
 ### Fördjupad detaljnivå med drill down
 Du kan utöka detaljnivån i Balansavstämning – Översikt med hjälp av drill down-funktionen, som låter dig titta närmare på verifikationerna som registrerats på kontona.
@@ -93,7 +93,7 @@ Du kommer att märka en förbättrad användarupplevelse när du arbetar med bal
 ## Steg för att använda den uppdaterade funktionen
 
 1.  **Navigera till Balansavstämning:** Öppna Skatt & Bokslut och leta upp funktionen för balansavstämning under **Periodavslut** eller **Årsavslut**.
-2.  **Anpassa vyn:** Använd **Dölj/Lägg till kolumn** för att välja vilka kolumner som ska visas.
+2.  **Anpassa vyn:** Använd knappen **Dölj/Lägg till kolumn** för att välja vilka kolumner som ska visas.
 3.  **Fördjupa dig i detaljer:** Klicka på understrukna belopp för att använda drill down-funktionen och analysera verifikationer i **Kontoanalys**.
 4.  **Hantera bilagor och kontroller:** Använd funktionerna för bilagor och automatiska kontroller för att säkerställa noggrannhet.
 5.  **Spara ditt arbete:** När du är klar, se till att spara dina ändringar.
