@@ -4,29 +4,33 @@ title: Resdisp
 slug: general-resdisp
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
 createdAt: '2025-12-17T15:03:55.931Z'
-updatedAt: '2025-12-17T15:26:01.766Z'
+updatedAt: '2025-12-17T15:26:46.727Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-17T15:26:01.766Z'
 lastLLMUpdateAt: '2025-12-17T15:24:39.618Z'
+currentVersion: 1
 metadata:
-  productId: Skatt & Bokslut
-  area1: general
-  targetAudience: []
+  solution: Skatt & Bokslut
   area2: ''
   tags:
     - update
     - general
-  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
+  targetAudience: []
+  area1: general
 ---
 # Hantera resultatdisposition i bokslutet
 
 ## Översikt
 Nu har vi gjort det ännu enklare för dig att hantera företagets resultat i bokslutsarbetet. I den nya vyn för resultatdisposition får du en tydlig överblick och kan smidigt bestämma hur en vinst eller förlust ska fördelas. Det ger dig full kontroll och gör en viktig del av bokslutet både snabbare och tryggare.
+
+![image](../images/general-resdisp-1765985205174-rftxl.png)
 
 ## Så här fungerar vyn för resultatdisposition
 Vyn är uppdelad i tre delar som tydligt visar vilka medel som finns tillgängliga, hur du föreslår att de ska fördelas och vad det slutgiltiga resultatet blir.
