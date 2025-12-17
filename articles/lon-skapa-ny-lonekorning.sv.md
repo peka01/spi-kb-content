@@ -1,28 +1,28 @@
 ---
 status: draft
-slug: skapa-ny-lonekorning
-lastLLMUpdateAt: '2025-12-11T10:31:26.115Z'
 languages:
   - sv
   - en
-title: Skapa ny lönekörning
-createdAt: '2025-12-17T08:30:55.288Z'
+createdAt: '2025-12-11T10:30:21.636Z'
 pendingReview: false
-format: md
-reviewedAt: '2025-12-11T10:32:14.970Z'
-currentVersion: 5
-updatedAt: '2025-12-17T08:30:55.288Z'
 folderId: S0n4lfJ2K5VQ3piaOGtw
+reviewedAt: '2025-12-11T10:32:14.970Z'
+updatedAt: '2025-12-17T07:51:35.357Z'
 publishedAt: null
-id: article-1765960255288-12iu0nhy1
+lastLLMUpdateAt: '2025-12-11T10:31:26.115Z'
+format: md
+title: Skapa ny lönekörning
+slug: skapa-ny-lonekorning
+currentVersion: 5
+id: UUtrpWnO9TSTmy20IJ5z
 metadata:
-  area2: ''
-  area1: ''
+  solution: Lön
   productId: Lön
   tags:
     - update
+  area2: ''
   targetAudience: []
-  solution: Lön
+  area1: ''
 ---
 # Skapa en ny lönekörning i Spiris **{{resource:Common_Product_Name_Variable_eAccCloudPayroll}}**
 
