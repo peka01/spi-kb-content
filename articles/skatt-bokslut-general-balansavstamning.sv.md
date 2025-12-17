@@ -9,21 +9,21 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-17T06:56:11.985Z'
-updatedAt: '2025-12-17T12:17:45.492Z'
+updatedAt: '2025-12-17T12:19:23.931Z'
 publishedAt: null
 pendingReview: true
 reviewedAt: null
-lastLLMUpdateAt: '2025-12-17T12:17:45.492Z'
+lastLLMUpdateAt: '2025-12-17T12:19:23.931Z'
 currentVersion: 5
 metadata:
   productId: Skatt & Bokslut
+  area2: ''
+  area1: general
+  solution: Skatt & Bokslut
+  targetAudience: []
   tags:
     - update
     - general
-  area1: general
-  solution: Skatt & Bokslut
-  area2: ''
-  targetAudience: []
 ---
 # Balansavstämning
 
