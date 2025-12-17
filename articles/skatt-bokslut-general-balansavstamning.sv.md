@@ -9,21 +9,21 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-17T06:56:11.985Z'
-updatedAt: '2025-12-17T13:14:08.438Z'
+updatedAt: '2025-12-17T13:15:28.749Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
+pendingReview: false
+reviewedAt: '2025-12-17T13:15:28.749Z'
 lastLLMUpdateAt: '2025-12-17T13:14:08.438Z'
 currentVersion: 5
 metadata:
-  area2: ''
-  solution: Skatt & Bokslut
-  productId: Skatt & Bokslut
-  area1: general
-  targetAudience: []
   tags:
     - update
     - general
+  area2: ''
+  solution: Skatt & Bokslut
+  targetAudience: []
+  productId: Skatt & Bokslut
+  area1: general
 ---
 Här är den uppdaterade artikeln.
 
