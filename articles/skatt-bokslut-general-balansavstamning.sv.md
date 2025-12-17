@@ -1,29 +1,29 @@
 ---
-lastLLMUpdateAt: '2025-12-17T06:58:38.342Z'
-updatedAt: '2025-12-17T07:51:48.774Z'
-pendingReview: false
-currentVersion: 4
-reviewedAt: '2025-12-17T07:07:23.100Z'
-format: md
+id: DAWh5QiBatBfx9M3OUWL
+title: Balansavstämning
 slug: general-balansavstamning
 languages:
   - sv
   - en
+format: md
+status: draft
 folderId: null
 createdAt: '2025-12-17T06:56:11.985Z'
-status: draft
+updatedAt: '2025-12-17T10:20:35.920Z'
 publishedAt: null
-title: Balansavstämning
-id: DAWh5QiBatBfx9M3OUWL
+pendingReview: false
+reviewedAt: '2025-12-17T07:07:23.100Z'
+lastLLMUpdateAt: '2025-12-17T06:58:38.342Z'
+currentVersion: 5
 metadata:
+  productId: Skatt & Bokslut
+  area2: ''
+  solution: Skatt & Bokslut
   tags:
     - update
     - general
-  area2: ''
-  area1: general
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
   targetAudience: []
+  area1: general
 ---
 # Balansavstämning
 
@@ -39,7 +39,7 @@ Balansavstämning – översikten hittar du under både **Periodavslut** och **�
 ### Anpassningsbara kolumner
 Vilka kolumner som visas i översikten varierar beroende på storleken på den skärm du arbetar på. På mindre skärmar visas endast de viktigaste kolumnerna.
 
-Du kan välja vilka kolumner som ska visas i Balansavstämning och Resultatanalys genom att klicka på **Dölj/Lägg till kolumn** i den övre delen av fönstret. Inställningen sparas per företag och gäller för alla perioder. För att återställa till standardinställningen, välj **Återställ till förvalda kolumner**.
+Du kan välja vilka kolumner som ska visas i Balansavstämning och Resultatanalys genom att klicka på ****{{resource:Tooltip_Hide_Show_Columns}}**** i den övre delen av fönstret. Inställningen sparas per företag och gäller för alla perioder. För att återställa till standardinställningen, välj **Återställ till förvalda kolumner**.
 
 ### Fördjupad detaljnivå med drill down
 Du kan utöka detaljnivån i Balansavstämning – Översikt med hjälp av drill down-funktionen, som låter dig titta närmare på verifikationerna som registrerats på kontona.
@@ -88,4 +88,4 @@ Du kommer att märka en förbättrad användarupplevelse när du arbetar med bal
 *   [Kom igång med Skatt & Bokslut]
 *   [Att arbeta med bokslut]
 *   [Bokslutsverifikationer]
-*   [Automatiska kontroller]
+*   [Automatiska kontroller]**{{resource:Tooltip_Hide_Show_Columns}}**
