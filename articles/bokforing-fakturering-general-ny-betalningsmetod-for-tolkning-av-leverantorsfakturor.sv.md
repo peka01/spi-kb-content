@@ -1,26 +1,26 @@
 ---
-updatedAt: '2025-12-17T08:22:51.193Z'
-format: md
 status: draft
+createdAt: '2025-12-16T09:55:28.433Z'
+folderId: null
+updatedAt: '2025-12-17T07:50:13.701Z'
+format: md
 languages:
   - sv
   - en
-title: Ny betalningsmetod för tolkning av leverantörsfakturor
-createdAt: '2025-12-17T08:22:51.193Z'
-folderId: null
-publishedAt: null
 currentVersion: 5
+title: Ny betalningsmetod för tolkning av leverantörsfakturor
+publishedAt: null
 slug: general-ny-betalningsmetod-for-tolkning-av-leverantorsfakturor
-id: article-1765959771193-y1gwe0k5x
+id: dJ2GWUcPjbYLuMJVB3k8
 metadata:
-  targetAudience: []
-  solution: Bokföring & Fakturering
   area2: ''
   productId: Bokföring & Fakturering
+  area1: general
+  solution: Bokföring & Fakturering
   tags:
     - update
     - general
-  area1: general
+  targetAudience: []
 ---
 # Ny betalningsmetod för tolkning av leverantörsfaktura
 
