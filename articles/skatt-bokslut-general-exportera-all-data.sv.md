@@ -1,25 +1,25 @@
 ---
-folderId: vZ6IMwn3WcrkxEemzXO8
-status: draft
-createdAt: '2025-12-17T08:17:12.125Z'
-updatedAt: '2025-12-17T08:17:12.125Z'
-currentVersion: 5
 publishedAt: null
 slug: general-exportera-all-data
+createdAt: '2025-12-17T08:22:50.109Z'
+title: Exportera all data
+updatedAt: '2025-12-17T08:22:50.109Z'
+folderId: vZ6IMwn3WcrkxEemzXO8
+format: md
 languages:
   - sv
   - en
-format: md
-title: Exportera all data
-id: article-1765959432125-l8maaub13
+currentVersion: 5
+status: draft
+id: article-1765959770109-xodb0p40j
 metadata:
   targetAudience: []
-  area1: Inställningar
+  solution: Skatt & Bokslut
+  area2: ''
   productId: Skatt & Bokslut
+  area1: Inställningar
   tags:
     - arkiv
-  area2: ''
-  solution: Skatt & Bokslut
 ---
 # Exportera all data för arkivering i **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
