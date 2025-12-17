@@ -1,28 +1,28 @@
 ---
-slug: general-anpassa-fakturabakgrund
+createdAt: '2025-12-17T08:30:45.264Z'
 status: draft
-updatedAt: '2025-12-17T08:22:42.297Z'
+format: md
+updatedAt: '2025-12-17T08:30:45.264Z'
+slug: general-anpassa-fakturabakgrund
+title: Skapa faktura
+folderId: t5C3XTnFg2qDzQ0j9VPb
+reviewedAt: '2025-12-16T13:30:30.197Z'
+publishedAt: null
 languages:
   - sv
   - en
-createdAt: '2025-12-17T08:22:42.297Z'
-folderId: t5C3XTnFg2qDzQ0j9VPb
-currentVersion: 2
-title: Skapa faktura
-reviewedAt: '2025-12-16T13:30:30.197Z'
-pendingReview: false
-format: md
-publishedAt: null
 lastLLMUpdateAt: '2025-12-16T13:28:56.065Z'
-id: article-1765959762297-eu12nkzdj
+currentVersion: 2
+pendingReview: false
+id: article-1765960245264-kw22hndwj
 metadata:
-  targetAudience: []
-  area1: general
   area2: ''
+  targetAudience: []
+  productId: Bokföring & Fakturering
+  solution: Bokföring & Fakturering
   tags:
     - update
     - general
-  productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
+  area1: general
 ---
 
