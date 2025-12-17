@@ -1,29 +1,29 @@
 ---
-createdAt: '2025-12-17T08:22:52.918Z'
-reviewedAt: '2025-12-16T08:54:02.030Z'
 status: draft
-lastLLMUpdateAt: '2025-12-16T08:50:43.784Z'
-title: Dölj korrigeringsverifikationer
-slug: dolj-korrigeringsverifikationer
-format: md
-currentVersion: 11
 folderId: null
+lastLLMUpdateAt: '2025-12-16T08:50:43.784Z'
+pendingReview: false
+createdAt: '2025-12-16T08:45:06.743Z'
+slug: dolj-korrigeringsverifikationer
+updatedAt: '2025-12-17T07:49:45.606Z'
+reviewedAt: '2025-12-16T08:54:02.030Z'
+title: Dölj korrigeringsverifikationer
 languages:
   - sv
   - en
-pendingReview: false
-updatedAt: '2025-12-17T08:22:52.918Z'
+currentVersion: 11
 publishedAt: null
-id: article-1765959772918-01j223joq
+format: md
+id: xUYgEGpkq9Hf6P1jkvgS
 metadata:
-  area2: ''
-  area1: Bokföring
-  targetAudience: []
   productId: Bokföring & Fakturering
+  targetAudience: []
+  area1: Bokföring
+  solution: Bokföring & Fakturering
+  area2: ''
   tags:
     - update
     - general
-  solution: Bokföring & Fakturering
 ---
 # Skjul korreksjonsbilag
 
