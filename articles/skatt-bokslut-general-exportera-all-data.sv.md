@@ -9,43 +9,59 @@ format: md
 status: draft
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2025-12-15T15:16:39.161Z'
-updatedAt: '2025-12-17T15:21:36.118Z'
+updatedAt: '2025-12-17T15:22:57.947Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2025-12-17T15:21:36.118Z'
+pendingReview: false
+reviewedAt: '2025-12-17T15:22:57.925Z'
+lastLLMUpdateAt: null
 currentVersion: 5
 metadata:
-  productId: Skatt & Bokslut
-  area1: Inställningar
-  area2: ''
-  targetAudience: []
-  solution: Skatt & Bokslut
   tags:
     - arkiv
+  targetAudience: []
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  area1: Inställningar
+  area2: ''
 ---
-# Exportera all data för arkivering
+# Exportera all data för arkivering i **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
 ## Översikt
 
-Nu kan du enkelt spara all din företagsdata i ett smidigt format som är perfekt för arkivering. Spara dina företagsregister för den tid som lagen kräver, eller behåll en säkerhetskopia för framtiden. Med den senaste uppdateringen kan du dessutom välja om du vill exportera all dokumentation eller bara den från perioder som är markerade som klara.
+ ![image](../../images/general-exportera-all-data-1765811785522-1765869534013-vwir3.png)
 
-Datan samlas i en tydlig mappstruktur, sorterad per år och period. Inne i varje periodmapp hittar du alla dina dokument som PDF-filer. Du hittar funktionen under menyn för **Underhåll** och valet **Exportera data**.
+Nu kan du enkelt spara all din företagsdata i ett smidigt format som är perfekt för arkivering. Spara dina företagsregister för den tid som lagen kräver, eller behåll en säkerhetskopia för framtiden.
+
+Datan samlas i en tydlig mappstruktur, sorterad per år och period. Inne i varje periodmapp hittar du alla dina dokument som PDF-filer. Funktionen hittar du under **Underhåll** -> **Exportera data**. Du kan välja att exportera ett eller flera år samtidigt.
+
+## Vad är nytt?
+
+*   **Ny exportfunktion:** Nu kan du skapa en komplett arkivkopia av din data.
+*   **Automatisk mappstruktur:** Datan organiseras automatiskt i mappar för varje år och period, vilket gör det superenkelt att hitta rätt.
+*   **PDF-format:** Alla dokument sparas som PDF-filer – redo för utskrift eller digital arkivering.
+*   **Välj år:** Du kan välja att exportera data för ett specifikt år eller flera år på en gång.
+*   **Vilka perioder som ingår:** Endast perioder som har automatiska kontroller, är markerade som klara, eller som innehåller minst en kommentar, tas med i exporten.
 
 ## Så här gör du
 
-1.  Gå till menyn för **Underhåll** och välj **Exportera data**.
-2.  Välj de år du vill exportera. Du kan markera ett eller flera specifika år, eller markera i rutan för **Alla år** för att få med allt.
-3.  Under rubriken **Dokumentation** väljer du sedan vad som ska ingå i exporten:
-    *   **Inkludera all dokumentation** – Tar med all dokumentation, oavsett periodens status.
-    *   **Inkludera endast dokumentation från perioder med status klar** – Tar bara med dokumentation från perioder som du har markerat som klara.
-4.  Klicka på knappen för att starta exporten. En framstegsmätare visar hur långt exporten har kommit.
-5.  När allt är klart får du en bekräftelse och kan ladda ner en ZIP-fil med din data. Filen är organiserad i års- och periodmappar med alla dina dokument som PDF-filer.
-6.  Om något oväntat händer, till exempel att ett dokument har fel format, får du ett meddelande om detta.
+1.  Gå till menyn **Underhåll**.
+2.  Välj **Exportera data**.
+3.  Välj de år du vill exportera. Du kan välja ett specifikt år eller markera **Alla år** för att få med allt.
+4.  Klicka på knappen för att starta exporten. Knappen blir grå medan det pågår.
+5.  En framstegsmätare visar hur långt exporten har kommit, ungefär som i **Rapportcenter**.
+6.  När allt är klart får du en bekräftelse.
+7.  Om något oväntat händer, som ett dokument i fel format, får du ett meddelande. Ett meddelande kan också dyka upp om exporten delvis misslyckades men ändå skapade en fil.
+8.  Du får en ZIP-fil med din exporterade data. Den är snyggt organiserad i års- och periodmappar med alla dina dokument som PDF:er.
+
+### Bra att veta
+
+Till höger om fältet för dokumentation finns en liten informationsikon. Klicka på den för att få reda på:
+*   Vad exporten innehåller.
+*   Att du kommer att få en .zip-fil.
 
 ## Varför är detta bra för dig?
 
-Den här funktionen gör det enkelt och tryggt att arkivera din företagsdata. Du uppfyller lagkraven för datalagring och får en säkerhetskopia – perfekt för att känna dig lugn och ha mer tid över till annat! Med de nya valen får du dessutom ännu mer kontroll över din arkivering och kan enkelt anpassa exporten efter dina behov.
+Den här nya funktionen gör det enkelt och tryggt att arkivera din företagsdata. Du uppfyller lagkraven för datalagring och får en säkerhetskopia – perfekt för att känna dig lugn och ha mer tid över till annat!
 
 ## Läs mer
 
