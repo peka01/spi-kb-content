@@ -1,29 +1,29 @@
 ---
-updatedAt: '2025-12-17T08:17:16.129Z'
-createdAt: '2025-12-17T08:17:16.129Z'
-pendingReview: false
-lastLLMUpdateAt: '2025-12-16T08:50:43.784Z'
+createdAt: '2025-12-17T08:22:52.918Z'
+reviewedAt: '2025-12-16T08:54:02.030Z'
 status: draft
+lastLLMUpdateAt: '2025-12-16T08:50:43.784Z'
 title: Dölj korrigeringsverifikationer
-publishedAt: null
+slug: dolj-korrigeringsverifikationer
 format: md
 currentVersion: 11
 folderId: null
 languages:
   - sv
   - en
-slug: dolj-korrigeringsverifikationer
-reviewedAt: '2025-12-16T08:54:02.030Z'
-id: article-1765959436129-k6srowqdf
+pendingReview: false
+updatedAt: '2025-12-17T08:22:52.918Z'
+publishedAt: null
+id: article-1765959772918-01j223joq
 metadata:
+  area2: ''
   area1: Bokföring
   targetAudience: []
-  area2: ''
-  solution: Bokföring & Fakturering
   productId: Bokföring & Fakturering
   tags:
     - update
     - general
+  solution: Bokföring & Fakturering
 ---
 # Hide Correction Vouchers
 
