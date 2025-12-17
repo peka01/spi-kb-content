@@ -9,21 +9,21 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-17T06:56:11.985Z'
-updatedAt: '2025-12-17T10:20:35.920Z'
+updatedAt: '2025-12-17T12:17:45.492Z'
 publishedAt: null
-pendingReview: false
-reviewedAt: '2025-12-17T07:07:23.100Z'
-lastLLMUpdateAt: '2025-12-17T06:58:38.342Z'
+pendingReview: true
+reviewedAt: null
+lastLLMUpdateAt: '2025-12-17T12:17:45.492Z'
 currentVersion: 5
 metadata:
   productId: Skatt & Bokslut
-  area2: ''
-  solution: Skatt & Bokslut
   tags:
     - update
     - general
-  targetAudience: []
   area1: general
+  solution: Skatt & Bokslut
+  area2: ''
+  targetAudience: []
 ---
 # Balansavstämning
 
@@ -39,7 +39,7 @@ Balansavstämning – översikten hittar du under både **Periodavslut** och **�
 ### Anpassningsbara kolumner
 Vilka kolumner som visas i översikten varierar beroende på storleken på den skärm du arbetar på. På mindre skärmar visas endast de viktigaste kolumnerna.
 
-Du kan välja vilka kolumner som ska visas i Balansavstämning och Resultatanalys genom att klicka på ****{{resource:Tooltip_Hide_Show_Columns}}**** i den övre delen av fönstret. Inställningen sparas per företag och gäller för alla perioder. För att återställa till standardinställningen, välj **Återställ till förvalda kolumner**.
+Du kan välja vilka kolumner som ska visas i Balansavstämning och Resultatanalys genom att klicka på **{{resource:Tooltip_Hide_Show_Columns}}** i den övre delen av fönstret. Inställningen sparas per företag och gäller för alla perioder. För att återställa till standardinställningen, välj **Återställ till förvalda kolumner**.
 
 ### Fördjupad detaljnivå med drill down
 Du kan utöka detaljnivån i Balansavstämning – Översikt med hjälp av drill down-funktionen, som låter dig titta närmare på verifikationerna som registrerats på kontona.
@@ -62,6 +62,20 @@ Klicka på pilen bredvid en verifikation i listan för att visa en mer detaljera
 Klicka på gemet i kolumnen **Bifogade filer** för att visa ett dokument som bifogats en verifikation. Välj vilket dokument du vill visa i rutan som öppnas.
 
 I fönstret för förhandsgranskning kan du ladda ner det bifogade dokumentet genom att klicka på knappen **Ladda ner** och sedan enkelt dra det till en extern bilaga. Det är också möjligt att skapa en ny extern bilaga som dokumentet automatiskt länkas till genom att välja **Lägg till bilaga** i visningsläget.
+
+### Bilagor i balansavstämning
+Balansavstämning - Bilagor hittar du under både **Periodavslut** och **Årsavslut**.
+
+Under Balansavstämning - Bilagor arbetar du med bilagor som underlättar både beräkningar och avstämningar för dina konton.
+
+Du kan arbeta med huvudbilagor, underbilagor, externa bilagor och automatiskt genererade bilagor.
+
+Du kan välja från listan **Visa** om du vill se **Konton** eller **Bilagor** i översiktsfönstret till vänster.
+
+**Konton** visar alla konton som det finns bilagor kopplade till. Ett klick på respektive konto visar alla skapade bilagor för det kontot.
+**Bilaga** visar alla skapade bilagor i översiktsfönstret.
+
+Under Balansavstämning och Resultatanalys kan du ändra ordningen på bilagor i öppna perioder genom att dra och släppa dem i den ordningen du vill ha dem. När du skapar nya perioder, kommer ordningen vara samma i den nya perioden.
 
 ### Fältförklaringar
 
@@ -88,4 +102,4 @@ Du kommer att märka en förbättrad användarupplevelse när du arbetar med bal
 *   [Kom igång med Skatt & Bokslut]
 *   [Att arbeta med bokslut]
 *   [Bokslutsverifikationer]
-*   [Automatiska kontroller]**{{resource:Tooltip_Hide_Show_Columns}}**
+*   [Automatiska kontroller]
