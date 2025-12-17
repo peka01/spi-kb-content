@@ -1,31 +1,31 @@
 ---
-pendingReview: false
+currentVersion: 12
+lastLLMUpdateAt: '2025-12-11T11:03:19.304Z'
+slug: ny-prenumeration
 status: draft
-createdAt: '2025-12-17T08:22:42.958Z'
+publishedAt: null
+title: Ny prenumeration
+createdAt: '2025-12-17T08:30:46.614Z'
+reviewedAt: '2025-12-11T11:05:36.692Z'
+folderId: tK5mxwYH79Ie0TRIvGUR
 languages:
   - sv
   - en
   - 'no'
   - da
   - fi
-lastLLMUpdateAt: '2025-12-11T11:03:19.304Z'
+pendingReview: false
 format: md
-title: Ny prenumeration
-currentVersion: 12
-slug: ny-prenumeration
-publishedAt: null
-updatedAt: '2025-12-17T08:22:42.958Z'
-folderId: tK5mxwYH79Ie0TRIvGUR
-reviewedAt: '2025-12-11T11:05:36.692Z'
-id: article-1765959762957-0tes94pwb
+updatedAt: '2025-12-17T08:30:46.614Z'
+id: article-1765960246614-7nhiyqi8t
 metadata:
-  tags:
-    - update
-  targetAudience: []
-  area2: ''
   productId: Mitt Spiris
+  area2: ''
   area1: ''
   solution: Mitt Spiris
+  targetAudience: []
+  tags:
+    - update
 ---
 # Ny prenumeration i **{{resource:Common_Company_Name_Short}}**
 
