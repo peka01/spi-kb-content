@@ -1,26 +1,26 @@
 ---
-title: Ny betalningsmetod för tolkning av leverantörsfakturor
-publishedAt: null
+updatedAt: '2025-12-17T08:22:51.193Z'
 format: md
-createdAt: '2025-12-17T08:17:13.700Z'
-slug: general-ny-betalningsmetod-for-tolkning-av-leverantorsfakturor
-updatedAt: '2025-12-17T08:17:13.700Z'
-currentVersion: 5
-folderId: null
+status: draft
 languages:
   - sv
   - en
-status: draft
-id: article-1765959433700-kspfanzms
+title: Ny betalningsmetod för tolkning av leverantörsfakturor
+createdAt: '2025-12-17T08:22:51.193Z'
+folderId: null
+publishedAt: null
+currentVersion: 5
+slug: general-ny-betalningsmetod-for-tolkning-av-leverantorsfakturor
+id: article-1765959771193-y1gwe0k5x
 metadata:
   targetAudience: []
-  area1: general
+  solution: Bokföring & Fakturering
+  area2: ''
+  productId: Bokföring & Fakturering
   tags:
     - update
     - general
-  area2: ''
-  productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
+  area1: general
 ---
 # New Payment Method for Supplier Invoice Interpretation
 
