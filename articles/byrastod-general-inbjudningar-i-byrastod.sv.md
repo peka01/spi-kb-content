@@ -1,26 +1,26 @@
 ---
+updatedAt: '2025-12-17T08:22:49.506Z'
+status: draft
+publishedAt: null
+title: Inbjudningar i Byråstöd
+folderId: zBIiVCqNofH1c30iTZQz
+createdAt: '2025-12-17T08:22:49.506Z'
+slug: general-inbjudningar-i-byrastod
+format: md
+currentVersion: 3
 languages:
   - sv
   - en
-createdAt: '2025-12-17T08:17:11.285Z'
-folderId: zBIiVCqNofH1c30iTZQz
-updatedAt: '2025-12-17T08:17:11.285Z'
-title: Inbjudningar i Byråstöd
-format: md
-currentVersion: 3
-status: draft
-slug: general-inbjudningar-i-byrastod
-publishedAt: null
-id: article-1765959431285-ftafcya3z
+id: article-1765959769506-ftpmh58jf
 metadata:
   area1: general
   area2: ''
-  solution: Byråstöd
   targetAudience: []
+  productId: Byråstöd
+  solution: Byråstöd
   tags:
     - update
     - general
-  productId: Byråstöd
 ---
 # Förbättrad hantering av inbjudningar i Byråstöd
 
