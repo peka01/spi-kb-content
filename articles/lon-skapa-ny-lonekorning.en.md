@@ -1,28 +1,28 @@
 ---
-lastLLMUpdateAt: '2025-12-11T10:31:26.115Z'
-slug: skapa-ny-lonekorning
-status: draft
-pendingReview: false
-reviewedAt: '2025-12-11T10:32:14.970Z'
+publishedAt: null
+folderId: S0n4lfJ2K5VQ3piaOGtw
+title: Skapa ny lönekörning
 languages:
   - sv
   - en
-publishedAt: null
-format: md
+slug: skapa-ny-lonekorning
+updatedAt: '2025-12-17T08:22:46.328Z'
 currentVersion: 5
-title: Skapa ny lönekörning
-updatedAt: '2025-12-17T08:17:06.512Z'
-createdAt: '2025-12-17T08:17:06.512Z'
-folderId: S0n4lfJ2K5VQ3piaOGtw
-id: article-1765959426512-qk7ungl2e
+createdAt: '2025-12-17T08:22:46.328Z'
+format: md
+lastLLMUpdateAt: '2025-12-11T10:31:26.115Z'
+status: draft
+pendingReview: false
+reviewedAt: '2025-12-11T10:32:14.970Z'
+id: article-1765959766328-f1ufuifs5
 metadata:
-  tags:
-    - update
   targetAudience: []
-  area2: ''
   area1: ''
   solution: Lön
+  tags:
+    - update
   productId: Lön
+  area2: ''
 ---
 # Create a New Payroll Run in Spiris Payroll
 
