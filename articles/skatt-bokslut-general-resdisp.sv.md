@@ -8,20 +8,20 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-17T15:03:55.931Z'
-updatedAt: '2025-12-17T15:24:39.619Z'
+updatedAt: '2025-12-17T15:26:01.766Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
+pendingReview: false
+reviewedAt: '2025-12-17T15:26:01.766Z'
 lastLLMUpdateAt: '2025-12-17T15:24:39.618Z'
 metadata:
-  solution: Skatt & Bokslut
   productId: Skatt & Bokslut
+  area1: general
   targetAudience: []
+  area2: ''
   tags:
     - update
     - general
-  area2: ''
-  area1: general
+  solution: Skatt & Bokslut
 ---
 # Hantera resultatdisposition i bokslutet
 
