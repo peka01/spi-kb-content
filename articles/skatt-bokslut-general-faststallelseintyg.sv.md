@@ -1,5 +1,5 @@
 ---
-title: Fastställelseintyg
+title: fastställelseintyg
 slug: general-faststallelseintyg
 languages:
   - sv
@@ -7,9 +7,9 @@ format: md
 status: draft
 folderId: null
 publishedAt: null
-createdAt: '2025-12-17T13:41:38.631Z'
-updatedAt: '2025-12-17T13:41:38.631Z'
-id: 6vfI8hAcTpywc3N8eaiv
+createdAt: '2025-12-17T13:56:20.570Z'
+updatedAt: '2025-12-17T13:56:20.570Z'
+id: 2CSEgHSTQNUruh76ZBKg
 metadata:
   productId: Skatt & Bokslut
   solution: Skatt & Bokslut
@@ -20,26 +20,29 @@ metadata:
     - update
     - general
 ---
-# Skapa fastställelseintyg
+# Skapa fastställelseintyg direkt i årsredovisningen
 
 ## Översikt
-Nu kan du enkelt skapa och skriva ut ett fastställelseintyg direkt från Spiris Skatt & Bokslut. Intyget är ett bevis på att årsstämman har godkänt och fastställt årsredovisningen. Med den här funktionen får du ett komplett och korrekt underlag, vilket sparar tid och gör avslutningen på bokslutsarbetet ännu smidigare.
+Nu har det blivit ännu enklare att färdigställa din årsredovisning! Med den nya funktionen för fastställelseintyg kan du skapa intyget direkt i Spiris Skatt & Bokslut. Det innebär att du slipper skapa och hantera separata dokument – allt samlas på ett och samma ställe. Smidigt, eller hur?
 
-## Så skapar du ett fastställelseintyg
-När du arbetar med årsredovisningen hittar du ett nytt avsnitt för att hantera fastställelseintyget.
+Ett fastställelseintyg är ett bevis på att bolagsstämman har godkänt och fastställt årsredovisningen.
 
-1.  Gå till vyn för årsredovisningen i ditt bokslut.
-2.  Leta upp avsnittet för fastställelseintyg.
-3.  Fyll i följande uppgifter i formuläret:
-    *   **Ort:** Ange den ort där årsstämman hölls.
-    *   **Datum:** Välj det datum då årsstämman ägde rum.
-    *   **Underskrift av:** Skriv namnet på den person som ska skriva under intyget, vanligtvis stämmans ordförande.
-4.  När du har fyllt i uppgifterna kan du skapa dokumentet.
-5.  Skriv ut intyget, se till att det blir signerat och bifoga det sedan tillsammans med årsredovisningen. Klart!
+## Så här gör du
+Att skapa ett fastställelseintyg är enkelt och går snabbt. Följ bara stegen nedan när du arbetar med din årsredovisning.
+
+1.  Gå till årsredovisningen i Spiris Skatt & Bokslut.
+2.  Leta upp avsnittet som heter **Fastställelseintyg**.
+3.  Markera kryssrutan **Inkludera fastställelseintyg**.
+4.  När du markerat rutan visas nya fält. Fyll i följande uppgifter:
+    *   **Ort**: Platsen där bolagsstämman hölls.
+    *   **Datum för bolagsstämma**: Datumet då årsredovisningen fastställdes.
+    *   **Namnförtydligande**: Namnet på den person som ska skriva under intyget.
+5.  Om fler personer ska skriva under kan du enkelt lägga till fler genom att klicka på knappen för att lägga till en ny underskrift.
+6.  Klart! När du sedan skapar din årsredovisning kommer fastställelseintyget att inkluderas automatiskt i den slutgiltiga filen.
 
 ## Relaterade artiklar
--   Skapa årsredovisning
--   Digital inlämning av årsredovisning
+- Skapa och hantera årsredovisning
+- Skicka in årsredovisning digitalt
 
 ## Screenshots
 
