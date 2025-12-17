@@ -1,28 +1,28 @@
 ---
-slug: kivra
+reviewedAt: '2025-12-11T10:23:54.179Z'
+publishedAt: null
+format: md
 lastLLMUpdateAt: '2025-12-11T10:22:40.973Z'
-updatedAt: '2025-12-17T08:30:58.098Z'
+title: Kivra
 languages:
   - sv
   - en
-reviewedAt: '2025-12-11T10:23:54.179Z'
-folderId: dVnXDkNUCnXswUuCe3hb
-title: Kivra
-format: md
-pendingReview: false
 currentVersion: 3
-publishedAt: null
-createdAt: '2025-12-17T08:30:58.098Z'
+createdAt: '2025-12-11T10:22:12.766Z'
+slug: kivra
+updatedAt: '2025-12-17T07:51:23.048Z'
 status: draft
-id: article-1765960258098-1y12axdeu
+folderId: dVnXDkNUCnXswUuCe3hb
+pendingReview: false
+id: B6XxsWB17bQ2IQlege99
 metadata:
-  productId: Lön
   area2: ''
-  targetAudience: []
+  area1: ''
   tags:
     - update
-  area1: ''
+  targetAudience: []
   solution: Lön
+  productId: Lön
 ---
 # Använda Kivra i **{{resource:Common_Product_Name_Variable_eAccCloudPayroll}}**
 
