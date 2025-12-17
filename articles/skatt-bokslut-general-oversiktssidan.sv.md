@@ -1,26 +1,26 @@
 ---
-updatedAt: '2025-12-17T08:17:09.699Z'
-slug: general-oversiktssidan
+status: draft
+createdAt: '2025-12-17T08:22:48.580Z'
 format: md
+folderId: vZ6IMwn3WcrkxEemzXO8
+title: Översiktssidan
+updatedAt: '2025-12-17T08:22:48.580Z'
+publishedAt: null
 languages:
   - sv
   - en
-status: draft
-title: Översiktssidan
-createdAt: '2025-12-17T08:17:09.699Z'
-publishedAt: null
-folderId: vZ6IMwn3WcrkxEemzXO8
+slug: general-oversiktssidan
 currentVersion: 5
-id: article-1765959429699-nye8wkn31
+id: article-1765959768580-75pl6fr8b
 metadata:
   area1: general
-  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
   targetAudience: []
+  area2: ''
+  solution: Skatt & Bokslut
   tags:
     - update
     - general
-  area2: ''
-  productId: Skatt & Bokslut
 ---
 # Översiktssidan
 
