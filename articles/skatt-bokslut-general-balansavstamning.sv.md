@@ -1,26 +1,26 @@
 ---
-updatedAt: '2025-12-17T08:17:05.729Z'
-pendingReview: false
-title: Balansavstämning
+reviewedAt: '2025-12-17T07:07:23.100Z'
+status: draft
+folderId: null
+format: md
+slug: general-balansavstamning
+publishedAt: null
 languages:
   - sv
   - en
-status: draft
-createdAt: '2025-12-17T08:17:05.729Z'
-publishedAt: null
-format: md
-slug: general-balansavstamning
-currentVersion: 4
 lastLLMUpdateAt: '2025-12-17T06:58:38.342Z'
-reviewedAt: '2025-12-17T07:07:23.100Z'
-folderId: null
-id: article-1765959425729-za3ly122j
+createdAt: '2025-12-17T08:22:45.726Z'
+currentVersion: 4
+title: Balansavstämning
+pendingReview: false
+updatedAt: '2025-12-17T08:22:45.726Z'
+id: article-1765959765725-hfd3uqzl8
 metadata:
-  solution: Skatt & Bokslut
-  targetAudience: []
-  area2: ''
   productId: Skatt & Bokslut
   area1: general
+  targetAudience: []
+  solution: Skatt & Bokslut
+  area2: ''
   tags:
     - update
     - general
