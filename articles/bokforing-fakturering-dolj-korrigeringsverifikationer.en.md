@@ -9,7 +9,7 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T10:31:59.026Z'
+updatedAt: '2025-12-18T10:32:54.250Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-18T10:30:11.880Z'
@@ -112,40 +112,61 @@ translationBase:
     * [Inställningar för bokföring]
 
     * [Korrigera ett bokfört verifikat]
-currentVersion: 18
+currentVersion: 19
 languageUpdatedAt:
   sv: '2025-12-18T10:03:58.543Z'
-  en: '2025-12-18T10:31:31.923Z'
+  en: '2025-12-18T10:03:58.543Z'
 metadata:
+  targetAudience: []
+  area1: Bokföring
+  productId: Bokföring & Fakturering
   tags:
     - update
     - general
-  targetAudience: []
   area2: ''
   solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
-  area1: Bokföring
 ---
-# Hide correction vouchers in the accounting
+# Hide correction vouchers in accounting
+
 ## Overview
-In Spiris, it is easy to keep your accounting clean and organized. By hiding journal entries created solely to correct previous accounting entries, you avoid unnecessary "noise" in your lists. This allows you to focus on the actual business transactions and find what you are looking for in your financial platform more quickly.This function automatically hides direct corrections (1:1) in the voucher list, account specifications, and in several of your reports, including ledgers for agricultural businesses.## Steps
-Follow these steps to enable or disable the display of correction vouchers:1. Go to **Settings** in the main menu.
-2. Select **Company Settings** and click the **Accounting** tab.
-3. Check or uncheck the box to hide correction vouchers.
-4. Click **Save**.When the setting is enabled, the system will automatically filter out the vouchers marked as corrections in your views and reports.### Good to know
+In Spiris, it is easy to keep your accounting clean and clear. By hiding vouchers created solely to correct previous accounting entries, you avoid unnecessary "noise" in your lists. This allows you to focus on actual business transactions and find what you are looking for faster in your financial platform.
+
+This feature automatically hides direct corrections (1:1) in the voucher list, account specifications, and several of your reports, including ledgers for agricultural businesses.
+
+## Steps
+Follow these steps to enable or disable the display of correction vouchers:
+
+1. Go to **Settings** in the main menu.
+2. Select **Company Settings** and click on the **Accounting** tab.
+3. Check or uncheck the box to hide correction vouchers. 
+4. Click **Save**.
+
+When the setting is enabled, the system will automatically filter out vouchers marked as corrections in your views and reports.
+
+### Good to know
 *   **Requirements for hiding:** Only direct corrections where one voucher corrects another in its entirety (1:1) are hidden. If a correction is made on a different date than the original, or if it is split into multiple lines, the vouchers will still be displayed. This is to ensure that your balances are always correct in analyses.
-*   **Accruals:** The function also includes corrections of accrual vouchers.
+*   **Accruals:** The feature also includes corrections of accrual vouchers.
 *   **Projects and cost centers:** If you filter your view by specific projects or cost centers, the display is not affected by this setting.
-*   **Balances:** Your calculated balances in reports and analyses remain correct even when corrections are hidden.### Where corrections are hidden
-When the feature is enabled, the vouchers are hidden in the following places:**In views:**
-*   **Accounting** - **Journal entries**
-*   **Account specifications** - **Ledgers**
-*   **Account specifications** - **Balance Sheet and Income Statement****In reports:**
+*   **Balances:** Your calculated balances in reports and analyses remain correct even when corrections are hidden.
+
+### Where corrections are hidden
+When the feature is enabled, vouchers are hidden in the following places:
+
+**In views:**
+*   **Accounting** - **Vouchers**
+*   **Account specifications** - **Ledger**
+*   **Account specifications** - **Balance Sheet and Income Statement**
+
+**In reports:**
 *   **Voucher list**
 *   **Ledger**
-*   **Ledger accounts** (specific to agricultural businesses)
-*   **Accounts Receivable** and **Accounts Payable** (when an entire invoice has been voided)### Processes that support hiding
-The function works for several different types of corrections, for example when you select **Create correction journal entry** under **Actions** in the journal entry list, or when you void customer and supplier invoices. It also applies when revoking direct debits and when you offset supplier invoices against an account.## Related Articles
-* [Manage journal entries]
+*   **Ledger accounts** (specifically for agricultural businesses)
+*   **Accounts Receivable** and **Accounts Payable** (when an entire invoice has been voided)
+
+### Processes supporting hiding
+The feature works for several different types of corrections, for example, when you select **Create correction voucher** under **Actions** in the voucher list, or when you void customer and supplier invoices. This also applies to the revocation of direct debits and when you offset supplier invoices against an account.
+
+## Related Articles
+* [Manage vouchers in accounting]
 * [Accounting settings]
-* [Correct a posted journal entry]
+* [Correct a posted voucher]
