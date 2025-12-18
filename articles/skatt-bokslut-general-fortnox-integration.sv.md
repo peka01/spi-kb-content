@@ -9,14 +9,10 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T12:00:02.117Z'
-updatedAt: '2025-12-18T12:17:30.371Z'
+updatedAt: '2025-12-18T12:24:14.988Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2025-12-18T12:16:26.113Z'
-  sv: '2025-12-18T12:16:26.113Z'
-currentVersion: 4
 translationBase:
   en: >-
     # Kom igång med Fortnox-integrationen
@@ -36,8 +32,9 @@ translationBase:
 
     ### Välj Fortnox som datakälla
 
-    Du kan välja Fortnox som källa för din bokföringsdata antingen när du
-    startar ett nytt år eller via inställningarna.
+    Du kan välja **{{resource:EnumImportSource_lbl_Fortnox}}**som källa för din
+    bokföringsdata antingen när du startar ett nytt år eller via
+    inställningarna.
 
 
     1. Gå till **Startguiden** eller navigera till
@@ -135,15 +132,19 @@ translationBase:
     - [Hantera bokslutstransaktioner]
 
     - [Inställningar för datakällor]
+currentVersion: 5
+languageUpdatedAt:
+  en: '2025-12-18T12:23:42.904Z'
+  sv: '2025-12-18T12:23:42.904Z'
 metadata:
   solution: Skatt & Bokslut
+  area1: general
   area2: ''
-  targetAudience: []
+  productId: Skatt & Bokslut
   tags:
     - update
     - general
-  area1: general
-  productId: Skatt & Bokslut
+  targetAudience: []
 ---
 # Kom igång med Fortnox-integrationen
 
@@ -153,7 +154,7 @@ Nu kan du koppla ihop Spiris Skatt & Bokslut direkt med Fortnox för att smidigt
 ## Så här fungerar det
 
 ### Välj Fortnox som datakälla
-Du kan välja Fortnox som källa för din bokföringsdata antingen när du startar ett nytt år eller via inställningarna.
+Du kan välja **{{resource:EnumImportSource_lbl_Fortnox}}**som källa för din bokföringsdata antingen när du startar ett nytt år eller via inställningarna.
 
 1. Gå till **Startguiden** eller navigera till ****{{resource:Menu_title_Maintenance}}**- **{{resource:Menu_title_Maintenance_Settings}}** - **{{resource:Maintenance_ImportData_hdr_ImportSettings}}****.
 2. Välj alternativet ****{{resource:EnumImportSource_lbl_Fortnox}}****.
