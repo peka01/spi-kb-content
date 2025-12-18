@@ -9,15 +9,12 @@ format: md
 status: draft
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2025-12-15T15:16:39.161Z'
-updatedAt: '2025-12-18T07:13:32.659Z'
+updatedAt: '2025-12-18T07:14:04.821Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-17T15:22:57.925Z'
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2025-12-18T07:12:17.291Z'
-  sv: '2025-12-18T07:12:17.291Z'
-currentVersion: 7
+currentVersion: 8
 translationBase:
   en: >-
     # Exportera all data för arkivering i
@@ -113,14 +110,17 @@ translationBase:
 
     *   [Inställningar för rapporter] (Länk till relevant artikel om
     rapportinställningar)
+languageUpdatedAt:
+  en: '2025-12-18T07:12:17.291Z'
+  sv: '2025-12-18T07:13:59.985Z'
 metadata:
-  productId: Skatt & Bokslut
-  targetAudience: []
-  area1: Inställningar
-  area2: ''
   tags:
     - arkiv
   solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
+  targetAudience: []
+  area2: ''
+  area1: Inställningar
 ---
 # Exportera all data för arkivering i **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
@@ -128,7 +128,7 @@ metadata:
 
  ![image](../../images/general-exportera-all-data-1765811785522-1765869534013-vwir3.png)
 
-Nu kan du på ett enkelt sätt spara ner din företagsdata i ett smidigt format som är perfekt för arkivering. Spara dina företagsregister för den tid som lagen kräver, eller behåll en säkerhetskopia för framtiden.
+Nu kan du som administartör spara din företagsdata i ett smidigt format som är perfekt för arkivering. Spara dina företagsregister för den tid som lagen kräver, eller behåll en säkerhetskopia för framtiden.
 
 Datan samlas i en tydlig mappstruktur, sorterad per år och period. Inne i varje periodmapp hittar du alla dina dokument som PDF-filer. Funktionen hittar du under **Underhåll** -> **Exportera data**. Du kan välja att exportera ett eller flera år samtidigt.
 
