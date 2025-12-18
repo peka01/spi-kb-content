@@ -9,7 +9,7 @@ format: md
 status: draft
 folderId: S0n4lfJ2K5VQ3piaOGtw
 createdAt: '2025-12-11T10:30:21.636Z'
-updatedAt: '2025-12-18T14:57:22.071Z'
+updatedAt: '2025-12-18T15:00:10.116Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-11T10:32:14.970Z'
@@ -71,22 +71,22 @@ translationBase:
     - [Hantera rapporter i Resor & Utlägg]
 
     - [Löneinställningar]
+currentVersion: 7
 languageUpdatedAt:
+  sv: '2025-12-18T15:00:03.724Z'
   en: '2025-12-18T14:56:01.352Z'
-  sv: '2025-12-18T14:56:01.352Z'
-currentVersion: 6
 metadata:
-  tags:
-    - update
   targetAudience: []
-  productId: Lön
-  area2: ''
-  area1: ''
   guidelineVersions:
     constitution: 1
-    writing_guide: 6
     tone_voice: 1
+    writing_guide: 6
+  tags:
+    - update
   solution: Lön
+  area2: ''
+  productId: Lön
+  area1: ''
 ---
 # Create a payroll run
 
