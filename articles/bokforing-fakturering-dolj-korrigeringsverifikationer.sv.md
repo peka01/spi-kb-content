@@ -9,11 +9,15 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T10:32:54.250Z'
+updatedAt: '2025-12-18T10:33:03.157Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-18T10:30:11.880Z'
 lastLLMUpdateAt: '2025-12-18T10:29:34.119Z'
+currentVersion: 20
+languageUpdatedAt:
+  en: '2025-12-18T10:03:58.543Z'
+  sv: '2025-12-18T10:03:58.543Z'
 translationBase:
   en: >-
     # Dölj korrigeringsverifikationer i bokföringen
@@ -112,19 +116,15 @@ translationBase:
     * [Inställningar för bokföring]
 
     * [Korrigera ett bokfört verifikat]
-currentVersion: 19
-languageUpdatedAt:
-  sv: '2025-12-18T10:03:58.543Z'
-  en: '2025-12-18T10:03:58.543Z'
 metadata:
-  targetAudience: []
   area1: Bokföring
-  productId: Bokföring & Fakturering
   tags:
     - update
     - general
   area2: ''
   solution: Bokföring & Fakturering
+  productId: Bokföring & Fakturering
+  targetAudience: []
 ---
 # Dölj korrigeringsverifikationer i bokföringen
 
