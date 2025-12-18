@@ -1,25 +1,30 @@
 ---
-status: draft
-format: md
+id: 86QdR87974TF8eym15bD
+title: Översiktssidan
 slug: general-oversiktssidan
-publishedAt: null
 languages:
   - sv
   - en
-updatedAt: '2025-12-17T07:51:11.014Z'
-title: Översiktssidan
+format: md
+status: draft
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2025-12-16T15:05:53.483Z'
-currentVersion: 5
-id: 86QdR87974TF8eym15bD
+updatedAt: '2025-12-18T07:03:46.712Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 6
+languageUpdatedAt:
+  sv: '2025-12-17T07:51:11.014Z'
+  en: '2025-12-17T07:51:11.014Z'
 metadata:
-  productId: Skatt & Bokslut
-  area2: ''
-  solution: Skatt & Bokslut
   area1: general
   tags:
     - update
     - general
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  area2: ''
   targetAudience: []
 ---
 # Översiktssidan
