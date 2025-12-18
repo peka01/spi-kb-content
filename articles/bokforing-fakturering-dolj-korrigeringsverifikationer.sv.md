@@ -9,18 +9,17 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T10:03:17.702Z'
+updatedAt: '2025-12-18T10:04:02.308Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-18T10:02:08.262Z'
 lastLLMUpdateAt: '2025-12-18T10:00:05.314Z'
-currentVersion: 14
 translationBase:
   en: >-
     # Dölj korrigeringar i bokföringen
 
 
-    ## En snabbare överblick
+    ## Snabbare överblick
 
     Nu kan du enkelt dölja verifikat som skapats för att korrigera tidigare
     bokföringar. Detta gör din verifikatshistorik renare och hjälper dig att
@@ -122,21 +121,22 @@ translationBase:
 
     *   [Inställningar för bokföring]
 languageUpdatedAt:
-  sv: '2025-12-18T10:02:20.699Z'
-  en: '2025-12-18T10:02:20.699Z'
+  en: '2025-12-18T10:03:25.624Z'
+  sv: '2025-12-18T10:03:58.543Z'
+currentVersion: 15
 metadata:
+  area1: Bokföring
+  targetAudience: []
+  productId: Bokföring & Fakturering
   tags:
     - update
     - general
-  targetAudience: []
-  area2: ''
   solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
-  area1: Bokföring
+  area2: ''
 ---
-# Dölj korrigeringar i bokföringen
+# Dölj ändringsverifikationer i bokföringen
 
-## En snabbare överblick
+## Snabbare överblick
 Nu kan du enkelt dölja verifikat som skapats för att korrigera tidigare bokföringar. Detta gör din verifikatshistorik renare och hjälper dig att snabbt se det som är viktigast. Tänk dig att slippa allt extra "brus" – så blir det lättare att hitta och arbeta med dina huvudsakliga verifikat.
 
 ## Vad är nytt?
