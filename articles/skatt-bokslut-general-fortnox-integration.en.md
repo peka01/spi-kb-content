@@ -9,11 +9,14 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T12:00:02.117Z'
-updatedAt: '2025-12-18T17:13:27.247Z'
+updatedAt: '2025-12-18T17:13:38.925Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-18T17:09:26.693Z'
 lastLLMUpdateAt: '2025-12-18T17:07:40.951Z'
+languageUpdatedAt:
+  en: '2025-12-18T17:11:26.330Z'
+  sv: '2025-12-18T17:11:26.330Z'
 translationBase:
   en: >-
     # Kom igång med Fortnox-integrationen
@@ -117,22 +120,19 @@ translationBase:
 
     - Inställningar för datakällor
 currentVersion: 6
-languageUpdatedAt:
-  sv: '2025-12-18T17:11:26.330Z'
-  en: '2025-12-18T17:11:26.330Z'
 metadata:
-  solution: Skatt & Bokslut
-  area1: general
-  targetAudience: []
   tags:
     - update
     - general
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  area1: general
   area2: ''
   guidelineVersions:
-    writing_guide: 7
     constitution: 1
+    writing_guide: 7
     tone_voice: 1
-  productId: Skatt & Bokslut
+  targetAudience: []
 ---
 # Get started with the Fortnox integration
 
