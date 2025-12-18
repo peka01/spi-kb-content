@@ -9,21 +9,21 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T10:00:05.314Z'
+updatedAt: '2025-12-18T10:02:08.263Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
+pendingReview: false
+reviewedAt: '2025-12-18T10:02:08.262Z'
 lastLLMUpdateAt: '2025-12-18T10:00:05.314Z'
 currentVersion: 11
 metadata:
+  productId: Bokföring & Fakturering
+  solution: Bokföring & Fakturering
+  area2: ''
   targetAudience: []
+  area1: Bokföring
   tags:
     - update
     - general
-  productId: Bokföring & Fakturering
-  area1: Bokföring
-  solution: Bokföring & Fakturering
-  area2: ''
 ---
 Här är den uppdaterade versionen av artikeln.
 
