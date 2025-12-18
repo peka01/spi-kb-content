@@ -9,164 +9,102 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T10:33:03.157Z'
+updatedAt: '2025-12-18T15:12:14.807Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-18T10:30:11.880Z'
 lastLLMUpdateAt: '2025-12-18T10:29:34.119Z'
-currentVersion: 20
 languageUpdatedAt:
-  en: '2025-12-18T10:03:58.543Z'
-  sv: '2025-12-18T10:03:58.543Z'
+  en: '2025-12-18T15:11:20.579Z'
+  sv: '2025-12-18T15:11:20.579Z'
 translationBase:
   en: >-
-    # Dölj korrigeringsverifikationer i bokföringen
+    # Dölj korrigeringsverifikationer
 
 
-    ## Overview
-
-    I Spiris är det enkelt att hålla din bokföring ren och överskådlig. Genom
-    att dölja verifikationer som skapats enbart för att korrigera tidigare
-    bokföringsposter slipper du onödigt "brus" i dina listor. Det gör att du kan
-    fokusera på de faktiska affärshändelserna och snabbare hitta det du letar
-    efter i din ekonomiplattform.
+    Genom att dölja korrigeringsverifikationer får du en renare och mer
+    överskådlig bokföring. Funktionen filtrerar bort direkta korrigeringar i
+    dina listor och rapporter, vilket gör det enklare att fokusera på de
+    faktiska affärshändelserna och minska onödigt "brus".
 
 
-    Denna funktion döljer automatiskt direkta korrigeringar (1:1) i både
-    verifikatlistan, kontospecifikationer och i flera av dina rapporter,
-    inklusive reskontra för jordbruksföretag.
-
-
-    ## Steps
-
-    Följ dessa steg för att aktivera eller inaktivera visningen av
-    korrigeringsverifikationer:
+    ## Så här gör du
 
 
     1. Gå till **Inställningar** i huvudmenyn.
 
     2. Välj **Företagsinställningar** och klicka på fliken **Bokföring**.
 
-    3. Markera eller avmarkera rutan för att dölja korrigeringsverifikationer. 
+    3. Markera rutan för att dölja korrigeringsverifikationer.
 
     4. Klicka på **Spara**.
 
 
-    När inställningen är aktiverad kommer systemet automatiskt att filtrera bort
-    de verifikat som är markerade som korrigeringar i dina vyer och rapporter.
+    ## Omfattning och begränsningar
 
 
-    ### Bra att veta
-
-    *   **Krav för att döljas:** Endast direkta korrigeringar där ett verifikat
-    rättar ett annat i sin helhet (1:1) döljs. Om en korrigering görs på ett
-    annat datum än originalet, eller om den delas upp på flera rader, kommer
-    verifikaten fortfarande att visas. Detta är för att säkerställa att dina
-    saldon alltid är korrekta i analyser.
-
-    *   **Periodiseringar:** Funktionen omfattar även korrigeringar av
-    periodiseringsverifikat.
-
-    *   **Projekt och kostnadsställen:** Om du filtrerar din vy på specifika
-    projekt eller kostnadsställen påverkas inte visningen av denna inställning.
-
-    *   **Saldon:** Dina beräknade saldon i rapporter och analyser förblir
-    korrekta även när korrigeringarna är dolda.
+    När inställningen är aktiverad döljs verifikaten automatiskt i vyer för
+    **Verifikat**, **Kontospecifikationer** samt i balans- och
+    resultaträkningen. Det omfattar även rapporter som **Verifikatlista**,
+    **Reskontra** och makulerade fakturor i kund- och leverantörsreskontran.
 
 
-    ### Här döljs korrigeringarna
-
-    När funktionen är påslagen döljs verifikaten på följande ställen:
-
-
-    **I vyer:**
-
-    *   **Bokföring** - **Verifikat**
-
-    *   **Kontospecifikationer** - **Reskontra**
-
-    *   **Kontospecifikationer** - **Balans- och Resultaträkning**
+    Funktionen fungerar vid flera typer av korrigeringar, exempelvis när du
+    väljer **Skapa korrigeringsverifikat** under **Åtgärder** eller vid
+    återkallande av autogiro.
 
 
-    **I rapporter:**
+    ## Tips
 
-    *   **Verifikatlista**
-
-    *   **Reskontra**
-
-    *   **Reskontra konton** (specifikt för jordbruksföretag)
-
-    *   **Kundreskontra** och **Leverantörsreskontra** (när en hel faktura har
-    makulerats)
+    > Endast direkta korrigeringar (1:1) döljs. Om en korrigering görs på ett
+    annat datum än originalet eller delas upp på flera rader visas verifikaten
+    fortfarande för att säkerställa att dina saldon alltid är korrekta i
+    analyser.
 
 
-    ### Processer som stödjer döljning
+    ## Mer information
 
-    Funktionen fungerar vid flera olika typer av korrigeringar, till exempel när
-    du väljer **Skapa korrigeringsverifikat** under **Åtgärder** i
-    verifikatlistan, eller när du makulerar kund- och leverantörsfakturor. Det
-    gäller även vid återkallande av autogiro och när du kvittar
-    leverantörsfakturor mot ett konto.
+    - [Hantera verifikat i bokföringen]
 
+    - [Inställningar för bokföring]
 
-    ## Related Articles
-
-    * [Hantera verifikat i bokföringen]
-
-    * [Inställningar för bokföring]
-
-    * [Korrigera ett bokfört verifikat]
+    - [Korrigera ett bokfört verifikat]
+currentVersion: 21
 metadata:
+  targetAudience: []
+  guidelineVersions:
+    tone_voice: 1
+    writing_guide: 7
+    constitution: 1
   area1: Bokföring
   tags:
     - update
     - general
+  productId: Bokföring & Fakturering
   area2: ''
   solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
-  targetAudience: []
 ---
-# Hide correction vouchers in accounting
+# Hide correction vouchers
 
-## Overview
-In Spiris, it is easy to keep your accounting clean and clear. By hiding vouchers created solely to correct previous accounting entries, you avoid unnecessary "noise" in your lists. This allows you to focus on actual business transactions and find what you are looking for faster in your financial platform.
+By hiding correction vouchers, you get cleaner and more organized accounting. The feature filters out direct corrections in your lists and reports, making it easier to focus on the actual business transactions and reduce unnecessary "noise".
 
-This feature automatically hides direct corrections (1:1) in the voucher list, account specifications, and several of your reports, including ledgers for agricultural businesses.
-
-## Steps
-Follow these steps to enable or disable the display of correction vouchers:
+## How to
 
 1. Go to **Settings** in the main menu.
 2. Select **Company Settings** and click on the **Accounting** tab.
-3. Check or uncheck the box to hide correction vouchers. 
+3. Check the box to hide correction vouchers.
 4. Click **Save**.
 
-When the setting is enabled, the system will automatically filter out vouchers marked as corrections in your views and reports.
+## Scope and limitations
 
-### Good to know
-*   **Requirements for hiding:** Only direct corrections where one voucher corrects another in its entirety (1:1) are hidden. If a correction is made on a different date than the original, or if it is split into multiple lines, the vouchers will still be displayed. This is to ensure that your balances are always correct in analyses.
-*   **Accruals:** The feature also includes corrections of accrual vouchers.
-*   **Projects and cost centers:** If you filter your view by specific projects or cost centers, the display is not affected by this setting.
-*   **Balances:** Your calculated balances in reports and analyses remain correct even when corrections are hidden.
+When the setting is enabled, vouchers are automatically hidden in views for **Vouchers**, **Account specifications**, and in the balance sheet and income statement. This also includes reports such as the **Voucher list**, **Ledgers**, and voided invoices in accounts receivable and accounts payable.
 
-### Where corrections are hidden
-When the feature is enabled, vouchers are hidden in the following places:
+The function works for several types of corrections, for example, when you select **Create correction voucher** under **Actions** or when reversing a direct debit.
 
-**In views:**
-*   **Accounting** - **Vouchers**
-*   **Account specifications** - **Ledger**
-*   **Account specifications** - **Balance Sheet and Income Statement**
+## Tips
+> Only direct corrections (1:1) are hidden. If a correction is made on a different date than the original or split across multiple lines, the vouchers are still displayed to ensure that your balances are always correct in analyses.
 
-**In reports:**
-*   **Voucher list**
-*   **Ledger**
-*   **Ledger accounts** (specifically for agricultural businesses)
-*   **Accounts Receivable** and **Accounts Payable** (when an entire invoice has been voided)
-
-### Processes supporting hiding
-The feature works for several different types of corrections, for example, when you select **Create correction voucher** under **Actions** in the voucher list, or when you void customer and supplier invoices. This also applies to the revocation of direct debits and when you offset supplier invoices against an account.
-
-## Related Articles
-* [Manage vouchers in accounting]
-* [Accounting settings]
-* [Correct a posted voucher]
+## More information
+- [Manage journal entries in the accounting]
+- [Accounting settings]
+- [Correct a posted journal entry]
