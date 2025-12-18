@@ -9,14 +9,15 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-17T15:03:55.931Z'
-updatedAt: '2025-12-18T07:45:24.563Z'
+updatedAt: '2025-12-18T07:49:09.653Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-17T15:26:01.766Z'
 lastLLMUpdateAt: '2025-12-17T15:24:39.618Z'
 languageUpdatedAt:
+  en: '2025-12-18T07:49:06.476Z'
   sv: '2025-12-18T07:44:34.832Z'
-  en: '2025-12-18T07:44:34.832Z'
+currentVersion: 6
 translationBase:
   en: >-
     # Hantera resultatdisposition i bokslut
@@ -100,16 +101,15 @@ translationBase:
     *   Checklista för bokslut
 
     *   Hantera aktieutdelning
-currentVersion: 5
 metadata:
-  solution: Skatt & Bokslut
-  area2: ''
-  targetAudience: []
   area1: general
-  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  targetAudience: []
   tags:
     - update
     - general
+  productId: Skatt & Bokslut
+  area2: ''
 ---
 # Hantera resultatdisposition i bokslut
 
