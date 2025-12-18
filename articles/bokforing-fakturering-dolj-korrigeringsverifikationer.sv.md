@@ -9,14 +9,12 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T10:29:34.119Z'
+updatedAt: '2025-12-18T10:30:11.880Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
+pendingReview: false
+reviewedAt: '2025-12-18T10:30:11.880Z'
 lastLLMUpdateAt: '2025-12-18T10:29:34.119Z'
-languageUpdatedAt:
-  sv: '2025-12-18T10:03:58.543Z'
-  en: '2025-12-18T10:03:58.543Z'
+currentVersion: 17
 translationBase:
   en: >-
     # Dölj ändringsverifikationer i bokföringen
@@ -123,11 +121,13 @@ translationBase:
     *   [Hantera verifikat i bokföringen]
 
     *   [Inställningar för bokföring]
-currentVersion: 17
+languageUpdatedAt:
+  sv: '2025-12-18T10:03:58.543Z'
+  en: '2025-12-18T10:03:58.543Z'
 metadata:
-  productId: Bokföring & Fakturering
-  area2: ''
   solution: Bokföring & Fakturering
+  area2: ''
+  productId: Bokföring & Fakturering
   area1: Bokföring
   tags:
     - update
