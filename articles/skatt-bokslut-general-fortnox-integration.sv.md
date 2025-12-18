@@ -9,14 +9,14 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T12:00:02.117Z'
-updatedAt: '2025-12-18T12:16:27.696Z'
+updatedAt: '2025-12-18T12:17:30.371Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
-  en: '2025-12-18T12:04:21.539Z'
+  en: '2025-12-18T12:16:26.113Z'
   sv: '2025-12-18T12:16:26.113Z'
-currentVersion: 3
+currentVersion: 4
 translationBase:
   en: >-
     # Kom igång med Fortnox-integrationen
@@ -42,7 +42,7 @@ translationBase:
 
     1. Gå till **Startguiden** eller navigera till
     ****{{resource:Menu_title_Maintenance}}**-
-    **{{resource:Menu_title_Maintenance_Settings}}**-
+    **{{resource:Menu_title_Maintenance_Settings}}** -
     **{{resource:Maintenance_ImportData_hdr_ImportSettings}}****.
 
     2. Välj alternativet ****{{resource:EnumImportSource_lbl_Fortnox}}****.
@@ -138,12 +138,12 @@ translationBase:
 metadata:
   solution: Skatt & Bokslut
   area2: ''
-  productId: Skatt & Bokslut
   targetAudience: []
-  area1: general
   tags:
     - update
     - general
+  area1: general
+  productId: Skatt & Bokslut
 ---
 # Kom igång med Fortnox-integrationen
 
