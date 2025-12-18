@@ -9,11 +9,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T10:14:49.493Z'
+updatedAt: '2025-12-18T10:29:34.119Z'
 publishedAt: null
-pendingReview: false
-reviewedAt: '2025-12-18T10:02:08.262Z'
-lastLLMUpdateAt: '2025-12-18T10:00:05.314Z'
+pendingReview: true
+reviewedAt: null
+lastLLMUpdateAt: '2025-12-18T10:29:34.119Z'
 languageUpdatedAt:
   sv: '2025-12-18T10:03:58.543Z'
   en: '2025-12-18T10:03:58.543Z'
@@ -125,62 +125,56 @@ translationBase:
     *   [Inställningar för bokföring]
 currentVersion: 17
 metadata:
+  productId: Bokföring & Fakturering
+  area2: ''
   solution: Bokföring & Fakturering
+  area1: Bokföring
   tags:
     - update
     - general
-  productId: Bokföring & Fakturering
-  area1: Bokföring
-  area2: ''
   targetAudience: []
 ---
-# Dölj ändringsverifikationer i bokföringen
+# Dölj korrigeringsverifikationer i bokföringen
 
-## Snabbare överblick
-Nu kan du enkelt dölja verifikat som skapats för att korrigera tidigare bokföringar. Detta gör din verifikatshistorik renare och hjälper dig att snabbt se det som är viktigast. Tänk dig att slippa allt extra "brus" – så blir det lättare att hitta och arbeta med dina huvudsakliga verifikat.
+## Overview
+I Spiris är det enkelt att hålla din bokföring ren och överskådlig. Genom att dölja verifikationer som skapats enbart för att korrigera tidigare bokföringsposter slipper du onödigt "brus" i dina listor. Det gör att du kan fokusera på de faktiska affärshändelserna och snabbare hitta det du letar efter i din ekonomiplattform.
 
-## Vad är nytt?
-Du kan välja att gömma verifikat som är gjorda för att rätta till något som redan bokförts. Med den senaste uppdateringen kan du nu även dölja korrigeringar av periodiseringar. Det här är perfekt när du vill ha en tydligare bild av din bokföring, utan att detaljer kring korrigeringar tar uppmärksamheten.
+Denna funktion döljer automatiskt direkta korrigeringar (1:1) i både verifikatlistan, kontospecifikationer och i flera av dina rapporter, inklusive reskontra för jordbruksföretag.
 
-## Så här fungerar det
-Att dölja korrigeringar är en inställning du enkelt kan slå på eller av. När den är på kommer verifikat som är markerade som korrigeringar att gömmas automatiskt. Du slipper se dem i din vanliga lista över verifikat, i kontospecifikationer och i rapporter.
+## Steps
+Följ dessa steg för att aktivera eller inaktivera visningen av korrigeringsverifikationer:
 
-För att aktivera eller stänga av funktionen, gå till **Inställningar** och leta efter valet för att hantera hur verifikat visas.
+1. Gå till **Inställningar** i huvudmenyn.
+2. Välj **Företagsinställningar** och klicka på fliken **Bokföring**.
+3. Markera eller avmarkera rutan för att dölja korrigeringsverifikationer. 
+4. Klicka på **Spara**.
 
-**Bra att veta:**
-*   Den här funktionen gömmer bara direkta, en-till-en-korrigeringar. Om ett verifikat rättas till på ett annat datum, eller om korrigeringen delas upp på flera rader, kommer dessa verifikat inte att gömmas. Detta för att säkerställa att saldon alltid visas korrekt i analyser och rapporter.
-*   Om du filtrerar på projekt eller kostnadsställen påverkas inte den här inställningen.
-*   Vi har kollat att beräknade saldon i analyser och rapporter fortfarande blir helt rätt, även när korrigeringar göms.
+När inställningen är aktiverad kommer systemet automatiskt att filtrera bort de verifikat som är markerade som korrigeringar i dina vyer och rapporter.
 
-### Var korrigeringar kan döljas:
-*   **I vyn:**
-    *   Bokföring - Verifikat
-    *   Kontospecifikationer - Reskontra
-    *   Kontospecifikationer - Balans- och Resultaträkning
-*   **I rapporter:**
-    *   Verifikatlista
-    *   Reskontra
-    *   Reskontra konton (för jordbruksföretag)
-    *   Kundreskontra (gäller bara om en hel faktura makulerats)
-    *   Leverantörsreskontra (gäller bara om en hel faktura makulerats)
+### Bra att veta
+*   **Krav för att döljas:** Endast direkta korrigeringar där ett verifikat rättar ett annat i sin helhet (1:1) döljs. Om en korrigering görs på ett annat datum än originalet, eller om den delas upp på flera rader, kommer verifikaten fortfarande att visas. Detta är för att säkerställa att dina saldon alltid är korrekta i analyser.
+*   **Periodiseringar:** Funktionen omfattar även korrigeringar av periodiseringsverifikat.
+*   **Projekt och kostnadsställen:** Om du filtrerar din vy på specifika projekt eller kostnadsställen påverkas inte visningen av denna inställning.
+*   **Saldon:** Dina beräknade saldon i rapporter och analyser förblir korrekta även när korrigeringarna är dolda.
 
-### Processer där korrigeringar kan döljas:
-*   Bokföring - Verifikat - Åtgärder - Skapa korrigeringsverifikat
-*   Bokföring - Verifikat - Redigera - Åtgärder - Skapa korrigeringsverifikat
-*   Bokföring - Verifikat - Nytt verifikat - Lägg till manuellt korrigeringsverifikat
-*   Korrigering av periodiseringsverifikat
-*   Kassa och bank - Banktransaktioner denna period - Ej matchade
-*   Försäljning - Kundfakturor - Ej betalda kundfakturor - Åtgärder - Återkalla autogiro
-*   Försäljning - Kundfakturor - Ej betalda kundfakturor - Åtgärder - Kreditera
-*   Försäljning - Kundfakturor - Åtgärder - Kreditera - Makulera faktura
-*   Inköp - Leverantörsfakturor - Ej betalda leverantörsfakturor - Åtgärder - Makulera faktura
-*   Inköp - Leverantörsfaktura - Åtgärder - Kvitta - Bokför mot konto
+### Här döljs korrigeringarna
+När funktionen är påslagen döljs verifikaten på följande ställen:
 
-## Dina fördelar
-*   **Få en renare överblick:** Mindre "brus" i verifikatlistan, kontospecifikationer och rapporter.
-*   **Fokusera på det viktiga:** Det blir enklare att se och arbeta med dina huvudsakliga verifikat.
-*   **Anpassa efter ditt behov:** Du väljer själv om du vill visa eller dölja korrigeringar.
+**I vyer:**
+*   **Bokföring** - **Verifikat**
+*   **Kontospecifikationer** - **Reskontra**
+*   **Kontospecifikationer** - **Balans- och Resultaträkning**
 
-## Mer att läsa
-*   [Hantera verifikat i bokföringen]
-*   [Inställningar för bokföring]
+**I rapporter:**
+*   **Verifikatlista**
+*   **Reskontra**
+*   **Reskontra konton** (specifikt för jordbruksföretag)
+*   **Kundreskontra** och **Leverantörsreskontra** (när en hel faktura har makulerats)
+
+### Processer som stödjer döljning
+Funktionen fungerar vid flera olika typer av korrigeringar, till exempel när du väljer **Skapa korrigeringsverifikat** under **Åtgärder** i verifikatlistan, eller när du makulerar kund- och leverantörsfakturor. Det gäller även vid återkallande av autogiro och när du kvittar leverantörsfakturor mot ett konto.
+
+## Related Articles
+* [Hantera verifikat i bokföringen]
+* [Inställningar för bokföring]
+* [Korrigera ett bokfört verifikat]
