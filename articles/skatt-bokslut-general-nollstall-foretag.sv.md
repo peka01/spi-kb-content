@@ -9,14 +9,10 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T08:45:09.493Z'
-updatedAt: '2025-12-18T08:45:51.054Z'
+updatedAt: '2025-12-18T08:47:02.571Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2025-12-18T08:45:09.493Z'
-  sv: '2025-12-18T08:45:09.493Z'
-currentVersion: 1
 translationBase:
   en: >-
     # Nollställ ett företag
@@ -26,7 +22,8 @@ translationBase:
 
     Har något blivit fel eller vill du helt enkelt börja om från början? Inga
     problem! Med den här funktionen kan du snabbt rensa all data för ett företag
-    i Skatt & Bokslut och få en nystart.
+    i **{{resource:common_product_name_variable_taxation_year_end_closing}}**
+    och få en nystart.
 
 
     Funktionen raderar all information som du har registrerat eller importerat
@@ -66,20 +63,24 @@ translationBase:
     - Importera SIE-fil
 
     - Ta bort företag
+currentVersion: 2
+languageUpdatedAt:
+  sv: '2025-12-18T08:46:23.705Z'
+  en: '2025-12-18T08:46:23.705Z'
 metadata:
-  productId: Skatt & Bokslut
+  targetAudience: []
   tags:
     - update
     - general
   area2: ''
+  productId: Skatt & Bokslut
   area1: general
-  targetAudience: []
   solution: Skatt & Bokslut
 ---
 # Nollställ ett företag
 
 ## Översikt
-Har något blivit fel eller vill du helt enkelt börja om från början? Inga problem! Med den här funktionen kan du snabbt rensa all data för ett företag i Skatt & Bokslut och få en nystart.
+Har något blivit fel eller vill du helt enkelt börja om från början? Inga problem! Med den här funktionen kan du snabbt rensa all data för ett företag i **{{resource:common_product_name_variable_taxation_year_end_closing}}** och få en nystart.
 
 Funktionen raderar all information som du har registrerat eller importerat för ett valt företag. Företaget finns kvar i din lista, men blir helt tomt och redo för ny data.
 
