@@ -9,10 +9,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T12:00:02.117Z'
-updatedAt: '2025-12-18T12:24:14.988Z'
+updatedAt: '2025-12-18T17:07:40.952Z'
 publishedAt: null
+pendingReview: true
 reviewedAt: null
-lastLLMUpdateAt: null
+lastLLMUpdateAt: '2025-12-18T17:07:40.951Z'
 translationBase:
   en: >-
     # Kom igång med Fortnox-integrationen
@@ -132,19 +133,24 @@ translationBase:
     - [Hantera bokslutstransaktioner]
 
     - [Inställningar för datakällor]
-currentVersion: 5
 languageUpdatedAt:
   en: '2025-12-18T12:23:42.904Z'
   sv: '2025-12-18T12:23:42.904Z'
+currentVersion: 5
 metadata:
-  solution: Skatt & Bokslut
-  area1: general
   area2: ''
-  productId: Skatt & Bokslut
+  targetAudience: []
+  area1: general
   tags:
     - update
     - general
-  targetAudience: []
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  guidelineVersions:
+    writing_guide: 7
+    tone_voice: 1
+    template: 4
+    constitution: 1
 ---
 # Get started with the Fortnox integration
 
