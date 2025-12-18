@@ -9,20 +9,24 @@ format: md
 status: draft
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2025-12-15T15:16:39.161Z'
-updatedAt: '2025-12-17T15:22:57.947Z'
+updatedAt: '2025-12-18T07:12:21.460Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-17T15:22:57.925Z'
 lastLLMUpdateAt: null
-currentVersion: 5
+translationBase: {}
+languageUpdatedAt:
+  en: '2025-12-17T15:22:57.947Z'
+  sv: '2025-12-18T07:12:17.291Z'
+currentVersion: 6
 metadata:
+  solution: Skatt & Bokslut
+  targetAudience: []
+  area2: ''
   tags:
     - arkiv
-  targetAudience: []
   productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
   area1: Inställningar
-  area2: ''
 ---
 # Export All Data for Archiving in **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
