@@ -9,23 +9,23 @@ format: md
 status: draft
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2025-12-16T15:05:53.483Z'
-updatedAt: '2025-12-18T07:03:46.712Z'
+updatedAt: '2025-12-18T07:08:23.594Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 6
 languageUpdatedAt:
   sv: '2025-12-17T07:51:11.014Z'
   en: '2025-12-17T07:51:11.014Z'
+currentVersion: 7
 metadata:
-  area1: general
+  targetAudience: []
   tags:
     - update
     - general
+  area1: general
   productId: Skatt & Bokslut
   solution: Skatt & Bokslut
   area2: ''
-  targetAudience: []
 ---
 # The Overview Page
 
