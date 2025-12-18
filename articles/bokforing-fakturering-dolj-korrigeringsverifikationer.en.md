@@ -9,14 +9,17 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T10:04:02.308Z'
+updatedAt: '2025-12-18T10:04:39.272Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-18T10:02:08.262Z'
 lastLLMUpdateAt: '2025-12-18T10:00:05.314Z'
+languageUpdatedAt:
+  sv: '2025-12-18T10:03:58.543Z'
+  en: '2025-12-18T10:03:58.543Z'
 translationBase:
   en: >-
-    # Dölj korrigeringar i bokföringen
+    # Dölj ändringsverifikationer i bokföringen
 
 
     ## Snabbare överblick
@@ -120,23 +123,39 @@ translationBase:
     *   [Hantera verifikat i bokföringen]
 
     *   [Inställningar för bokföring]
-languageUpdatedAt:
-  en: '2025-12-18T10:03:25.624Z'
-  sv: '2025-12-18T10:03:58.543Z'
-currentVersion: 15
+currentVersion: 16
 metadata:
-  area1: Bokföring
+  solution: Bokföring & Fakturering
   targetAudience: []
-  productId: Bokföring & Fakturering
   tags:
     - update
     - general
-  solution: Bokföring & Fakturering
+  productId: Bokföring & Fakturering
   area2: ''
+  area1: Bokföring
 ---
-# Hide corrections in accounting
+# Hide change vouchers in accounting
 
-## Quicker Overview
+In some cases, it may be desirable to hide change vouchers in the accounting. This can be relevant, for example, if you have made many changes that do not need to be visible in the reports.
+
+## How to hide change vouchers?
+
+To hide change vouchers, follow these steps:
+
+1.  Go to `Accounting > Reports > General Ledger`.
+2.  Click the `Options` button in the upper right corner.
+3.  Select the `Hide change vouchers` checkbox.
+4.  Click `OK` to save the changes.
+
+<!--SPI_KB_IMAGE_0-->
+
+When you now generate a report, the change vouchers will be hidden.
+
+## Important to consider
+
+-   This setting only affects the display in the reports and does not delete any data.
+-   The change vouchers still remain in the system and can be displayed again by unchecking the checkbox.
+-   The feature is intended to simplify report reading and should be used with discretion.## Quicker Overview
 Now you can easily hide vouchers created to correct previous entries. This makes your voucher history cleaner and helps you quickly see what is most important. Imagine getting rid of all the extra "noise" – making it easier to find and work with your main vouchers.## What's new?
 You can choose to hide vouchers made to correct something that has already been recorded. With the latest update, you can now also hide corrections of accruals. This is perfect when you want a clearer view of your accounting, without the details of corrections drawing your attention.
 
@@ -182,3 +201,6 @@ To enable or disable the feature, go to **Settings** and look for the option to 
 ## Further reading
 *   [Manage vouchers in accounting]
 *   [Settings for accounting]
+## Further reading
+*   [Manage vouchers in accounting]
+*   [Accounting settings]
