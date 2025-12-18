@@ -1,5 +1,5 @@
 ---
-id: nBko7xIR0OSrVFtxahrt
+id: 0i1MFhKzAwHqRlLS5EfX
 title: Nollställ företag
 slug: general-nollstall-foretag
 languages:
@@ -8,88 +8,93 @@ languages:
 format: md
 status: draft
 folderId: null
-createdAt: '2025-12-18T07:54:20.973Z'
-updatedAt: '2025-12-18T08:06:22.419Z'
+createdAt: '2025-12-18T08:45:09.493Z'
+updatedAt: '2025-12-18T08:45:51.054Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 4
 languageUpdatedAt:
-  sv: '2025-12-18T08:02:27.816Z'
-  en: '2025-12-18T08:02:27.816Z'
+  en: '2025-12-18T08:45:09.493Z'
+  sv: '2025-12-18T08:45:09.493Z'
+currentVersion: 1
 translationBase:
   en: >-
-    # Nollställ företag i
-    **{{resource:common_product_name_variable_taxation_year_end_closing}}**
+    # Nollställ ett företag
 
 
     ## Översikt
 
-    Ibland blir det fel, och det är helt okej. Kanske har du importerat fel fil
-    eller bara vill börja om på ny kula med ett räkenskapsår. Med den här
-    funktionen kan du enkelt radera all data för det aktiva företaget och året,
-    så att du kan börja om från början.
+    Har något blivit fel eller vill du helt enkelt börja om från början? Inga
+    problem! Med den här funktionen kan du snabbt rensa all data för ett företag
+    i Skatt & Bokslut och få en nystart.
 
 
-    Tänk på att den här handlingen är permanent och inte går att ångra. All
-    information för det valda året, som grunduppgifter och importerad data,
-    kommer att raderas.
+    Funktionen raderar all information som du har registrerat eller importerat
+    för ett valt företag. Företaget finns kvar i din lista, men blir helt tomt
+    och redo för ny data.
 
 
-    ## Så här nollställer du ett företag
-
-    Följ de här stegen för att radera all data för det aktiva företaget.
-
-
-    1.  Gå till menyn ****{{resource:Menu_title_Maintenance}}**** högst upp på
-    sidan.
-
-    2.  Välj alternativet ****{{resource:Cleanup_imsg_CompanyCleanup}}****.
-
-    3.  En varningsruta visas för att säkerställa att du inte raderar allt av
-    misstag. För att bekräfta, skriv in företagets namn exakt som det står i
-    rutan.
-
-    4.  Klicka på knappen ****{{resource:Cleanup_imsg_CompanyCleanup}}****.
+    **VIKTIGT:** En nollställning kan inte ångras. All data för företaget
+    raderas permanent och kan inte återskapas. Var helt säker på att du har valt
+    rätt företag innan du fortsätter.
 
 
-    Nu är all data för företaget raderad och du kan börja om, till exempel genom
-    att importera en ny SIE-fil.
+    ## Så här gör du
+
+    1. Gå till översikten där du ser din lista med företag.
+
+    2. Leta upp det företag du vill nollställa. Klicka på de tre prickarna till
+    höger på raden för företaget.
+
+    3. Välj alternativet *Nollställ företag* i menyn som visas.
+
+    4. En varningsruta visas för att säkerställa att du inte gör detta av
+    misstag. Läs texten noggrant.
+
+    5. För att bekräfta och permanent radera all data för företaget, klicka på
+    knappen för att nollställa.
+
+
+    Klart! Företaget är nu tomt och du kan börja om genom att till exempel
+    importera en ny SIE-fil.
 
 
     ## Relaterade artiklar
 
-    -   Importera SIE-fil
+    - Skapa nytt företag
 
-    -   Skapa nytt räkenskapsår
+    - Importera SIE-fil
 
-    -   Hantera grunduppgifter för företag
+    - Ta bort företag
 metadata:
-  area2: ''
   productId: Skatt & Bokslut
-  targetAudience: []
   tags:
     - update
     - general
-  solution: Skatt & Bokslut
+  area2: ''
   area1: general
+  targetAudience: []
+  solution: Skatt & Bokslut
 ---
-# Reset company in **{{resource:common_product_name_variable_taxation_year_end_closing}}**
+# Reset a company
 
 ## Overview
-Sometimes things go wrong, and that's perfectly okay. Maybe you imported the wrong file or just want to start fresh with a financial year. With this feature, you can easily delete all data for the active company and year, allowing you to start over from scratch.
+Has something gone wrong, or do you simply want to start over from scratch? No problem! With this feature, you can quickly clear all data for a company in Tax & Year-End and get a fresh start.
 
-Please note that this action is permanent and cannot be undone. All information for the selected year, such as basic data and imported data, will be deleted.## How to reset a company
-Follow these steps to delete all data for the active company.
+The feature deletes all information you have registered or imported for a selected company. The company remains in your list, but it becomes completely empty and ready for new data.
 
-1.  Go to the ****{{resource:Menu_title_Maintenance}}**** menu at the top of the page.
-2.  Select the ****{{resource:Cleanup_imsg_CompanyCleanup}}**** option.
-3.  A warning box will appear to ensure you don't delete everything by mistake. To confirm, enter the company's name exactly as it appears in the box.
-4.  Click the ****{{resource:Cleanup_imsg_CompanyCleanup}}**** button.
+**IMPORTANT:** A reset cannot be undone. All data for the company is permanently deleted and cannot be restored. Be absolutely sure you have selected the correct company before you proceed.
 
-All data for the company is now deleted, and you can start over, for example, by importing a new SIE file.
+## How to
+1. Go to the overview where you see your list of companies.
+2. Find the company you want to reset. Click on the three dots to the right on the company's row.
+3. Select the *Reset company* option in the menu that appears.
+4. A warning box will appear to ensure you are not doing this by mistake. Read the text carefully.
+5. To confirm and permanently delete all data for the company, click the reset button.
+
+Done! The company is now empty, and you can start over by, for example, importing a new SIE file.
 
 ## Related articles
--   Import SIE file
--   Create new financial year
--   Manage company basic data
+- Create a new company
+- Import SIE file
+- Delete a company
