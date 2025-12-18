@@ -9,11 +9,14 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T10:34:38.255Z'
-updatedAt: '2025-12-18T10:38:43.116Z'
+updatedAt: '2025-12-18T10:39:22.581Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 2
+currentVersion: 3
+languageUpdatedAt:
+  en: '2025-12-18T10:38:36.544Z'
+  sv: '2025-12-18T10:38:36.544Z'
 translationBase:
   en: >-
     # Skattemässiga avskrivningar på maskiner och inventarier
@@ -22,9 +25,10 @@ translationBase:
     ## Översikt
 
     I Spiris ekonomiplattform är det enkelt att hantera företagets
-    anläggningstillgångar. Bilagan **Skattemässiga avskrivningar på maskiner och
-    inventarier** hjälper dig att beräkna årets skattemässiga avskrivningar och
-    säkerställa att ditt bokslut stämmer överens med gällande skatteregler. 
+    anläggningstillgångar. Bilagan
+    ****{{resource:TaxCalculationSE_legend_TaxResidualValueMachineInventory}}****
+    hjälper dig att beräkna årets skattemässiga avskrivningar och säkerställa
+    att ditt bokslut stämmer överens med gällande skatteregler. 
 
 
     Den här uppdateringen gör det smidigare att få en tydlig överblick över
@@ -77,18 +81,15 @@ translationBase:
 
     *   Översikt av bilagor i
     bokslutsmodulen**{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}**
-languageUpdatedAt:
-  en: '2025-12-18T10:37:21.079Z'
-  sv: '2025-12-18T10:38:36.544Z'
 metadata:
-  area1: general
-  targetAudience: []
-  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
   area2: ''
   tags:
     - update
     - general
-  productId: Skatt & Bokslut
+  area1: general
+  solution: Skatt & Bokslut
+  targetAudience: []
 ---
 # Skattemässiga avskrivningar på maskiner och inventarier
 
