@@ -9,14 +9,14 @@ format: md
 status: draft
 folderId: S0n4lfJ2K5VQ3piaOGtw
 createdAt: '2025-12-11T10:30:21.636Z'
-updatedAt: '2025-12-18T15:00:43.262Z'
+updatedAt: '2025-12-18T15:02:36.276Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-11T10:32:14.970Z'
 lastLLMUpdateAt: '2025-12-11T10:31:26.115Z'
 languageUpdatedAt:
-  en: '2025-12-18T15:00:03.724Z'
   sv: '2025-12-18T15:00:03.724Z'
+  en: '2025-12-18T15:00:03.724Z'
 currentVersion: 8
 translationBase:
   en: >-
@@ -90,17 +90,17 @@ translationBase:
 
     - [Löneinställningar]
 metadata:
-  targetAudience: []
-  guidelineVersions:
-    constitution: 1
-    writing_guide: 6
-    tone_voice: 1
   solution: Lön
-  productId: Lön
   tags:
     - update
-  area1: ''
+  productId: Lön
+  guidelineVersions:
+    writing_guide: 6
+    tone_voice: 1
+    constitution: 1
   area2: ''
+  area1: ''
+  targetAudience: []
 ---
 # Skapa en lönekörning
 
