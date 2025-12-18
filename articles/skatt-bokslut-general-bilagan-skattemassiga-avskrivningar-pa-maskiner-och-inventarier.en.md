@@ -9,36 +9,25 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T10:34:38.255Z'
-updatedAt: '2025-12-18T10:39:22.581Z'
+updatedAt: '2025-12-18T15:13:57.624Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 3
-languageUpdatedAt:
-  en: '2025-12-18T10:38:36.544Z'
-  sv: '2025-12-18T10:38:36.544Z'
+currentVersion: 4
 translationBase:
   en: >-
-    # Skattemässiga avskrivningar på maskiner och inventarier
+    # Hantera skattemässiga avskrivningar på maskiner och inventarier
 
 
-    ## Översikt
-
-    I Spiris ekonomiplattform är det enkelt att hantera företagets
-    anläggningstillgångar. Bilagan
-    ****{{resource:TaxCalculationSE_legend_TaxResidualValueMachineInventory}}****
-    hjälper dig att beräkna årets skattemässiga avskrivningar och säkerställa
-    att ditt bokslut stämmer överens med gällande skatteregler. 
-
-
-    Den här uppdateringen gör det smidigare att få en tydlig överblick över
-    anskaffningar, försäljningar och det totala avskrivningsutrymmet direkt i
-    ditt arbetsflöde.
+    I Spiris ekonomiplattform använder du bilagan
+    **{{resource:TaxCalculationSE_legend_TaxResidualValueMachineInventory}}**
+    för att beräkna årets skattemässiga avskrivningar. Funktionen hjälper dig
+    att säkerställa att ditt bokslut följer gällande skatteregler och ger en
+    tydlig överblick över anskaffningar och försäljningar. Genom att använda
+    bilagan automatiseras beräkningen av ditt totala avskrivningsutrymme.
 
 
     ## Så här gör du
-
-    Följ dessa steg för att arbeta med bilagan i ditt bokslut:
 
 
     1. Navigera till vyn för **Bilagor** i din årsavslutsvy.
@@ -51,68 +40,68 @@ translationBase:
 
     4. Fyll i eventuella **Anskaffningar** som gjorts under räkenskapsåret.
 
-    5. Om tillgångar har sålts eller utrangerats anger du detta i fältet för
+    5. Ange eventuella sålda eller utrangerade tillgångar i fältet för
     **Försäljningar/utrangeringar**.
 
-    6. Plattformen beräknar nu automatiskt det lägsta tillåtna bokförda värdet
-    enligt både huvudregeln och kompletteringsregeln.
+    6. Granska de automatiska beräkningarna för lägsta tillåtna bokförda värde
+    enligt huvudregeln och kompletteringsregeln.
 
     7. Välj det alternativ som är mest fördelaktigt för företaget och klicka på
     **Spara** för att uppdatera ditt bokslut.
 
 
-    ## Bra att veta
+    ## Tips
 
-    *   **Huvudregeln:** Innebär att du får göra avskrivningar med 30 % på det
-    skattemässiga värdet.
-
-    *   **Kompletteringsregeln:** Ger dig möjlighet att skriva av inventarierna
-    linjärt över fem år (20 % per år).
-
-    *   Bilagan hjälper dig att automatiskt hålla koll på eventuella
-    överavskrivningar som behöver justeras i bokföringen.
+    > Huvudregeln innebär att du får göra avskrivningar med 30 % på det
+    skattemässiga värdet, medan kompletteringsregeln låter dig skriva av
+    inventarier linjärt med 20 % per år. Bilagan identifierar automatiskt
+    eventuella överavskrivningar som behöver justeras i din bokföring för att
+    spara tid vid bokslutsarbetet.
 
 
-    ## Relaterade artiklar
+    ## Mer information
 
-    *   Hantera anläggningstillgångar i Spiris
+    - Hantera anläggningstillgångar i Spiris
 
-    *   Skapa årsavslut steg för steg
+    - Skapa årsavslut steg för steg
 
-    *   Översikt av bilagor i
-    bokslutsmodulen**{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}**
+    - Översikt av bilagor i bokslutsmodulen
+    **{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}**
+languageUpdatedAt:
+  sv: '2025-12-18T15:13:04.266Z'
+  en: '2025-12-18T15:13:04.266Z'
 metadata:
-  productId: Skatt & Bokslut
-  area2: ''
   tags:
     - update
     - general
-  area1: general
-  solution: Skatt & Bokslut
+  guidelineVersions:
+    tone_voice: 1
+    writing_guide: 7
+    constitution: 1
+  area2: ''
   targetAudience: []
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  area1: general
 ---
-# Tax depreciation on machinery and equipment
+# Manage tax depreciation on machinery and equipment
 
-## Overview
-In Spiri's financial platform, it is easy to manage the company's fixed assets. The schedule ****{{resource:TaxCalculationSE_legend_TaxResidualValueMachineInventory}}**** helps you calculate the year's tax depreciation and ensure that your year-end accounts comply with current tax regulations.This update makes it easier to get a clear overview of acquisitions, sales, and the total depreciation room directly in your workflow.
+In Spiri's financial platform, you use the appendix **{{resource:TaxCalculationSE_legend_TaxResidualValueMachineInventory}}** to calculate the year's tax depreciation. The function helps you ensure that your year-end closing complies with current tax regulations and provides a clear overview of acquisitions and sales. By using the appendix, the calculation of your total depreciation capacity is automated.
 
-## How to do it
-Follow these steps to work with the appendix in your year-end closing:
+## How to
 
 1. Navigate to the **Appendices** view in your year-end closing view.
 2. Search for or select the appendix **Tax depreciation on machinery and equipment** in the list.
-3. Check that the **Opening book value** matches the previous year's closing.
+3. Check that the **Opening carrying amount** matches the previous year's closing.
 4. Fill in any **Acquisitions** made during the financial year.
-5. If assets have been sold or disposed of, enter this in the field for **Sales/disposals**.
-6. The platform now automatically calculates the lowest permitted book value according to both the main rule and the supplementary rule.
-7. Choose the option that is most advantageous for the company and click **Save** to update your year-end closing.
+5. Enter any sold or scrapped assets in the field for **Sales/disposals**.
+6. Review the automatic calculations for the minimum permitted carrying amount according to the main rule and the alternative rule.
+7. Select the option that is most advantageous for the company and click **Save** to update your year-end accounts.
 
-## Good to know
-*   **The main rule:** Means that you can depreciate by 30% of the tax value.
-*   **The supplementary rule:** Gives you the opportunity to depreciate equipment linearly over five years (20% per year).
-*   The appendix helps you automatically keep track of any excess depreciation that needs to be adjusted in the accounting.
+## Tips
+> The main rule means that you can apply depreciation of 30% on the tax value, while the supplementary rule allows you to depreciate equipment linearly at 20% per year. The schedule automatically identifies any excess depreciation that needs to be adjusted in your accounting to save time during the year-end closing process.
 
-## Related articles
-*   Manage fixed assets in Spiris
-*   Create year-end closing step-by-step
-*   Overview of attachments in the year-end closing module**{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}**
+## More information
+- Manage fixed assets in Spiris
+- Create year-end closing step by step
+- Overview of attachments in the year-end closing module **{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}**
