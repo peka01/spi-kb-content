@@ -1,24 +1,28 @@
 ---
+id: nBko7xIR0OSrVFtxahrt
 title: Nollställ företag
 slug: general-nollstall-foretag
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2025-12-18T07:54:20.973Z'
-updatedAt: '2025-12-18T07:54:20.973Z'
-id: nBko7xIR0OSrVFtxahrt
+updatedAt: '2025-12-18T07:56:33.005Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
 metadata:
-  productId: Skatt & Bokslut
   solution: Skatt & Bokslut
-  area1: general
-  area2: ''
-  targetAudience: []
   tags:
     - update
     - general
+  targetAudience: []
+  area2: ''
+  productId: Skatt & Bokslut
+  area1: general
 ---
 # Nollställ företag i Skatt & Bokslut
 
