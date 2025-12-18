@@ -9,20 +9,20 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T08:27:18.217Z'
-updatedAt: '2025-12-18T08:30:20.763Z'
+updatedAt: '2025-12-18T08:31:12.016Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 2
+currentVersion: 3
 metadata:
-  area2: ''
+  targetAudience: []
+  area1: general
   tags:
     - update
     - general
   solution: Skatt & Bokslut
+  area2: ''
   productId: Skatt & Bokslut
-  targetAudience: []
-  area1: general
 ---
 # Hantera periodiseringsfonder
 
