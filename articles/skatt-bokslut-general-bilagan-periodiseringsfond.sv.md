@@ -1,21 +1,25 @@
 ---
+id: Bp93MUvsJhvFnP7etobY
 title: Bilagan Periodiseringsfond
 slug: general-bilagan-periodiseringsfond
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2025-12-18T08:27:18.217Z'
-updatedAt: '2025-12-18T08:27:18.217Z'
-id: Bp93MUvsJhvFnP7etobY
+updatedAt: '2025-12-18T08:29:29.057Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
 metadata:
-  productId: Skatt & Bokslut
   solution: Skatt & Bokslut
   area1: general
-  area2: ''
   targetAudience: []
+  area2: ''
+  productId: Skatt & Bokslut
   tags:
     - update
     - general
