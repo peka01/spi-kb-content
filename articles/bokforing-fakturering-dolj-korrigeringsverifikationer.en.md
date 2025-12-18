@@ -9,7 +9,7 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T10:04:39.272Z'
+updatedAt: '2025-12-18T10:14:49.493Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-18T10:02:08.262Z'
@@ -123,16 +123,16 @@ translationBase:
     *   [Hantera verifikat i bokföringen]
 
     *   [Inställningar för bokföring]
-currentVersion: 16
+currentVersion: 17
 metadata:
   solution: Bokföring & Fakturering
-  targetAudience: []
   tags:
     - update
     - general
   productId: Bokföring & Fakturering
-  area2: ''
   area1: Bokföring
+  area2: ''
+  targetAudience: []
 ---
 # Hide change vouchers in accounting
 
@@ -161,46 +161,3 @@ You can choose to hide vouchers made to correct something that has already been 
 
 ## How it works
 Hiding corrections is a setting you can easily turn on or off. When it's on, vouchers marked as corrections will be hidden automatically. You won't see them in your regular list of vouchers, in account specifications, or in reports.
-
-To enable or disable the feature, go to **Settings** and look for the option to manage how vouchers are displayed.
-
-**Good to know:**
-*   This feature only hides direct, one-to-one corrections. If a voucher is corrected on a different date, or if the correction is split across multiple lines, these vouchers will not be hidden. This is to ensure that balances are always displayed correctly in analyses and reports.
-*   If you filter by project or cost centers, this setting is not affected.
-*   We have verified that calculated balances in analyses and reports remain completely correct, even when corrections are hidden.
-
-### Where corrections can be hidden:
-*   **In the view:**
-    *   Accounting - Vouchers
-    *   Account Specifications - Subledger
-    *   Account Specifications - Balance Sheet and Income Statement
-*   **In reports:**
-    *   Voucher List
-    *   Subledger
-    *   Subledger accounts (for agricultural businesses)
-    *   Accounts Receivable Ledger (only applies if an entire invoice has been voided)
-    *   Accounts Payable Ledger (only applies if an entire invoice has been voided)
-
-### Processes where corrections can be hidden:
-*   Accounting - Vouchers - Actions - Create correction voucher
-*   Accounting - Vouchers - Edit - Actions - Create correction voucher
-*   Accounting - Vouchers - New voucher - Add manual correction voucher
-*   Correction of accrual vouchers
-*   Cash and bank - Bank transactions this period - Unmatched
-*   Sales - Customer invoices - Unpaid customer invoices - Actions - Revoke direct debit
-*   Sales - Customer invoices - Unpaid customer invoices - Actions - Credit
-*   Sales - Customer invoices - Actions - Credit - Void invoice
-*   Purchasing - Supplier invoices - Unpaid supplier invoices - Actions - Void invoice
-*   Purchasing - Supplier invoice - Actions - Offset - Post to account
-
-## Your benefits
-*   **Get a cleaner overview:** Less "noise" in the voucher list, account specifications, and reports.
-*   **Focus on what's important:** It becomes easier to see and work with your main vouchers.
-*   **Customize to your needs:** You choose whether to show or hide corrections.
-
-## Further reading
-*   [Manage vouchers in accounting]
-*   [Settings for accounting]
-## Further reading
-*   [Manage vouchers in accounting]
-*   [Accounting settings]
