@@ -9,14 +9,10 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T12:00:02.117Z'
-updatedAt: '2025-12-18T12:17:30.371Z'
+updatedAt: '2025-12-18T12:24:14.988Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2025-12-18T12:16:26.113Z'
-  sv: '2025-12-18T12:16:26.113Z'
-currentVersion: 4
 translationBase:
   en: >-
     # Kom igång med Fortnox-integrationen
@@ -36,8 +32,9 @@ translationBase:
 
     ### Välj Fortnox som datakälla
 
-    Du kan välja Fortnox som källa för din bokföringsdata antingen när du
-    startar ett nytt år eller via inställningarna.
+    Du kan välja **{{resource:EnumImportSource_lbl_Fortnox}}**som källa för din
+    bokföringsdata antingen när du startar ett nytt år eller via
+    inställningarna.
 
 
     1. Gå till **Startguiden** eller navigera till
@@ -135,15 +132,19 @@ translationBase:
     - [Hantera bokslutstransaktioner]
 
     - [Inställningar för datakällor]
+currentVersion: 5
+languageUpdatedAt:
+  en: '2025-12-18T12:23:42.904Z'
+  sv: '2025-12-18T12:23:42.904Z'
 metadata:
   solution: Skatt & Bokslut
+  area1: general
   area2: ''
-  targetAudience: []
+  productId: Skatt & Bokslut
   tags:
     - update
     - general
-  area1: general
-  productId: Skatt & Bokslut
+  targetAudience: []
 ---
 # Get started with the Fortnox integration
 
@@ -152,10 +153,8 @@ Now you can connect Spiris Tax & Year-end directly with Fortnox to seamlessly re
 
 ## How it works
 
-### Select Fortnox as data source
-You can choose Fortnox as the source for your accounting data either when you start a new year or via the settings.
-
-1. Go to the **Getting Started Guide** or navigate to ****{{resource:Menu_title_Maintenance}}**- **{{resource:Menu_title_Maintenance_Settings}}** - **{{resource:Maintenance_ImportData_hdr_ImportSettings}}****.
+### Select Fortnox as Data Source
+You can select **{{resource:EnumImportSource_lbl_Fortnox}}** as the source for your accounting data either when you start a new year or via the settings.1. Go to the **Getting Started Guide** or navigate to ****{{resource:Menu_title_Maintenance}}**- **{{resource:Menu_title_Maintenance_Settings}}** - **{{resource:Maintenance_ImportData_hdr_ImportSettings}}****.
 2. Select the option ****{{resource:EnumImportSource_lbl_Fortnox}}****.
 3. Click the button ****{{resource:Import_imsg_FortnoxImport}}****.
 4. You will now be redirected to the Fortnox login portal. Log in with your regular Fortnox credentials and authorize the connection to Spiris.
@@ -189,6 +188,10 @@ If you need to change the data source or cancel the connection, you do this unde
 *   **Limitations:** Just like with file imports, there are limitations on file size (100 MB) and the number of objects (e.g., cost centers) to maintain good performance.
 *   **Activity log:** You can see the status of your imports and exports in the activity log under system tasks.
 
+## Related articles
+- [Working with transaction analysis]
+- [Managing year-end transactions]
+- [Data source settings]
 ## Related articles
 - [Working with transaction analysis]
 - [Managing year-end transactions]
