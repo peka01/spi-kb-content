@@ -9,11 +9,14 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T07:54:20.973Z'
-updatedAt: '2025-12-18T08:02:29.821Z'
+updatedAt: '2025-12-18T08:06:22.419Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 3
+currentVersion: 4
+languageUpdatedAt:
+  sv: '2025-12-18T08:02:27.816Z'
+  en: '2025-12-18T08:02:27.816Z'
 translationBase:
   en: >-
     # Nollställ företag i
@@ -28,7 +31,7 @@ translationBase:
     så att du kan börja om från början.
 
 
-    Tänk på att den här handlingen är permanent och **inte går att ångra**. All
+    Tänk på att den här handlingen är permanent och inte går att ångra. All
     information för det valda året, som grunduppgifter och importerad data,
     kommer att raderas.
 
@@ -61,18 +64,15 @@ translationBase:
     -   Skapa nytt räkenskapsår
 
     -   Hantera grunduppgifter för företag
-languageUpdatedAt:
-  en: '2025-12-18T07:59:03.719Z'
-  sv: '2025-12-18T08:02:27.816Z'
 metadata:
   area2: ''
-  targetAudience: []
   productId: Skatt & Bokslut
+  targetAudience: []
   tags:
     - update
     - general
-  area1: general
   solution: Skatt & Bokslut
+  area1: general
 ---
 # Nollställ företag i **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
