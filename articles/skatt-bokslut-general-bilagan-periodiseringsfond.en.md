@@ -9,20 +9,20 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T08:27:18.217Z'
-updatedAt: '2025-12-18T08:29:29.057Z'
+updatedAt: '2025-12-18T08:30:20.763Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
+currentVersion: 2
 metadata:
-  solution: Skatt & Bokslut
-  area1: general
-  targetAudience: []
   area2: ''
-  productId: Skatt & Bokslut
   tags:
     - update
     - general
+  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
+  targetAudience: []
+  area1: general
 ---
 # Manage Tax Allocation Reserves
 
