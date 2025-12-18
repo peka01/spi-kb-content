@@ -1,37 +1,39 @@
 ---
-status: draft
-folderId: null
-lastLLMUpdateAt: '2025-12-16T08:50:43.784Z'
-pendingReview: false
-createdAt: '2025-12-16T08:45:06.743Z'
-slug: dolj-korrigeringsverifikationer
-updatedAt: '2025-12-17T07:49:45.606Z'
-reviewedAt: '2025-12-16T08:54:02.030Z'
+id: xUYgEGpkq9Hf6P1jkvgS
 title: Dölj korrigeringsverifikationer
+slug: dolj-korrigeringsverifikationer
 languages:
   - sv
   - en
-currentVersion: 11
-publishedAt: null
 format: md
-id: xUYgEGpkq9Hf6P1jkvgS
+status: draft
+folderId: null
+createdAt: '2025-12-16T08:45:06.743Z'
+updatedAt: '2025-12-18T10:00:05.314Z'
+publishedAt: null
+pendingReview: true
+reviewedAt: null
+lastLLMUpdateAt: '2025-12-18T10:00:05.314Z'
+currentVersion: 11
 metadata:
-  productId: Bokföring & Fakturering
   targetAudience: []
-  area1: Bokföring
-  solution: Bokföring & Fakturering
-  area2: ''
   tags:
     - update
     - general
+  productId: Bokföring & Fakturering
+  area1: Bokföring
+  solution: Bokföring & Fakturering
+  area2: ''
 ---
+Här är den uppdaterade versionen av artikeln.
+
 # Dölj korrigeringar i bokföringen
 
 ## En snabbare överblick
 Nu kan du enkelt dölja verifikat som skapats för att korrigera tidigare bokföringar. Detta gör din verifikatshistorik renare och hjälper dig att snabbt se det som är viktigast. Tänk dig att slippa allt extra "brus" – så blir det lättare att hitta och arbeta med dina huvudsakliga verifikat.
 
 ## Vad är nytt?
-Du kan nu välja att gömma verifikat som är gjorda för att rätta till något som redan bokförts. Det här är perfekt när du vill ha en tydligare bild av din bokföring, utan att detaljer kring korrigeringar tar uppmärksamheten.
+Du kan välja att gömma verifikat som är gjorda för att rätta till något som redan bokförts. Med den senaste uppdateringen kan du nu även dölja korrigeringar av periodiseringar. Det här är perfekt när du vill ha en tydligare bild av din bokföring, utan att detaljer kring korrigeringar tar uppmärksamheten.
 
 ## Så här fungerar det
 Att dölja korrigeringar är en inställning du enkelt kan slå på eller av. När den är på kommer verifikat som är markerade som korrigeringar att gömmas automatiskt. Du slipper se dem i din vanliga lista över verifikat, i kontospecifikationer och i rapporter.
@@ -59,6 +61,7 @@ För att aktivera eller stänga av funktionen, gå till **Inställningar** och l
 *   Bokföring - Verifikat - Åtgärder - Skapa korrigeringsverifikat
 *   Bokföring - Verifikat - Redigera - Åtgärder - Skapa korrigeringsverifikat
 *   Bokföring - Verifikat - Nytt verifikat - Lägg till manuellt korrigeringsverifikat
+*   Korrigering av periodiseringsverifikat
 *   Kassa och bank - Banktransaktioner denna period - Ej matchade
 *   Försäljning - Kundfakturor - Ej betalda kundfakturor - Åtgärder - Återkalla autogiro
 *   Försäljning - Kundfakturor - Ej betalda kundfakturor - Åtgärder - Kreditera
