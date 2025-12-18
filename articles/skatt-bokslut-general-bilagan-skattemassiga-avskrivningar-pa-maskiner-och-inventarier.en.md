@@ -9,14 +9,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T10:34:38.255Z'
-updatedAt: '2025-12-18T10:36:44.135Z'
+updatedAt: '2025-12-18T10:38:43.116Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
-languageUpdatedAt:
-  sv: '2025-12-18T10:34:38.255Z'
-  en: '2025-12-18T10:34:38.255Z'
+currentVersion: 2
 translationBase:
   en: >-
     # Skattemässiga avskrivningar på maskiner och inventarier
@@ -78,16 +75,20 @@ translationBase:
 
     *   Skapa årsavslut steg för steg
 
-    *   Översikt av bilagor i bokslutsmodulen
+    *   Översikt av bilagor i
+    bokslutsmodulen**{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}**
+languageUpdatedAt:
+  en: '2025-12-18T10:37:21.079Z'
+  sv: '2025-12-18T10:38:36.544Z'
 metadata:
+  area1: general
+  targetAudience: []
+  solution: Skatt & Bokslut
   area2: ''
-  productId: Skatt & Bokslut
   tags:
     - update
     - general
-  targetAudience: []
-  solution: Skatt & Bokslut
-  area1: general
+  productId: Skatt & Bokslut
 ---
 # Tax depreciation on machinery and equipment
 
@@ -113,6 +114,6 @@ Follow these steps to work with the appendix in your year-end closing:
 *   The appendix helps you automatically keep track of any excess depreciation that needs to be adjusted in the accounting.
 
 ## Related articles
-*   Manage fixed assets in Spiri
-*   Create year-end closing step by step
-*   Overview of appendices in the year-end module
+*   Manage fixed assets in Spiris
+*   Create year-end closing step-by-step
+*   Overview of attachments in the year-end closing module**{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}**
