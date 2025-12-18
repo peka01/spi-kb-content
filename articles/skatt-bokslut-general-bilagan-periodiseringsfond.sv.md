@@ -9,20 +9,20 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T08:27:18.217Z'
-updatedAt: '2025-12-18T08:29:29.057Z'
+updatedAt: '2025-12-18T08:30:20.763Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
+currentVersion: 2
 metadata:
-  solution: Skatt & Bokslut
-  area1: general
-  targetAudience: []
   area2: ''
-  productId: Skatt & Bokslut
   tags:
     - update
     - general
+  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
+  targetAudience: []
+  area1: general
 ---
 # Hantera periodiseringsfonder
 
@@ -39,7 +39,7 @@ Bilagan ger dig en tydlig översikt över dina befintliga periodiseringsfonder o
     När du öppnar bilagan ser du en sammanställning över de avsättningar du gjort tidigare inkomstår. Kontrollera att uppgifterna stämmer.
 
 2.  **Återför fonder**  
-    Den äldsta fonden måste återföras till beskattning. Beloppet fylls oftast i automatiskt. Du kan även välja att frivilligt återföra hela eller delar av andra fonder. Fyll i beloppen i fälten för återföring för respektive år.
+    Fonder som är äldre än 5 år måste återföras till beskattning. Beloppet fylls oftast i automatiskt. Du kan även välja att frivilligt återföra hela eller delar av andra fonder. Fyll i beloppen i fälten för återföring för respektive år.
 
 3.  **Gör en ny avsättning**  
     Längst ner i bilagan ser du underlaget för årets möjliga avsättning. Fyll i det belopp du vill sätta av i fältet för årets avsättning. Plattformen hjälper dig att hålla koll på maxbeloppet.
