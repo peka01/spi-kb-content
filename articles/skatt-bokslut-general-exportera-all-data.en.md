@@ -9,11 +9,15 @@ format: md
 status: draft
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2025-12-15T15:16:39.161Z'
-updatedAt: '2025-12-18T07:40:38.834Z'
+updatedAt: '2025-12-18T09:28:12.186Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-17T15:22:57.925Z'
 lastLLMUpdateAt: null
+currentVersion: 11
+languageUpdatedAt:
+  sv: '2025-12-18T07:40:36.765Z'
+  en: '2025-12-18T07:40:36.765Z'
 translationBase:
   en: >-
     # Exportera all data för arkivering i
@@ -24,9 +28,9 @@ translationBase:
 
      ![image](../../images/general-exportera-all-data-1765811785522-1765869534013-vwir3.png)
 
-    Nu kan du på ett enkelt sätt spara ner din företagsdata i ett smidigt format
-    som är perfekt för arkivering. Spara dina företagsregister för den tid som
-    lagen kräver, eller behåll en säkerhetskopia för framtiden.
+    Nu kan du som administratör spara din företagsdata i ett smidigt format som
+    är perfekt för arkivering. Spara dina företagsregister för den tid som lagen
+    kräver, eller behåll en säkerhetskopia för framtiden.
 
 
     Datan samlas i en tydlig mappstruktur, sorterad per år och period. Inne i
@@ -58,7 +62,7 @@ translationBase:
     ## Så här gör du
 
 
-    1.  Gå till menyn **Underhåll**.
+    1.  Gå till menyn ****{{resource:Menu_title_Maintenance}}****.
 
     2.  Välj **Exportera data**.
 
@@ -109,18 +113,14 @@ translationBase:
 
     *   [Inställningar för rapporter] (Länk till relevant artikel om
     rapportinställningar)
-languageUpdatedAt:
-  en: '2025-12-18T07:12:17.291Z'
-  sv: '2025-12-18T07:40:36.765Z'
-currentVersion: 10
 metadata:
   targetAudience: []
+  area1: Inställningar
   tags:
     - arkiv
-  area2: ''
-  solution: Skatt & Bokslut
-  area1: Inställningar
   productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  area2: ''
 ---
 # Export all data for archiving in **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
@@ -128,9 +128,7 @@ metadata:
 
  ![image](../../images/general-exportera-all-data-1765811785522-1765869534013-vwir3.png)
 
-You can now easily save your company data in a convenient format that is perfect for archiving. Save your company records for the period required by law, or keep a backup for the future.
-
-The data is collected in a clear folder structure, sorted by year and period. Inside each period folder, you will find all your documents as PDF files. You can find the feature under **Maintenance** -> **Export data**. You can choose to export one or more years at the same time.
+Now, as an administrator, you can save your company data in a convenient format that is perfect for archiving. Save your company records for the period required by law, or keep a backup for the future.The data is collected in a clear folder structure, sorted by year and period. Inside each period folder, you will find all your documents as PDF files. You can find the feature under **Maintenance** -> **Export data**. You can choose to export one or more years at the same time.
 
 ## What's new?
 
@@ -142,16 +140,14 @@ The data is collected in a clear folder structure, sorted by year and period. In
 
 ## Here's how
 
-1.  Go to the **Maintenance** menu.
+1.  Go to the menu ****{{resource:Menu_title_Maintenance}}****.
 2.  Select **Export data**.
-3.  Select the years you want to export. You can choose a specific year or check **All years** to include everything.
+3.  Select the years you want to export. You can select a specific year or check **All years** to include everything.
 4.  Click the button to start the export. The button will be grayed out while it is in progress.
 5.  A progress bar shows how far the export has progressed, similar to in the **Report Center**.
-6.  When everything is finished, you will receive a confirmation.
-7.  If something unexpected happens, such as a document in the wrong format, you will receive a notification. A message may also appear if the export partially failed but still created a file.
-8.  You will receive a ZIP file with your exported data. It is neatly organized into year and period folders with all your documents as PDFs.
-
-### Good to know
+6.  When it is complete, you will receive a confirmation.
+7.  If something unexpected happens, such as a document in the wrong format, you will receive a message. A message may also appear if the export partially failed but still created a file.
+8.  You will receive a ZIP file with your exported data. It is neatly organized into year and period folders with all your documents as PDFs.### Good to know
 
 To the right of the documentation field, there is a small information icon. Click on it to find out:
 *   What the export contains.
