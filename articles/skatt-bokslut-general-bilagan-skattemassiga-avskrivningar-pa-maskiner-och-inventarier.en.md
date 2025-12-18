@@ -9,10 +9,13 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T10:34:38.255Z'
-updatedAt: '2025-12-18T15:13:57.624Z'
+updatedAt: '2025-12-18T15:14:04.130Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+languageUpdatedAt:
+  sv: '2025-12-18T15:13:04.266Z'
+  en: '2025-12-18T15:13:04.266Z'
 currentVersion: 4
 translationBase:
   en: >-
@@ -67,22 +70,19 @@ translationBase:
 
     - Översikt av bilagor i bokslutsmodulen
     **{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}**
-languageUpdatedAt:
-  sv: '2025-12-18T15:13:04.266Z'
-  en: '2025-12-18T15:13:04.266Z'
 metadata:
+  targetAudience: []
+  area1: general
+  guidelineVersions:
+    constitution: 1
+    writing_guide: 7
+    tone_voice: 1
   tags:
     - update
     - general
-  guidelineVersions:
-    tone_voice: 1
-    writing_guide: 7
-    constitution: 1
-  area2: ''
-  targetAudience: []
   productId: Skatt & Bokslut
   solution: Skatt & Bokslut
-  area1: general
+  area2: ''
 ---
 # Manage tax depreciation on machinery and equipment
 
