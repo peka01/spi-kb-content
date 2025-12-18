@@ -9,7 +9,7 @@ format: md
 status: draft
 folderId: S0n4lfJ2K5VQ3piaOGtw
 createdAt: '2025-12-11T10:30:21.636Z'
-updatedAt: '2025-12-18T14:57:02.681Z'
+updatedAt: '2025-12-18T14:57:22.071Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-11T10:32:14.970Z'
@@ -76,17 +76,17 @@ languageUpdatedAt:
   sv: '2025-12-18T14:56:01.352Z'
 currentVersion: 6
 metadata:
-  area1: ''
-  area2: ''
-  solution: Lön
-  productId: Lön
-  guidelineVersions:
-    tone_voice: 1
-    constitution: 1
-    writing_guide: 6
-  targetAudience: []
   tags:
     - update
+  targetAudience: []
+  productId: Lön
+  area2: ''
+  area1: ''
+  guidelineVersions:
+    constitution: 1
+    writing_guide: 6
+    tone_voice: 1
+  solution: Lön
 ---
 # Create a payroll run
 
