@@ -9,10 +9,14 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T08:45:09.493Z'
-updatedAt: '2025-12-18T08:47:02.571Z'
+updatedAt: '2025-12-18T08:47:08.567Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+languageUpdatedAt:
+  sv: '2025-12-18T08:46:23.705Z'
+  en: '2025-12-18T08:46:23.705Z'
+currentVersion: 3
 translationBase:
   en: >-
     # Nollställ ett företag
@@ -63,19 +67,15 @@ translationBase:
     - Importera SIE-fil
 
     - Ta bort företag
-currentVersion: 2
-languageUpdatedAt:
-  sv: '2025-12-18T08:46:23.705Z'
-  en: '2025-12-18T08:46:23.705Z'
 metadata:
-  targetAudience: []
   tags:
     - update
     - general
+  targetAudience: []
   area2: ''
-  productId: Skatt & Bokslut
   area1: general
   solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
 ---
 # Nollställ ett företag
 
