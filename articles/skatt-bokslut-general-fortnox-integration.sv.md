@@ -9,10 +9,14 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T12:00:02.117Z'
-updatedAt: '2025-12-18T12:05:54.353Z'
+updatedAt: '2025-12-18T12:16:27.696Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+languageUpdatedAt:
+  en: '2025-12-18T12:04:21.539Z'
+  sv: '2025-12-18T12:16:26.113Z'
+currentVersion: 3
 translationBase:
   en: >-
     # Kom igång med Fortnox-integrationen
@@ -131,19 +135,15 @@ translationBase:
     - [Hantera bokslutstransaktioner]
 
     - [Inställningar för datakällor]
-languageUpdatedAt:
-  en: '2025-12-18T12:04:21.539Z'
-  sv: '2025-12-18T12:04:21.539Z'
-currentVersion: 2
 metadata:
-  area1: general
-  area2: ''
-  targetAudience: []
   solution: Skatt & Bokslut
+  area2: ''
+  productId: Skatt & Bokslut
+  targetAudience: []
+  area1: general
   tags:
     - update
     - general
-  productId: Skatt & Bokslut
 ---
 # Kom igång med Fortnox-integrationen
 
@@ -155,7 +155,7 @@ Nu kan du koppla ihop Spiris Skatt & Bokslut direkt med Fortnox för att smidigt
 ### Välj Fortnox som datakälla
 Du kan välja Fortnox som källa för din bokföringsdata antingen när du startar ett nytt år eller via inställningarna.
 
-1. Gå till **Startguiden** eller navigera till ****{{resource:Menu_title_Maintenance}}**- **{{resource:Menu_title_Maintenance_Settings}}**- **{{resource:Maintenance_ImportData_hdr_ImportSettings}}****.
+1. Gå till **Startguiden** eller navigera till ****{{resource:Menu_title_Maintenance}}**- **{{resource:Menu_title_Maintenance_Settings}}** - **{{resource:Maintenance_ImportData_hdr_ImportSettings}}****.
 2. Välj alternativet ****{{resource:EnumImportSource_lbl_Fortnox}}****.
 3. Klicka på knappen ****{{resource:Import_imsg_FortnoxImport}}****.
 4. Du skickas nu till Fortnox inloggningsportal. Logga in med dina vanliga uppgifter för Fortnox och godkänn kopplingen till Spiris.
