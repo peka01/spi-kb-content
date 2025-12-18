@@ -9,7 +9,7 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T10:04:39.272Z'
+updatedAt: '2025-12-18T10:14:49.493Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-18T10:02:08.262Z'
@@ -123,16 +123,16 @@ translationBase:
     *   [Hantera verifikat i bokföringen]
 
     *   [Inställningar för bokföring]
-currentVersion: 16
+currentVersion: 17
 metadata:
   solution: Bokföring & Fakturering
-  targetAudience: []
   tags:
     - update
     - general
   productId: Bokföring & Fakturering
-  area2: ''
   area1: Bokföring
+  area2: ''
+  targetAudience: []
 ---
 # Dölj ändringsverifikationer i bokföringen
 
