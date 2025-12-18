@@ -9,18 +9,17 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T10:03:17.702Z'
+updatedAt: '2025-12-18T10:04:02.308Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-18T10:02:08.262Z'
 lastLLMUpdateAt: '2025-12-18T10:00:05.314Z'
-currentVersion: 14
 translationBase:
   en: >-
     # Dölj korrigeringar i bokföringen
 
 
-    ## En snabbare överblick
+    ## Snabbare överblick
 
     Nu kan du enkelt dölja verifikat som skapats för att korrigera tidigare
     bokföringar. Detta gör din verifikatshistorik renare och hjälper dig att
@@ -122,24 +121,23 @@ translationBase:
 
     *   [Inställningar för bokföring]
 languageUpdatedAt:
-  sv: '2025-12-18T10:02:20.699Z'
-  en: '2025-12-18T10:02:20.699Z'
+  en: '2025-12-18T10:03:25.624Z'
+  sv: '2025-12-18T10:03:58.543Z'
+currentVersion: 15
 metadata:
+  area1: Bokföring
+  targetAudience: []
+  productId: Bokföring & Fakturering
   tags:
     - update
     - general
-  targetAudience: []
-  area2: ''
   solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
-  area1: Bokföring
+  area2: ''
 ---
 # Hide corrections in accounting
 
-## A quicker overview
-You can now easily hide vouchers created to correct previous accounting entries. This makes your voucher history cleaner and helps you quickly see what's most important. Imagine getting rid of all the extra "noise" – making it easier to find and work with your main vouchers.
-
-## What's new?
+## Quicker Overview
+Now you can easily hide vouchers created to correct previous entries. This makes your voucher history cleaner and helps you quickly see what is most important. Imagine getting rid of all the extra "noise" – making it easier to find and work with your main vouchers.## What's new?
 You can choose to hide vouchers made to correct something that has already been recorded. With the latest update, you can now also hide corrections of accruals. This is perfect when you want a clearer view of your accounting, without the details of corrections drawing your attention.
 
 ## How it works
