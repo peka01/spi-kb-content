@@ -9,14 +9,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T10:34:38.255Z'
-updatedAt: '2025-12-18T10:36:44.135Z'
+updatedAt: '2025-12-18T10:38:43.116Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
-languageUpdatedAt:
-  sv: '2025-12-18T10:34:38.255Z'
-  en: '2025-12-18T10:34:38.255Z'
+currentVersion: 2
 translationBase:
   en: >-
     # Skattemässiga avskrivningar på maskiner och inventarier
@@ -78,21 +75,25 @@ translationBase:
 
     *   Skapa årsavslut steg för steg
 
-    *   Översikt av bilagor i bokslutsmodulen
+    *   Översikt av bilagor i
+    bokslutsmodulen**{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}**
+languageUpdatedAt:
+  en: '2025-12-18T10:37:21.079Z'
+  sv: '2025-12-18T10:38:36.544Z'
 metadata:
+  area1: general
+  targetAudience: []
+  solution: Skatt & Bokslut
   area2: ''
-  productId: Skatt & Bokslut
   tags:
     - update
     - general
-  targetAudience: []
-  solution: Skatt & Bokslut
-  area1: general
+  productId: Skatt & Bokslut
 ---
 # Skattemässiga avskrivningar på maskiner och inventarier
 
 ## Översikt
-I Spiris ekonomiplattform är det enkelt att hantera företagets anläggningstillgångar. Bilagan **Skattemässiga avskrivningar på maskiner och inventarier** hjälper dig att beräkna årets skattemässiga avskrivningar och säkerställa att ditt bokslut stämmer överens med gällande skatteregler. 
+I Spiris ekonomiplattform är det enkelt att hantera företagets anläggningstillgångar. Bilagan ****{{resource:TaxCalculationSE_legend_TaxResidualValueMachineInventory}}**** hjälper dig att beräkna årets skattemässiga avskrivningar och säkerställa att ditt bokslut stämmer överens med gällande skatteregler. 
 
 Den här uppdateringen gör det smidigare att få en tydlig överblick över anskaffningar, försäljningar och det totala avskrivningsutrymmet direkt i ditt arbetsflöde.
 
@@ -115,4 +116,4 @@ Följ dessa steg för att arbeta med bilagan i ditt bokslut:
 ## Relaterade artiklar
 *   Hantera anläggningstillgångar i Spiris
 *   Skapa årsavslut steg för steg
-*   Översikt av bilagor i bokslutsmodulen
+*   Översikt av bilagor i bokslutsmodulen**{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}**
