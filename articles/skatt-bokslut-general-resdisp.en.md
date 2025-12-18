@@ -9,14 +9,15 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-17T15:03:55.931Z'
-updatedAt: '2025-12-18T07:45:24.563Z'
+updatedAt: '2025-12-18T07:49:09.653Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-17T15:26:01.766Z'
 lastLLMUpdateAt: '2025-12-17T15:24:39.618Z'
 languageUpdatedAt:
+  en: '2025-12-18T07:49:06.476Z'
   sv: '2025-12-18T07:44:34.832Z'
-  en: '2025-12-18T07:44:34.832Z'
+currentVersion: 6
 translationBase:
   en: >-
     # Hantera resultatdisposition i bokslut
@@ -100,48 +101,14 @@ translationBase:
     *   Checklista för bokslut
 
     *   Hantera aktieutdelning
-currentVersion: 5
 metadata:
-  solution: Skatt & Bokslut
-  area2: ''
-  targetAudience: []
   area1: general
-  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  targetAudience: []
   tags:
     - update
     - general
+  productId: Skatt & Bokslut
+  area2: ''
 ---
-# Managing Disposition of Earnings in Year-End Closing
 
-## Overview
-We have now made it even easier for you to manage the company's profit in the reconciliation process. In the new view for disposition of earnings, you get a clear overview and can easily decide how a profit or loss should be allocated. This gives you full control and makes an important part of the year-end closing both faster and more secure.
-
-![image](../images/general-resdisp-1765985205174-rftxl.png)
-
-## How the Disposition of Earnings View Works
-The view is divided into three parts that clearly show what funds are available, how you propose they should be allocated, and what the final result will be.
-
-### 1. Available Funds
-Here you see a summary of the capital available for allocation at the end of the year. It usually consists of:
-*   **Retained earnings from the previous year:** Profit or loss carried over from previous years.
-*   **Profit/loss for the year:** The company's profit or loss for the current fiscal year.
-
-The sum of these constitutes the total funds that the Annual General Meeting can decide on.
-
-### 2. Proposed Disposition
-This is where you decide what will happen to the available funds. You have several options for allocating the earnings:
-*   **Enter dividend to shareholders:** In the dividend field, you enter the amount you propose to be distributed.
-*   **Transfer to fund for development expenditure:** If the company has capitalized development expenditure, you can allocate a corresponding amount from unrestricted equity here.
-*   **Manage tax allocation reserves:** You can make appropriations to a tax allocation reserve to defer taxation, or reverse funds from an existing reserve.
-*   **Carry forward to new account:** The funds remaining after your selections are automatically transferred to the next year's equity. The amount is calculated immediately as you fill in the other fields, so you can always see what the allocation looks like.
-
-### 3. After Disposition
-This section summarizes the result of your proposal. Here, the new retained earnings are displayed—that is, the equity the company carries forward into the next fiscal year. Everything is updated in real-time based on the choices you make.
-
-**Example:**
-The company has a profit of SEK 100,000 and SEK 50,000 in retained earnings from previous years. In total, there are SEK 150,000 available for disposition. You propose a dividend of SEK 75,000 and simultaneously make an appropriation to a tax allocation reserve of SEK 25,000. You will then immediately see in the view that the remaining SEK 50,000 is carried forward as new retained earnings to the next year.
-
-## Related Articles
-*   Create an Annual Report
-*   Year-End Closing Checklist
-*   Managing Share Dividends
