@@ -9,13 +9,13 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-17T15:03:55.931Z'
-updatedAt: '2025-12-18T07:50:06.082Z'
+updatedAt: '2025-12-18T07:50:47.338Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-17T15:26:01.766Z'
 lastLLMUpdateAt: '2025-12-17T15:24:39.618Z'
 languageUpdatedAt:
-  en: '2025-12-18T07:44:34.832Z'
+  en: '2025-12-18T07:50:04.064Z'
   sv: '2025-12-18T07:50:04.064Z'
 translationBase:
   en: >-
@@ -24,7 +24,7 @@ translationBase:
 
     ## Översikt
 
-    Nu har vi gjort det ännu enklare för dig att hantera bolagets resultat i
+    Nu har vi gjort det ännu enklare för dig att hantera företagets resultat i
     avstämningsjobbet. I den nya vyn för resultatdisposition får du en tydlig
     överblick och kan smidigt bestämma hur en vinst eller förlust ska fördelas.
     Det ger dig full kontroll och gör en viktig del av bokslutet både snabbare
@@ -100,16 +100,16 @@ translationBase:
     *   Checklista för bokslut
 
     *   Hantera aktieutdelning
-currentVersion: 8
+currentVersion: 9
 metadata:
+  targetAudience: []
+  area2: ''
+  solution: Skatt & Bokslut
   tags:
     - update
     - general
   area1: general
   productId: Skatt & Bokslut
-  targetAudience: []
-  solution: Skatt & Bokslut
-  area2: ''
 ---
 # Hantera resultatdisposition i bokslut
 
