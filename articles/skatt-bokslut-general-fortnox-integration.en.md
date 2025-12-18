@@ -9,14 +9,14 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T12:00:02.117Z'
-updatedAt: '2025-12-18T12:16:27.696Z'
+updatedAt: '2025-12-18T12:17:30.371Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
-  en: '2025-12-18T12:04:21.539Z'
+  en: '2025-12-18T12:16:26.113Z'
   sv: '2025-12-18T12:16:26.113Z'
-currentVersion: 3
+currentVersion: 4
 translationBase:
   en: >-
     # Kom igång med Fortnox-integrationen
@@ -42,7 +42,7 @@ translationBase:
 
     1. Gå till **Startguiden** eller navigera till
     ****{{resource:Menu_title_Maintenance}}**-
-    **{{resource:Menu_title_Maintenance_Settings}}**-
+    **{{resource:Menu_title_Maintenance_Settings}}** -
     **{{resource:Maintenance_ImportData_hdr_ImportSettings}}****.
 
     2. Välj alternativet ****{{resource:EnumImportSource_lbl_Fortnox}}****.
@@ -138,12 +138,12 @@ translationBase:
 metadata:
   solution: Skatt & Bokslut
   area2: ''
-  productId: Skatt & Bokslut
   targetAudience: []
-  area1: general
   tags:
     - update
     - general
+  area1: general
+  productId: Skatt & Bokslut
 ---
 # Get started with the Fortnox integration
 
@@ -155,13 +155,11 @@ Now you can connect Spiris Tax & Year-end directly with Fortnox to seamlessly re
 ### Select Fortnox as data source
 You can choose Fortnox as the source for your accounting data either when you start a new year or via the settings.
 
-1. Go to the **Start Guide** or navigate to ****{{resource:Menu_title_Maintenance}}**- **{{resource:Menu_title_Maintenance_Settings}}**- **{{resource:Maintenance_ImportData_hdr_ImportSettings}}****.
+1. Go to the **Getting Started Guide** or navigate to ****{{resource:Menu_title_Maintenance}}**- **{{resource:Menu_title_Maintenance_Settings}}** - **{{resource:Maintenance_ImportData_hdr_ImportSettings}}****.
 2. Select the option ****{{resource:EnumImportSource_lbl_Fortnox}}****.
 3. Click the button ****{{resource:Import_imsg_FortnoxImport}}****.
-4. You will now be redirected to the Fortnox login portal. Log in with your usual Fortnox credentials and approve the connection to Spiris.
-5. When the connection is complete, a secure connection (a so-called token) is created, which is valid for 30 days. This is automatically renewed every time you choose to import or export data.
-
-### Import data
+4. You will now be redirected to the Fortnox login portal. Log in with your regular Fortnox credentials and authorize the connection to Spiris.
+5. Once the connection is established, a secure connection (a so-called token) is created, which is valid for 30 days. This is automatically renewed every time you choose to import or export data.### Import data
 Once the connection is established, you can retrieve your accounting.
 
 *   Click ****{{resource:Import_imsg_FortnoxImport}}**** on the overview page.
