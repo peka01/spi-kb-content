@@ -9,14 +9,10 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T08:45:09.493Z'
-updatedAt: '2025-12-18T08:45:51.054Z'
+updatedAt: '2025-12-18T08:47:02.571Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2025-12-18T08:45:09.493Z'
-  sv: '2025-12-18T08:45:09.493Z'
-currentVersion: 1
 translationBase:
   en: >-
     # Nollställ ett företag
@@ -26,7 +22,8 @@ translationBase:
 
     Har något blivit fel eller vill du helt enkelt börja om från början? Inga
     problem! Med den här funktionen kan du snabbt rensa all data för ett företag
-    i Skatt & Bokslut och få en nystart.
+    i **{{resource:common_product_name_variable_taxation_year_end_closing}}**
+    och få en nystart.
 
 
     Funktionen raderar all information som du har registrerat eller importerat
@@ -66,22 +63,24 @@ translationBase:
     - Importera SIE-fil
 
     - Ta bort företag
+currentVersion: 2
+languageUpdatedAt:
+  sv: '2025-12-18T08:46:23.705Z'
+  en: '2025-12-18T08:46:23.705Z'
 metadata:
-  productId: Skatt & Bokslut
+  targetAudience: []
   tags:
     - update
     - general
   area2: ''
+  productId: Skatt & Bokslut
   area1: general
-  targetAudience: []
   solution: Skatt & Bokslut
 ---
 # Reset a company
 
 ## Overview
-Has something gone wrong, or do you simply want to start over from scratch? No problem! With this feature, you can quickly clear all data for a company in Tax & Year-End and get a fresh start.
-
-The feature deletes all information you have registered or imported for a selected company. The company remains in your list, but it becomes completely empty and ready for new data.
+Has something gone wrong, or do you simply want to start over? No problem! With this feature, you can quickly clear all data for a company in **{{resource:common_product_name_variable_taxation_year_end_closing}}** and get a fresh start.The feature deletes all information you have registered or imported for a selected company. The company remains in your list, but it becomes completely empty and ready for new data.
 
 **IMPORTANT:** A reset cannot be undone. All data for the company is permanently deleted and cannot be restored. Be absolutely sure you have selected the correct company before you proceed.
 
