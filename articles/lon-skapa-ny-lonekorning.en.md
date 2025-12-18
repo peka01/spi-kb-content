@@ -1,102 +1,114 @@
 ---
-status: draft
+id: UUtrpWnO9TSTmy20IJ5z
+title: Skapa ny lönekörning
+slug: skapa-ny-lonekorning
 languages:
   - sv
   - en
-createdAt: '2025-12-11T10:30:21.636Z'
-pendingReview: false
-folderId: S0n4lfJ2K5VQ3piaOGtw
-reviewedAt: '2025-12-11T10:32:14.970Z'
-updatedAt: '2025-12-17T07:51:35.357Z'
-publishedAt: null
-lastLLMUpdateAt: '2025-12-11T10:31:26.115Z'
 format: md
-title: Skapa ny lönekörning
-slug: skapa-ny-lonekorning
-currentVersion: 5
-id: UUtrpWnO9TSTmy20IJ5z
+status: draft
+folderId: S0n4lfJ2K5VQ3piaOGtw
+createdAt: '2025-12-11T10:30:21.636Z'
+updatedAt: '2025-12-18T14:57:02.681Z'
+publishedAt: null
+pendingReview: false
+reviewedAt: '2025-12-11T10:32:14.970Z'
+lastLLMUpdateAt: '2025-12-11T10:31:26.115Z'
+translationBase:
+  en: >-
+    # Skapa en lönekörning
+
+
+    Här lär du dig hur du skapar en ny lönekörning i Spiris
+    **{{resource:Common_Product_Name_Variable_eAccCloudPayroll}}**. Genom att
+    initiera en lönekörning kan du samla in underlag och hantera utbetalningar
+    för både ordinarie löner och extra utbetalningar på ett strukturerat sätt.
+
+
+    ## Instruktion
+
+
+    1. Gå till menyn och välj **Lön**, klicka därefter på **Lönekörningar**.
+
+    2. Klicka på knappen **Ny lönekörning**.
+
+    3. Välj typ av lönekörning i listrutan. Välj **Ordinarie lön** för att hämta
+    kalenderregistreringar och återkommande rader, eller **Extra utbetalning**
+    för att skapa tomma lönebesked (exempelvis för bonus).
+
+    4. Ange en **Beskrivning** för lönekörningen om du vill göra den enklare att
+    identifiera i listan.
+
+    5. Kontrollera **Utbetalningsdatum**. Systemet föreslår ett datum baserat på
+    tidigare körningar, men du kan ändra detta manuellt.
+
+    6. Markera rutan **Importera registreringar** om du vill hämta data från
+    funktioner som **Tid & Projektplanering** eller **Resor & Utlägg**.
+
+    7. Använd filtren för **Löneform** eller **Personalkategori** om du vill
+    begränsa vilka anställda som visas i listan.
+
+    8. Kontrollera att alla anställda som ska ingå i körningen är markerade i
+    listan till vänster.
+
+    9. Klicka på knappen **Skapa**.
+
+
+    ## Tips
+
+    > För att en anställd ska visas i listan måste alla obligatoriska fält i
+    anställningsregistret vara ifyllda. Om en person saknas, kontrollera att
+    personuppgifter och anställningsdatum är korrekt registrerade.
+
+
+    > Om det valda utbetalningsdatumet infaller på en helgdag visas en varning.
+    Se till att välja närmaste bankdag och skicka betalfilen i god tid för att
+    säkerställa att lönen når de anställda i rätt tid.
+
+
+    ## Mer information
+
+    - [Hantera rapporter i Resor & Utlägg]
+
+    - [Löneinställningar]
+languageUpdatedAt:
+  en: '2025-12-18T14:56:01.352Z'
+  sv: '2025-12-18T14:56:01.352Z'
+currentVersion: 6
 metadata:
+  area1: ''
+  area2: ''
   solution: Lön
   productId: Lön
+  guidelineVersions:
+    tone_voice: 1
+    constitution: 1
+    writing_guide: 6
+  targetAudience: []
   tags:
     - update
-  area2: ''
-  targetAudience: []
-  area1: ''
 ---
-# Create a New Payroll Run in Spiris Payroll
+# Create a payroll run
 
-## Overview
-This article describes how to create a new payroll run in Spiris Payroll. By following the steps below, you can easily initiate a payroll run to manage regular salary payments or extra payments.
+Here you will learn how to create a new payroll run in Spiri's **{{resource:Common_Product_Name_Variable_eAccCloudPayroll}}**. By initiating a payroll run, you can collect documentation and manage payments for both regular salaries and extra payments in a structured way.
 
-## Prerequisites
-*   You have access to Spiris Payroll.
-*   All mandatory fields in the employment record for the employees to be included in the payroll run are filled in. For an employee to appear in the list when you create a new payroll run, all mandatory fields in their employment record must be completed.
-*   The employment date for the employees is earlier than or within the current payroll period.
-*   If employees have made registrations in Travel & Expenses, ensure that all expenses for the period are compiled before you create the payroll run.
+## Instructions
 
-## Steps to Create a New Payroll Run
+1. Go to the menu and select **Payroll**, then click on **Payroll runs**.
+2. Click the **New payroll run** button.
+3. Select the type of payroll run from the drop-down list. Select **Regular salary** to retrieve calendar registrations and recurring lines, or **Extra payment** to create empty payslips (for example, for bonuses).
+4. Enter a **Description** for the payroll run if you want to make it easier to identify in the list.
+5. Check the **Payment date**. The system suggests a date based on previous runs, but you can change this manually.
+6. Check the box **Import registrations** if you want to retrieve data from features such as **Time & Project Planning** or **Travel & Expenses**.
+7. Use the filters for **Salary type** or **Staff category** if you want to limit which employees are shown in the list.
+8. Check that all employees to be included in the run are selected in the list on the left.
+9. Click the **Create** button.
 
-1.  **Navigate to Payroll Runs:**
-    *   Select **Payroll** from the menu.
-    *   Then click on **Payroll Runs**.
+## Tips
+> For an employee to appear in the list, all mandatory fields in the employment register must be filled in. If a person is missing, check that personal details and employment dates are correctly registered.
 
-2.  **Start a New Payroll Run:**
-    *   Click the **New Payroll Run** button.
+> If the selected payment date falls on a public holiday, a warning is displayed. Make sure to select the nearest business day and send the payment file in good time to ensure that the salary reaches the employees on time.
 
-3.  **Select Payroll Run Type:**
-    *   Choose either **Regular Salary** or **Extra Payment** from the dropdown list.
-        *   **Regular Salary:** Automatically retrieves all registrations for the current period and data from "Recurring Salary Lines" in the employment record. You can also import registrations from functions such as Employee, Time & Project Planning, and Travel & Expenses by checking "Import Registrations".
-        *   **Extra Payment:** Creates blank payslips for selected employees. This is useful for, for example, bonus payments.
-
-4.  **Enter Description (Optional):**
-    *   You can add a description for the payroll run if you wish.
-
-5.  **Enter Payment Date:**
-    *   Select the date when the salary should be paid to the employees under **Payment Date**. The system suggests a date based on the previous payroll run, but you can change it.
-    *   **Note:** If the selected date falls on a public holiday or weekend, or is far in the future, a warning will be displayed. Ensure the payment file is sent to the bank in time for the payment to be made on the selected date. If the date you normally pay salaries falls on a non-working day, choose the nearest banking day as the payment date.
-
-6.  **Import Registrations (If Needed):**
-    *   If you want to import registrations from other parts of Spiris (e.g., Employee, Time & Project Planning, Travel & Expenses, or Agency Support), check the **Import Registrations** box.
-    *   If you have selected in your payroll settings that registrations should always be imported during a payroll run, this box is already checked. You can uncheck it if you do not want to import registrations for this specific run. You can also import registrations after the payroll run has been created.
-
-7.  **Select Employees:**
-    *   Verify that all employees to be included in the payroll run have a checkmark in the box to the left of their name in the list.
-
-8.  **Create Payroll Run:**
-    *   Click the **Create** button.
-
-The payroll run is now created, and you can proceed with registering and completing the information on the employees' payslips.
-
-## Field Explanations
-
-### Payroll Run Type
-*   **Regular Salary:** When you select **Regular Salary**, all registrations in the calendar for the current period are retrieved, as well as the data found under **Recurring Salary Lines** on the **Salary** tab in the employment record. Registrations made in the Employee, Time & Project Planning, and Travel & Expenses functions can be imported into a **Regular Salary** type payroll run. You retrieve these registrations by clicking **Import Registrations**.
-*   **Extra Payment:** If you select **Extra Payment**, blank payslips are created for employees who have a checkmark in the box to the left. This is useful, for example, if you pay out a bonus to all or some employees once or twice a year.
-
-### Description
-It is optional to provide a description for the payroll run.
-
-### Payment Date
-If the previous payroll run is completed, the payment date is suggested, but you can choose another date. A warning appears if the date falls on a Saturday, Sunday, public holiday, or if it is a date far in the future. Ensure the payment file is sent to the bank in time for the payment to be made on the selected date.
-
-### Import Registrations
-Check **Import Registrations** if you want to import registrations made in Employee, Time & Project Planning, Travel & Expenses, or Agency Support when the payroll run is created. If you have selected in the payroll settings that registrations should be imported with each payroll run, the **Import Registrations** box is checked. You can uncheck the box if you do not want the import to be made for this payroll run. You can also import the registrations after the payroll run has been created.
-
-If you always want to import registrations from add-on services when a new payroll run is created, you can select **Settings - Payroll Settings**, the **Salaries and Payments** tab, and check the box **Import registrations when payroll run is created**.
-
-### Monthly Salary
-This displays the salary and deviation period based on the settings made for the company under **Settings - Payroll Settings**, **Salaries and Payments** tab. Read more in the Payroll Settings section.
-
-### Hourly Wage
-This displays the salary and deviation period based on the settings made for the company under **Settings - Payroll Settings**, **Salaries and Payments** tab. Read more in the Payroll Settings section.
-
-### Salary Form
-Here you can filter the selection by employees with monthly salary or hourly wage. You can combine this choice with personnel category so that, for example, only salaried employees with a monthly salary are included in the payroll run.
-
-### Personnel Category
-Here you can filter the selection by salaried employees or hourly workers. You can combine this choice with salary form so that, for example, only salaried employees with a monthly salary are included in the payroll run.
-
-## Related Articles
-*   [Manage Reports in Travel & Expenses]
-*   [Payroll Settings]
+## More information
+- [Manage reports in Travel & Expenses]
+- [Payroll settings]
