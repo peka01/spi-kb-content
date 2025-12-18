@@ -9,20 +9,24 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T07:54:20.973Z'
-updatedAt: '2025-12-18T07:56:33.005Z'
+updatedAt: '2025-12-18T07:59:06.682Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
+languageUpdatedAt:
+  en: '2025-12-18T07:56:33.005Z'
+  sv: '2025-12-18T07:59:03.719Z'
+currentVersion: 2
+translationBase: {}
 metadata:
-  solution: Skatt & Bokslut
   tags:
     - update
     - general
-  targetAudience: []
-  area2: ''
-  productId: Skatt & Bokslut
   area1: general
+  productId: Skatt & Bokslut
+  area2: ''
+  solution: Skatt & Bokslut
+  targetAudience: []
 ---
 # Reset Company in Tax & Closing
 
