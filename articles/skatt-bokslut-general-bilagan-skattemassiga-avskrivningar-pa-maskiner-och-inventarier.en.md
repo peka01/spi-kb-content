@@ -9,14 +9,14 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-18T10:34:38.255Z'
-updatedAt: '2025-12-18T15:14:04.130Z'
+updatedAt: '2025-12-18T15:14:09.413Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+currentVersion: 4
 languageUpdatedAt:
   sv: '2025-12-18T15:13:04.266Z'
   en: '2025-12-18T15:13:04.266Z'
-currentVersion: 4
 translationBase:
   en: >-
     # Hantera skattemässiga avskrivningar på maskiner och inventarier
@@ -71,18 +71,18 @@ translationBase:
     - Översikt av bilagor i bokslutsmodulen
     **{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}**
 metadata:
-  targetAudience: []
-  area1: general
+  productId: Skatt & Bokslut
   guidelineVersions:
+    tone_voice: 1
     constitution: 1
     writing_guide: 7
-    tone_voice: 1
+  area1: general
+  solution: Skatt & Bokslut
+  area2: ''
   tags:
     - update
     - general
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  area2: ''
+  targetAudience: []
 ---
 # Manage tax depreciation on machinery and equipment
 
