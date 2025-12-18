@@ -9,11 +9,15 @@ format: md
 status: draft
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2025-12-15T15:16:39.161Z'
-updatedAt: '2025-12-18T07:40:38.834Z'
+updatedAt: '2025-12-18T09:28:12.186Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-17T15:22:57.925Z'
 lastLLMUpdateAt: null
+currentVersion: 11
+languageUpdatedAt:
+  sv: '2025-12-18T07:40:36.765Z'
+  en: '2025-12-18T07:40:36.765Z'
 translationBase:
   en: >-
     # Exportera all data för arkivering i
@@ -24,9 +28,9 @@ translationBase:
 
      ![image](../../images/general-exportera-all-data-1765811785522-1765869534013-vwir3.png)
 
-    Nu kan du på ett enkelt sätt spara ner din företagsdata i ett smidigt format
-    som är perfekt för arkivering. Spara dina företagsregister för den tid som
-    lagen kräver, eller behåll en säkerhetskopia för framtiden.
+    Nu kan du som administratör spara din företagsdata i ett smidigt format som
+    är perfekt för arkivering. Spara dina företagsregister för den tid som lagen
+    kräver, eller behåll en säkerhetskopia för framtiden.
 
 
     Datan samlas i en tydlig mappstruktur, sorterad per år och period. Inne i
@@ -58,7 +62,7 @@ translationBase:
     ## Så här gör du
 
 
-    1.  Gå till menyn **Underhåll**.
+    1.  Gå till menyn ****{{resource:Menu_title_Maintenance}}****.
 
     2.  Välj **Exportera data**.
 
@@ -109,18 +113,14 @@ translationBase:
 
     *   [Inställningar för rapporter] (Länk till relevant artikel om
     rapportinställningar)
-languageUpdatedAt:
-  en: '2025-12-18T07:12:17.291Z'
-  sv: '2025-12-18T07:40:36.765Z'
-currentVersion: 10
 metadata:
   targetAudience: []
+  area1: Inställningar
   tags:
     - arkiv
-  area2: ''
-  solution: Skatt & Bokslut
-  area1: Inställningar
   productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  area2: ''
 ---
 # Exportera all data för arkivering i **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
