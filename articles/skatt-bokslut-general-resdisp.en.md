@@ -9,24 +9,25 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-17T15:03:55.931Z'
-updatedAt: '2025-12-18T06:56:20.883Z'
+updatedAt: '2025-12-18T07:44:37.069Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-17T15:26:01.766Z'
 lastLLMUpdateAt: '2025-12-17T15:24:39.618Z'
+currentVersion: 4
+translationBase: {}
 languageUpdatedAt:
-  sv: '2025-12-18T06:56:16.369Z'
   en: '2025-12-18T06:44:17.129Z'
-currentVersion: 3
+  sv: '2025-12-18T07:44:34.832Z'
 metadata:
-  productId: Skatt & Bokslut
   area2: ''
-  area1: general
   solution: Skatt & Bokslut
+  targetAudience: []
+  productId: Skatt & Bokslut
+  area1: general
   tags:
     - update
     - general
-  targetAudience: []
 ---
 # Managing Appropriation of Profit/Loss in the Year-End Closing
 
