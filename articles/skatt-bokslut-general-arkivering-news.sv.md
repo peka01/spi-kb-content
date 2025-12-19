@@ -9,17 +9,14 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-19T09:20:14.259Z'
-updatedAt: '2025-12-19T09:24:58.589Z'
+updatedAt: '2025-12-19T09:25:23.601Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
-languageUpdatedAt:
-  sv: '2025-12-19T09:24:55.930Z'
-  en: '2025-12-19T09:20:14.259Z'
 translationBase:
   en: >-
-    # Nu blir det enklare att arkivera i Skatt & Bokslut
+    # Nu blir det enklare att arkivera i
+    **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
 
     **Vi har uppdaterat funktionen för arkivering i Skatt & Bokslut för att ge
@@ -79,24 +76,28 @@ translationBase:
     gång du går till fliken för arkivering eller ska exportera dokumentation i
     Skatt & Bokslut, kommer den nya logiken och de förbättrade meddelandena att
     finnas där för att hjälpa dig.
+currentVersion: 2
+languageUpdatedAt:
+  sv: '2025-12-19T09:24:55.930Z'
+  en: '2025-12-19T09:24:55.930Z'
 metadata:
-  targetAudience: []
-  solution: Skatt & Bokslut
+  area2: ''
+  productId: Skatt & Bokslut
+  guidelineVersions:
+    tone_voice: 1
+    getting_started: 1
+    article_matching: 1
+    instruction: 7
+    constitution: 1
+    faq: 1
+    news: 2
   tags:
     - update
     - general
     - news
-  area2: ''
+  targetAudience: []
   area1: general
-  guidelineVersions:
-    article_matching: 1
-    faq: 1
-    constitution: 1
-    tone_voice: 1
-    getting_started: 1
-    instruction: 7
-    news: 2
-  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
 ---
 # Nu blir det enklare att arkivera i **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
