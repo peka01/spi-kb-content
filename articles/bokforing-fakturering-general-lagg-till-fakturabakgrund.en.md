@@ -9,7 +9,7 @@ format: md
 status: draft
 folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2025-12-19T10:38:27.493Z'
-updatedAt: '2025-12-19T12:46:05.262Z'
+updatedAt: '2025-12-19T12:46:17.693Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
@@ -75,28 +75,28 @@ translationBase:
     - **Skapa kundfaktura**
 
     - **Företagsinställningar**
-currentVersion: 5
 languageUpdatedAt:
-  en: '2025-12-19T10:38:27.493Z'
   sv: '2025-12-19T12:46:01.949Z'
+  en: '2025-12-19T10:38:27.493Z'
+currentVersion: 5
 metadata:
-  guidelineVersions:
-    getting_started: 2
-    instruction: 7
-    constitution: 1
-    news: 3
-    article_matching: 1
-    tone_voice: 1
-    faq: 1
-  targetAudience: []
-  productId: Bokföring & Fakturering
   tags:
     - update
     - general
     - instruction
+  area2: ''
+  productId: Bokföring & Fakturering
+  targetAudience: []
+  guidelineVersions:
+    faq: 1
+    constitution: 1
+    getting_started: 2
+    tone_voice: 1
+    instruction: 7
+    article_matching: 1
+    news: 3
   solution: Bokföring & Fakturering
   area1: general
-  area2: ''
 ---
 # Use multiple invoice backgrounds for different business activities
 
