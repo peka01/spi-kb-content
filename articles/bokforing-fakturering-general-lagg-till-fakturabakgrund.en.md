@@ -9,14 +9,14 @@ format: md
 status: draft
 folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2025-12-19T10:38:27.493Z'
-updatedAt: '2025-12-19T12:15:22.451Z'
+updatedAt: '2025-12-19T12:36:08.968Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
   en: '2025-12-19T10:38:27.493Z'
-  sv: '2025-12-19T12:15:20.806Z'
-currentVersion: 3
+  sv: '2025-12-19T12:36:01.842Z'
+currentVersion: 4
 translationBase:
   en: >-
     # Använd flera fakturabakgrunder för olika verksamheter
@@ -80,23 +80,23 @@ translationBase:
 
     - **Företagsinställningar**
 metadata:
-  area2: ''
   area1: general
   tags:
     - update
     - general
     - instruction
-  targetAudience: []
-  productId: Bokföring & Fakturering
   solution: Bokföring & Fakturering
+  area2: ''
+  targetAudience: []
   guidelineVersions:
-    constitution: 1
     getting_started: 2
+    constitution: 1
     tone_voice: 1
-    faq: 1
+    article_matching: 1
     instruction: 7
     news: 3
-    article_matching: 1
+    faq: 1
+  productId: Bokföring & Fakturering
 ---
 # Use multiple invoice backgrounds for different business activities
 
