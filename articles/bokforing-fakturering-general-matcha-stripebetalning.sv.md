@@ -7,9 +7,9 @@ format: md
 status: draft
 folderId: null
 publishedAt: null
-createdAt: '2025-12-19T06:22:20.956Z'
-updatedAt: '2025-12-19T06:22:20.956Z'
-id: zvu6kp5k264Sb5DECX9i
+createdAt: '2025-12-19T07:20:57.547Z'
+updatedAt: '2025-12-19T07:20:57.547Z'
+id: TakNjG17LC1cxYU0VnKk
 metadata:
   productId: Bokföring & Fakturering
   solution: Bokföring & Fakturering
@@ -21,21 +21,23 @@ metadata:
     - general
     - instruction
 ---
-# Matcha Stripe-betalningar
+# Matcha din Stripebetalning
 
-När du tar emot betalningar via Stripe vill du att de snabbt och enkelt ska hamna rätt i din bokföring. Med den här funktionen i Spiris kan du matcha dina inbetalningar direkt mot dina kundfakturor, vilket sparar tid och minskar risken för manuellt arbete. Det gör att din ekonomiplattform alltid är uppdaterad och du får bättre kontroll på dina kundinbetalningar.
+När du tar emot betalningar via Stripe underlättar det att matcha dessa direkt i din ekonomiplattform. Genom att koppla ihop utbetalningen från Stripe med dina kundfakturor i Spiris håller du din bokföring uppdaterad och får full kontroll på dina transaktionsavgifter.
 
 ## Så här gör du
 
-1. Navigera till vyn för bankhändelser under menyn för kassa och bank.
-2. Leta upp den utbetalning från Stripe som du vill hantera och klicka på knappen **Matcha**.
-3. Välj om betalningen avser en specifik kundfaktura eller om det är en annan typ av insättning.
-4. Om Stripe har dragit en transaktionsavgift kan du behöva justera beloppet eller lägga till en rad för bankkostnader så att den totala summan stämmer överens med fakturan.
-5. Kontrollera att alla uppgifter stämmer och avsluta genom att klicka på knappen **Bokför**.
+1. Gå till vyn för **Kassa och bankhändelser**.
+2. Leta upp den bankhändelse som avser utbetalningen från Stripe och välj **Matcha**.
+3. Under rubriken **Bokföringshändelse**, välj alternativet **Inbetalning från kundfaktura**.
+4. Sök fram och markera den eller de fakturor som Stripe-betalningen gäller. 
+5. Om beloppet från Stripe är lägre än fakturabeloppet (eftersom Stripe dragit sin avgift), välj **Ny bokföringshändelse** för att hantera mellanskillnaden.
+6. Välj bokföringshändelsen **Bankavgifter** (eller motsvarande kostnadskonto för transaktionsavgifter, exempelvis konto 6570) och ange beloppet för Stripes avgift så att hela transaktionen går jämnt ut.
+7. Avsluta genom att välja **Bokför**.
 
 ## Tips
-> Om du får många betalningar via Stripe är det en god vana att stämma av dessa regelbundet. Det gör att din kundreskontra alltid är korrekt och att du slipper sitta med stora mängder omatchade händelser vid månadsskiftet.
+> För att göra matchningen ännu smidigare kan du stämma av beloppen i ditt Stripe-konto först. På så sätt vet du exakt hur stor transaktionsavgiften är innan du påbörjar bokföringen i Spiris, vilket sparar tid och minskar risken för fel.
 
 ## Mer information
-- Hantera bankavgifter vid matchning
-- Kom igång med kortbetalningar i Spiris
+- Bokför bankavgifter och transaktionskostnader
+- Hantera kundfakturor och inbetalningar
