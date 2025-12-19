@@ -1,67 +1,68 @@
 ---
-id: BtJnb8E7rQz1hnE6iTwR
 title: Dölj korrverifikationer (Faq)
 slug: general-dolj-korrverifikationer-faq
 languages:
   - sv
-  - en
 format: md
 status: draft
 folderId: null
-createdAt: '2025-12-19T08:37:15.040Z'
-updatedAt: '2025-12-19T08:42:42.172Z'
 publishedAt: null
-pendingReview: false
-reviewedAt: '2025-12-19T08:42:42.172Z'
-lastLLMUpdateAt: '2025-12-19T08:42:13.809Z'
-languageUpdatedAt:
-  en: '2025-12-19T08:42:13.809Z'
-  sv: '2025-12-19T08:42:13.809Z'
-translationBase: {}
+createdAt: '2025-12-19T08:43:15.440Z'
+updatedAt: '2025-12-19T08:43:15.440Z'
+id: Qno4c94fpivvUxCmwSFR
 metadata:
+  productId: Bokföring & Fakturering
+  solution: Bokföring & Fakturering
+  area1: general
+  area2: ''
+  targetAudience: []
   tags:
     - update
     - general
     - faq
-  solution: Bokföring & Fakturering
-  area2: ''
-  productId: Bokföring & Fakturering
-  targetAudience: []
-  area1: general
   guidelineVersions:
-    instruction: 7
     faq: 1
-    article_matching: 1
-    news: 2
     constitution: 1
-    tone_voice: 1
     getting_started: 1
+    news: 2
+    article_matching: 1
+    instruction: 7
+    tone_voice: 1
 ---
-# Dölj korrverifikationer i dina rapporter
+# Dölj korrverifikationer i din bokföring
 
-I **Spiris** kan du välja att dölja korrigeringsverifikationer när du skapar dina rapporter. Detta hjälper dig att få en ren och tydlig överblick över din bokföring genom att filtrera bort poster som har rättats, så att de inte tar upp onödig plats i underlaget.
+För att göra din bokföring mer överskådlig och minska bruset i dina rapporter har vi lagt till en funktion som gör det möjligt att dölja korrigeringsverifikationer. Här hittar du svar på de vanligaste frågorna om hur det fungerar i Spiris.
 
-När du korrigerar en verifikation skapas en motverifikation som tar ut den ursprungliga posten. Genom att dölja dessa ser du endast de slutgiltiga och gällande affärshändelserna i din rapport, istället för att både felet och rättelsen visas.
+## Hur döljer jag korrigeringsverifikationer i mina rapporter?
 
-## Så här gör du
+När du skapar rapporter, till exempel en huvudbok, kan du nu välja att filtrera bort verifikationer som har korrigerats. 
 
-1. Gå till den rapport du vill titta på, till exempel **Huvudbok** eller **Lantbruksrapport**.
-2. Leta efter kryssrutan **Dölj korrverifikationer** i urvalet för rapporten.
-3. Markera rutan och välj att visa eller skriva ut rapporten.
+1. Gå till den rapport du vill skapa.
+2. Leta efter kryssrutan **Dölj korrverifikationer** i urvalsmenyn.
+3. Markera rutan och klicka på knappen för att visa eller skriva ut rapporten.
 
-## Vilka verifikationer döljs?
+Nu visas endast de verifikationer som faktiskt påverkar ditt resultat, medan de som tagits ut av en korrigering döljs.
 
-Funktionen döljer verifikationer som är så kallade 1:1-korrigeringar. Det innebär att den ursprungliga verifikationen och korrigeringsverifikationen har exakt samma belopp och konton, men med omvända tecken så att de tar ut varandra helt. 
+## Vilka verifikationer döljs när jag använder funktionen?
 
-Detta omfattar även:
-* Manuella verifikationer som har korrigerats.
-* Korrigeringar av periodiseringar.
+Funktionen är smart nog att identifiera verifikationer som helt tar ut varandra. För att en verifikation ska döljas krävs det att:
 
-Detta är särskilt hjälpsamt när du vill ha en mer lättläst rapport där fokus ligger på de faktiska transaktionerna snarare än den administrativa historiken av rättningar.
+*   Det finns en ursprunglig verifikation och en tillhörande korrigeringsverifikation.
+*   De har exakt samma belopp men med motsatta tecken (debet och kredit har bytt plats).
+*   De är bokförda på samma datum.
 
-## Tips
-> Om du inte ser förväntade värden i din rapport, kontrollera om rutan **Dölj korrverifikationer** är markerad. Ibland kan det vara bra att se hela historiken för att förstå hur en specifik bokföringspost har vuxit fram.
+Om en korrigering bara delvis ändrar en tidigare bokning, eller om den är gjord på ett annat datum, kommer båda verifikationerna fortfarande att synas för att säkerställa att din historik är korrekt och spårbar.
 
-## Mer information
-* [Skapa och skriv ut rapporter](https://example.com/sv-se/help/reports)
-* [Korrigera en verifikation](https://example.com/sv-se/help/correct-voucher)
+## Varför ser jag fortfarande vissa korrigeringar trots att jag valt att dölja dem?
+
+Det beror oftast på att korrigeringen inte är en direkt "spegling" av ursprungsverifikationen. Om du till exempel har korrigerat ett belopp genom att lägga till en ny post, snarare än att vända på hela den gamla posten, räknas det inte som en 1:1-korrigering. 
+
+Spiris döljer endast de verifikationer där nettot av den ursprungliga posten och korrigeringen blir noll på alla rader, för att du aldrig ska råka dölja information som faktiskt påverkar saldot på dina konton.
+
+## Blir bokföringen felaktig om jag döljer dessa poster?
+
+Nej, inte alls! Att dölja korrverifikationer är bara en visuell inställning för att göra det lättare för dig att läsa dina rapporter. Alla verifikationer finns kvar i bakgrunden precis som vanligt, och ditt bokföringsmässiga resultat påverkas inte. Det blir helt enkelt bara lite snyggare och mer lättläst när du vill stämma av dina konton.
+
+### Relaterade länkar
+*   [Skapa huvudbok]
+*   [Korrigera en verifikation]
