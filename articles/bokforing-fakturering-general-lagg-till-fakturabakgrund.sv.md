@@ -9,14 +9,11 @@ format: md
 status: draft
 folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2025-12-19T10:38:27.493Z'
-updatedAt: '2025-12-19T13:08:29.333Z'
+updatedAt: '2025-12-19T13:09:24.054Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 9
-languageUpdatedAt:
-  sv: '2025-12-19T13:02:57.927Z'
-  en: '2025-12-19T10:38:27.493Z'
+currentVersion: 10
 translationBase:
   en: >-
     # Använd flera fakturabakgrunder för olika verksamheter
@@ -79,30 +76,33 @@ translationBase:
     - **Skapa kundfaktura**
 
     - **Företagsinställningar**
+languageUpdatedAt:
+  sv: '2025-12-19T13:09:20.203Z'
+  en: '2025-12-19T10:38:27.493Z'
 metadata:
-  targetAudience: []
-  solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
-  area2: ''
-  area1: general
   tags:
     - update
     - general
     - instruction
+  area2: ''
+  solution: Bokföring & Fakturering
   guidelineVersions:
-    news: 3
-    getting_started: 2
-    constitution: 1
-    article_matching: 1
-    tone_voice: 1
-    instruction: 7
     faq: 1
+    news: 3
+    tone_voice: 1
+    constitution: 1
+    getting_started: 2
+    instruction: 7
+    article_matching: 1
+  targetAudience: []
+  area1: general
+  productId: Bokföring & Fakturering
 ---
 # Använd olika fakturabakgrunder
 
 Om ditt företag har flera olika varumärken eller verksamhetsgrenar under samma organisationsnummer kan du nu enkelt anpassa utseendet på dina dokument. Med den här funktionen kan du ladda upp och välja mellan upp till fem olika bakgrunder för att ge dina fakturor, ordrar och offerter rätt utseende beroende på vad du säljer.
 
-## Slik gör du!
+## Slik gör du
 
 ### Ladda upp och döp en bakgrund
 
