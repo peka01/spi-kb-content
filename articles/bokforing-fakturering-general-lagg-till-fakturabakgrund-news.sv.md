@@ -7,15 +7,15 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2025-12-19T10:38:48.078Z'
-updatedAt: '2025-12-19T10:42:59.618Z'
+updatedAt: '2025-12-19T11:23:17.772Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
-  sv: '2025-12-19T10:42:06.171Z'
   en: '2025-12-19T10:42:06.171Z'
+  sv: '2025-12-19T10:42:06.171Z'
 currentVersion: 1
 translationBase:
   en: >-
@@ -63,22 +63,22 @@ translationBase:
     * **Mobilappen:** Stöd för att välja bakgrund rullas även ut i mobilappen,
     så att du kan sköta din försäljning med rätt profil även på språng.
 metadata:
-  guidelineVersions:
-    faq: 1
-    instruction: 7
-    tone_voice: 1
-    constitution: 1
-    article_matching: 1
-    getting_started: 2
-    news: 3
-  solution: Bokföring & Fakturering
-  targetAudience: []
-  area1: general
-  area2: ''
   tags:
     - update
     - general
     - news
+  guidelineVersions:
+    news: 3
+    faq: 1
+    getting_started: 2
+    constitution: 1
+    instruction: 7
+    tone_voice: 1
+    article_matching: 1
+  solution: Bokföring & Fakturering
+  area2: ''
+  area1: general
+  targetAudience: []
   productId: Bokföring & Fakturering
 ---
 # Nyhet: Nu kan du använda flera olika fakturabakgrunder
