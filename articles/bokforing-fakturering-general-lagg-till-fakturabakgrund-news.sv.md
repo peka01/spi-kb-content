@@ -9,13 +9,10 @@ format: md
 status: draft
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2025-12-19T10:38:48.078Z'
-updatedAt: '2025-12-19T12:07:36.452Z'
+updatedAt: '2025-12-19T12:07:46.512Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2025-12-19T10:42:06.171Z'
-  sv: '2025-12-19T12:07:34.577Z'
 translationBase:
   en: >-
     # Nyhet: Nu kan du använda flera olika fakturabakgrunder
@@ -27,7 +24,7 @@ translationBase:
     utskick.
 
 
-    ### Flexibel profilering
+    ### Anpassa dig!
 
     Du kan ladda upp upp till fem olika bakgrunder för fakturor, offerter och
     ordrar. På så sätt kan du enkelt byta logotyp eller utseende beroende på vad
@@ -61,16 +58,11 @@ translationBase:
 
     * **Mobilappen:** Stöd för att välja bakgrund rullas även ut i mobilappen,
     så att du kan sköta din försäljning med rätt profil även på språng.
-currentVersion: 2
+languageUpdatedAt:
+  sv: '2025-12-19T12:07:34.577Z'
+  en: '2025-12-19T12:07:34.577Z'
+currentVersion: 3
 metadata:
-  guidelineVersions:
-    article_matching: 1
-    constitution: 1
-    getting_started: 2
-    tone_voice: 1
-    instruction: 7
-    news: 3
-    faq: 1
   productId: Bokföring & Fakturering
   targetAudience: []
   area2: ''
@@ -79,6 +71,14 @@ metadata:
     - update
     - general
     - news
+  guidelineVersions:
+    faq: 1
+    news: 3
+    instruction: 7
+    tone_voice: 1
+    article_matching: 1
+    getting_started: 2
+    constitution: 1
   area1: general
 ---
 # Nyhet: Nu kan du använda flera olika fakturabakgrunder
