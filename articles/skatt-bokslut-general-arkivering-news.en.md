@@ -9,17 +9,14 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-19T09:20:14.259Z'
-updatedAt: '2025-12-19T09:24:58.589Z'
+updatedAt: '2025-12-19T09:25:23.601Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
-languageUpdatedAt:
-  sv: '2025-12-19T09:24:55.930Z'
-  en: '2025-12-19T09:20:14.259Z'
 translationBase:
   en: >-
-    # Nu blir det enklare att arkivera i Skatt & Bokslut
+    # Nu blir det enklare att arkivera i
+    **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
 
     **Vi har uppdaterat funktionen för arkivering i Skatt & Bokslut för att ge
@@ -79,30 +76,34 @@ translationBase:
     gång du går till fliken för arkivering eller ska exportera dokumentation i
     Skatt & Bokslut, kommer den nya logiken och de förbättrade meddelandena att
     finnas där för att hjälpa dig.
+currentVersion: 2
+languageUpdatedAt:
+  sv: '2025-12-19T09:24:55.930Z'
+  en: '2025-12-19T09:24:55.930Z'
 metadata:
-  targetAudience: []
-  solution: Skatt & Bokslut
+  area2: ''
+  productId: Skatt & Bokslut
+  guidelineVersions:
+    tone_voice: 1
+    getting_started: 1
+    article_matching: 1
+    instruction: 7
+    constitution: 1
+    faq: 1
+    news: 2
   tags:
     - update
     - general
     - news
-  area2: ''
+  targetAudience: []
   area1: general
-  guidelineVersions:
-    article_matching: 1
-    faq: 1
-    constitution: 1
-    tone_voice: 1
-    getting_started: 1
-    instruction: 7
-    news: 2
-  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
 ---
-# Archiving is now easier in Tax & Year-end
+# Archiving is now easier in **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
-**We have updated the archiving function in Tax & Year-end to give you even better control and clarity in your work. With improved status reporting and smarter selection, it is now easier than ever to ensure that your documentation is correctly saved.**
+**We have updated the archiving function in Tax & Year-end Closing to give you even better control and clarity in your work. With improved status reporting and smarter selections, it is now easier than ever to ensure that your documentation is correctly saved.**
 
-This update is being rolled out now and is available to all users working in Tax & Year-end on Spiri's platform.
+This update is being rolled out now and is available to all users working in Tax & Year-end Closing on the Spiri platform.
 
 ### Full control over your exports
 We know how important it is to be able to trust that all documentation has been archived correctly. Previously, it has been difficult to know if everything was included in an export if a technical obstacle occurred along the way. 
