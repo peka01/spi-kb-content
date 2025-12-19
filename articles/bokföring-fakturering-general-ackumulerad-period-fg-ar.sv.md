@@ -9,7 +9,7 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-19T14:04:23.243Z'
-updatedAt: '2025-12-19T14:07:59.801Z'
+updatedAt: '2025-12-19T14:08:51.467Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
@@ -19,21 +19,21 @@ languageUpdatedAt:
 translationBase: {}
 currentVersion: 1
 metadata:
+  targetAudience: []
+  area2: ''
+  guidelineVersions:
+    news: 3
+    constitution: 1
+    instruction: 7
+    tone_voice: 1
+    faq: 1
+    getting_started: 2
+    article_matching: 1
   solution: Bokföring & Fakturering
   tags:
     - update
     - general
     - instruction
-  area2: ''
-  guidelineVersions:
-    constitution: 1
-    tone_voice: 1
-    instruction: 7
-    article_matching: 1
-    getting_started: 2
-    news: 3
-    faq: 1
-  targetAudience: []
   area1: general
   productId: Bokföring & Fakturering
 ---
