@@ -9,33 +9,33 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-19T14:04:23.243Z'
-updatedAt: '2025-12-19T14:08:51.467Z'
+updatedAt: '2025-12-19T14:10:26.372Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2025-12-19T14:04:23.243Z'
-  sv: '2025-12-19T14:04:23.243Z'
-translationBase: {}
 currentVersion: 1
+translationBase: {}
+languageUpdatedAt:
+  sv: '2025-12-19T14:04:23.243Z'
+  en: '2025-12-19T14:04:23.243Z'
 metadata:
+  productId: Bokföring & Fakturering
   targetAudience: []
   area2: ''
+  solution: Bokföring & Fakturering
   guidelineVersions:
-    news: 3
-    constitution: 1
+    article_matching: 1
     instruction: 7
+    news: 3
     tone_voice: 1
     faq: 1
     getting_started: 2
-    article_matching: 1
-  solution: Bokföring & Fakturering
+    constitution: 1
   tags:
     - update
     - general
     - instruction
   area1: general
-  productId: Bokföring & Fakturering
 ---
 # Jämför ditt resultat med föregående år
 
