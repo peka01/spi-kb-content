@@ -1,39 +1,47 @@
 ---
+id: sgZ358Yjc02gcBYq2TOv
 title: Skapa offert
 slug: general-skapa-offert
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2025-12-19T09:45:16.558Z'
-updatedAt: '2025-12-19T09:45:16.558Z'
-id: sgZ358Yjc02gcBYq2TOv
+updatedAt: '2025-12-19T09:55:54.521Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+languageUpdatedAt:
+  en: '2025-12-19T09:45:16.558Z'
+  sv: '2025-12-19T09:55:51.761Z'
+translationBase: {}
+currentVersion: 1
 metadata:
-  productId: Bokföring & Fakturering
+  guidelineVersions:
+    getting_started: 2
+    tone_voice: 1
+    news: 3
+    faq: 1
+    article_matching: 1
+    constitution: 1
+    instruction: 7
   solution: Bokföring & Fakturering
-  area1: general
   area2: ''
-  targetAudience: []
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
+  targetAudience: []
+  area1: general
+  productId: Bokföring & Fakturering
 ---
 # Skapa en offert
 
-Med funktionen Offert & Order i Spiris får du full kontroll över hela din säljprocess, från första förslaget till färdig orderbekräftelse. Genom att arbeta med offerter ger du dina kunder ett professionellt intryck och kan enkelt följa upp dina affärsmöjligheter direkt i din ekonomiplattform.
+Med funktionen **{{resource:Common_Product_Name_Variable_eAccQuoteOrder}}** i **{{resource:Common_Company_Name_Short}}** får du full kontroll över hela din säljprocess, från första förslaget till färdig orderbekräftelse. Genom att arbeta med offerter ger du dina kunder ett professionellt intryck och kan enkelt följa upp dina affärsmöjligheter direkt i din ekonomiplattform.
 
-Om du inte redan har funktionen aktiverad kan du lägga till den under **Fler funktioner** i menyn till vänster.
+Om du inte redan har funktionen aktiverad kan du lägga till den under ****{{resource:inapp_hdr_selectedAddons}}**** i menyn till vänster.
 
 ## Så här gör du
 
