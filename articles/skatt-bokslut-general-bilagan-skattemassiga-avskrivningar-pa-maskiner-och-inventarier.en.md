@@ -9,10 +9,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-19T07:48:58.816Z'
-updatedAt: '2025-12-19T07:52:17.295Z'
+updatedAt: '2025-12-19T07:53:59.010Z'
 publishedAt: null
+pendingReview: true
 reviewedAt: null
-lastLLMUpdateAt: null
+lastLLMUpdateAt: '2025-12-19T07:53:59.009Z'
 translationBase:
   en: >-
     # Hantera skattemässiga avskrivningar på maskiner och inventarier
@@ -61,28 +62,28 @@ translationBase:
     - Arbeta med bilagor i bokslutet
 
     - Grundläggande regler för avskrivningar på inventarier
-languageUpdatedAt:
-  sv: '2025-12-19T07:50:53.069Z'
-  en: '2025-12-19T07:50:53.069Z'
 currentVersion: 1
+languageUpdatedAt:
+  en: '2025-12-19T07:50:53.069Z'
+  sv: '2025-12-19T07:50:53.069Z'
 metadata:
-  solution: Skatt & Bokslut
   area2: ''
-  targetAudience: []
   tags:
     - update
     - general
     - instruction
   productId: Skatt & Bokslut
+  targetAudience: []
+  area1: general
   guidelineVersions:
-    instruction: 7
-    faq: 1
     news: 2
     getting_started: 1
     article_matching: 1
-    constitution: 1
+    faq: 1
     tone_voice: 1
-  area1: general
+    instruction: 7
+    constitution: 1
+  solution: Skatt & Bokslut
 ---
 # Manage tax depreciation on machinery and equipment
 
