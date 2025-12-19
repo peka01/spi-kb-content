@@ -1,36 +1,41 @@
 ---
-status: draft
-publishedAt: null
-format: md
-slug: general-dolj-korrverifikationer-faq
-updatedAt: '2025-12-19T08:42:13.809Z'
-createdAt: '2025-12-19T08:37:15.040Z'
-lastLLMUpdateAt: '2025-12-19T08:42:13.809Z'
-folderId: null
+id: BtJnb8E7rQz1hnE6iTwR
 title: Dölj korrverifikationer (Faq)
+slug: general-dolj-korrverifikationer-faq
 languages:
   - sv
+  - en
+format: md
+status: draft
+folderId: null
+createdAt: '2025-12-19T08:37:15.040Z'
+updatedAt: '2025-12-19T08:42:31.303Z'
+publishedAt: null
 pendingReview: true
 reviewedAt: null
-id: BtJnb8E7rQz1hnE6iTwR
+lastLLMUpdateAt: '2025-12-19T08:42:13.809Z'
+translationBase: {}
+languageUpdatedAt:
+  sv: '2025-12-19T08:42:13.809Z'
+  en: '2025-12-19T08:42:13.809Z'
 metadata:
-  guidelineVersions:
-    getting_started: 1
-    tone_voice: 1
-    article_matching: 1
-    instruction: 7
-    constitution: 1
-    news: 2
-    faq: 1
-  area1: general
+  productId: Bokföring & Fakturering
   tags:
     - update
     - general
     - faq
-  productId: Bokföring & Fakturering
-  area2: ''
-  targetAudience: []
   solution: Bokföring & Fakturering
+  targetAudience: []
+  guidelineVersions:
+    faq: 1
+    getting_started: 1
+    tone_voice: 1
+    news: 2
+    instruction: 7
+    article_matching: 1
+    constitution: 1
+  area1: general
+  area2: ''
 ---
 # Dölj korrverifikationer i dina rapporter
 
