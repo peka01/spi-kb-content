@@ -9,11 +9,14 @@ format: md
 status: draft
 folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2025-12-19T10:38:27.493Z'
-updatedAt: '2025-12-19T13:09:24.054Z'
+updatedAt: '2025-12-19T13:28:45.551Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 10
+currentVersion: 11
+languageUpdatedAt:
+  sv: '2025-12-19T13:28:11.831Z'
+  en: '2025-12-19T10:38:27.493Z'
 translationBase:
   en: >-
     # Använd flera fakturabakgrunder för olika verksamheter
@@ -76,27 +79,24 @@ translationBase:
     - **Skapa kundfaktura**
 
     - **Företagsinställningar**
-languageUpdatedAt:
-  sv: '2025-12-19T13:09:20.203Z'
-  en: '2025-12-19T10:38:27.493Z'
 metadata:
+  area1: general
+  targetAudience: []
+  area2: ''
+  solution: Bokföring & Fakturering
   tags:
     - update
     - general
     - instruction
-  area2: ''
-  solution: Bokföring & Fakturering
-  guidelineVersions:
-    faq: 1
-    news: 3
-    tone_voice: 1
-    constitution: 1
-    getting_started: 2
-    instruction: 7
-    article_matching: 1
-  targetAudience: []
-  area1: general
   productId: Bokföring & Fakturering
+  guidelineVersions:
+    article_matching: 1
+    instruction: 7
+    faq: 1
+    getting_started: 2
+    news: 3
+    constitution: 1
+    tone_voice: 1
 ---
 # Use multiple invoice backgrounds for different business activities
 
