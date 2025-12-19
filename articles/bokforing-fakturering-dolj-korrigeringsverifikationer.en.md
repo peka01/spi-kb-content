@@ -9,11 +9,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-16T08:45:06.743Z'
-updatedAt: '2025-12-18T15:12:21.631Z'
+updatedAt: '2025-12-19T06:32:47.650Z'
 publishedAt: null
-pendingReview: false
-reviewedAt: '2025-12-18T10:30:11.880Z'
-lastLLMUpdateAt: '2025-12-18T10:29:34.119Z'
+pendingReview: true
+reviewedAt: null
+lastLLMUpdateAt: '2025-12-19T06:32:47.650Z'
 translationBase:
   en: >-
     # Dölj korrigeringsverifikationer
@@ -66,23 +66,23 @@ translationBase:
     - [Inställningar för bokföring]
 
     - [Korrigera ett bokfört verifikat]
-currentVersion: 21
 languageUpdatedAt:
   sv: '2025-12-18T15:11:20.579Z'
   en: '2025-12-18T15:11:20.579Z'
+currentVersion: 21
 metadata:
-  solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
   area1: Bokföring
-  targetAudience: []
   tags:
     - update
     - general
-  area2: ''
+  productId: Bokföring & Fakturering
   guidelineVersions:
-    tone_voice: 1
-    writing_guide: 7
     constitution: 1
+    writing_guide: 7
+    tone_voice: 1
+  area2: ''
+  solution: Bokföring & Fakturering
+  targetAudience: []
 ---
 # Hide correction vouchers
 
