@@ -7,12 +7,16 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2025-12-19T09:45:16.558Z'
-updatedAt: '2025-12-19T10:45:24.158Z'
+updatedAt: '2025-12-19T11:22:30.674Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+languageUpdatedAt:
+  sv: '2025-12-19T09:55:51.761Z'
+  en: '2025-12-19T09:55:51.761Z'
+currentVersion: 2
 translationBase:
   en: >-
     # Skapa en offert
@@ -81,28 +85,24 @@ translationBase:
     - **Resultatenheter:** Om du använder resultatenheter eller kostnadsbärare
     kan du ange dessa för hela dokumentet i huvudet, eller per rad om de ska
     fördelas olika.
-currentVersion: 2
-languageUpdatedAt:
-  en: '2025-12-19T09:55:51.761Z'
-  sv: '2025-12-19T09:55:51.761Z'
 metadata:
-  targetAudience: []
-  productId: Bokföring & Fakturering
-  area2: ''
+  guidelineVersions:
+    tone_voice: 1
+    faq: 1
+    article_matching: 1
+    instruction: 7
+    getting_started: 2
+    news: 3
+    constitution: 1
   tags:
     - update
     - general
     - instruction
   area1: general
+  targetAudience: []
+  productId: Bokföring & Fakturering
+  area2: ''
   solution: Bokföring & Fakturering
-  guidelineVersions:
-    getting_started: 2
-    constitution: 1
-    news: 3
-    article_matching: 1
-    faq: 1
-    tone_voice: 1
-    instruction: 7
 ---
 # Skapa en offert
 
