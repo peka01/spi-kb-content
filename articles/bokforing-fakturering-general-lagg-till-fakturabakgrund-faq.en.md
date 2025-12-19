@@ -7,9 +7,9 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: i0H96CscyRcGsDArAK9Q
 createdAt: '2025-12-19T10:38:38.060Z'
-updatedAt: '2025-12-19T10:43:50.640Z'
+updatedAt: '2025-12-19T11:23:47.963Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
@@ -97,26 +97,26 @@ translationBase:
     * [Inställningar för utskrift](#)
 currentVersion: 1
 languageUpdatedAt:
-  en: '2025-12-19T10:38:38.060Z'
   sv: '2025-12-19T10:38:38.060Z'
+  en: '2025-12-19T10:38:38.060Z'
 metadata:
-  productId: Bokföring & Fakturering
+  targetAudience: []
+  guidelineVersions:
+    faq: 1
+    constitution: 1
+    news: 3
+    tone_voice: 1
+    article_matching: 1
+    instruction: 7
+    getting_started: 2
+  area1: general
+  area2: ''
   tags:
     - update
     - general
     - faq
-  area1: general
-  targetAudience: []
   solution: Bokföring & Fakturering
-  guidelineVersions:
-    news: 3
-    tone_voice: 1
-    getting_started: 2
-    constitution: 1
-    faq: 1
-    instruction: 7
-    article_matching: 1
-  area2: ''
+  productId: Bokföring & Fakturering
 ---
 # Frequently Asked Questions about Invoice Backgrounds
 
