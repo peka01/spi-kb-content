@@ -9,41 +9,42 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-19T08:14:54.012Z'
-updatedAt: '2025-12-19T08:17:54.386Z'
+updatedAt: '2025-12-19T08:31:45.818Z'
 publishedAt: null
+pendingReview: true
 reviewedAt: null
-lastLLMUpdateAt: null
-translationBase: {}
+lastLLMUpdateAt: '2025-12-19T08:31:45.818Z'
 currentVersion: 1
 languageUpdatedAt:
-  sv: '2025-12-19T08:17:37.649Z'
   en: '2025-12-19T08:14:54.012Z'
+  sv: '2025-12-19T08:17:37.649Z'
+translationBase: {}
 metadata:
-  targetAudience: []
-  area2: ''
-  guidelineVersions:
-    article_matching: 1
-    instruction: 7
-    getting_started: 1
-    tone_voice: 1
-    news: 2
-    constitution: 1
-    faq: 1
   tags:
     - update
     - general
     - instruction
-  productId: Bokföring & Fakturering
-  area1: general
   solution: Bokföring & Fakturering
+  productId: Bokföring & Fakturering
+  guidelineVersions:
+    news: 2
+    instruction: 7
+    constitution: 1
+    tone_voice: 1
+    article_matching: 1
+    getting_started: 1
+    faq: 1
+  area2: ''
+  area1: general
+  targetAudience: []
 ---
 # Dölj korrigerade verifikationer i din bokföring
 
 I Spiris kan du göra din bokföringsöversikt och dina rapporter mer lättlästa genom att dölja korrigeringsverifikationer. Denna funktion hjälper dig att filtrera bort felaktiga poster och deras tillhörande rättningar, så att du kan fokusera på de faktiska affärshändelserna.
 
-När du arbetar med rapporter, till exempel huvudboken, kan du välja att rensa vyn från verifikationer som har blivit helt utjämnade av en korrigering.
+När du arbetar med rapporter, till exempel huvudboken, kan du välja att rensa vyn från verifikationer som har blivit helt utjämnade av en korrigering. Detta gäller både för manuella verifikationer och korrigerade periodiseringar.
 
-## Så döljer du korrverifikationer i rapporter
+## Så här gör du
 
 Följ dessa steg för att filtrera bort korrigerade poster i dina rapporter:
 
@@ -54,9 +55,10 @@ Följ dessa steg för att filtrera bort korrigerade poster i dina rapporter:
 
 Nu visas endast de verifikationer som faktiskt påverkar ditt resultat och din balans, medan de korrigerade posterna döljs i listan.
 
-> [!NOTE]
-> För att en verifikation ska döljas krävs det att korrigeringen är en direkt spegling av originalet (samma belopp och konton men i omvänd ordning) och att de har samma datum. Detta säkerställer att din bokföring förblir balanserad och korrekt när du granskar rapporten.
+## Viktigt att veta
+> För att en verifikation ska döljas krävs det att korrigeringen är en direkt 1:1-spegling av originalet. Det innebär att det ska vara samma belopp och konton men i omvänd ordning, samt att de har samma datum. Funktionen omfattar nu även korrigeringar som rör periodiseringar. Detta säkerställer att din bokföring förblir balanserad och korrekt när du granskar rapporten.
 
-## Relaterade artiklar
+## Mer information
 - **Korrigera en verifikation**
 - **Arbeta med huvudboken**
+- **Periodisera verifikationer**
