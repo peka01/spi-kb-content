@@ -1,4 +1,5 @@
 ---
+id: RHT5rfszjRr4C5qPqGV1
 title: ggr
 slug: general-ggr
 languages:
@@ -6,32 +7,34 @@ languages:
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2025-12-21T15:19:08.295Z'
-updatedAt: '2025-12-21T15:19:08.295Z'
-id: RHT5rfszjRr4C5qPqGV1
+updatedAt: '2025-12-21T15:27:24.571Z'
+publishedAt: null
+pendingReview: true
+reviewedAt: null
+lastLLMUpdateAt: '2025-12-21T15:27:24.571Z'
 metadata:
-  productId: Skatt & Bokslut
   solution: Skatt & Bokslut
   area1: general
-  area2: ''
+  productId: Skatt & Bokslut
   targetAudience: []
   tags:
     - update
     - general
     - instruction
+  area2: ''
   guidelineVersions:
-    faq: 1
-    constitution: 1
     getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
     tone_voice: 1
+    faq: 1
+    instruction: 7
+    news: 3
+    constitution: 1
+    article_matching: 1
 ---
 # Exportera och arkivera företagets data
 
-I Spiris kan du enkelt exportera all data från dina räkenskapsår för att spara och arkivera dem lokalt. Denna funktion hjälper dig att uppfylla lagkrav på arkivering och säkerställer att du har en organiserad säkerhetskopia av företagets alla dokument och kontroller.
+I Spiris kan du enkelt exportera all data från dina räkenskapsår för att spara och arkivera dem lokalt. Denna funktion hjälper dig att uppfylla lagkrav på arkivering och säkerställer att du har en organiserad säkerhetskopia av företagets alla dokument och kontroller. Funktionen är tillgänglig för dig som använder Skatt & Bokslut, oavsett om du har ett aktivt abonnemang eller om du befinner dig i ett läsläge.
 
 När du gör en export skapas en zip-fil med en tydlig mappstruktur. Varje år får en egen mapp, och inuti dessa hittar du undermappar för varje period som innehåller alla relevanta PDF-dokument.
 
@@ -39,18 +42,18 @@ När du gör en export skapas en zip-fil med en tydlig mappstruktur. Varje år f
 
 1. Gå till menyn och välj **Underhåll**.
 2. Klicka på **Exportera data**.
-3. Välj de år du vill exportera genom att markera rutorna i listan. Vill du exportera allt på en gång markerar du rutan **Alla år**.
-4. Klicka på knappen för att starta exporten. Knappen blir inaktiv medan processen pågår för att förhindra dubbla exporter.
-5. Du kan följa förloppet via en statusmätare. När exporten är klar laddas en zip-fil ner till din dator.
+3. Välj de år du vill exportera genom att markera rutorna i listan. Om du vill exportera samtliga år markerar du rutan **Alla år**, vilket automatiskt väljer alla tillgängliga år i listan.
+4. Klicka på knappen för att starta exporten. Knappen blir inaktiv medan processen pågår för att förhindra att flera exporter startas samtidigt.
+5. Du kan följa förloppet via en statusmätare. När exporten är klar laddas en zip-fil ner till din dator och ett bekräftelsemeddelande visas.
 
 ## Tips
-> **Vilka perioder kommer med?** För att hålla din arkivering relevant inkluderas endast perioder där det finns utförda kontroller, kontomarkeringar eller kommentarer. Tomma perioder utan aktivitet lämnas utanför exporten.
+> **Håll koll på innehållet:** Om du är osäker på exakt vad exporten innehåller kan du hålla muspekaren över informationssymbolen (tooltip) vid valet för dokumentation. Där ser du en beskrivning av innehållet och att filen levereras i zip-format.
 
 ## Bra att veta
-*   **Filformat:** All dokumentation exporteras som PDF-filer som är färdiga för utskrift eller digital arkivering.
-*   **Mappstruktur:** Filerna sorteras automatiskt (År > Period > PDF-dokument), vilket gör det enkelt att hitta rätt i efterhand.
-*   **Om något går fel:** Skulle en enskild fil inte kunna skapas får du ett meddelande om att rapporten delvis misslyckades, men du får fortfarande resten av materialet. Systemet visar tydligt vilket dokument det gäller så att du kan kontrollera det manuellt.
-*   **Information:** Håll muspekaren över informationssymbolen vid exportvalet för att se exakt vad rapporten innehåller och hur filen levereras.
+*   **Vilka perioder kommer med?** För att hålla din arkivering relevant inkluderas endast perioder där det finns utförda kontroller, kontomarkeringar eller kommentarer. Tomma perioder utan aktivitet lämnas utanför exporten.
+*   **Filformat och struktur:** All dokumentation exporteras som PDF-filer som är färdiga för utskrift eller digital arkivering. Filerna sorteras automatiskt i mappar (År > Period > PDF-dokument), vilket gör det enkelt att hitta rätt i efterhand.
+*   **Om något går fel:** Skulle en enskild fil inte kunna skapas (exempelvis på grund av ett ovanligt filformat) får du ett meddelande om att rapporten delvis misslyckades. I zip-filen ersätts det dokument som inte kunde skapas med en vit sida som förklarar vilken fil det gäller och vad som gick fel, så att du kan kontrollera detta manuellt.
+*   **Tillgänglighet:** Funktionen är tillgänglig för både aktiva användare och för dig som har läsrättigheter till plattformen.
 
 ## Mer information
 - Arkivering av räkenskapsår
