@@ -7,9 +7,9 @@ format: md
 status: draft
 folderId: null
 publishedAt: null
-createdAt: '2025-12-22T14:59:54.440Z'
-updatedAt: '2025-12-22T14:59:54.440Z'
-id: Lqfmul0kYDlQbGhiALWY
+createdAt: '2025-12-22T15:03:59.637Z'
+updatedAt: '2025-12-22T15:03:59.637Z'
+id: iceRfac2jCJ5XjeOIpiC
 metadata:
   productId: Skatt & Bokslut
   solution: Skatt & Bokslut
@@ -29,27 +29,34 @@ metadata:
     instruction: 7
     tone_voice: 1
 ---
-Här hittar du svar på de vanligaste frågorna gällande de senaste uppdateringarna i Spiris Skatt & Bokslut, med fokus på förbättrad hantering av koncernredovisning, verifikationer och integrationer.
+Här hittar du svar på de vanligaste frågorna om den nya integrationen mellan Fortnox och Spiris Skatt & Bokslut.
 
-## Varför visas en varning om valutaformat när jag skapar en ny period i koncernredovisningen?
-För att säkerställa att dina finansiella rapporter blir korrekta och konsekventa har vi lagt till en kontroll av valutaformatet. När du skapar en ny period i din koncernredovisning känner plattformen av om det valda valutaformatet skiljer sig från föregående period. 
+## Vad innebär integrationen med Fortnox?
+Integrationen gör det möjligt för dig att koppla ihop Fortnox direkt med Spiris Skatt & Bokslut. Det innebär att du slipper hantera manuella SIE-filer när du ska importera bokföringsdata. Istället hämtas informationen smidigt och säkert direkt via ett digitalt flöde, vilket sparar tid och minskar risken för fel.
 
-Om en skillnad upptäcks visas en varningsruta. Detta är till för att förhindra att siffror tolkas felaktigt i de sammanställda rapporterna. Du kan då välja att korrigera formatet direkt eller gå vidare om ändringen är avsiktlig.
+## Vilken information kan jag överföra mellan plattformarna?
+I den första versionen av integrationen kan du:
+*   Importera bokföringsdata (motsvarande en SIE4-fil) direkt från Fortnox.
+*   Hämta underlag för kund- och leverantörsreskontra till dina bilagor.
+*   Exportera färdiga verifikationer från Skatt & Bokslut tillbaka till Fortnox.
 
-## Kan jag redigera verifikationer som kommer från externa funktioner?
-Ja, vi har gjort det enklare att hantera systemgenererade verifikationer (till exempel de som kommer via avstämningar). Du kan nu redigera dessa verifikationer under förutsättning att de ännu inte har förts över till ditt ekonomisystem. 
+## Hur kommer jag igång och kopplar ihop mitt abonnemang?
+För att aktivera kopplingen går du till vyn för import av data i Skatt & Bokslut. Under valet för importkälla väljer du nu **Fortnox**. 
 
-Om verifikationen har statusen **Ej överförd** eller **Intern** kan du göra justeringar direkt i vyn för **Manuella verifikationer**. När överföringen väl är genomförd låses verifikationen för redigering för att bibehålla spårbarheten mellan Spiris och ditt bokföringsprogram.
+När du väljer detta kommer du att få logga in och godkänna kopplingen hos Fortnox. När anslutningen är klar kan du börja hämta data direkt till ditt bokslut eller din periodavstämning.
 
-## Vad innebär uppdateringen för importen från Fortnox?
-Vi har optimerat hur information från externa källor, som Fortnox, läses in och presenteras i plattformen. Uppdateringen innebär bland annat:
-*   Tydligare namngivning av importkällor i listor och dialogrutor.
-*   Stabilare synkronisering av räkenskapsår och perioder.
-*   Förbättrad felhantering vid import, vilket gör det lättare att se om något behöver åtgärdas i källdata.
+## Kan jag skicka tillbaka verifikationer till Fortnox?
+Ja, det går jättebra. När du har gjort dina justeringar eller bokslutsdispositioner i Skatt & Bokslut kan du välja att exportera dessa som verifikationer direkt till Fortnox. Du hittar detta alternativ under funktionen för export av data, förutsatt att du har valt Fortnox som din aktiva importkälla.
 
-## Hur påverkas borttagning av byråkonton?
-För administratörer som hanterar stora byråstrukturer har vi förbättrat säkerheten och logiken vid borttagning av konton. När ett byråkontor tas bort säkerställer plattformen nu att alla kopplingar och identiteter hanteras korrekt i bakgrunden. Detta minskar risken för att kvarliggande data skapar problem vid framtida uppsättningar och ger en renare datastruktur för hela byrån.
+## Vad händer om importen misslyckas?
+Om något skulle gå fel under överföringen visas ett tydligt meddelande i plattformen. Du kan då se statusen för importen i aktivitetsloggen. Vanliga orsaker kan vara att kopplingen till Fortnox behöver förnyas eller att det saknas rättigheter i något av kontona.
 
-## Relaterade länkar
-*   Läs mer om hur du arbetar med koncernredovisning i vår kom-igång-guide.
-*   Se instruktioner för hur du importerar data från Fortnox under inställningar för import.
+## Behöver jag betala något extra för integrationen?
+Integrationen ingår som en del av funktionerna i ditt befintliga abonnemang för Skatt & Bokslut. Tänk dock på att du kan behöva ha rätt behörigheter eller tillgång till API-funktioner i ditt Fortnox-konto för att kopplingen ska fungera.
+
+---
+
+### Relaterade länkar
+* [Kom igång med import från Fortnox](#)
+* [Arbeta med bilagor och underlag](#)
+* [Exportera verifikationer till ditt bokföringsprogram](#)
