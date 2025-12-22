@@ -7,9 +7,9 @@ format: md
 status: draft
 folderId: null
 publishedAt: null
-createdAt: '2025-12-22T15:00:06.315Z'
-updatedAt: '2025-12-22T15:00:06.315Z'
-id: XcfQgGCWrZbCVYodZm76
+createdAt: '2025-12-22T15:04:11.335Z'
+updatedAt: '2025-12-22T15:04:11.335Z'
+id: 1PkGYD3xbZarjnEzwzo2
 metadata:
   productId: Skatt & Bokslut
   solution: Skatt & Bokslut
@@ -29,27 +29,23 @@ metadata:
     instruction: 7
     tone_voice: 1
 ---
-# Nyheter i Spiris: Smidigare arbetsflöden i Skatt & Bokslut
+# Nyhet: Nu kan du koppla Skatt & Bokslut direkt till Fortnox!
 
-**Vi arbetar ständigt med att göra Spiris Skatt & Bokslut ännu mer intuitivt och träffsäkert. I den senaste uppdateringen har vi fokuserat på att ge dig bättre kontroll över koncernredovisningen och en renare hantering av verifikationer. Här är de viktigaste förbättringarna som hjälper dig i ditt dagliga arbete.**
+**Vi lanserar nu en efterlängtad direktintegration mellan Skatt & Bokslut och Fortnox. Det innebär att du kan hämta bokföringsdata och skicka tillbaka verifikationer utan att behöva hantera filer manuellt – en nyhet som gör ditt arbete effektivare och ger dig bättre kontroll.**
 
-Denna uppdatering innehåller flera optimeringar som ökar säkerheten i din databearbetning och minskar risken för manuella fel. Förändringarna är nu tillgängliga för alla användare av Skatt & Bokslut.
+Nu tar vi nästa steg för att göra vardagen ännu enklare för dig som arbetar med bokslut och skatt i **Spiris** plattform. För dig som använder Fortnox för den löpande bokföringen finns nu en smidig och direkt koppling som sparar både tid och minskar risken för manuella fel.
 
-### Tryggare valutahantering i koncernredovisningen
-För dig som arbetar med koncernredovisning har vi lagt till en extra säkerhetsspärr. När du skapar en ny period i koncernstrukturen kontrollerar plattformen nu automatiskt om inställningarna för valutaformat stämmer överens med den föregående perioden.
+### Slipp krångel med filer
+Tidigare har du ofta behövt exportera SIE-filer från ett ställe för att sedan ladda upp dem på ett annat. Med den nya integrationen flyttar vi datan digitalt med några enkla klick. Det innebär mindre administration och mer tid till det som faktiskt är viktigt – att analysera siffrorna och ge goda råd.
 
-Om formatet skiljer sig åt får du en tydlig varning. Detta är särskilt viktigt eftersom avvikelser i valutaformatet kan påverka hur siffrorna presenteras i de finansiella rapporterna. Genom denna förbättring kan du känna dig trygg med att din historik och dina nuvarande siffror alltid är synkroniserade.
+### Det här innehåller integrationen:
+*   **Smidig import av bokföring:** Hämta din SIE4-data direkt från Fortnox in i Skatt & Bokslut.
+*   **Stöd för reskontra:** Integrationen hanterar även underlag för kund- och leverantörsreskontra, vilket gör att dina bilagor blir mer kompletta från start.
+*   **Export av verifikationer:** När du har gjort dina bokslutsjusteringar kan du skicka tillbaka verifikationerna direkt till Fortnox.
 
-### Förbättrad logik för systemverifikationer
-Vi har förfinat hur systemverifikationer hanteras i plattformen. Genom att städa upp i logiken kring verifikationstyper blir det nu enklare att exportera och redigera rätt underlag. 
+### Så kommer du igång
+Det är enkelt att aktivera kopplingen. Du hittar de nya inställningarna under fliken för import av data i Skatt & Bokslut. Där väljer du Fortnox som källa och följer de enkla stegen för att logga in och godkänna kopplingen. 
 
-*   **Tydligare export:** Vid export av verifikationer är källhänvisningen nu mer exakt, vilket underlättar när du behöver stämma av data mellan olika funktioner.
-*   **Smartare redigering:** Plattformen har blivit bättre på att känna igen när en systemverifikation kan redigeras och när den bör förbli låst för att skydda dataintegriteten.
+När kopplingen väl är på plats kan du framöver hämta aktuella siffror när du vill under arbetets gång.
 
-### Stabilare plattform för byråer
-Bakom kulisserna har vi även genomfört tekniska förbättringar som rör hanteringen av redovisningsbyråer och deras klientbolag. För dig som administratör innebär detta en stabilare upplevelse när du hanterar konton och organisationsstrukturer. Vi har även optimerat prestandan i gränssnittet, bland annat genom förbättrad hantering av hur du navigerar med tangentbordet i olika formulär.
-
-### Vad behöver jag göra?
-Du behöver inte göra någonting – uppdateringarna finns redan på plats nästa gång du loggar in i Spiris. 
-
-Vårt mål är att du ska lägga mindre tid på att oroa dig för tekniska detaljer och mer tid på att ge dina kunder värdefull rådgivning. Vi hoppas att dessa förbättringar gör din arbetsdag lite enklare!
+Vi på **Spiris** jobbar ständigt för att din arbetsdag ska bli mer sammanhängande och stressfri. Vi hoppas att denna integration blir ett välkommet tillskott i ditt arbetsflöde!
