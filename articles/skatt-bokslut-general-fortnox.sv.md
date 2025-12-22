@@ -7,9 +7,9 @@ format: md
 status: draft
 folderId: null
 publishedAt: null
-createdAt: '2025-12-22T14:59:41.884Z'
-updatedAt: '2025-12-22T14:59:41.884Z'
-id: 9pwspcm8RXPk6LGzZwXx
+createdAt: '2025-12-22T15:03:50.138Z'
+updatedAt: '2025-12-22T15:03:50.138Z'
+id: 4oYNqsDowaCxenJV8me3
 metadata:
   productId: Skatt & Bokslut
   solution: Skatt & Bokslut
@@ -29,32 +29,31 @@ metadata:
     instruction: 7
     tone_voice: 1
 ---
-# Hantera Fortnox-data och valutaformat i Skatt & Bokslut
+# Integrera Spiris med Fortnox
 
-I Spiris strävar vi efter att göra ditt arbete med bokslut och skatt så smidigt och tryggt som möjligt. Vi har nu uppdaterat plattformen för att ge dig bättre kontroll över valutaformat och verifikationer när du arbetar med data från externa system som Fortnox. Detta hjälper dig att undvika felaktigheter i din koncernredovisning och säkerställer att dina siffror alltid är konsekventa.
+Genom att koppla ihop din ekonomiplattform i Spiris med Fortnox kan du arbeta mer effektivt med ditt bokslut och din skatteberäkning. Integrationen gör det möjligt att hämta bokföringsdata direkt, hantera bilagor för kund- och leverantörsreskontra samt skicka tillbaka verifikationer till Fortnox. Detta minskar det manuella arbetet och säkerställer att du alltid arbetar med rätt siffror.
 
 ## Så här gör du
 
-### Kontrollera valutaformat vid ny period
-När du skapar en ny period för en koncern kontrollerar Spiris nu automatiskt om det valda valutaformatet stämmer överens med hur det såg ut i den föregående perioden.
+Följ dessa steg för att aktivera kopplingen och hämta data från Fortnox:
 
-1. Navigera till **Koncernstruktur** i menyn.
-2. Välj att skapa en ny period genom att klicka på knappen för ny period.
-3. Om det valda valutaformatet (exempelvis SEK eller EUR) skiljer sig från den tidigare perioden, visas nu en tydlig varningsruta i rött eller gult.
-4. Granska informationen i varningen för att säkerställa att ändringen är avsiktlig innan du går vidare och sparar den nya perioden.
+1. Navigera till vyn för **Underhåll** och välj fliken **Import**.
+2. Under rubriken **Importkälla**, välj alternativet **Fortnox** i rullistan.
+3. Klicka på knappen **Anslut**. Du skickas nu till Fortnox inloggningssida.
+4. Logga in med dina uppgifter hos Fortnox och godkänn att Spiris får åtkomst till din data.
+5. När du har skickats tillbaka till Spiris kan du välja vilka delar du vill hämta, exempelvis **SIE4-data** eller **Kund- och leverantörsreskontra**.
+6. Klicka på **Importera data** för att påbörja överföringen.
 
-### Hantera systemverifikationer
-Vi har förbättrat logiken för hur verifikationer som hämtas från externa källor (exempelvis via Fortnox eller Recon) hanteras i listvyerna.
+När du är klar med dina justeringar i Spiris kan du även skicka tillbaka information:
 
 1. Gå till modulen för **Verifikationer**.
-2. För verifikationer som har status **Ej överförd** kan du nu enklare se ursprungskällan.
-3. Om verifikationen kommer från ett undersystem och ännu inte har låsts för export, kan du i vissa fall redigera informationen direkt genom att klicka på raden i listan.
-4. Kontrollera statusfältet för att se om verifikationen är markerad som **Intern** eller redo att föras över till ditt ekonomisystem.
+2. Markera de verifikationer du vill föra över till Fortnox.
+3. Klicka på knappen **Exportera till Fortnox**.
 
 ## Tips
-> Var extra uppmärksam på varningsmeddelanden vid periodskapande. Om du av misstag byter valutaformat kan det påverka jämförelsetal och summeringar i dina finansiella rapporter.
+> För att integrationen ska fungera smidigt är det bra om du har rätt behörigheter i ditt Fortnox-abonnemang för att tillåta externa kopplingar (API-åtkomst). Om du byter importkälla från en annan tjänst till Fortnox, tänk på att kontrollera att dina kontomappningar stämmer överens.
 
 ## Mer information
-- Arbeta med koncernredovisning
-- Importera data från externa system
-- Hantera verifikationer och bokslutsposter
+- **Arbeta med import av SIE-filer**
+- **Hantera verifikationer i bokslutet**
+- **Bilagor för kund- och leverantörsreskontra**
