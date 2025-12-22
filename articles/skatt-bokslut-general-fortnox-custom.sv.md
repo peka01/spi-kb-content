@@ -1,4 +1,5 @@
 ---
+id: iQBGKuimUAY6RkgJtIXy
 title: Fortnox (Custom)
 slug: general-fortnox-custom
 languages:
@@ -6,62 +7,62 @@ languages:
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2025-12-22T15:10:08.222Z'
-updatedAt: '2025-12-22T15:10:08.222Z'
-id: iQBGKuimUAY6RkgJtIXy
+updatedAt: '2025-12-22T15:16:44.128Z'
+publishedAt: null
+pendingReview: true
+reviewedAt: null
+lastLLMUpdateAt: '2025-12-22T15:16:44.128Z'
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  area1: general
-  area2: ''
-  targetAudience: []
   tags:
     - update
     - general
     - custom
+  area1: general
+  area2: ''
+  productId: Skatt & Bokslut
+  targetAudience: []
   guidelineVersions:
+    instruction: 7
     faq: 1
+    news: 3
     constitution: 1
     getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
     tone_voice: 1
+    article_matching: 1
+  solution: Skatt & Bokslut
 ---
-# Integration med Fortnox i Skatt & Bokslut
+# Arbeta med Fortnox-integrationen i Skatt & Bokslut
 
-Nu blir ditt arbete i **Skatt & Bokslut** ännu smidigare! Vi har lanserat en efterlängtad integration med Fortnox som gör att du kan flytta data mellan plattformarna med bara några få klick. Säg adjö till manuell hantering av SIE-filer och lägg tiden på det som verkligen betyder något – att ge dina kunder de bästa råden.
+Med den direkta kopplingen mellan Fortnox och **Skatt & Bokslut** blir ditt arbetsflöde både säkrare och mer effektivt. Istället för att hantera SIE-filer manuellt kan du flytta data mellan plattformarna med några få klick. Detta gör att du kan lägga mindre tid på administration och mer tid på att ge dina kunder de bästa ekonomiska råden.
 
-## Vad innebär integrationen?
-
-Integrationen är skapad för att förenkla flödet mellan din bokföring i Fortnox och ditt bokslutsarbete i Spiris. Istället för att ladda ner filer lokalt på din dator kan du nu hämta och skicka information direkt via molnet.
-
-Här är de viktigaste funktionerna:
-
-*   **Hämta bokföringsdata:** Importera SIE4-data direkt från Fortnox in i ditt bokslutsprojekt.
-*   **Kund- och leverantörsbilagor:** Smidig överföring av underlag för kundreskontra och leverantörsreskontra.
-*   **Skicka verifikationer:** När du är klar med dina justeringar i bokslutet kan du skicka tillbaka verifikationerna direkt till Fortnox.
-
-## Så här kommer du igång
-
-Att koppla ihop ditt abonnemang med Fortnox är enkelt och görs direkt i plattformen.
+## Så här gör du
 
 1.  Gå till vyn för **Import**.
-2.  Välj **Fortnox** som importkälla.
-3.  Första gången du väljer detta behöver du godkänna kopplingen. Klicka på knappen för att ansluta och logga in med dina Fortnox-uppgifter i det fönster som öppnas.
-4.  När anslutningen är klar kan du välja vilken data du vill hämta.
+2.  Välj **Fortnox** som importkälla i listan.
+3.  Första gången du väljer detta behöver du godkänna kopplingen för ditt **abonnemang**. Klicka på knappen för att ansluta och logga in med dina inloggningsuppgifter för Fortnox i det fönster som öppnas.
+4.  När anslutningen är klar väljer du vilken data du vill hämta (exempelvis bokföringsdata eller reskontraunderlag).
+5.  När bokslutsarbetet är klart och du vill skicka tillbaka justeringar, går du till vyn **Export** och väljer **Fortnox** som destination.
+
+## Viktiga funktioner i integrationen
+
+Integrationen är skapad för att skapa ett sömlöst flöde mellan bokföringen i Fortnox och ditt bokslutsarbete i Spiris.
+
+*   **Direktimport av bokföringsdata:** Hämta SIE4-data direkt via molnet utan att behöva ladda ner filer lokalt på din dator.
+*   **Kund- och leverantörsbilagor:** Överför automatiskt underlag för kund- och leverantörsreskontra för att snabba på avstämningen.
+*   **Export av verifikationer:** Skicka färdiga bokslutsjusteringar direkt tillbaka till Fortnox. Verifikationerna skapas omedelbart i Fortnox och är redo att hanteras där.
 
 ## Fördelar i din vardag
 
-Genom att använda den direkta kopplingen minskar du risken för fel som kan uppstå vid manuell filhantering. Dessutom säkerställer du att du alltid arbetar med den senaste informationen. 
+Genom att använda den direkta kopplingen minskar du risken för fel som kan uppstå vid manuell filhantering och säkerställer att du alltid arbetar med den senaste informationen.
 
-*   **Mindre stress:** Slipp leta efter nedladdade filer i hämtade filer-mappen.
-*   **Bättre kontroll:** Du ser direkt status på din import och export.
-*   **Mer tid:** Automatiseringen gör att de repetitiva momenten försvinner, vilket ger dig en lugnare arbetsdag.
+*   **Mindre stress:** Du slipper leta efter filer i datorns hämtade filer-mapp.
+*   **Bättre kontroll:** Du ser direkt status på din import och export i plattformen.
+*   **Mer tid:** Automatiseringen tar hand om repetitiva moment, vilket ger dig en lugnare och mer fokuserad arbetsdag.
 
-## Export av verifikationer
+## Tips
+> För att exporten till Fortnox ska vara tillgänglig krävs det att du har valt Fortnox som importkälla för det aktuella bokslutsprojektet. Detta säkerställer att verifikationerna hamnar i rätt bokföring.
 
-När bokslutsarbetet är färdigt och det är dags att bokföra årets sista transaktioner, använder du funktionen för att skicka verifikationer. Under **Export** väljer du nu Fortnox som destination. Verifikationen skapas då direkt i Fortnox, redo att hanteras där.
-
-Vi hoppas att denna nyhet ska göra ditt arbete i Spiris ännu mer glfyllt och effektivt!
+## Mer information
+- Arbeta med import från eEkonomi
+- Hantera bilagor i bokslutet
