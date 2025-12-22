@@ -8,29 +8,29 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-21T15:19:08.295Z'
-updatedAt: '2025-12-22T08:05:04.147Z'
+updatedAt: '2025-12-22T08:05:14.244Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
+pendingReview: false
+reviewedAt: '2025-12-22T08:05:14.244Z'
 lastLLMUpdateAt: '2025-12-22T08:05:04.147Z'
 metadata:
-  targetAudience: []
+  solution: Skatt & Bokslut
+  area2: ''
+  area1: general
   productId: Skatt & Bokslut
+  guidelineVersions:
+    article_matching: 1
+    tone_voice: 1
+    getting_started: 2
+    news: 3
+    faq: 1
+    instruction: 7
+    constitution: 1
   tags:
     - update
     - general
     - instruction
-  area2: ''
-  area1: general
-  guidelineVersions:
-    faq: 1
-    news: 3
-    instruction: 7
-    constitution: 1
-    article_matching: 1
-    tone_voice: 1
-    getting_started: 2
-  solution: Skatt & Bokslut
+  targetAudience: []
 ---
 # Exportera och arkivera företagets data
 
