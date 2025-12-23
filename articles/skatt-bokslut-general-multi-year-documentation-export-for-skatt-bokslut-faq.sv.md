@@ -7,9 +7,9 @@ format: md
 status: draft
 folderId: null
 publishedAt: null
-createdAt: '2025-12-23T07:59:36.900Z'
-updatedAt: '2025-12-23T07:59:36.900Z'
-id: kh5kx6Q5zFGlL19fitLu
+createdAt: '2025-12-23T08:20:26.051Z'
+updatedAt: '2025-12-23T08:20:26.051Z'
+id: ji9zPsVdHq6K3sBaeyY4
 metadata:
   productId: Skatt & Bokslut
   solution: Skatt & Bokslut
@@ -29,42 +29,44 @@ metadata:
     instruction: 7
     tone_voice: 1
 ---
-# Vanliga frågor om export av dokumentation
+# Hur exporterar jag dokumentation för flera räkenskapsår i Skatt & Bokslut?
 
-Här hittar du svar på de vanligaste frågorna om den nya funktionen för att exportera dokumentation i Spiris Skatt & Bokslut. Funktionen är framtagen för att göra det enkelt för dig att arkivera företagets underlag och uppfylla lagstadgade krav på lagring av dokumentation.
+Nu är det enklare än någonsin att arkivera och spara ner din företagshistorik i Spiris. Genom den nya exportfunktionen kan du ladda ner all dokumentation för ett eller flera räkenskapsår samtidigt i en strukturerad ZIP-fil.
 
-### Hur exporterar jag dokumentation för flera räkenskapsår?
-För att skapa en samlad export av din dokumentation gör du följande:
+### Hur gör jag för att exportera?
 
-1. Navigera till menyn **Underhåll** och välj **Exportera data**.
+För att starta din export följer du dessa enkla steg:
+
+1. Gå till menyn och välj **Underhåll** – **Exportera data**.
 2. Välj alternativet **Dokumentation**.
-3. I rullistan för **Räkenskapsår** markerar du de år du vill inkludera i din export. Du kan välja ett eller flera år samtidigt.
+3. I listan för **Räkenskapsår** markerar du de år du vill inkludera i din export. Du kan välja ett specifikt år eller markera **Alla år** för att få med hela historiken.
 4. Klicka på knappen för att starta exporten.
-5. En förloppsindikator visas medan systemet sammanställer dina filer. När det är klart får du en avisering och kan ladda ner en ZIP-fil.
+5. Du kan följa förloppet via en statusmätare som visas direkt på skärmen. När exporten är klar får du en bekräftelse och kan ladda ner din ZIP-fil.
 
-### Vad innehåller den exporterade ZIP-filen?
-ZIP-filen är strukturerad för att ge dig en tydlig överblick och ordning på dina dokument:
-*   **Huvudmappar**: Varje valt räkenskapsår får en egen mapp.
-*   **Undermappar**: Inuti varje år finns mappar för de olika perioderna.
-*   **Dokument**: I varje periodmapp hittar du PDF-filer med relevant dokumentation, såsom avstämningar, skatteberäkningar och bilagor.
+### Vad innehåller den exporterade filen?
 
-### Varför visas inte alla mina perioder i exporten?
-För att hålla exporten relevant och överskådlig inkluderas endast perioder där det faktiskt finns aktivitet. En period tas med i exporten om den innehåller:
-*   Automatiska kontroller.
-*   Konton som markerats som klara.
-*   Minst en kommentar från en användare.
+Exporten skapar en ZIP-fil som är snyggt organiserad för att det ska vara lätt att hitta rätt i efterhand. Mappen är uppbyggd enligt följande struktur: **År > Period > PDF-dokument**.
 
-Om en period är helt tom och saknar markeringar eller noter, skapas ingen mapp för den perioden.
+För att din export ska bli så relevant som möjligt inkluderas endast perioder som innehåller:
+* Automatiska kontroller.
+* Konton markerade som klara.
+* Egna kommentarer eller anteckningar.
 
-### Kan jag exportera data även om mitt abonnemang är i läsläge?
-Ja, funktionen är tillgänglig för alla användare, även för dig som har ett abonnemang i läsläge (read-only). Detta säkerställer att du alltid kan få ut din lagstadgade dokumentation även om du har avslutat det aktiva arbetet i plattformen.
+### Varför är detta bra för mig?
 
-### Vad händer om något går fel under exporten?
-Systemet har inbyggd felhantering för att säkerställa att du får så mycket data som möjligt:
-*   **Delvis lyckad export**: Om en enskild PDF inte kan skapas (exempelvis på grund av ett ovanligt filformat), genereras ändå resten av exporten. Du får då ett meddelande om att exporten lyckades delvis.
-*   **Felmeddelanden**: Om en fil misslyckas ersätts den i ZIP-filen av en sida som förklarar vilken fil det gäller och vad som gick fel.
-*   **Aviseringar**: Du får alltid en tydlig bekräftelse när exporten är klar eller information om något behöver åtgärdas.
+Denna funktion är framtagen för att hjälpa dig att uppfylla lagkrav på arkivering och för att du enkelt ska kunna ta med dig din data om du exempelvis avslutar ett abonnemang. Det ger dig en trygghet i att din dokumentation finns sparad i ett universellt format (PDF) som är redo för både digital arkivering och utskrift.
 
-**Relaterade länkar:**
-*   [Läs mer om arkivering av räkenskapsår](#)
-*   [Guide för export av SIE-filer](#)
+### Vanliga frågor
+
+**Vad händer om exporten misslyckas för ett specifikt dokument?**
+Plattformen är byggd för att hantera komplexa exporter. Om ett enskilt dokument skulle stöta på patrull (exempelvis på grund av ett ovanligt filformat), kommer exporten ändå att slutföras för resten av materialet. Du får då ett meddelande om att exporten lyckades delvis, och i ZIP-filen ser du vilket dokument som saknas och varför.
+
+**Vilka användare kan använda funktionen?**
+Exporten är tillgänglig för alla användare i Skatt & Bokslut, oavsett om du har ett aktivt abonnemang eller om du befinner dig i ett läsläge för att kontrollera historisk data.
+
+**Varför ser jag inte alla perioder i min export?**
+För att spara plats och göra arkivet mer överskådligt hoppar vi över tomma perioder. Om en period inte har några kontroller, markeringar eller kommentarer anses den inte innehålla någon unik dokumentation och inkluderas därför inte i ZIP-filen.
+
+### Relaterade länkar
+* [Läs mer om hur du hanterar räkenskapsår](#)
+* [Arkivering och gallring av personuppgifter i Spiris](#)
