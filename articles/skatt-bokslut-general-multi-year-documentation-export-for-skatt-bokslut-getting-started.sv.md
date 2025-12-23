@@ -7,9 +7,9 @@ format: md
 status: draft
 folderId: null
 publishedAt: null
-createdAt: '2025-12-23T07:59:47.719Z'
-updatedAt: '2025-12-23T07:59:47.719Z'
-id: asRu6C4unFendUiFcfM9
+createdAt: '2025-12-23T08:20:37.476Z'
+updatedAt: '2025-12-23T08:20:37.476Z'
+id: dVF0S082yUphHTxdCu0q
 metadata:
   productId: Skatt & Bokslut
   solution: Skatt & Bokslut
@@ -29,43 +29,44 @@ metadata:
     instruction: 7
     tone_voice: 1
 ---
-# Kom i gång med export av dokumentation för flera år
+# Kom igång med export av dokumentation
 
-### Översikt
-För att uppfylla lagkrav och säkerställa en trygg arkivering av företagets historik erbjuder Spiris nu en smidig funktion för att exportera dokumentation över flera år. Med denna funktion kan du generera en strukturerad ZIP-fil som innehåller PDF-dokument för alla viktiga händelser, kontroller och kommentarer i din ekonomiplattform. Det sparar tid och ger dig en komplett säkerhetskopia som är enkel att navigera i.
+Med den nya funktionen för dokumentationsexport i Spiris kan du snabbt och smidigt skapa ett komplett arkiv över företagets bokslut och underlag. Istället för att ladda ned dokument ett och ett kan du nu exportera data för flera räkenskapsår samtidigt i en strukturerad ZIP-fil.
 
-### Viktiga begrepp
-*   **Dokumentationsexport:** En funktion som samlar alla relevanta PDF-underlag från valda räkenskapsår i en och samma fil.
-*   **ZIP-fil:** En komprimerad mapp som innehåller din dokumentation organiserad i undermappar för varje år och period.
-*   **Arkiveringsunderlag:** Dokument som automatiskt inkluderas baserat på aktiviteter såsom autokontroller, klarmarkerade konton eller användarkommentarer.
+## Översikt
 
----
+Denna funktion är framtagen för att underlätta arkivering och efterlevnad av lagkrav. Genom att samla alla relevanta PDF-dokument i en tydlig mappstruktur (Räkenskapsår > Period > Dokument) får du en fullständig överblick som är enkel att spara lokalt eller dela med exempelvis en revisor. 
 
-### Första steg
+Plattformen sköter det tunga arbetet åt dig och inkluderar automatiskt de perioder där det finns viktiga noteringar, slutförda kontroller eller kommentarer.
 
-**Steg 1: Förutsättningar**
-Exportfunktionen är tillgänglig för alla användare i Spiris Skatt & Bokslut. Den fungerar lika bra för dig med ett aktivt abonnemang som för dig som har gått över till läsläge (read-only) och behöver säkra din data inför framtiden.
+## Viktiga begrepp
 
-**Steg 2: Hitta och välj data**
-Navigera till menyn **Underhåll** och välj alternativet **Exportera data**. 
+*   **Dokumentationsexport:** En funktion som sammanställer företagets underlag till PDF-filer.
+*   **ZIP-arkiv:** En komprimerad mapp som innehåller alla dina exporterade dokument i en organiserad struktur.
+*   **Automatiska kontroller:** Perioder som innehåller auto-kontroller eller konto-markeringar inkluderas automatiskt i exporten för att säkerställa att relevant data följer med.
 
-Här möts du av en tydlig vy där du kan konfigurera din export:
-1.  Välj alternativet **Dokumentation** i listan över exporttyper.
-2.  I fältet **Räkenskapsår** kan du välja ett eller flera år som ska ingå i exporten. 
-3.  Om du vill exportera allt underlag kan du markera rutan **Alla år**, vilket automatiskt väljer samtliga tillgängliga räkenskapsår.
+## Första steg
 
-*Tips: Håll muspekaren över informationssymbolen vid **Dokumentation** för att se en kort sammanfattning av vad exporten innehåller.*
+Följ dessa steg för att skapa din första samlade export.
 
-**Steg 3: Starta och ladda ned exporten**
-När du har gjort dina val klickar du på knappen **Exportera**. 
+### Steg 1: Hitta exportfunktionen
+Börja med att navigera till menyn i Skatt & Bokslut. Gå till **Underhåll** och välj sedan **Exportera data**.
 
-*   **Pågående export:** En förloppsindikator visas längst upp på skärmen så att du kan följa processen i realtid. Under tiden exporten skapas är knappen **Exportera** inaktiverad för att undvika dubbla körningar.
-*   **Slutförande:** När filen är klar får du en avisering. Klicka på länken **Ladda ned** i meddelandet för att spara ZIP-filen på din dator.
-*   **Struktur:** När du öppnar ZIP-filen ser du mappar namngivna efter år. Inuti dessa finns undermappar för varje period, där alla relevanta PDF-dokument ligger sparade.
+### Steg 2: Konfigurera din export
+I vyn som öppnas ser du olika alternativ för export.
+1.  Välj alternativet **Dokumentation**.
+2.  I rullistan för **Räkenskapsår** markerar du de år du vill inkludera i din export. Du kan välja ett enskilt år eller markera **Alla år** för att få en komplett historik.
+3.  Håll muspekaren över informationssymbolen (i) bredvid **Dokumentation** om du vill se exakt vilka rapporttyper som inkluderas, såsom skatteberäkningar, årsredovisningar och avstämningar.
 
----
+### Steg 3: Starta och ladda ned
+När du har gjort dina val klickar du på knappen **Exportera**.
+*   **Följ förloppet:** En statusmätare visas längst upp på skärmen som visar hur arbetet fortskrider. Under tiden exporten pågår är knappen låst för att undvika dubbla körningar.
+*   **Slutförande:** När exporten är klar får du en avisering. Klicka på länken **Ladda ned** i meddelandet för att spara ZIP-filen på din dator.
+*   **Hantering av fel:** Om något dokument inte kan genereras (exempelvis på grund av ett felaktigt filformat) kommer exporten ändå att slutföras för övriga dokument. Du får då ett meddelande om att exporten lyckades delvis, och i ZIP-filen hittar du information om vilket dokument som saknas.
 
-### Nästa steg
-När du har laddat ned din dokumentation rekommenderar vi att du sparar ZIP-filen på en säker plats, till exempel en extern hårddisk eller en molntjänst som ditt företag använder för långtidsarkivering. 
+## Nästa steg
 
-Om någon fil mot förmodan inte skulle kunna genereras (exempelvis på grund av ett ovanligt filformat), kommer plattformen att meddela dig om detta. Du får då en avisering om att exporten lyckades delvis, och i ZIP-filen kan du hitta information om vilket dokument det gäller.
+När du har laddat ned din dokumentation kan du:
+*   **Arkivera säkert:** Spara ZIP-filen på en säker lagringsplats för att uppfylla lagkrav på dokumentation över tid.
+*   **Dela med revisor:** Skicka den strukturerade mappen till din revisor inför bokslutsgranskning.
+*   **Granska historik:** Använd den tydliga mappstrukturen för att snabbt gå tillbaka och titta på kommentarer och avstämningar från tidigare år, även om ditt abonnemang för plattformen skulle ändras till läsläge.
