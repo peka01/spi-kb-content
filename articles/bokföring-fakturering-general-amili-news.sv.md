@@ -9,35 +9,35 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-23T09:49:32.549Z'
-updatedAt: '2025-12-23T11:07:39.587Z'
+updatedAt: '2025-12-23T11:15:28.241Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
   en: '2025-12-23T09:49:32.549Z'
-  sv: '2025-12-23T10:53:51.218Z'
-currentVersion: 1
+  sv: '2025-12-23T11:15:25.795Z'
+currentVersion: 2
 translationBase: {}
 metadata:
   productId: Bokföring & Fakturering
-  targetAudience: []
   tags:
     - update
     - general
     - news
   area2: ''
-  solution: Bokföring & Fakturering
   guidelineVersions:
-    getting_started: 2
     news: 3
-    instruction: 7
+    tone_voice: 1
     constitution: 1
     article_matching: 1
-    tone_voice: 1
     faq: 1
+    instruction: 7
+    getting_started: 2
   area1: general
+  solution: Bokföring & Fakturering
+  targetAudience: []
 ---
-# Få betalt snabbare: Nu skickar du påminnelser smidigt via Amili
+# Få betalt: Nu skickar du påminnelser smidigt via Amili
 
 **Vi har gjort det ännu enklare för dig att få betalt i tid. Genom vår nya integration med Amili kan du nu skicka betalningspåminnelser direkt från din ekonomiplattform i Spiris. Funktionen är tillgänglig från och med nu för alla användare som arbetar med försäljning i Bokföring & Fakturering.**
 
