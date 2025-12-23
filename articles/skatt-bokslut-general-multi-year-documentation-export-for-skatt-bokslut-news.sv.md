@@ -7,9 +7,9 @@ format: md
 status: draft
 folderId: null
 publishedAt: null
-createdAt: '2025-12-23T07:59:56.817Z'
-updatedAt: '2025-12-23T07:59:56.817Z'
-id: HVuk58j1gmidTlBwK9af
+createdAt: '2025-12-23T08:20:46.986Z'
+updatedAt: '2025-12-23T08:20:46.986Z'
+id: BYKYCgH7uvCmrivakQZS
 metadata:
   productId: Skatt & Bokslut
   solution: Skatt & Bokslut
@@ -29,44 +29,35 @@ metadata:
     instruction: 7
     tone_voice: 1
 ---
- thought
-Professional Swedish technical writer for Spiris.
-Multi-year documentation export for Skatt & Bokslut.
-News / Blog post.
-Update.
+# Nyhet: Exportera all din dokumentation för flera år i ett svep
 
-        *   New feature: Export financial documentation as a structured ZIP archive.
-        *   Location: Under Maintenance – Export Data.
-        *   Functionality: Select one or multiple years, generates a ZIP with folders (Year > Period > PDFs).
-        *   Criteria for inclusion: Periods with auto-checks, completed markers, or comments.
-        *   UI: Progress bar, confirmation notifications, error handling (partial success).
-        *   Target: Skatt & Bokslut (general users).
-        *   Tone: Engaging, professional, Swedish, human-centric.
-        *   *Special Constraint:* NO resource keys. Use plain text for UI elements.
-        *   *Terminology:* Use "Spiris", "abonnemang", avoid "produkt/system/applikation/integration".
+**Vi har gjort det enklare än någonsin att säkra din dokumentation i Skatt & Bokslut. Nu kan du exportera underlag för flera räkenskapsår samtidigt till en snyggt strukturerad ZIP-fil – perfekt för arkivering och trygghet.**
 
-    *   *Headline:* Needs to be clear and inviting. "Smidigare arkivering: Nu kan du exportera underlag för flera år samtidigt" (Smoother archiving: Now you can export documentation for multiple years at once).
-    *   *Summary:* Briefly state what's new. Spiris introduces a multi-year export to ZIP for legal archiving. Available now for all users in Skatt & Bokslut.
-    *   *Body:*
-        *   *The "Why":* Easier to meet legal requirements, less manual work.
-        *   *The "What":* ZIP file, structured by year and period.
-        *   *How it works:* Go to Underhåll -> Exportera data. Select years.
-        *   *Smart Filtering:* Only relevant periods (those with activity/checks) are included.
-        *   *Feedback:* Progress bar and notifications.
+Att hålla ordning på bokföringens dokumentation över tid är både ett lagkrav och en trygghet för dig som företagare eller redovisningskonsult. Tidigare har det krävts en del manuellt arbete för att samla ihop dokument för olika perioder, men nu lanserar vi en funktion i Spiris som gör grovjobbet åt dig.
 
-    *   *Tone Check:* Is it human? Yes. Simple? Yes. Professional? Yes.
-    *   *Term Check:* "Spiris" instead of Visma. "Abonnemang" instead of licens. No "produkt".
-    *   *UI References:* Use plain text (no curly braces).
-        *   "Underhåll" (Maintenance)
-        *   "Exportera data" (Export Data)
-        *   "Dokumentation" (Documentation)
-        *   "Räkenskapsår" (Financial Years)
+### Allt på en och samma plats
+Med den nya exportfunktionen kan du välja ett eller flera räkenskapsår och generera ett komplett arkiv med PDF-dokument. Istället för att ladda ner filer en och en får du en färdig ZIP-fil direkt till din dator.
 
-    *   *Title:* Nyhet: Exportera all din dokumentation smidigt och säkert
-    *   *Summary:* Vi gör det nu ännu enklare att säkra din data för framtiden. Med vår nya exportfunktion kan du ladda ner all dokumentation för flera räkenskapsår i ett strukturerat arkiv – perfekt för långsiktig lagring och lagkrav.
-    *   *Details:* Explain the folder structure (Year -> Period -> PDF). Mention that it works even in read-only mode.
+Det smarta med exporten är att den skapar en tydlig mappstruktur helt automatiskt:
+1.  **Huvudmapp:** Räkenskapsår
+2.  **Undermapp:** Period
+3.  **Innehåll:** Alla relevanta PDF-dokument för den specifika perioden
 
-    *   Structure: Rubrik, Sammanfattning, Ton & stil.
-    *   Swedish language? Yes.
-    *   No resource keys? Yes (strictly plain text).
-    *   Company name: Spiris.
+För att hålla ditt arkiv så relevant som möjligt inkluderas endast de perioder där det faktiskt finns innehåll, såsom automatiska kontroller, markerade konton eller kommentarer.
+
+### Så här gör du
+Du hittar den nya funktionen i menyn under **Underhåll** – **Exportera data**. 
+
+1.  Välj alternativet **Dokumentation**.
+2.  Markera de räkenskapsår du vill inkludera (du kan välja **Alla år** för en fullständig backup).
+3.  Håll muspekaren över informationssymbolen vid de olika dokumenttyperna om du vill se exakt vad som ingår i exporten, som exempelvis skatteuträkningar, årsredovisningar eller avstämningar.
+4.  Klicka på knappen för att starta exporten.
+
+Medan filen förbereds ser du en förloppsindikator som visar hur långt exporten har kommit. När allt är klart får du en avisering och kan ladda ner din färdiga ZIP-fil.
+
+### Trygghet vid arkivering
+Denna funktion är särskilt värdefull för dig som behöver spara ner dokumentation enligt bokföringslagens krav eller för dig som planerar att avsluta ett abonnemang men vill behålla en digital kopia av allt arbete. Funktionen är tillgänglig för alla användare, även för dig som har ett abonnemang i läsläge.
+
+Skulle något dokument mot förmodan inte kunna genereras (exempelvis på grund av ett ovanligt filformat), stannar inte hela processen. Du får istället ett meddelande om att exporten lyckades delvis, och du kan i lugn och ro se vilka delar du eventuellt behöver kontrollera manuellt.
+
+Vi hoppas att denna nyhet sparar dig tid och ger dig en ännu bättre överblick över ditt viktiga arbete i Spiris!
