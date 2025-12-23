@@ -7,9 +7,9 @@ format: md
 status: draft
 folderId: null
 publishedAt: null
-createdAt: '2025-12-22T09:47:10.543Z'
-updatedAt: '2025-12-22T09:47:10.543Z'
-id: 0OFtaaflSQZMyQSqLbHI
+createdAt: '2025-12-23T07:46:23.712Z'
+updatedAt: '2025-12-23T07:46:23.712Z'
+id: bhrqCxFTXkMLCgbW0B0L
 metadata:
   productId: Skatt & Bokslut
   solution: Skatt & Bokslut
@@ -31,22 +31,28 @@ metadata:
 ---
 # Exportera och arkivera företagets dokumentation
 
-I Spiris kan du nu enkelt ladda ner all dokumentation för ditt företag i ett utskriftsvänligt format. Detta är särskilt användbart när du behöver arkivera räkenskapsår enligt lagkrav eller vill spara ner en säkerhetskopia av ditt arbete. Funktionen samlar alla relevanta dokument i PDF-format och organiserar dem automatiskt i en tydlig mappstruktur.
+I Spiris kan du exportera företagets data i ett utskriftsvänligt format för att enkelt kunna arkivera bokföringen enligt gällande krav. Funktionen samlar alla relevanta dokument i en organiserad mappstruktur, sparade som PDF-filer i en komprimerad ZIP-fil.
+
+Denna funktion är tillgänglig för alla användare i Skatt & Bokslut, inklusive dig som har ett aktivt abonnemang eller befinner dig i ett läsläge.
 
 ## Så här gör du
 
-1. Navigera till menyn **Underhåll** och välj **Exportera data**.
-2. Markera alternativet **Dokumentation** i listan över exporttyper.
-3. Klicka på rullistan under **Räkenskapsår** för att välja vilka år du vill exportera. Du kan välja ett eller flera år, eller markera **Alla år** för att ta med hela företagets historik.
-4. Klicka på knappen **Exportera**. 
-5. En förloppsindikator visas medan dina dokument sammanställs. Under tiden exporten pågår är knappen låst.
-6. När filen är klar visas en avisering. Klicka på länken i aviseringen för att ladda ner din ZIP-fil.
+1. Gå till menyn **Underhåll** och välj **Exportera data**.
+2. Välj alternativet för dokumentation i listan.
+3. Under rubriken för räkenskapsår markerar du de år du vill exportera. Du kan välja ett enskilt år, flera specifika år eller markera rutan **Alla år** för att inkludera hela företagets historik.
+4. Klicka på knappen för att starta exporten. Knappen blir tillfälligt låst medan plattformen sammanställer dina filer.
+5. Du kan följa förloppet via en statusmätare. När exporten är klar får du en bekräftelse och kan ladda ner ZIP-filen till din dator.
 
-## Tips
-> **Strukturerad arkivering:** Den nedladdade ZIP-filen är logiskt uppbyggd med en mapp för varje år. Inuti varje årsmapp hittar du undermappar för de olika perioderna, där alla PDF-underlag (såsom skatteblanketter, avstämningar och årsredovisning) finns sparade.
+## Bra att veta om exporten
 
-> **Vad inkluderas?** För att hålla din export relevant inkluderas endast de perioder där det finns utförda kontroller, kontomarkeringar eller kommentarer. Om en period är helt tom kommer ingen mapp att skapas för just den perioden.
+*   **Organiserad struktur:** ZIP-filen är uppbyggd med huvudmappar för varje år. Inuti varje årsmapp finns undermappar för de olika perioderna, där alla relevanta PDF-dokument är placerade.
+*   **Innehåll:** Exporten inkluderar dokument från perioder där det finns utförda kontroller, kontoavstämningar eller kommentarer.
+*   **Hjälptexter:** Om du är osäker på vad en specifik del av exporten innehåller kan du föra muspekaren över informationssymbolerna (tooltips) för att få en kort förklaring av innehållet.
+*   **Felhantering:** Om något dokument inte kan skapas som det ska, kommer du att få en notis om att exporten lyckades delvis. I dessa fall skapas en informationssida i ZIP-filen som förklarar vilket dokument det gäller och vad som gick fel.
+
+> [!TIP]
+> **Tips:** Använd den här funktionen regelbundet för att skapa lokala säkerhetskopior av din dokumentation, särskilt inför att ett abonnemang avslutas eller vid årsbyten.
 
 ## Mer information
-- Om en specifik rapport inte kan skapas på grund av ett tekniskt fel kommer exporten ändå att slutföras för övriga dokument. Du får då ett meddelande om att exporten lyckades delvis, och i ZIP-filen ersätts det felaktiga dokumentet med en informationssida som förklarar vad som gick fel.
-- Denna funktion är tillgänglig för alla användare, även för dig som har ett abonnemang i läsläge.
+- Arbeta med räkenskapsår
+- Hantera dokument och bilagor
