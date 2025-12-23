@@ -9,13 +9,11 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-23T06:54:20.080Z'
-updatedAt: '2025-12-23T06:58:49.344Z'
+updatedAt: '2025-12-23T07:04:41.206Z'
 publishedAt: null
+pendingReview: true
 reviewedAt: null
-lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2025-12-23T06:58:44.483Z'
-  sv: '2025-12-23T06:57:26.647Z'
+lastLLMUpdateAt: '2025-12-23T07:04:41.206Z'
 currentVersion: 2
 translationBase:
   en: >-
@@ -116,23 +114,26 @@ translationBase:
 
     * [Kom igång med årsredovisning i Spiris Skatt &
     Bokslut](#)**{{resource:CuL2480_Version2}}**
+languageUpdatedAt:
+  sv: '2025-12-23T06:57:26.647Z'
+  en: '2025-12-23T06:58:44.483Z'
 metadata:
-  productId: Skatt & Bokslut
-  area2: ''
-  solution: Skatt & Bokslut
-  guidelineVersions:
-    article_matching: 1
-    constitution: 1
-    tone_voice: 1
-    getting_started: 2
-    instruction: 7
-    news: 3
-    faq: 1
   area1: general
+  guidelineVersions:
+    tone_voice: 1
+    news: 3
+    article_matching: 1
+    faq: 1
+    instruction: 7
+    constitution: 1
+    getting_started: 2
+  area2: ''
+  productId: Skatt & Bokslut
   tags:
     - update
     - general
     - faq
+  solution: Skatt & Bokslut
   targetAudience: []
 ---
 Here you will find answers to the most common questions regarding the latest updates to the K2 regulations for annual reports in Spiris Skatt & Bokslut.
