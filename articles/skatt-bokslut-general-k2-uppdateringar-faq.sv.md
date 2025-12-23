@@ -1,33 +1,41 @@
 ---
+id: xEoSNJUEbDlBchrA47qX
 title: K2-uppdateringar (Faq)
 slug: general-k2-uppdateringar-faq
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2025-12-23T06:54:20.080Z'
-updatedAt: '2025-12-23T06:54:20.080Z'
-id: xEoSNJUEbDlBchrA47qX
+updatedAt: '2025-12-23T06:57:32.020Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
+translationBase: {}
+languageUpdatedAt:
+  sv: '2025-12-23T06:57:26.647Z'
+  en: '2025-12-23T06:54:20.080Z'
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
   area1: general
-  area2: ''
-  targetAudience: []
+  guidelineVersions:
+    news: 3
+    getting_started: 2
+    article_matching: 1
+    faq: 1
+    constitution: 1
+    instruction: 7
+    tone_voice: 1
   tags:
     - update
     - general
     - faq
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
+  solution: Skatt & Bokslut
+  area2: ''
+  targetAudience: []
+  productId: Skatt & Bokslut
 ---
 Här hittar du svar på de vanligaste frågorna kring de senaste uppdateringarna i K2-regelverket för årsredovisningar i Spiris Skatt & Bokslut.
 
@@ -54,10 +62,10 @@ För att öka transparensen har vi lagt till nya rader i dokumentet för förän
 ### Vilka noter har bytt namn eller uppdaterats?
 Vi har justerat benämningarna på vissa poster för att de ska stämma överens med de nya kraven i K2:
 
-* **Kontokredit**: Noten som tidigare hette Checkräkningskredit har bytt namn till Kontokredit. Denna ändring slår även igenom på motsvarande rad i balansräkningen.
-* **Pågående förbättringar och förskott avseende immateriella anläggningstillgångar**: Noten som tidigare hette Förskott avseende immateriella anläggningstillgångar har fått detta mer omfattande namn. Den är nu kopplad till den matchande raden i balansräkningen.
-* **Övriga immateriella anläggningstillgångar**: En ny not har lagts till för att hantera denna typ av tillgångar.
-* **Varulager m.m.**: Noten har uppdaterats för att följa de nya riktlinjerna.
+* ****{{resource:CuL2480_Version2}}****: Noten som tidigare hette Checkräkningskredit har bytt namn till Kontokredit. Denna ändring slår även igenom på motsvarande rad i balansräkningen.
+* ****{{resource:IAs1080_Version2}}****: Noten som tidigare hette Förskott avseende immateriella anläggningstillgångar har fått detta mer omfattande namn. Den är nu kopplad till den matchande raden i balansräkningen.
+* ****{{resource:IAs1090}}****: En ny not har lagts till för att hantera denna typ av tillgångar.
+* ****{{resource:IPW}}**.**: Noten har uppdaterats för att följa de nya riktlinjerna.
 
 ### Hur fungerar den nya noten Rättelse av fel för K2?
 Noten Rättelse av fel, som tidigare bara fanns tillgänglig för företag som följer K3-regelverket, finns nu även för aktiebolag och ekonomiska föreningar som valt K2. Funktionen och layouten är densamma som i K3, vilket gör det enkelt att förklara väsentliga rättelser som gjorts i bokföringen från tidigare år.
@@ -67,4 +75,4 @@ Eftersom Bolagsverket beräknas ha en ny teknisk lösning (taxonomi) för dessa 
 
 ### Relaterade länkar
 * [Läs mer om ändringarna hos Bokföringsnämnden (extern länk)](https://www.bfn.se/andringar-i-k2-arsredovisning-for-mindre-foretag/)
-* [Kom igång med årsredovisning i Spiris Skatt & Bokslut](#)
+* [Kom igång med årsredovisning i Spiris Skatt & Bokslut](#)**{{resource:CuL2480_Version2}}**
