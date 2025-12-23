@@ -8,29 +8,29 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-23T07:20:44.804Z'
-updatedAt: '2025-12-23T07:21:24.814Z'
+updatedAt: '2025-12-23T07:27:09.910Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
+pendingReview: false
+reviewedAt: '2025-12-23T07:27:09.910Z'
 lastLLMUpdateAt: '2025-12-23T07:21:24.813Z'
 metadata:
-  guidelineVersions:
-    faq: 1
-    news: 3
-    instruction: 7
-    article_matching: 1
-    tone_voice: 1
-    constitution: 1
-    getting_started: 2
   targetAudience: []
   area1: general
-  area2: ''
-  productId: Skatt & Bokslut
   solution: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
+  guidelineVersions:
+    getting_started: 2
+    faq: 1
+    tone_voice: 1
+    news: 3
+    article_matching: 1
+    instruction: 7
+    constitution: 1
+  area2: ''
+  productId: Skatt & Bokslut
 ---
 # Nollställ ett företag
 
