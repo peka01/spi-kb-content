@@ -9,32 +9,33 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-23T07:32:12.378Z'
-updatedAt: '2025-12-23T09:04:04.825Z'
+updatedAt: '2025-12-23T09:06:26.218Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+translationBase: {}
+currentVersion: 2
 languageUpdatedAt:
   en: '2025-12-23T07:32:12.378Z'
-  sv: '2025-12-23T07:32:12.378Z'
-translationBase: {}
+  sv: '2025-12-23T09:06:24.296Z'
 metadata:
+  solution: Skatt & Bokslut
   targetAudience: []
+  guidelineVersions:
+    news: 3
+    tone_voice: 1
+    instruction: 7
+    constitution: 1
+    faq: 1
+    article_matching: 1
+    getting_started: 2
+  area1: general
+  area2: ''
+  productId: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
-  area1: general
-  productId: Skatt & Bokslut
-  area2: ''
-  guidelineVersions:
-    faq: 1
-    article_matching: 1
-    tone_voice: 1
-    news: 3
-    instruction: 7
-    constitution: 1
-    getting_started: 2
-  solution: Skatt & Bokslut
 ---
 # Hantera skattemässiga avskrivningar på maskiner och inventarier
 
@@ -43,10 +44,10 @@ Den här bilagan hjälper dig att beräkna och dokumentera företagets skattemä
 ## Så här gör du
 
 1. Öppna ditt bokslut i Spiris och navigera till listan över bilagor.
-2. Välj bilagan **Skattemässiga avskrivningar på maskiner och inventarier**.
+2. Välj bilagan ****{{resource:TaxCalculations_Txt_RefKey_TAXRESIDUALVALUEMACHINEINVENTORY}}****.
 3. Kontrollera att det ingående skattemässiga restvärdet stämmer överens med föregående års utgående balans.
 4. Ange årets anskaffningar (inköp) och avyttringar (försäljningar) i de avsedda fälten för att uppdatera underlaget.
-5. Välj mellan **Huvudregeln** (30-regeln) eller **Kompletteringsregeln** (20-regeln) för att beräkna det lägsta tillåtna skattemässiga värdet. Plattformen räknar automatiskt ut utrymmet för avskrivning baserat på dina uppgifter.
+5. Välj mellan ****{{resource:StockSpecificationSE_colhdr_MainRule}}**** (30-regeln) eller **Kompletteringsregeln** (20-regeln) för att beräkna det lägsta tillåtna skattemässiga värdet. Plattformen räknar automatiskt ut utrymmet för avskrivning baserat på dina uppgifter.
 6. Stäm av det skattemässiga värdet mot det bokförda värdet i din balansräkning. Om det finns en skillnad kan du behöva justera årets avskrivning eller hantera överavskrivningar.
 7. När du är klar och värdena stämmer, markera bilagan som klar genom att använda knappen för **Klarmarkera**.
 
