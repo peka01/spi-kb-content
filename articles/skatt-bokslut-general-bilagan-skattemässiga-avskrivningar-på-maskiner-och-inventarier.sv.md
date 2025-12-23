@@ -9,32 +9,32 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-23T07:32:12.378Z'
-updatedAt: '2025-12-23T09:03:09.864Z'
+updatedAt: '2025-12-23T09:03:57.704Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+translationBase: {}
 languageUpdatedAt:
   sv: '2025-12-23T07:32:12.378Z'
   en: '2025-12-23T07:32:12.378Z'
-translationBase: {}
 metadata:
+  area1: general
+  solution: Skatt & Bokslut
+  guidelineVersions:
+    faq: 1
+    news: 3
+    instruction: 7
+    article_matching: 1
+    tone_voice: 1
+    getting_started: 2
+    constitution: 1
   tags:
     - update
     - general
     - instruction
-  area2: ''
-  productId: Skatt & Bokslut
-  area1: general
-  solution: Skatt & Bokslut
   targetAudience: []
-  guidelineVersions:
-    tone_voice: 1
-    constitution: 1
-    article_matching: 1
-    instruction: 7
-    faq: 1
-    getting_started: 2
-    news: 3
+  productId: Skatt & Bokslut
+  area2: ''
 ---
 # Hantera skattemässiga avskrivningar på maskiner och inventarier
 
