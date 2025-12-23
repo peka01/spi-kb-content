@@ -8,29 +8,29 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-23T08:41:16.377Z'
-updatedAt: '2025-12-23T08:45:34.540Z'
+updatedAt: '2025-12-23T08:46:21.299Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
+pendingReview: false
+reviewedAt: '2025-12-23T08:46:21.299Z'
 lastLLMUpdateAt: '2025-12-23T08:45:34.539Z'
 metadata:
-  area1: general
-  productId: Skatt & Bokslut
+  guidelineVersions:
+    faq: 1
+    article_matching: 1
+    constitution: 1
+    getting_started: 2
+    tone_voice: 1
+    news: 3
+    instruction: 7
   targetAudience: []
   area2: ''
-  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    news: 3
-    getting_started: 2
-    instruction: 7
-    faq: 1
-    constitution: 1
-    article_matching: 1
-    tone_voice: 1
+  productId: Skatt & Bokslut
+  area1: general
+  solution: Skatt & Bokslut
 ---
 # Hantera personuppgifter och GDPR i Spiris Skatt & Bokslut
 
