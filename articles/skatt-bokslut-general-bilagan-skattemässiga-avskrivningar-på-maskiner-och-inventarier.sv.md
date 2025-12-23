@@ -1,33 +1,40 @@
 ---
+id: lkTTqU9hA6T6BNv5oiGS
 title: Bilagan Skattemässiga avskrivningar på maskiner och inventarier
 slug: general-bilagan-skattemässiga-avskrivningar-på-maskiner-och-inventarier
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2025-12-23T07:32:12.378Z'
-updatedAt: '2025-12-23T07:32:12.378Z'
-id: lkTTqU9hA6T6BNv5oiGS
+updatedAt: '2025-12-23T09:03:19.768Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+languageUpdatedAt:
+  sv: '2025-12-23T07:32:12.378Z'
+  en: '2025-12-23T07:32:12.378Z'
+translationBase: {}
 metadata:
   productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
   area1: general
   area2: ''
-  targetAudience: []
+  guidelineVersions:
+    faq: 1
+    news: 3
+    tone_voice: 1
+    instruction: 7
+    getting_started: 2
+    constitution: 1
+    article_matching: 1
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
+  solution: Skatt & Bokslut
+  targetAudience: []
 ---
 # Hantera skattemässiga avskrivningar på maskiner och inventarier
 
