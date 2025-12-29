@@ -7,31 +7,31 @@ languages:
   - en
 format: md
 status: draft
-folderId: i0H96CscyRcGsDArAK9Q
+folderId: dTEzBlAJxfUsQI7CBusB
 createdAt: '2025-12-29T11:47:30.513Z'
-updatedAt: '2025-12-29T11:52:28.546Z'
+updatedAt: '2025-12-29T14:49:05.854Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  locale: sv-se
+  area2: ''
   targetAudience: []
-  productId: Bokföring & Fakturering
-  area1: general
-  guidelineVersions:
-    constitution: 1
-    getting_started: 2
-    instruction: 7
-    tone_voice: 1
-    faq: 1
-    news: 3
-    article_matching: 1
+  locale: sv-se
+  solution: Bokföring & Fakturering
   tags:
     - update
     - general
     - faq
-  area2: ''
-  solution: Bokföring & Fakturering
+  guidelineVersions:
+    getting_started: 2
+    instruction: 7
+    news: 3
+    article_matching: 1
+    tone_voice: 1
+    faq: 1
+    constitution: 1
+  productId: Bokföring & Fakturering
+  area1: general
 ---
 # Frequently Asked Questions about Invoice Backgrounds
 
