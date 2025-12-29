@@ -1,41 +1,36 @@
 ---
-id: cdcvQTohmKqetKAGTceZ
-slug: general-amili
-createdAt: '2025-12-23T09:49:23.552Z'
-currentVersion: 6
-updatedAt: '2025-12-29T06:36:40.929Z'
-languageUpdatedAt:
-  en: '2025-12-23T11:45:30.301Z'
-  sv: '2025-12-29T06:36:38.890Z'
 lastLLMUpdateAt: null
-format: md
-title: Amili
-reviewedAt: null
-translationBase: {}
+id: DsKj1Hy51W6lZnK10ApF
+status: draft
 publishedAt: null
-folderId: null
+reviewedAt: null
+updatedAt: '2025-12-29T11:47:30.453Z'
 languages:
   - sv
   - en
-status: draft
+slug: general-amili
+format: md
+createdAt: '2025-12-29T11:47:30.453Z'
+folderId: null
+title: Amili
 metadata:
-  area2: ''
-  productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
-  targetAudience: []
   tags:
     - update
     - general
     - instruction
+  solution: Bokföring & Fakturering
   guidelineVersions:
     tone_voice: 1
-    faq: 1
     getting_started: 2
-    news: 3
     constitution: 1
+    news: 3
     instruction: 7
     article_matching: 1
+    faq: 1
+  productId: Bokföring & Fakturering
+  targetAudience: []
   area1: general
+  area2: ''
   locale: sv-se
 ---
 # Skicka påminnelser via Amili-test
