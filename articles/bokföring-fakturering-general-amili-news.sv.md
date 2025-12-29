@@ -1,37 +1,37 @@
 ---
-status: draft
-title: Amili (News)
 id: 3xrL92TZhk56PRVNM5M6
-updatedAt: '2025-12-29T11:47:30.380Z'
-format: md
+title: Amili (News)
 slug: general-amili-news
-createdAt: '2025-12-29T11:47:30.380Z'
-lastLLMUpdateAt: null
-folderId: null
-publishedAt: null
 languages:
   - sv
   - en
+format: md
+status: draft
+folderId: null
+createdAt: '2025-12-29T11:47:30.380Z'
+updatedAt: '2025-12-29T11:52:28.350Z'
+publishedAt: null
 reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  area1: general
   targetAudience: []
+  area1: general
   area2: ''
-  solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
-  locale: sv-se
   tags:
     - update
     - general
     - news
+  solution: Bokföring & Fakturering
+  productId: Bokföring & Fakturering
   guidelineVersions:
-    tone_voice: 1
-    news: 3
-    getting_started: 2
     constitution: 1
-    faq: 1
+    tone_voice: 1
+    getting_started: 2
+    news: 3
     instruction: 7
+    faq: 1
     article_matching: 1
+  locale: sv-se
 ---
 # Få betalt: Nu skickar du påminnelser smidigt via Amili
 
