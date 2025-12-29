@@ -1,0 +1,52 @@
+---
+folderId: d36dixyvClY1a3eN6fvb
+publishedAt: null
+updatedAt: '2025-12-29T11:47:30.063Z'
+createdAt: '2025-12-29T11:47:30.063Z'
+slug: general-lagg-till-fakturabakgrund-news
+languages:
+  - sv
+  - en
+lastLLMUpdateAt: null
+format: md
+reviewedAt: null
+status: draft
+title: Lägg till fakturabakgrund (News)
+id: rsVyLs9BM3fyF9wgTW8B
+metadata:
+  targetAudience: []
+  solution: Bokföring & Fakturering
+  area1: general
+  guidelineVersions:
+    faq: 1
+    getting_started: 2
+    tone_voice: 1
+    instruction: 7
+    constitution: 1
+    article_matching: 1
+    news: 3
+  productId: Bokföring & Fakturering
+  area2: ''
+  tags:
+    - update
+    - general
+    - news
+  locale: sv-se
+---
+# Nyhet: Nu kan du använda flera olika fakturabakgrunder
+
+Nu kan du ladda upp och välja mellan flera olika fakturabakgrunder direkt i Spiris. Detta underlättar för dig som driver olika verksamheter under samma organisationsnummer och vill använda olika grafiska profiler för dina utskick.
+
+### Anpassa dig!
+Du kan ladda upp upp till fem olika bakgrunder för fakturor, offerter och ordrar. På så sätt kan du enkelt byta logotyp eller utseende beroende på vad du säljer, samtidigt som allt bokförs i samma företag.
+
+### Så gör du:
+1. Gå till ****{{resource:CompanySettings}}**** > ****{{resource:CompanyMiscSettings}}**** > ****{{resource:PrintThemeSettingLegend}}****.
+2. Ladda upp dina bakgrundsmallar (max 5 stycken i formaten png, jpg eller jpeg).
+3. Namnge bakgrunderna för att enkelt hitta rätt i listan.
+4. Välj önskad bakgrund i rullistan när du skapar en ny faktura, order eller offert.
+
+### Bra att veta
+* ****{{resource:CP_ExternalReporting_ByggLosen_title_CompanyInformation}}**:** Bankuppgifter och organisationsnummer hämtas alltid från dina generella inställningar, oavsett vilken bakgrund du väljer.
+* **Betalningspåminnelser:** Påminnelser använder automatiskt samma bakgrund som ursprungsfakturan.
+* **Mobilappen:** Stöd för att välja bakgrund rullas även ut i mobilappen, så att du kan sköta din försäljning med rätt profil även på språng.
