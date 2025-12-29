@@ -1,44 +1,44 @@
 ---
 id: cdcvQTohmKqetKAGTceZ
-title: Amili
 slug: general-amili
+createdAt: '2025-12-23T09:49:23.552Z'
+currentVersion: 6
+updatedAt: '2025-12-29T06:36:40.929Z'
+languageUpdatedAt:
+  en: '2025-12-23T11:45:30.301Z'
+  sv: '2025-12-29T06:36:38.890Z'
+lastLLMUpdateAt: null
+format: md
+title: Amili
+reviewedAt: null
+translationBase: {}
+publishedAt: null
+folderId: null
 languages:
   - sv
   - en
-format: md
 status: draft
-folderId: null
-createdAt: '2025-12-23T09:49:23.552Z'
-updatedAt: '2025-12-23T12:00:24.483Z'
-publishedAt: null
-reviewedAt: null
-lastLLMUpdateAt: null
-languageUpdatedAt:
-  sv: '2025-12-23T12:00:22.747Z'
-  en: '2025-12-23T11:45:30.301Z'
-translationBase: {}
-currentVersion: 5
 metadata:
-  area1: general
-  targetAudience: []
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    instruction: 7
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    tone_voice: 1
   area2: ''
+  productId: Bokföring & Fakturering
+  solution: Bokföring & Fakturering
+  targetAudience: []
   tags:
     - update
     - general
     - instruction
+  guidelineVersions:
+    tone_voice: 1
+    faq: 1
+    getting_started: 2
+    news: 3
+    constitution: 1
+    instruction: 7
+    article_matching: 1
+  area1: general
   locale: sv-se
-  solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
 ---
-# Skicka påminnelser via Amili
+# Skicka påminnelser via Amili-test
 Genom att använda Amili direkt i Spiris kan du snabbt och enkelt skicka betalningspåminnelser till dina kunder. Detta hjälper dig att få betalt i tid, minskar det manuella arbetet och ger dig ett effektivt flöde från fakturering till betalning.
 
 ## Så här gör du
