@@ -1,42 +1,42 @@
 ---
-id: eavARuc8bZsIbxnk5kmO
-title: Lägg till fakturabakgrund
+lastLLMUpdateAt: null
+reviewedAt: null
+languageUpdatedAt:
+  sv: '2025-12-29T10:45:56.337Z'
+  en: '2025-12-29T10:45:29.053Z'
+currentVersion: 1
+translationBase: {}
 slug: general-lagg-till-fakturabakgrund
+status: draft
+title: Lägg till fakturabakgrund
+folderId: t5C3XTnFg2qDzQ0j9VPb
+format: md
+createdAt: '2025-12-29T10:45:29.053Z'
+id: BUE0kzSgK3uVDDFZoeE3
+publishedAt: null
 languages:
   - sv
   - en
-format: md
-status: draft
-folderId: t5C3XTnFg2qDzQ0j9VPb
-createdAt: '2025-12-29T10:43:05.710Z'
-updatedAt: '2025-12-29T10:43:34.681Z'
-publishedAt: null
-reviewedAt: null
-lastLLMUpdateAt: null
-translationBase: {}
-currentVersion: 1
-languageUpdatedAt:
-  sv: '2025-12-29T10:43:05.710Z'
-  en: '2025-12-29T10:43:19.427Z'
+updatedAt: '2025-12-29T10:46:00.304Z'
 metadata:
-  area2: ''
-  locale: sv-se
-  area1: general
-  guidelineVersions:
-    getting_started: 2
-    instruction: 7
-    tone_voice: 1
-    faq: 1
-    news: 3
-    constitution: 1
-    article_matching: 1
-  productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
   tags:
     - update
     - general
     - instruction
+  area1: general
+  locale: sv-se
+  area2: ''
+  guidelineVersions:
+    faq: 1
+    tone_voice: 1
+    news: 3
+    instruction: 7
+    constitution: 1
+    article_matching: 1
+    getting_started: 2
+  solution: Bokföring & Fakturering
   targetAudience: []
+  productId: Bokföring & Fakturering
 ---
 # Use different invoice backgrounds-TEST2
 
