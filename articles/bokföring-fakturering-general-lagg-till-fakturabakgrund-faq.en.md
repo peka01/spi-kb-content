@@ -1,37 +1,37 @@
 ---
-updatedAt: '2025-12-29T11:47:30.513Z'
 id: 2BP9rnPNCKF0Dg3wrXbL
-publishedAt: null
-status: draft
+title: Lägg till fakturabakgrund (Faq)
+slug: general-lagg-till-fakturabakgrund-faq
 languages:
   - sv
   - en
-reviewedAt: null
-slug: general-lagg-till-fakturabakgrund-faq
 format: md
-title: Lägg till fakturabakgrund (Faq)
+status: draft
 folderId: i0H96CscyRcGsDArAK9Q
-lastLLMUpdateAt: null
 createdAt: '2025-12-29T11:47:30.513Z'
+updatedAt: '2025-12-29T11:52:28.546Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  solution: Bokföring & Fakturering
   locale: sv-se
+  targetAudience: []
+  productId: Bokföring & Fakturering
   area1: general
-  area2: ''
   guidelineVersions:
     constitution: 1
-    tone_voice: 1
     getting_started: 2
-    article_matching: 1
-    faq: 1
     instruction: 7
+    tone_voice: 1
+    faq: 1
     news: 3
+    article_matching: 1
   tags:
     - update
     - general
     - faq
-  targetAudience: []
-  productId: Bokföring & Fakturering
+  area2: ''
+  solution: Bokföring & Fakturering
 ---
 # Frequently Asked Questions about Invoice Backgrounds
 
