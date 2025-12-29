@@ -1,38 +1,38 @@
 ---
+id: z6ozVB4wQAhFwsw68yxe
+title: Nollställ företag
+slug: general-nollställ-företag
 languages:
   - sv
   - en
+format: md
+status: draft
+folderId: null
+createdAt: '2025-12-29T11:47:30.927Z'
+updatedAt: '2025-12-29T11:52:29.329Z'
+publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-23T07:27:09.910Z'
-status: draft
-createdAt: '2025-12-29T11:47:30.927Z'
-publishedAt: null
-slug: general-nollställ-företag
-id: z6ozVB4wQAhFwsw68yxe
-title: Nollställ företag
 lastLLMUpdateAt: '2025-12-23T07:21:24.813Z'
-updatedAt: '2025-12-29T11:47:30.927Z'
-format: md
-folderId: null
 metadata:
-  solution: Skatt & Bokslut
-  locale: sv-se
   area1: general
-  targetAudience: []
-  guidelineVersions:
-    getting_started: 2
-    tone_voice: 1
-    constitution: 1
-    instruction: 7
-    faq: 1
-    article_matching: 1
-    news: 3
+  productId: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
+  locale: sv-se
   area2: ''
-  productId: Skatt & Bokslut
+  guidelineVersions:
+    getting_started: 2
+    faq: 1
+    article_matching: 1
+    instruction: 7
+    tone_voice: 1
+    constitution: 1
+    news: 3
+  solution: Skatt & Bokslut
+  targetAudience: []
 ---
 # Nollställ ett företag TEST
 
