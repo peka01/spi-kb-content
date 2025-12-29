@@ -1,37 +1,37 @@
 ---
-id: rsVyLs9BM3fyF9wgTW8B
 title: Lägg till fakturabakgrund (News)
-slug: general-lagg-till-fakturabakgrund-news
 languages:
   - sv
   - en
-format: md
-status: draft
-folderId: d36dixyvClY1a3eN6fvb
-createdAt: '2025-12-29T11:47:30.063Z'
-updatedAt: '2025-12-29T11:52:28.655Z'
-publishedAt: null
-reviewedAt: null
 lastLLMUpdateAt: null
+slug: general-lagg-till-fakturabakgrund-news
+reviewedAt: null
+updatedAt: '2025-12-29T11:52:28.114Z'
+createdAt: '2025-12-29T11:52:28.114Z'
+status: draft
+id: UwbuTZ2TX1VEmS2UMUJf
+publishedAt: null
+format: md
+folderId: d36dixyvClY1a3eN6fvb
 metadata:
-  area2: ''
-  solution: Bokföring & Fakturering
+  targetAudience: []
+  area1: general
   productId: Bokföring & Fakturering
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    news: 3
-    tone_voice: 1
-    instruction: 7
-    getting_started: 2
-    article_matching: 1
   tags:
     - update
     - general
     - news
-  targetAudience: []
   locale: sv-se
-  area1: general
+  area2: ''
+  solution: Bokföring & Fakturering
+  guidelineVersions:
+    instruction: 7
+    article_matching: 1
+    faq: 1
+    news: 3
+    getting_started: 2
+    constitution: 1
+    tone_voice: 1
 ---
 # Nyhet: Nu kan du använda flera olika fakturabakgrunder
 
