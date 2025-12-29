@@ -1,38 +1,45 @@
 ---
-id: Q4Q3Rrph3X26DDB8NzsB
-title: Nollställ företag
-slug: general-nollställ-företag
+folderId: null
+translationBase: {}
+languageUpdatedAt:
+  en: '2025-12-29T09:10:07.106Z'
+  sv: '2025-12-29T09:18:00.034Z'
+currentVersion: 1
+format: md
+id: NL6x5nbzqIHf0A0RdfQU
+publishedAt: null
 languages:
   - sv
-format: md
-status: draft
-folderId: null
-createdAt: '2025-12-23T07:20:44.804Z'
-updatedAt: '2025-12-23T07:27:09.910Z'
-publishedAt: null
-pendingReview: false
+  - en
+title: Nollställ företag
 reviewedAt: '2025-12-23T07:27:09.910Z'
+pendingReview: false
+slug: general-nollställ-företag
+createdAt: '2025-12-29T09:10:07.106Z'
 lastLLMUpdateAt: '2025-12-23T07:21:24.813Z'
+updatedAt: '2025-12-29T09:18:02.546Z'
+status: draft
 metadata:
+  area2: ''
+  guidelineVersions:
+    getting_started: 2
+    tone_voice: 1
+    faq: 1
+    constitution: 1
+    article_matching: 1
+    news: 3
+    instruction: 7
   targetAudience: []
-  area1: general
-  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    getting_started: 2
-    faq: 1
-    tone_voice: 1
-    news: 3
-    article_matching: 1
-    instruction: 7
-    constitution: 1
-  area2: ''
+  solution: Skatt & Bokslut
+  locale: sv-se
   productId: Skatt & Bokslut
+  area1: general
 ---
-# Nollställ ett företag
+# Nollställ ett företag TEST
 
 Ibland blir det inte som man tänkt sig, och då är det skönt att kunna börja om på en ren kula. Genom att nollställa ett företag i Spiris rensar du all befintlig data i den aktuella vyn. Det gör att du slipper radera uppgifter manuellt och kan sätta igång med arbetet på nytt direkt.
 
