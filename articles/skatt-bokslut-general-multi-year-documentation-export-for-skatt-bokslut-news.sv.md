@@ -1,68 +1,74 @@
 ---
+updatedAt: '2025-12-29T08:08:44.841Z'
 title: Multi-Year Documentation Export for Skatt & Bokslut (News)
+status: draft
 slug: general-multi-year-documentation-export-for-skatt-bokslut-news
+reviewedAt: null
+publishedAt: null
+format: md
+createdAt: '2025-12-29T07:50:56.555Z'
 languages:
   - sv
-format: md
-status: draft
+id: JCaU9O0wpDrR4zenZeaE
+lastLLMUpdateAt: '2025-12-29T08:08:44.841Z'
+pendingReview: true
 folderId: null
-publishedAt: null
-createdAt: '2025-12-23T10:37:59.699Z'
-updatedAt: '2025-12-23T10:37:59.699Z'
-id: SvzMGBANHj42bmuQrWo9
 metadata:
   productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  area1: general
   area2: ''
-  targetAudience: []
+  solution: Skatt & Bokslut
+  locale: sv-se
   tags:
     - update
     - general
     - news
   guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
     instruction: 7
+    article_matching: 1
     tone_voice: 1
+    news: 3
+    faq: 1
+    getting_started: 2
+    constitution: 1
+  targetAudience: []
+  area1: general
 ---
-# Smidigare arkivering: Nu kan du exportera dokumentation för flera år samtidigt
+# Smidigare arkivering: Exportera dokumentation för flera år samtidigt
 
-**Vi introducerar nu en efterlängtad funktion i Skatt & Bokslut som gör det möjligt att exportera företagets dokumentation för flera räkenskapsår i ett svep. Med några enkla klick skapas en strukturerad ZIP-fil med alla dina viktiga PDF-dokument, vilket gör det enklare än någonsin att sköta din arkivering.**
+**Vi lanserar en ny exportfunktion i Skatt & Bokslut som gör det möjligt att skapa ett strukturerat arkiv med PDF-dokumentation för flera räkenskapsår samtidigt. Genom att samla allt underlag i en organiserad ZIP-fil blir det enklare att uppfylla lagkrav på arkivering, oavsett om du är aktiv användare eller har företaget i läsläge. Funktionen är tillgänglig nu och hjälper dig att säkra din data för framtiden.**
 
-Att spara och organisera bokslutshandlingar är en viktig del av företagets ekonomihantering, inte minst för att uppfylla lagkrav på arkivering. Tidigare har detta ofta inneburit manuellt arbete år för år, men nu gör vi processen betydligt snabbare och säkrare för dig som använder Spiris plattform.
+Att spara och organisera bokslutshandlingar är en viktig del av företagets ekonomihantering. Tidigare har detta ofta inneburit manuellt arbete år för år, men nu gör vi processen betydligt snabbare och säkrare för dig som använder Spiris plattform.
 
 ### Varför är detta bra för dig?
 
 Den nya exportfunktionen är utformad för att ge dig trygghet och sparad tid. Här är de främsta fördelarna:
 
-*   **Enkel arkivering:** Du får allt underlag samlat i en fil, perfekt för digital lagring enligt bokföringslagens krav.
-*   **Strukturerat och tydligt:** Exporten skapar automatiskt en logisk mappstruktur sorterad efter år och period. Du slipper sortera dokumenten själv.
-*   **Framtidssäkrat:** Genom att ha dokumentationen i PDF-format har du full tillgång till dina handlingar även om du skulle avsluta ett abonnemang eller om företaget försätts i läsläge.
+*   **Enkel arkivering:** Du får allt underlag samlat i en ZIP-fil, perfekt för digital lagring enligt bokföringslagens krav.
+*   **Strukturerat och tydligt:** Exporten skapar automatiskt en logisk mappstruktur. Översta nivån är sorterad efter år, och i varje årsmapp finns undermappar för varje period där alla relevanta PDF-dokument ligger sparade.
+*   **Framtidssäkrat:** Genom att ha dokumentationen i ett standardiserat PDF-format har du full tillgång till dina handlingar även om du skulle avsluta ett abonnemang eller om företaget försätts i läsläge.
+*   **Tillgängligt för alla:** Funktionen är tillgänglig för både aktiva abonnemang (VPY Pro och VPY Noninteractive) och för kunder som befinner sig i läsläge.
 
 ### Så fungerar det
 
-Du hittar den nya funktionen under menyn för **Underhåll** och valet **Exportera data**. 
+Du hittar den nya funktionen i menyn under **Underhåll** och valet **Exportera data**. 
 
-När du väljer att exportera dokumentation kan du markera ett eller flera räkenskapsår samtidigt. När du startar exporten jobbar plattformen åt dig i bakgrunden. Du kan följa förloppet via en statusmätare och du får en tydlig notis när din ZIP-fil är klar att laddas ner.
+När du väljer att exportera dokumentation kan du markera ett eller flera räkenskapsår samtidigt. Det finns även en smidig funktion för att välja alla år med ett klick. När du startar exporten jobbar plattformen åt dig i bakgrunden och knappen för export inaktiveras tills processen är klar. Du kan följa förloppet via en statusmätare, precis som i rapportcentret, och du får en notis när din fil är klar att laddas ner.
 
 ### Smart filtrering för högre kvalitet
 
-För att din export ska bli så relevant och överskådlig som möjligt har vi byggt in smart logik. Exporten inkluderar de perioder där det faktiskt finns aktivitet, till exempel:
+För att din export ska bli så relevant och överskådlig som möjligt har vi byggt in smart logik. Exporten inkluderar endast de perioder där det faktiskt finns aktivitet, till exempel:
 *   Perioder med genomförda autokontroller.
 *   Konton som markerats som klara.
 *   Dokument där du har lämnat kommentarer eller anteckningar.
 
-Detta säkerställer att din arkivfil innehåller den viktiga informationen utan onödigt "brus" från tomma perioder.
+Detta säkerställer att din arkivfil innehåller den viktiga informationen utan onödigt brus från tomma perioder.
 
 ### Full kontroll under hela processen
 
-Vi vet att stora exporter kan ta en liten stund. Därför har vi lagt stor vikt vid att du ska känna dig trygg med att allt går rätt till:
-*   **Statusuppdateringar:** En förloppsindikator visar hur långt exporten har kommit.
-*   **Tydliga besked:** Skulle något dokument mot förmodan inte kunna skapas får du en detaljerad notis om detta. Du får även veta om exporten lyckades helt eller delvis.
-*   **Hjälp på vägen:** Vid de olika dokumenttyperna finns informativa rutor (tooltips) som förklarar exakt vad som ingår i exporten, såsom skatteberäkningar, årsredovisningshandlingar och avstämningar.
+Vi vet att dokumentation är affärskritisk, därför har vi lagt stor vikt vid att du ska ha full koll på exportens innehåll och status:
 
-Denna uppdatering är tillgänglig nu för alla användare i Skatt & Bokslut. Vi hoppas att den ska göra ditt arbete med bokslut och arkivering både enklare och roligare!
+*   **Informativa tooltips:** Vid de olika dokumenttyperna finns hjälpsamma rutor som förklarar exakt vad som ingår i exporten, såsom skatteberäkningar, årsredovisningshandlingar, avstämningar och transaktionsanalyser.
+*   **Statusuppdateringar:** En förloppsindikator visar i realtid hur långt exporten har kommit.
+*   **Tydliga besked:** När exporten är klar får du en bekräftelse. Skulle något dokument mot förmodan inte kunna skapas (exempelvis på grund av ett ovanligt filformat) får du en notis om att exporten lyckades delvis. I dessa fall skapas en sida i exporten som förklarar vilket dokument som saknas och varför, så att du alltid har full kontroll på ditt arkiv.
+
+Denna uppdatering gör ditt arbete med bokslut och arkivering både enklare och tryggare. Du hittar funktionen i Skatt & Bokslut redan idag!
