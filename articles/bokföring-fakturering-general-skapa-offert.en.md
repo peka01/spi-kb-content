@@ -1,37 +1,37 @@
 ---
-slug: general-skapa-offert
-reviewedAt: null
-publishedAt: null
-lastLLMUpdateAt: null
-format: md
 id: YTaL9512dcm3IYf8iTC4
-updatedAt: '2025-12-29T11:47:30.302Z'
-status: draft
+title: Skapa offert
+slug: general-skapa-offert
 languages:
   - sv
   - en
-createdAt: '2025-12-29T11:47:30.302Z'
+format: md
+status: draft
 folderId: t5C3XTnFg2qDzQ0j9VPb
-title: Skapa offert
+createdAt: '2025-12-29T11:47:30.302Z'
+updatedAt: '2025-12-29T11:52:28.841Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
   area2: ''
-  targetAudience: []
   solution: Bokföring & Fakturering
-  area1: general
   productId: Bokföring & Fakturering
-  locale: sv-se
+  targetAudience: []
   tags:
     - update
     - general
     - instruction
   guidelineVersions:
-    tone_voice: 1
     instruction: 7
     article_matching: 1
-    constitution: 1
-    news: 3
-    faq: 1
     getting_started: 2
+    constitution: 1
+    faq: 1
+    tone_voice: 1
+    news: 3
+  area1: general
+  locale: sv-se
 ---
 # Create a quote
 
