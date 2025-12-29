@@ -1,37 +1,37 @@
 ---
-createdAt: '2025-12-29T11:47:30.816Z'
-updatedAt: '2025-12-29T11:47:30.816Z'
-format: md
-status: draft
+id: ZapAFb2dLed9j3v7lIYS
 title: Multi-Year Documentation Export for Skatt & Bokslut (News)
-publishedAt: null
-folderId: null
-pendingReview: false
+slug: general-multi-year-documentation-export-for-skatt-bokslut-news
 languages:
   - sv
-lastLLMUpdateAt: '2025-12-29T08:08:44.841Z'
-id: ZapAFb2dLed9j3v7lIYS
-slug: general-multi-year-documentation-export-for-skatt-bokslut-news
+format: md
+status: draft
+folderId: null
+createdAt: '2025-12-29T11:47:30.816Z'
+updatedAt: '2025-12-29T11:52:29.142Z'
+publishedAt: null
+pendingReview: false
 reviewedAt: '2025-12-29T08:11:18.227Z'
+lastLLMUpdateAt: '2025-12-29T08:08:44.841Z'
 metadata:
+  targetAudience: []
+  area1: general
   guidelineVersions:
-    article_matching: 1
+    tone_voice: 1
     constitution: 1
     getting_started: 2
-    faq: 1
-    news: 3
-    tone_voice: 1
     instruction: 7
+    faq: 1
+    article_matching: 1
+    news: 3
+  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
+  locale: sv-se
+  area2: ''
   tags:
     - update
     - general
     - news
-  solution: Skatt & Bokslut
-  area2: ''
-  area1: general
-  productId: Skatt & Bokslut
-  locale: sv-se
-  targetAudience: []
 ---
 # Smidigare arkivering: Exportera dokumentation för flera år samtidigt
 
