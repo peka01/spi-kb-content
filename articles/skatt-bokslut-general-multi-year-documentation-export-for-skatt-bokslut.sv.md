@@ -1,37 +1,37 @@
 ---
-publishedAt: null
-format: md
-lastLLMUpdateAt: '2025-12-29T08:08:32.756Z'
-reviewedAt: '2025-12-29T08:09:55.495Z'
-createdAt: '2025-12-29T11:47:30.868Z'
-pendingReview: false
-slug: general-multi-year-documentation-export-for-skatt-bokslut
 id: pXWTQ8H9AGDhU1urwR2m
-status: draft
+title: Multi-Year Documentation Export for Skatt & Bokslut
+slug: general-multi-year-documentation-export-for-skatt-bokslut
 languages:
   - sv
-updatedAt: '2025-12-29T11:47:30.868Z'
+format: md
+status: draft
 folderId: null
-title: Multi-Year Documentation Export for Skatt & Bokslut
+createdAt: '2025-12-29T11:47:30.868Z'
+updatedAt: '2025-12-29T11:52:29.235Z'
+publishedAt: null
+pendingReview: false
+reviewedAt: '2025-12-29T08:09:55.495Z'
+lastLLMUpdateAt: '2025-12-29T08:08:32.756Z'
 metadata:
+  area1: general
+  area2: ''
   guidelineVersions:
-    instruction: 7
+    article_matching: 1
     faq: 1
+    getting_started: 2
     tone_voice: 1
     news: 3
-    getting_started: 2
-    article_matching: 1
+    instruction: 7
     constitution: 1
   targetAudience: []
   productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  locale: sv-se
   tags:
     - update
     - general
     - instruction
-  solution: Skatt & Bokslut
-  area2: ''
-  area1: general
-  locale: sv-se
 ---
 # Exportera dokumentation för flera räkenskapsår
 
