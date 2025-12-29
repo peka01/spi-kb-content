@@ -1,42 +1,42 @@
 ---
-lastLLMUpdateAt: null
-reviewedAt: null
-languageUpdatedAt:
-  sv: '2025-12-29T10:45:56.337Z'
-  en: '2025-12-29T10:45:29.053Z'
-currentVersion: 1
-translationBase: {}
-slug: general-lagg-till-fakturabakgrund
-status: draft
-title: Lägg till fakturabakgrund
-folderId: t5C3XTnFg2qDzQ0j9VPb
-format: md
-createdAt: '2025-12-29T10:45:29.053Z'
 id: BUE0kzSgK3uVDDFZoeE3
-publishedAt: null
+title: Lägg till fakturabakgrund
+slug: general-lagg-till-fakturabakgrund
 languages:
   - sv
   - en
-updatedAt: '2025-12-29T10:46:00.304Z'
+format: md
+status: draft
+folderId: t5C3XTnFg2qDzQ0j9VPb
+createdAt: '2025-12-29T10:45:29.053Z'
+updatedAt: '2025-12-29T11:47:30.595Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
+languageUpdatedAt:
+  sv: '2025-12-29T10:45:56.337Z'
+  en: '2025-12-29T10:45:29.053Z'
+translationBase: {}
 metadata:
+  productId: Bokföring & Fakturering
+  targetAudience: []
+  area2: ''
+  solution: Bokföring & Fakturering
+  area1: general
   tags:
     - update
     - general
     - instruction
-  area1: general
-  locale: sv-se
-  area2: ''
   guidelineVersions:
-    faq: 1
-    tone_voice: 1
     news: 3
     instruction: 7
-    constitution: 1
-    article_matching: 1
     getting_started: 2
-  solution: Bokföring & Fakturering
-  targetAudience: []
-  productId: Bokföring & Fakturering
+    constitution: 1
+    faq: 1
+    article_matching: 1
+    tone_voice: 1
+  locale: sv-se
 ---
 # Use different invoice backgrounds-TEST2
 
