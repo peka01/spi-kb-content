@@ -6,32 +6,32 @@ languages:
   - sv
 format: md
 status: draft
-folderId: null
+folderId: dTEzBlAJxfUsQI7CBusB
 createdAt: '2025-12-29T11:47:30.764Z'
-updatedAt: '2025-12-29T11:52:29.028Z'
+updatedAt: '2025-12-29T14:49:16.904Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-29T08:10:53.026Z'
 lastLLMUpdateAt: '2025-12-29T08:08:56.404Z'
 metadata:
+  area1: general
+  area2: ''
+  productId: Skatt & Bokslut
   guidelineVersions:
+    news: 3
+    faq: 1
+    constitution: 1
     instruction: 7
     getting_started: 2
-    tone_voice: 1
-    constitution: 1
-    faq: 1
-    news: 3
     article_matching: 1
+    tone_voice: 1
   targetAudience: []
+  solution: Skatt & Bokslut
+  locale: sv-se
   tags:
     - update
     - general
     - getting_started
-  productId: Skatt & Bokslut
-  area2: ''
-  solution: Skatt & Bokslut
-  locale: sv-se
-  area1: general
 ---
 # Kom i gång med export av dokumentation för flera år
 
