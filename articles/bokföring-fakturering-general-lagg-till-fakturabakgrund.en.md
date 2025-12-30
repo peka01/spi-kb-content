@@ -9,34 +9,34 @@ format: md
 status: draft
 folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2025-12-29T10:45:29.053Z'
-updatedAt: '2025-12-29T14:25:25.897Z'
+updatedAt: '2025-12-30T09:08:44.785Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
-  sv: '2025-12-29T14:25:20.582Z'
+  sv: '2025-12-30T09:08:42.076Z'
   en: '2025-12-29T10:45:29.053Z'
 translationBase: {}
-currentVersion: 2
+currentVersion: 3
 metadata:
-  area2: ''
+  solution: Bokföring & Fakturering
   tags:
     - update
     - general
     - instruction
   productId: Bokföring & Fakturering
-  targetAudience: []
-  guidelineVersions:
-    getting_started: 2
-    news: 3
-    constitution: 1
-    instruction: 7
-    tone_voice: 1
-    article_matching: 1
-    faq: 1
-  solution: Bokföring & Fakturering
   area1: general
   locale: sv-se
+  targetAudience: []
+  guidelineVersions:
+    constitution: 1
+    article_matching: 1
+    news: 3
+    getting_started: 2
+    faq: 1
+    tone_voice: 1
+    instruction: 7
+  area2: ''
 ---
 # Use different invoice backgrounds-TEST2
 
