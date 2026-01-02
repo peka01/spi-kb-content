@@ -9,34 +9,36 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-29T11:47:30.453Z'
-updatedAt: '2025-12-30T07:56:17.291Z'
+updatedAt: '2026-01-02T08:18:08.764Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 translationBase: {}
-currentVersion: 1
 languageUpdatedAt:
-  sv: '2025-12-30T07:56:08.809Z'
   en: '2025-12-29T14:02:20.251Z'
+  sv: '2025-12-30T07:56:08.809Z'
+currentVersion: 1
+updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
 metadata:
   locale: sv-se
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    tone_voice: 1
-    article_matching: 1
-    faq: 1
-    constitution: 1
-    news: 3
-    getting_started: 2
-    instruction: 7
+  solution: Bokföring & Fakturering
   area2: ''
   productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
-  targetAudience: []
+  guidelineVersions:
+    faq: 1
+    news: 3
+    instruction: 7
+    article_matching: 1
+    getting_started: 2
+    constitution: 1
+    tone_voice: 1
   area1: general
+  targetAudience: []
 ---
 # Skicka påminnelser via Amili
 Genom att använda Amili direkt i Spiris kan du snabbt och enkelt skicka betalningspåminnelser till dina kunder. Detta hjälper dig att få betalt i tid, minskar det manuella arbetet och ger dig ett effektivt flöde från fakturering till betalning.
