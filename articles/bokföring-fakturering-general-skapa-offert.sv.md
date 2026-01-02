@@ -9,29 +9,35 @@ format: md
 status: draft
 folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2025-12-29T11:47:30.302Z'
-updatedAt: '2025-12-29T11:52:28.841Z'
+updatedAt: '2026-01-02T08:22:18.863Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+translationBase: {}
+updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
+languageUpdatedAt:
+  sv: '2025-12-29T14:02:20.784Z'
+  en: '2025-12-29T14:02:20.784Z'
 metadata:
-  area2: ''
-  solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
+  locale: sv-se
   targetAudience: []
+  productId: Bokföring & Fakturering
+  guidelineVersions:
+    tone_voice: 1
+    getting_started: 2
+    news: 3
+    faq: 1
+    constitution: 1
+    article_matching: 1
+    instruction: 7
+  area2: ''
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    instruction: 7
-    article_matching: 1
-    getting_started: 2
-    constitution: 1
-    faq: 1
-    tone_voice: 1
-    news: 3
+  solution: Bokföring & Fakturering
   area1: general
-  locale: sv-se
 ---
 # Skapa en offert
 
