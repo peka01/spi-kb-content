@@ -9,29 +9,29 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-29T11:47:30.380Z'
-updatedAt: '2025-12-29T11:52:28.350Z'
+updatedAt: '2025-12-29T14:02:20.126Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
   targetAudience: []
-  area1: general
   area2: ''
+  area1: general
+  productId: Bokföring & Fakturering
+  guidelineVersions:
+    faq: 1
+    constitution: 1
+    news: 3
+    getting_started: 2
+    tone_voice: 1
+    instruction: 7
+    article_matching: 1
+  solution: Bokföring & Fakturering
+  locale: sv-se
   tags:
     - update
     - general
     - news
-  solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
-  guidelineVersions:
-    constitution: 1
-    tone_voice: 1
-    getting_started: 2
-    news: 3
-    instruction: 7
-    faq: 1
-    article_matching: 1
-  locale: sv-se
 ---
 # Få betalt: Nu skickar du påminnelser smidigt via Amili
 
