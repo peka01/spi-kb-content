@@ -7,31 +7,37 @@ languages:
   - en
 format: md
 status: draft
-folderId: dTEzBlAJxfUsQI7CBusB
+folderId: Dyl6NKv7wLoWpa17zqJH
 createdAt: '2025-12-29T11:47:30.513Z'
-updatedAt: '2025-12-29T14:49:05.854Z'
+updatedAt: '2026-01-02T08:18:22.655Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+updatedByName: Per Karlsson
+translationBase: {}
+updatedBy: Per.Karlsson@visma.com
+languageUpdatedAt:
+  sv: '2025-12-29T14:49:09.927Z'
+  en: '2025-12-29T14:49:09.927Z'
 metadata:
-  area2: ''
-  targetAudience: []
-  locale: sv-se
-  solution: Bokföring & Fakturering
+  guidelineVersions:
+    constitution: 1
+    instruction: 7
+    tone_voice: 1
+    news: 3
+    article_matching: 1
+    faq: 1
+    getting_started: 2
   tags:
     - update
     - general
     - faq
-  guidelineVersions:
-    getting_started: 2
-    instruction: 7
-    news: 3
-    article_matching: 1
-    tone_voice: 1
-    faq: 1
-    constitution: 1
+  area2: ''
   productId: Bokföring & Fakturering
+  solution: Bokföring & Fakturering
   area1: general
+  targetAudience: []
+  locale: sv-se
 ---
 # Vanliga frågor om fakturabakgrunder
 
