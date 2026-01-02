@@ -1,37 +1,37 @@
 ---
+id: UwbuTZ2TX1VEmS2UMUJf
 title: Lägg till fakturabakgrund (News)
+slug: general-lagg-till-fakturabakgrund-news
 languages:
   - sv
   - en
-lastLLMUpdateAt: null
-slug: general-lagg-till-fakturabakgrund-news
-reviewedAt: null
-updatedAt: '2025-12-29T11:52:28.114Z'
-createdAt: '2025-12-29T11:52:28.114Z'
-status: draft
-id: UwbuTZ2TX1VEmS2UMUJf
-publishedAt: null
 format: md
+status: draft
 folderId: d36dixyvClY1a3eN6fvb
+createdAt: '2025-12-29T11:52:28.114Z'
+updatedAt: '2025-12-29T14:02:20.529Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  targetAudience: []
-  area1: general
+  area2: ''
+  guidelineVersions:
+    tone_voice: 1
+    faq: 1
+    news: 3
+    instruction: 7
+    article_matching: 1
+    getting_started: 2
+    constitution: 1
+  locale: sv-se
+  solution: Bokföring & Fakturering
   productId: Bokföring & Fakturering
+  area1: general
   tags:
     - update
     - general
     - news
-  locale: sv-se
-  area2: ''
-  solution: Bokföring & Fakturering
-  guidelineVersions:
-    instruction: 7
-    article_matching: 1
-    faq: 1
-    news: 3
-    getting_started: 2
-    constitution: 1
-    tone_voice: 1
+  targetAudience: []
 ---
 # News: You can now use multiple invoice backgrounds
 
