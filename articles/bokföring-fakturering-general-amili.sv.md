@@ -9,35 +9,42 @@ format: md
 status: draft
 folderId: null
 createdAt: '2025-12-29T11:47:30.453Z'
-updatedAt: '2026-01-02T08:18:08.764Z'
+updatedAt: '2026-01-02T16:29:47.372Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-translationBase: {}
-languageUpdatedAt:
-  en: '2025-12-29T14:02:20.251Z'
-  sv: '2025-12-30T07:56:08.809Z'
-currentVersion: 1
-updatedByName: Per Karlsson
 updatedBy: Per.Karlsson@visma.com
+currentVersion: 1
+translationBase: {}
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2025-12-30T07:56:08.809Z'
+  en: '2025-12-29T14:02:20.251Z'
 metadata:
-  locale: sv-se
+  cshAnchors:
+    - test
+  solution: Bokföring & Fakturering
+  productId: Bokföring & Fakturering
   tags:
     - update
     - general
     - instruction
-  solution: Bokföring & Fakturering
-  area2: ''
-  productId: Bokföring & Fakturering
+  cshMappings:
+    - lastVerified: '2026-01-02T16:29:47.372Z'
+      name: test
+      addedAt: '2026-01-02T12:30:40.304Z'
+      deprecated: false
   guidelineVersions:
+    article_matching: 1
+    tone_voice: 1
+    getting_started: 2
+    instruction: 7
     faq: 1
     news: 3
-    instruction: 7
-    article_matching: 1
-    getting_started: 2
     constitution: 1
-    tone_voice: 1
+  locale: sv-se
   area1: general
+  area2: ''
   targetAudience: []
 ---
 # Skicka påminnelser via Amili
