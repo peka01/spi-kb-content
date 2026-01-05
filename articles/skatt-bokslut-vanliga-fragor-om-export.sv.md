@@ -9,38 +9,38 @@ format: md
 status: test
 folderId: HzPeehfTchzR7GNsCC9Z
 createdAt: '2026-01-05T06:32:37.776Z'
-updatedAt: '2026-01-05T12:55:07.453Z'
+updatedAt: '2026-01-05T12:57:40.642Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 translationBase: {}
+currentVersion: 8
 updatedBy: Per.Karlsson@visma.com
 updatedByName: Per Karlsson
-currentVersion: 7
 languageUpdatedAt:
-  sv: '2026-01-05T12:55:02.951Z'
+  sv: '2026-01-05T12:57:33.485Z'
   en: '2026-01-05T06:35:56.175Z'
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  guidelineVersions:
-    constitution: 1
-    tone_voice: 1
-    getting_started: 2
-    faq: 1
-    instruction: 7
-    article_matching: 1
-    news: 3
-  locale: sv-se
-  area1: general
   area2: ''
-  targetAudience: []
+  locale: sv-se
   tags:
     - update
     - general
     - faq
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  targetAudience: []
+  area1: general
+  guidelineVersions:
+    faq: 1
+    article_matching: 1
+    getting_started: 2
+    news: 3
+    constitution: 1
+    tone_voice: 1
+    instruction: 7
 ---
-# Vanliga frågor om exporter
+# Vanliga frågor om export
 
 Här hittar du information om hur du använder den nya exportfunktionen i **Skatt & Bokslut** för att spara ner företagets bokföringsdata i ett strukturerat format. Detta är särskilt användbart för att uppfylla lagkrav på arkivering eller när du planerar att avsluta ett abonnemang.
 
