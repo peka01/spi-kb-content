@@ -6,16 +6,19 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: kCQeZSIeTaOeCfVIaiyV
 createdAt: '2026-01-05T06:32:26.367Z'
-updatedAt: '2026-01-05T06:48:32.793Z'
+updatedAt: '2026-01-05T08:31:33.348Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
-  en: '2026-01-05T06:47:03.432Z'
   sv: '2026-01-05T06:47:03.432Z'
+  en: '2026-01-05T06:47:03.432Z'
+currentVersion: 3
+updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
 translationBase:
   en: >-
     # Exportera bokföringsdata för arkivering
@@ -91,27 +94,24 @@ translationBase:
 
     *   **Läsläge:** Funktionen är även tillgänglig för företag som befinner sig
     i läsläge (Read-only).
-updatedBy: Per.Karlsson@visma.com
-currentVersion: 3
-updatedByName: Per Karlsson
 metadata:
-  guidelineVersions:
-    news: 3
-    instruction: 7
-    tone_voice: 1
-    getting_started: 2
-    article_matching: 1
-    faq: 1
-    constitution: 1
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  area1: general
   tags:
     - update
     - general
     - instruction
-  solution: Skatt & Bokslut
   area2: ''
-  area1: general
-  productId: Skatt & Bokslut
   targetAudience: []
+  guidelineVersions:
+    tone_voice: 1
+    instruction: 7
+    news: 3
+    faq: 1
+    article_matching: 1
+    getting_started: 2
+    constitution: 1
 ---
 # Exportera bokföringsdata för arkivering
 
