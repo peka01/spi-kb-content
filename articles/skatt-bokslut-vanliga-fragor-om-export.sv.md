@@ -6,38 +6,38 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: HzPeehfTchzR7GNsCC9Z
 createdAt: '2026-01-05T06:32:37.776Z'
-updatedAt: '2026-01-05T06:49:56.401Z'
+updatedAt: '2026-01-05T08:31:31.585Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 2
-languageUpdatedAt:
-  sv: '2026-01-05T06:49:49.218Z'
-  en: '2026-01-05T06:35:56.175Z'
 translationBase: {}
-updatedByName: Per Karlsson
+currentVersion: 2
 updatedBy: Per.Karlsson@visma.com
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  en: '2026-01-05T06:35:56.175Z'
+  sv: '2026-01-05T06:49:49.218Z'
 metadata:
+  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - faq
-  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
+  guidelineVersions:
+    faq: 1
+    instruction: 7
+    news: 3
+    article_matching: 1
+    constitution: 1
+    tone_voice: 1
+    getting_started: 2
   area1: general
   targetAudience: []
   area2: ''
-  productId: Skatt & Bokslut
-  guidelineVersions:
-    tone_voice: 1
-    faq: 1
-    instruction: 7
-    article_matching: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
 ---
 # Vanliga frågor om export
 
