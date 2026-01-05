@@ -1,33 +1,35 @@
 ---
+id: X75C4IsnLO6OpNkv4HXN
 title: 'Export #4 (Getting Started)'
 slug: general-export-4-getting-started
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: T2yIBCEHMBP87JGe1DsG
 createdAt: '2026-01-05T06:32:51.059Z'
-updatedAt: '2026-01-05T06:32:51.059Z'
-id: X75C4IsnLO6OpNkv4HXN
+updatedAt: '2026-01-05T06:35:53.013Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Skatt & Bokslut
   solution: Skatt & Bokslut
-  area1: general
   area2: ''
+  area1: general
   targetAudience: []
-  tags:
-    - update
-    - general
-    - getting_started
   guidelineVersions:
     faq: 1
     constitution: 1
     getting_started: 2
+    instruction: 7
     news: 3
     article_matching: 1
-    instruction: 7
     tone_voice: 1
+  tags:
+    - update
+    - general
+    - getting_started
+  productId: Skatt & Bokslut
 ---
 # Kom i gång med export för arkivering
 
