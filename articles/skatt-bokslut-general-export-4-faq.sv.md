@@ -1,33 +1,35 @@
 ---
+id: WvpDNCea5UoakirCyf61
 title: 'Export #4 (Faq)'
 slug: general-export-4-faq
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: HzPeehfTchzR7GNsCC9Z
 createdAt: '2026-01-05T06:32:37.776Z'
-updatedAt: '2026-01-05T06:32:37.776Z'
-id: WvpDNCea5UoakirCyf61
+updatedAt: '2026-01-05T06:35:56.175Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  area1: general
   area2: ''
+  guidelineVersions:
+    tone_voice: 1
+    getting_started: 2
+    news: 3
+    instruction: 7
+    faq: 1
+    constitution: 1
+    article_matching: 1
   targetAudience: []
+  productId: Skatt & Bokslut
+  area1: general
+  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - faq
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
 ---
 # Exportera företagets data för arkivering
 
