@@ -5,24 +5,24 @@ slug: general-export-4-news
 languages:
   - sv
 format: md
-status: test
+status: draft
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-05T06:33:01.340Z'
-updatedAt: '2026-01-05T08:31:34.899Z'
+updatedAt: '2026-01-05T08:32:07.655Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  solution: Skatt & Bokslut
   targetAudience: []
+  solution: Skatt & Bokslut
   guidelineVersions:
+    faq: 1
+    constitution: 1
     instruction: 7
     getting_started: 2
-    constitution: 1
-    article_matching: 1
-    tone_voice: 1
     news: 3
-    faq: 1
+    tone_voice: 1
+    article_matching: 1
   area2: ''
   tags:
     - update
