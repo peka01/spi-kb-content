@@ -1,33 +1,35 @@
 ---
+id: Z3QjBigZO9TmxP9mKRI1
 title: 'Export #4 (News)'
 slug: general-export-4-news
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-05T06:33:01.340Z'
-updatedAt: '2026-01-05T06:33:01.340Z'
-id: Z3QjBigZO9TmxP9mKRI1
+updatedAt: '2026-01-05T06:35:46.315Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  area1: general
-  area2: ''
   targetAudience: []
+  area1: general
+  productId: Skatt & Bokslut
+  area2: ''
+  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - news
   guidelineVersions:
-    faq: 1
     constitution: 1
+    tone_voice: 1
+    instruction: 7
     getting_started: 2
     news: 3
     article_matching: 1
-    instruction: 7
-    tone_voice: 1
+    faq: 1
 ---
 # Enklare arkivering: Nu kan du exportera all företagsdata i Skatt & Bokslut
 
