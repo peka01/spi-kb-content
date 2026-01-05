@@ -9,35 +9,35 @@ format: md
 status: test
 folderId: HzPeehfTchzR7GNsCC9Z
 createdAt: '2026-01-05T06:32:37.776Z'
-updatedAt: '2026-01-05T11:35:47.005Z'
+updatedAt: '2026-01-05T12:27:03.735Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 3
+currentVersion: 4
+translationBase: {}
+updatedBy: Per.Karlsson@visma.com
 languageUpdatedAt:
   en: '2026-01-05T06:35:56.175Z'
-  sv: '2026-01-05T11:35:30.057Z'
-translationBase: {}
+  sv: '2026-01-05T12:26:38.476Z'
 updatedByName: Per Karlsson
-updatedBy: Per.Karlsson@visma.com
 metadata:
-  productId: Skatt & Bokslut
-  guidelineVersions:
-    news: 3
-    getting_started: 2
-    article_matching: 1
-    constitution: 1
-    faq: 1
-    tone_voice: 1
-    instruction: 7
-  solution: Skatt & Bokslut
   area1: general
-  targetAudience: []
+  productId: Skatt & Bokslut
   tags:
     - update
     - general
     - faq
   area2: ''
+  solution: Skatt & Bokslut
+  guidelineVersions:
+    getting_started: 2
+    article_matching: 1
+    constitution: 1
+    faq: 1
+    news: 3
+    tone_voice: 1
+    instruction: 7
+  targetAudience: []
 ---
 # Vanliga frågor om export
 
@@ -91,4 +91,4 @@ Systemet håller koll på att alla dokument skapas korrekt. Om något går fel f
 ### Relaterade länkar
 *   [GDPR i Skatt & Bokslut](#)
 *   [Arkivera räkenskapsår](#)
-*   [Avsluta prenumerationen och spara data](#)
+*   [Avsluta abonnemang](#)
