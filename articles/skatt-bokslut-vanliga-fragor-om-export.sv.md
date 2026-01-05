@@ -9,36 +9,36 @@ format: md
 status: test
 folderId: HzPeehfTchzR7GNsCC9Z
 createdAt: '2026-01-05T06:32:37.776Z'
-updatedAt: '2026-01-05T12:45:01.057Z'
+updatedAt: '2026-01-05T12:49:08.286Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2026-01-05T06:35:56.175Z'
-  sv: '2026-01-05T12:26:38.476Z'
-translationBase: {}
-currentVersion: 4
-updatedByName: Per Karlsson
 updatedBy: Per.Karlsson@visma.com
+languageUpdatedAt:
+  sv: '2026-01-05T12:26:38.476Z'
+  en: '2026-01-05T06:35:56.175Z'
+translationBase: {}
+updatedByName: Per Karlsson
+currentVersion: 4
 metadata:
+  productId: Skatt & Bokslut
   targetAudience: []
   locale: sv-se
+  guidelineVersions:
+    news: 3
+    faq: 1
+    article_matching: 1
+    getting_started: 2
+    constitution: 1
+    instruction: 7
+    tone_voice: 1
+  area2: ''
   tags:
     - update
     - general
     - faq
-  area2: ''
-  solution: Skatt & Bokslut
   area1: general
-  guidelineVersions:
-    article_matching: 1
-    instruction: 7
-    news: 3
-    tone_voice: 1
-    getting_started: 2
-    faq: 1
-    constitution: 1
-  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
 ---
 # Vanliga frågor om export
 
