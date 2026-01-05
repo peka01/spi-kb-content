@@ -5,31 +5,31 @@ slug: general-export-4-news
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-05T06:33:01.340Z'
-updatedAt: '2026-01-05T06:35:46.315Z'
+updatedAt: '2026-01-05T08:31:34.899Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  targetAudience: []
-  area1: general
-  productId: Skatt & Bokslut
-  area2: ''
   solution: Skatt & Bokslut
+  targetAudience: []
+  guidelineVersions:
+    instruction: 7
+    getting_started: 2
+    constitution: 1
+    article_matching: 1
+    tone_voice: 1
+    news: 3
+    faq: 1
+  area2: ''
   tags:
     - update
     - general
     - news
-  guidelineVersions:
-    constitution: 1
-    tone_voice: 1
-    instruction: 7
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    faq: 1
+  area1: general
+  productId: Skatt & Bokslut
 ---
 # Enklare arkivering: Nu kan du exportera all företagsdata i Skatt & Bokslut
 
