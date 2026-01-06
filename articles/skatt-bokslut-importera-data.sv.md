@@ -9,13 +9,15 @@ format: md
 status: draft
 folderId: kCQeZSIeTaOeCfVIaiyV
 createdAt: '2026-01-05T07:23:23.398Z'
-updatedAt: '2026-01-05T12:42:13.331Z'
+updatedAt: '2026-01-06T11:32:40.890Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+updatedByName: Per Karlsson
 languageUpdatedAt:
-  en: '2026-01-05T07:24:03.267Z'
   sv: '2026-01-05T07:24:03.267Z'
+  en: '2026-01-05T07:24:03.267Z'
+updatedBy: Per.Karlsson@visma.com
 translationBase:
   en: >-
     # Importera bokföringsdata
@@ -92,27 +94,25 @@ translationBase:
     *   **Läsläge:** Funktionen är även tillgänglig för företag som befinner sig
     i läsläge (Read-only).
 currentVersion: 2
-updatedByName: Per Karlsson
-updatedBy: Per.Karlsson@visma.com
 metadata:
   locale: sv-se
-  solution: Skatt & Bokslut
-  targetAudience: []
-  area1: general
-  guidelineVersions:
-    getting_started: 2
-    tone_voice: 1
-    instruction: 7
-    faq: 1
-    article_matching: 1
-    news: 3
-    constitution: 1
-  area2: ''
-  productId: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
+  guidelineVersions:
+    instruction: 7
+    getting_started: 2
+    news: 3
+    constitution: 1
+    faq: 1
+    tone_voice: 1
+    article_matching: 1
+  solution: Skatt & Bokslut
+  area2: ''
+  targetAudience: []
+  area1: general
+  productId: Skatt & Bokslut
 ---
 # Importera bokföringsdata
 
