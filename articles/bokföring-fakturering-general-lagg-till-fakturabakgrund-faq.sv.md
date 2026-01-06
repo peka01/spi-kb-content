@@ -1,43 +1,37 @@
 ---
-id: 2BP9rnPNCKF0Dg3wrXbL
-title: Lägg till fakturabakgrund (Faq)
-slug: general-lagg-till-fakturabakgrund-faq
+createdAt: '2026-01-06T11:32:40.279Z'
 languages:
   - sv
   - en
-format: md
-status: draft
-folderId: Dyl6NKv7wLoWpa17zqJH
-createdAt: '2025-12-29T11:47:30.513Z'
-updatedAt: '2026-01-02T08:18:22.655Z'
+id: wJaCfi8XIjJEZYV3FfbR
 publishedAt: null
+status: draft
+title: Lägg till fakturabakgrund (Faq)
+slug: general-lagg-till-fakturabakgrund-faq
 reviewedAt: null
+folderId: Dyl6NKv7wLoWpa17zqJH
+format: md
+updatedAt: '2026-01-06T11:32:40.279Z'
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
-translationBase: {}
-updatedBy: Per.Karlsson@visma.com
-languageUpdatedAt:
-  sv: '2025-12-29T14:49:09.927Z'
-  en: '2025-12-29T14:49:09.927Z'
 metadata:
-  guidelineVersions:
-    constitution: 1
-    instruction: 7
-    tone_voice: 1
-    news: 3
-    article_matching: 1
-    faq: 1
-    getting_started: 2
   tags:
     - update
     - general
     - faq
-  area2: ''
-  productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
   area1: general
   targetAudience: []
+  productId: Bokföring & Fakturering
   locale: sv-se
+  guidelineVersions:
+    faq: 1
+    getting_started: 2
+    instruction: 7
+    constitution: 1
+    article_matching: 1
+    news: 3
+    tone_voice: 1
+  solution: Bokföring & Fakturering
+  area2: ''
 ---
 # Vanliga frågor om fakturabakgrunder
 
