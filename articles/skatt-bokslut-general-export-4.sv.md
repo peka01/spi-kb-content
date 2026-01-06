@@ -1,35 +1,36 @@
 ---
-id: 2T4FSLyIC33YpDSZCOzA
-title: 'Export #4'
-slug: general-export-4
+createdAt: '2026-01-06T11:32:40.428Z'
+id: V5pqQL8QOyZ60IUmn7BL
 languages:
   - sv
 format: md
 status: draft
-folderId: kCQeZSIeTaOeCfVIaiyV
-createdAt: '2026-01-05T06:32:26.367Z'
-updatedAt: '2026-01-05T06:36:02.687Z'
 publishedAt: null
-reviewedAt: null
+updatedAt: '2026-01-06T11:32:40.428Z'
+title: 'Export #4'
 lastLLMUpdateAt: null
+reviewedAt: null
+slug: general-export-4
+folderId: kCQeZSIeTaOeCfVIaiyV
 metadata:
+  area2: ''
+  productId: Skatt & Bokslut
+  guidelineVersions:
+    instruction: 7
+    tone_voice: 1
+    news: 3
+    constitution: 1
+    article_matching: 1
+    getting_started: 2
+    faq: 1
+  locale: sv-se
   tags:
     - update
     - general
     - instruction
   targetAudience: []
-  guidelineVersions:
-    constitution: 1
-    article_matching: 1
-    tone_voice: 1
-    getting_started: 2
-    instruction: 7
-    faq: 1
-    news: 3
-  area2: ''
-  area1: general
-  productId: Skatt & Bokslut
   solution: Skatt & Bokslut
+  area1: general
 ---
 # Exportera bokföringsdata för arkivering
 
