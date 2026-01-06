@@ -1,37 +1,37 @@
 ---
-id: kFVdjUGawMPM1HQzV54n
-title: Multi-Year Documentation Export for Skatt & Bokslut (Getting Started)
 slug: general-multi-year-documentation-export-for-skatt-bokslut-getting-started
+title: Multi-Year Documentation Export for Skatt & Bokslut (Getting Started)
+createdAt: '2026-01-06T11:32:40.555Z'
+lastLLMUpdateAt: '2025-12-29T08:08:56.404Z'
+publishedAt: null
 languages:
   - sv
-format: md
-status: draft
-folderId: dTEzBlAJxfUsQI7CBusB
-createdAt: '2025-12-29T11:47:30.764Z'
-updatedAt: '2025-12-29T14:49:16.904Z'
-publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-29T08:10:53.026Z'
-lastLLMUpdateAt: '2025-12-29T08:08:56.404Z'
+format: md
+status: draft
+updatedAt: '2026-01-06T11:32:40.555Z'
+folderId: dTEzBlAJxfUsQI7CBusB
+id: QuSE33FANQUymgPOUNlk
 metadata:
-  area1: general
-  area2: ''
-  productId: Skatt & Bokslut
-  guidelineVersions:
-    news: 3
-    faq: 1
-    constitution: 1
-    instruction: 7
-    getting_started: 2
-    article_matching: 1
-    tone_voice: 1
-  targetAudience: []
-  solution: Skatt & Bokslut
-  locale: sv-se
   tags:
     - update
     - general
     - getting_started
+  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
+  area1: general
+  area2: ''
+  locale: sv-se
+  targetAudience: []
+  guidelineVersions:
+    article_matching: 1
+    constitution: 1
+    news: 3
+    getting_started: 2
+    instruction: 7
+    faq: 1
+    tone_voice: 1
 ---
 # Kom i gång med export av dokumentation för flera år
 
