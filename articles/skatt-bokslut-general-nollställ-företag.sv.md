@@ -9,36 +9,36 @@ format: md
 status: test
 folderId: null
 createdAt: '2025-12-29T11:47:30.927Z'
-updatedAt: '2026-01-05T12:42:13.214Z'
+updatedAt: '2026-01-06T11:32:40.762Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2025-12-23T07:27:09.910Z'
 lastLLMUpdateAt: '2025-12-23T07:21:24.813Z'
 translationBase: {}
-updatedBy: Per.Karlsson@visma.com
 updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
 languageUpdatedAt:
   en: '2025-12-29T14:02:21.445Z'
   sv: '2025-12-29T14:02:21.445Z'
 metadata:
+  area2: ''
+  solution: Skatt & Bokslut
   locale: sv-se
+  targetAudience: []
+  area1: general
+  productId: Skatt & Bokslut
   guidelineVersions:
-    getting_started: 2
-    faq: 1
+    constitution: 1
     article_matching: 1
     news: 3
+    getting_started: 2
     instruction: 7
-    constitution: 1
+    faq: 1
     tone_voice: 1
-  productId: Skatt & Bokslut
-  area1: general
-  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
-  area2: ''
-  targetAudience: []
 ---
 # Nollställ ett företag TEST
 
