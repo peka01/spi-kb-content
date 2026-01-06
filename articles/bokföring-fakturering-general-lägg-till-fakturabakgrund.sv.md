@@ -5,30 +5,30 @@ slug: general-lägg-till-fakturabakgrund
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2026-01-06T11:43:53.988Z'
-updatedAt: '2026-01-06T11:45:08.854Z'
+updatedAt: '2026-01-06T11:45:36.168Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
+  productId: Bokföring & Fakturering
   solution: Bokföring & Fakturering
+  guidelineVersions:
+    instruction: 7
+    constitution: 1
+    article_matching: 1
+    news: 3
+    tone_voice: 1
+    faq: 1
+    getting_started: 2
   area1: general
   targetAudience: []
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    instruction: 7
-    constitution: 1
-    article_matching: 1
-    getting_started: 2
-    faq: 1
-    tone_voice: 1
-    news: 3
-  productId: Bokföring & Fakturering
   area2: ''
 ---
 # Hantera flera fakturabakgrunder för olika varumärken
