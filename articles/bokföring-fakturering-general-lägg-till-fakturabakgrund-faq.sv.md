@@ -5,31 +5,31 @@ slug: general-lägg-till-fakturabakgrund-faq
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: Dyl6NKv7wLoWpa17zqJH
 createdAt: '2026-01-06T11:44:04.094Z'
-updatedAt: '2026-01-06T11:45:20.814Z'
+updatedAt: '2026-01-06T11:45:49.873Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  solution: Bokföring & Fakturering
-  targetAudience: []
   guidelineVersions:
-    tone_voice: 1
-    faq: 1
+    news: 3
     instruction: 7
     constitution: 1
     article_matching: 1
-    news: 3
+    tone_voice: 1
+    faq: 1
     getting_started: 2
   productId: Bokföring & Fakturering
-  area1: general
+  targetAudience: []
   tags:
     - update
     - general
     - faq
   area2: ''
+  area1: general
+  solution: Bokföring & Fakturering
 ---
 Här är en FAQ-artikel som förklarar den nya funktionen för flera fakturabakgrunder i Spiris.
 
