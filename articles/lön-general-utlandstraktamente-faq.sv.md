@@ -1,31 +1,33 @@
 ---
+id: q0v0j54QDzr62sXw5QFp
 title: Utlandstraktamente (Faq)
 slug: general-utlandstraktamente-faq
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: TLauABhTrOIRuddZd08X
 createdAt: '2026-01-08T15:41:16.389Z'
-updatedAt: '2026-01-08T15:41:16.389Z'
-id: q0v0j54QDzr62sXw5QFp
+updatedAt: '2026-01-08T15:48:52.077Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Lön
-  solution: Lön
   area1: general
+  solution: Lön
   area2: ''
-  targetAudience: []
   tags:
     - update
     - general
     - faq
+  productId: Lön
+  targetAudience: []
   guidelineVersions:
     faq: 1
-    constitution: 1
     getting_started: 2
     news: 3
     article_matching: 1
+    constitution: 1
     instruction: 7
     tone_voice: 1
 ---
