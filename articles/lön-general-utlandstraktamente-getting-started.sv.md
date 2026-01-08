@@ -5,31 +5,31 @@ slug: general-utlandstraktamente-getting-started
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: AmOktZWieR1CFT56QqRR
 createdAt: '2026-01-08T15:40:54.774Z'
-updatedAt: '2026-01-08T15:48:56.546Z'
+updatedAt: '2026-01-08T15:49:11.656Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  guidelineVersions:
-    news: 3
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    instruction: 7
-    tone_voice: 1
-    article_matching: 1
-  area1: general
-  productId: Lön
-  solution: Lön
-  area2: ''
   tags:
     - update
     - general
     - getting_started
+  area2: ''
   targetAudience: []
+  productId: Lön
+  area1: general
+  guidelineVersions:
+    news: 3
+    constitution: 1
+    getting_started: 2
+    instruction: 7
+    article_matching: 1
+    tone_voice: 1
+    faq: 1
+  solution: Lön
 ---
 # Kom i gång med utlandstraktamente
 
