@@ -1,33 +1,35 @@
 ---
+id: aZX0ZnTwFvMhvq54Bxya
 title: Dashboard
 slug: general-dashboard
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: 4zao97Xq4RveDtmPm6Od
 createdAt: '2026-01-08T13:42:25.003Z'
-updatedAt: '2026-01-08T13:42:25.003Z'
-id: aZX0ZnTwFvMhvq54Bxya
+updatedAt: '2026-01-08T13:46:08.843Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
-  area1: general
-  area2: ''
-  targetAudience: []
+  guidelineVersions:
+    news: 3
+    article_matching: 1
+    faq: 1
+    constitution: 1
+    getting_started: 2
+    instruction: 7
+    tone_voice: 1
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
+  solution: Bokföring & Fakturering
+  area1: general
+  area2: ''
+  productId: Bokföring & Fakturering
+  targetAudience: []
 ---
 # Få koll på din ekonomi via översikten
 
