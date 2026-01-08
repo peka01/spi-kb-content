@@ -9,15 +9,10 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-08T15:40:43.555Z'
-updatedAt: '2026-01-08T15:43:42.362Z'
+updatedAt: '2026-01-08T15:45:07.305Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2026-01-08T15:42:41.672Z'
-  sv: '2026-01-08T15:43:39.067Z'
-updatedByName: Per Karlsson
-currentVersion: 3
 translationBase:
   en: >-
     # Hantera utlandstraktamente
@@ -54,10 +49,11 @@ translationBase:
     ## Import från Resor & Utlägg
 
 
-    När du använder tjänsten **Resor & Utlägg** för att hantera dina utlägg har
-    importen till Spiris blivit mer träffsäker. Tidigare kunde extra rader för
-    traktamente ibland skapas automatiskt vid importen, trots att de inte fanns
-    med i den ursprungliga utläggsrapporten. 
+    När du använder tjänsten
+    ****{{resource:Common_Product_Name_variable_travel_expense}}**** för att
+    hantera dina utlägg har importen till Spiris blivit mer träffsäker. Tidigare
+    kunde extra rader för traktamente ibland skapas automatiskt vid importen,
+    trots att de inte fanns med i den ursprungliga utläggsrapporten. 
 
 
     Nu följer endast de lönearter med som faktiskt är registrerade i rapporten
@@ -90,25 +86,30 @@ translationBase:
     - Kom igång med Resor & Utlägg
 
     - Skapa en lönekörning
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  en: '2026-01-08T15:43:39.067Z'
+  sv: '2026-01-08T15:43:39.067Z'
+currentVersion: 4
 updatedBy: Per.Karlsson@visma.com
 metadata:
-  productId: Lön
-  solution: Lön
-  area1: general
+  area2: ''
+  guidelineVersions:
+    faq: 1
+    constitution: 1
+    getting_started: 2
+    news: 3
+    article_matching: 1
+    instruction: 7
+    tone_voice: 1
+  targetAudience: []
   tags:
     - update
     - general
     - instruction
-  area2: ''
-  guidelineVersions:
-    news: 3
-    article_matching: 1
-    tone_voice: 1
-    getting_started: 2
-    instruction: 7
-    constitution: 1
-    faq: 1
-  targetAudience: []
+  solution: Lön
+  area1: general
+  productId: Lön
 ---
 # Managing foreign per diem
 
@@ -126,9 +127,9 @@ It is now easier to manage the automatic rows created when you register per diem
 
 ## Import from Travel & Expenses
 
-When you use the **Travel & Expenses** service to manage your expenses, the import to Spiris has become more accurate. Previously, extra rows for per diem could sometimes be created automatically during import, even if they were not included in the original expense report. 
+When you use the service ****{{resource:Common_Product_Name_variable_travel_expense}}**** to manage your expenses, the import to Spiris has become more accurate. Previously, extra rows for per diem could sometimes be created automatically during import, even though they were not included in the original expense report. 
 
-Now, only the pay codes that are actually registered in the report from **Travel & Expenses** are included. This means the payslip reflects the documentation exactly, and you avoid having to manually clear unnecessary rows.
+Now, only the wage types that are actually registered in the report from **Travel & Expenses** are included. This means that the payslip reflects the documentation exactly, and you avoid having to manually remove unnecessary rows.
 
 ## Manual registration of pay code
 
