@@ -9,14 +9,15 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-08T15:40:43.555Z'
-updatedAt: '2026-01-08T15:43:14.255Z'
+updatedAt: '2026-01-08T15:43:42.362Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
 languageUpdatedAt:
   en: '2026-01-08T15:42:41.672Z'
-  sv: '2026-01-08T15:42:41.672Z'
+  sv: '2026-01-08T15:43:39.067Z'
+updatedByName: Per Karlsson
+currentVersion: 3
 translationBase:
   en: >-
     # Hantera utlandstraktamente
@@ -89,26 +90,25 @@ translationBase:
     - Kom igång med Resor & Utlägg
 
     - Skapa en lönekörning
-currentVersion: 2
 updatedBy: Per.Karlsson@visma.com
 metadata:
-  targetAudience: []
-  area2: ''
   productId: Lön
-  guidelineVersions:
-    constitution: 1
-    getting_started: 2
-    news: 3
-    instruction: 7
-    article_matching: 1
-    tone_voice: 1
-    faq: 1
+  solution: Lön
+  area1: general
   tags:
     - update
     - general
     - instruction
-  area1: general
-  solution: Lön
+  area2: ''
+  guidelineVersions:
+    news: 3
+    article_matching: 1
+    tone_voice: 1
+    getting_started: 2
+    instruction: 7
+    constitution: 1
+    faq: 1
+  targetAudience: []
 ---
 # Managing foreign per diem
 
