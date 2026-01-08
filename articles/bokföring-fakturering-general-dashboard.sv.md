@@ -5,31 +5,31 @@ slug: general-dashboard
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: 4zao97Xq4RveDtmPm6Od
 createdAt: '2026-01-08T13:42:25.003Z'
-updatedAt: '2026-01-08T13:46:08.843Z'
+updatedAt: '2026-01-08T13:49:11.522Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
+  solution: Bokföring & Fakturering
+  area2: ''
+  productId: Bokföring & Fakturering
+  area1: general
+  targetAudience: []
   guidelineVersions:
     news: 3
-    article_matching: 1
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    instruction: 7
     tone_voice: 1
+    getting_started: 2
+    faq: 1
+    instruction: 7
+    article_matching: 1
+    constitution: 1
   tags:
     - update
     - general
     - instruction
-  solution: Bokföring & Fakturering
-  area1: general
-  area2: ''
-  productId: Bokföring & Fakturering
-  targetAudience: []
 ---
 # Få koll på din ekonomi via översikten
 
