@@ -1,33 +1,43 @@
 ---
+id: pcVKO5wRb56p2e6JEkrL
 title: Utlandstraktamente
 slug: general-utlandstraktamente
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2026-01-08T15:40:43.555Z'
-updatedAt: '2026-01-08T15:40:43.555Z'
-id: pcVKO5wRb56p2e6JEkrL
+updatedAt: '2026-01-08T15:42:45.072Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
+updatedBy: Per.Karlsson@visma.com
+languageUpdatedAt:
+  en: '2026-01-08T15:40:43.555Z'
+  sv: '2026-01-08T15:42:41.672Z'
+updatedByName: Per Karlsson
+translationBase: {}
 metadata:
   productId: Lön
+  guidelineVersions:
+    constitution: 1
+    tone_voice: 1
+    news: 3
+    instruction: 7
+    faq: 1
+    getting_started: 2
+    article_matching: 1
   solution: Lön
   area1: general
-  area2: ''
   targetAudience: []
+  area2: ''
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
 ---
 # Hantera utlandstraktamente
 
@@ -37,7 +47,7 @@ I Spiris vill vi göra din lönehantering så smidig och flexibel som möjligt. 
 
 Det är nu enklare att hantera de automatiska rader som skapas när du registrerar traktamente för utlandet.
 
-1. Gå till kalendern eller lönekörningen och öppna snabbvalet **Resor, kost och utlägg**.
+1. Gå till kalendern eller lönekörningen och öppna snabbvalet ****{{resource:CloudPayroll_Calendar_lbl_Trip_Food}}****.
 2. Registrera ditt utlandstraktamente (löneart **1204**).
 3. De kopplade lönearterna för exempelvis måltidsavdrag (**1215**, **1216** och **1217**) visas nu automatiskt i vyn.
 4. Du kan nu ändra **Antal** direkt på de kopplade raderna om det behövs.
