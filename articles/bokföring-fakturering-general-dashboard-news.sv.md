@@ -1,33 +1,35 @@
 ---
+id: kMw9jgZSr6GwkOEuQStx
 title: Dashboard (News)
 slug: general-dashboard-news
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-08T13:42:33.979Z'
-updatedAt: '2026-01-08T13:42:33.979Z'
-id: kMw9jgZSr6GwkOEuQStx
+updatedAt: '2026-01-08T13:46:15.006Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Bokföring & Fakturering
+  guidelineVersions:
+    faq: 1
+    tone_voice: 1
+    article_matching: 1
+    instruction: 7
+    constitution: 1
+    getting_started: 2
+    news: 3
   solution: Bokföring & Fakturering
-  area1: general
   area2: ''
+  productId: Bokföring & Fakturering
+  area1: general
   targetAudience: []
   tags:
     - update
     - general
     - news
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
 ---
 # Full koll på ett ögonblick – upptäck din nya översikt i Spiris
 
