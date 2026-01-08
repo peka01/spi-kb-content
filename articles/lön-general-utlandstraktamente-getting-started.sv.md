@@ -1,33 +1,35 @@
 ---
+id: Omsjuapndler3zhcR6l4
 title: Utlandstraktamente (Getting Started)
 slug: general-utlandstraktamente-getting-started
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: AmOktZWieR1CFT56QqRR
 createdAt: '2026-01-08T15:40:54.774Z'
-updatedAt: '2026-01-08T15:40:54.774Z'
-id: Omsjuapndler3zhcR6l4
+updatedAt: '2026-01-08T15:48:56.546Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
+  guidelineVersions:
+    news: 3
+    faq: 1
+    constitution: 1
+    getting_started: 2
+    instruction: 7
+    tone_voice: 1
+    article_matching: 1
+  area1: general
   productId: Lön
   solution: Lön
-  area1: general
   area2: ''
-  targetAudience: []
   tags:
     - update
     - general
     - getting_started
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
+  targetAudience: []
 ---
 # Kom i gång med utlandstraktamente
 
