@@ -5,31 +5,31 @@ slug: general-utlandstraktamente-faq
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: TLauABhTrOIRuddZd08X
 createdAt: '2026-01-08T15:41:16.389Z'
-updatedAt: '2026-01-08T15:48:52.077Z'
+updatedAt: '2026-01-08T15:49:13.659Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  area1: general
-  solution: Lön
-  area2: ''
   tags:
     - update
     - general
     - faq
-  productId: Lön
-  targetAudience: []
   guidelineVersions:
-    faq: 1
     getting_started: 2
-    news: 3
+    faq: 1
     article_matching: 1
-    constitution: 1
-    instruction: 7
     tone_voice: 1
+    news: 3
+    instruction: 7
+    constitution: 1
+  targetAudience: []
+  area2: ''
+  area1: general
+  solution: Lön
+  productId: Lön
 ---
 Här hittar du svar på de vanligaste frågorna om de senaste förbättringarna för utlandstraktamente i Spiris Lön.
 
