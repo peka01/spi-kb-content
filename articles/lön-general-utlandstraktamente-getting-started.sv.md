@@ -4,32 +4,42 @@ title: Utlandstraktamente (Getting Started)
 slug: general-utlandstraktamente-getting-started
 languages:
   - sv
+  - en
 format: md
 status: test
-folderId: AmOktZWieR1CFT56QqRR
+folderId: ''
 createdAt: '2026-01-08T15:40:54.774Z'
-updatedAt: '2026-01-08T15:49:11.656Z'
+updatedAt: '2026-01-09T09:54:13.422Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+translationBase: {}
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-08T15:49:11.656Z'
+  en: '2026-01-08T15:49:11.656Z'
+updatedBy: Per.Karlsson@visma.com
+currentVersion: 1
 metadata:
+  area1: general
+  cshAnchors: []
+  productId: Lön
   tags:
     - update
     - general
     - getting_started
-  area2: ''
-  targetAudience: []
-  productId: Lön
-  area1: general
+  visibility: public
   guidelineVersions:
     news: 3
-    constitution: 1
-    getting_started: 2
-    instruction: 7
-    article_matching: 1
     tone_voice: 1
+    instruction: 7
+    getting_started: 2
+    constitution: 1
+    article_matching: 1
     faq: 1
+  area2: ''
   solution: Lön
+  targetAudience: []
 ---
 # Kom i gång med utlandstraktamente
 
