@@ -9,37 +9,38 @@ format: md
 status: draft
 folderId: IKNKCDDC45TUZXBVLz0i
 createdAt: '2026-01-08T15:41:06.021Z'
-updatedAt: '2026-01-09T10:35:41.455Z'
+updatedAt: '2026-01-09T10:45:32.480Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-translationBase: {}
-currentVersion: 1
+updatedByName: Per Karlsson
 languageUpdatedAt:
   en: '2026-01-08T15:41:06.021Z'
   sv: '2026-01-09T10:33:22.642Z'
+translationBase: {}
 updatedBy: Per.Karlsson@visma.com
-updatedByName: Per Karlsson
+currentVersion: 1
 metadata:
-  visibility: public
-  area2: ''
   area1: general
+  area2: ''
+  targetAudience: []
+  guidelineVersions:
+    news: 3
+    faq: 1
+    article_matching: 1
+    tone_voice: 1
+    instruction: 7
+    constitution: 1
+    getting_started: 2
   tags:
     - update
     - general
     - news
   cshAnchors: []
-  targetAudience: []
-  productId: Lön
   solution: Lön
-  guidelineVersions:
-    faq: 1
-    tone_voice: 1
-    constitution: 1
-    news: 3
-    article_matching: 1
-    getting_started: 2
-    instruction: 7
+  productId: Lön
+  visibility: public
+  locale: sv-se
 ---
 # Bättre kontroll på utlandstraktamentet – nu enklare än ever!
 
