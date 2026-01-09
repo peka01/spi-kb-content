@@ -9,7 +9,7 @@ format: md
 status: test
 folderId: null
 createdAt: '2026-01-08T15:40:43.555Z'
-updatedAt: '2026-01-09T10:54:00.237Z'
+updatedAt: '2026-01-09T12:43:29.772Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
@@ -86,33 +86,33 @@ translationBase:
     - Kom igång med Resor & Utlägg
 
     - Skapa en lönekörning
-updatedByName: Per Karlsson
+currentVersion: 5
 updatedBy: Per.Karlsson@visma.com
 languageUpdatedAt:
-  en: '2026-01-08T15:43:39.067Z'
   sv: '2026-01-08T15:43:39.067Z'
-currentVersion: 5
+  en: '2026-01-08T15:43:39.067Z'
+updatedByName: Per Karlsson
 metadata:
-  productId: Lön
-  cshAnchors: []
   solution: Lön
   targetAudience: []
-  locale: sv-se
-  visibility: public
-  area1: general
-  area2: ''
   tags:
     - update
     - general
     - instruction
+  productId: Lön
   guidelineVersions:
-    getting_started: 2
     instruction: 7
-    article_matching: 1
     faq: 1
-    tone_voice: 1
+    getting_started: 2
     constitution: 1
+    article_matching: 1
     news: 3
+    tone_voice: 1
+  area2: ''
+  visibility: public
+  area1: general
+  cshAnchors: []
+  locale: sv-se
 ---
 # Hantera utlandstraktamente
 
