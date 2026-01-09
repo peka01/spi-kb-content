@@ -7,40 +7,40 @@ languages:
   - en
 format: md
 status: test
-folderId: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-08T14:13:44.416Z'
-updatedAt: '2026-01-09T12:43:30.160Z'
+updatedAt: '2026-01-09T13:10:40.355Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 updatedBy: Per.Karlsson@visma.com
 currentVersion: 2
 translationBase: {}
-updatedByName: Per Karlsson
 languageUpdatedAt:
-  sv: '2026-01-09T12:22:27.387Z'
   en: '2026-01-08T14:13:44.416Z'
+  sv: '2026-01-09T12:22:27.387Z'
+updatedByName: Per Karlsson
 metadata:
-  locale: sv-se
-  visibility: public
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  guidelineVersions:
-    news: 3
-    tone_voice: 1
-    constitution: 1
-    faq: 1
-    article_matching: 1
-    instruction: 7
-    getting_started: 2
-  targetAudience: []
+  area1: general
   tags:
     - update
     - general
     - faq
-  area2: ''
+  locale: sv-se
+  visibility: public
+  targetAudience: []
+  solution: Skatt & Bokslut
   cshAnchors: []
-  area1: general
+  area2: ''
+  productId: Skatt & Bokslut
+  guidelineVersions:
+    article_matching: 1
+    tone_voice: 1
+    constitution: 1
+    getting_started: 2
+    instruction: 7
+    news: 3
+    faq: 1
 ---
 # Vanliga frågor om exporter
 
