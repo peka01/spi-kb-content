@@ -1,33 +1,35 @@
 ---
+id: JwJNDglA2A7EkYGjrUug
 title: lön 2026 (News)
 slug: general-lön-2026-news
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: null
-publishedAt: null
 createdAt: '2026-01-09T15:20:46.557Z'
-updatedAt: '2026-01-09T15:20:46.557Z'
-id: JwJNDglA2A7EkYGjrUug
+updatedAt: '2026-01-09T15:21:03.620Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Lön
+  guidelineVersions:
+    constitution: 1
+    faq: 1
+    article_matching: 1
+    tone_voice: 1
+    news: 3
+    instruction: 7
+    getting_started: 2
+  targetAudience: []
   solution: Lön
   area1: general
+  productId: Lön
   area2: ''
-  targetAudience: []
   tags:
     - update
     - general
     - news
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
 ---
 # Redo för löneåret 2026 – allt du behöver för en trygg start
 
