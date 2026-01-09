@@ -13,33 +13,33 @@ updatedAt: '2026-01-09T13:08:11.110Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
 translationBase: {}
-updatedBy: Per.Karlsson@visma.com
 currentVersion: 1
 languageUpdatedAt:
   sv: '2026-01-09T13:04:32.309Z'
   en: '2026-01-09T13:04:32.309Z'
+updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
 metadata:
-  cshAnchors: []
-  area1: general
-  visibility: public
-  guidelineVersions:
-    constitution: 1
-    getting_started: 2
-    faq: 1
-    article_matching: 1
-    instruction: 7
-    news: 3
-    tone_voice: 1
-  area2: ''
   productId: Skatt & Bokslut
+  area2: ''
+  visibility: public
+  targetAudience: []
   tags:
     - update
     - general
     - news
-  targetAudience: []
   solution: Skatt & Bokslut
+  guidelineVersions:
+    getting_started: 2
+    news: 3
+    article_matching: 1
+    faq: 1
+    constitution: 1
+    instruction: 7
+    tone_voice: 1
+  cshAnchors: []
+  area1: general
 ---
 # Nu blir bokslutet enklare – upptäck vår nya koppling till Fortnox
 
