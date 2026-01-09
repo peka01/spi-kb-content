@@ -4,35 +4,43 @@ title: Utlandstraktamente (Faq)
 slug: general-utlandstraktamente-faq
 languages:
   - sv
+  - en
 format: md
 status: test
 folderId: null
 createdAt: '2026-01-08T15:41:16.389Z'
-updatedAt: '2026-01-09T09:56:34.046Z'
+updatedAt: '2026-01-09T10:33:08.526Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-09T10:33:07.075Z'
+  en: '2026-01-09T09:56:34.046Z'
+translationBase: {}
+currentVersion: 1
+updatedBy: Per.Karlsson@visma.com
 metadata:
-  targetAudience: []
-  guidelineVersions:
-    news: 3
-    getting_started: 2
-    constitution: 1
-    instruction: 7
-    article_matching: 1
-    tone_voice: 1
-    faq: 1
-  productId: Lön
-  area1: general
+  solution: Lön
   tags:
     - update
     - general
     - faq
-  solution: Lön
+  visibility: public
   area2: ''
+  productId: Lön
+  targetAudience: []
+  area1: general
+  cshAnchors: []
+  guidelineVersions:
+    getting_started: 2
+    news: 3
+    article_matching: 1
+    tone_voice: 1
+    instruction: 7
+    constitution: 1
+    faq: 1
 ---
-Här hittar du svar på de vanligaste frågorna om de senaste förbättringarna för utlandstraktamente i Spiris Lön.
-
 ## Hur kan jag ändra antal på kopplade lönearter för utlandstraktamente?
 Tidigare var det inte möjligt att justera antalet på de lönearter som automatiskt följer med vid utlandstraktamente (exempelvis lönearterna 1215, 1216 och 1217). I och med den senaste uppdateringen har vi öppnat upp för mer flexibilitet.
 
