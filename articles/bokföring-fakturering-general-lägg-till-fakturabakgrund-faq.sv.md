@@ -6,30 +6,30 @@ languages:
   - sv
 format: md
 status: test
-folderId: Dyl6NKv7wLoWpa17zqJH
+folderId: null
 createdAt: '2026-01-06T11:44:04.094Z'
-updatedAt: '2026-01-06T11:45:49.873Z'
+updatedAt: '2026-01-09T09:57:14.694Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
   guidelineVersions:
-    news: 3
     instruction: 7
     constitution: 1
-    article_matching: 1
     tone_voice: 1
-    faq: 1
     getting_started: 2
+    news: 3
+    article_matching: 1
+    faq: 1
+  solution: Bokföring & Fakturering
+  area2: ''
+  area1: general
   productId: Bokföring & Fakturering
-  targetAudience: []
   tags:
     - update
     - general
     - faq
-  area2: ''
-  area1: general
-  solution: Bokföring & Fakturering
+  targetAudience: []
 ---
 Här är en FAQ-artikel som förklarar den nya funktionen för flera fakturabakgrunder i Spiris.
 
