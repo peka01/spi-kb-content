@@ -1,63 +1,59 @@
 ---
-id: f8E2f7ziOqleIr3XYKDI
-title: Lön 2026 (Custom)
-slug: general-lön-2026-custom
+format: md
+lastLLMUpdateAt: null
+status: draft
 languages:
   - sv
-format: md
-status: draft
-folderId: null
-createdAt: '2026-01-09T14:54:44.161Z'
-updatedAt: '2026-01-09T15:02:38.173Z'
-publishedAt: null
+reviewedAt: '2026-01-09T15:02:45.761Z'
+updatedAt: '2026-01-09T15:02:45.875Z'
 pendingReview: false
-reviewedAt: '2026-01-09T15:02:38.102Z'
-lastLLMUpdateAt: null
+createdAt: '2026-01-09T14:59:32.803Z'
+publishedAt: null
+slug: general-lön-2026-custom
+folderId: null
+title: Lön 2026 (Custom)
+id: 1AxHH19ZU2CY3pxvI6Ee
 metadata:
   guidelineVersions:
+    news: 3
+    instruction: 7
+    getting_started: 2
     tone_voice: 1
     article_matching: 1
-    instruction: 7
-    news: 3
-    getting_started: 2
-    constitution: 1
     faq: 1
+    constitution: 1
 ---
-# Lön 2026 – Allt för ditt nya löneår i Spiris
+# Nyheter i Spiris Lön inför löneåret 2026
 
-Nu är Spiris helt uppdaterad och klar för löneåret 2026! Vi har sett till att plattformen har full koll på alla nya lagar, skattetabeller och belopp så att du kan känna dig trygg när du kör årets första löner. 
+Nu är din ekonomiplattform redo för 2026! Vi har uppdaterat Spiris Lön så att du kan känna dig trygg med att alla lagar, skattetabeller och belopp är korrekta när du skapar årets första lönekörningar.
 
-Här går vi igenom de viktigaste nyheterna och vad du behöver ha extra koll på för att din lönehantering ska bli så smidig som möjligt.
+Här går vi igenom de viktigaste ändringarna som påverkar dig och ditt företag.
 
-## Det här är nytt för 2026
+## Viktiga lagändringar och skatter
 
-När du skapar en lönekörning med utbetalningsdatum under 2026 sköter Spiris beräkningarna automatiskt enligt de nya reglerna.
+Inför 2026 har flera lagändringar trätt i kraft som påverkar hur skatt och avgifter beräknas:
 
-*   **Sänkt SINK-skatt:** Skatten för begränsat skattskyldiga (SINK) sänks från 25 % till 22,5 %.
-*   **Ny åldersgräns för arbetsgivaravgifter:** Gränsen för när lägre arbetsgivaravgifter börjar gälla (vid pension) har justerats till 67 år.
-*   **Uppdaterade förmånsvärden:** Alla nya värden för bilförmån, milersättning, traktamenten och kostförmån för 2026 finns nu på plats.
-*   **Nya skattetabeller:** Plattformen använder automatiskt de senaste skattetabellerna från Skatteverket.
+*   **Sänkt SINK-skatt:** Skatten för begränsat skattskyldiga (SINK) har sänkts från 25 % till 22,5 %. Plattformen hanterar detta automatiskt för de anställda det berör.
+*   **Höjd åldersgräns för arbetsgivaravgifter:** Gränsen för när du betalar den lägre ålderspensionsavgiften har höjts till 67 år. Det innebär att du betalar fulla arbetsgivaravgifter fram till dess att den anställde fyller 67.
+*   **Uppdaterade belopp:** Alla nya värden för bilförmån, milersättning, traktamenten och kostförmån är inlagda och klara.
 
-## Viktig ändring för Växa-stödet
+## Ny rutin för Växa-stödet
 
-Från och med januari 2026 ändras reglerna för hur du får ditt Växa-stöd. Tidigare drogs stödet av direkt i din **Arbetsgivardeklaration**, men nu fungerar det istället som en återbetalning du ansöker om i efterhand hos Skatteverket.
+Från och med januari 2026 ändras hanteringen av Växa-stödet hos Skatteverket. Stödet dras inte längre av automatiskt direkt i arbetsgivardeklarationen (AGI).
 
-**Så här gör du i Spiris:**
-Eftersom stödet inte längre kan dras av direkt i deklarationen, skapar Spiris automatiskt en extra sida som bilaga till din **AGI-PDF**. Denna bilaga innehåller all information du behöver för att manuellt ansöka om ersättning. Du hittar bilagan på samma ställe som din vanliga arbetsgivardeklaration under fliken för **Periodens rapportering**.
+**Så här gör du nu:**
+För att göra det enkelt för dig skapar Spiris Lön automatiskt en extra sida i den PDF-fil som hör till din arbetsgivardeklaration. Denna sida fungerar som ett underlag. Du använder informationen på sidan för att manuellt ansöka om återbetalning hos Skatteverket.
 
-## Fora-rapportering för tjänstemän
+## Förändringar i Fora-rapporteringen
 
-När du gör den slutliga rapporteringen till Fora i början av 2026 (vilket avser intjänade löner för 2025), har åldersgränsen för tjänstemän höjts. Nu ska även anställda upp till 66 år inkluderas i rapporteringen för det gångna året.
+När du gör den slutliga rapporteringen till Fora för 2025 (vilket sker i början av 2026), har åldersgränsen för tjänstemän höjts till 66 år. Plattformen har koll på de nya gränserna så att din rapportering blir rätt från början.
 
-## Så kommer du igång
+## Hur påverkar detta mig?
 
-Du behöver inte göra några manuella inställningar för att aktivera det nya året. Så fort du skapar en ny lönekörning och väljer ett utbetalningsdatum i **Januari 2026**, kommer Spiris att:
+Du kan fortsätta arbeta precis som vanligt. När du skapar en ny lönekörning med utbetalningsdatum under 2026 kommer Spiris automatiskt att använda de nya reglerna.
 
-1.  Fråga om du vill använda de nya inställningarna för 2026.
-2.  Automatiskt uppdatera skatteberäkningar och avgifter.
-3.  Se till att alla rapporter följer de senaste kraven.
+*   **Lönekörning:** Skapa din lönekörning som vanligt. Skatten beräknas efter 2026 års tabeller.
+*   **Arbetsgivardeklaration:** Kontrollera den bifogade PDF-sidan om du har rätt till Växa-stöd, så att du kommer ihåg att begära din ersättning från Skatteverket.
+*   **Förmåner:** Om du har anställda med förmåner (t.ex. tjänstebil) uppdateras värdena automatiskt till de nya nivåerna för 2026.
 
-## Tips
-> Se över dina anställdas uppgifter i god tid före första körningen, särskilt om du har personal som fyller 67 år under året, så att arbetsgivaravgifterna blir rätt från början.
-
-Vi önskar dig ett smidigt och framgångsrikt löneår 2026!
+Vi ser fram emot ett smidigt och enkelt löneår tillsammans med dig!
