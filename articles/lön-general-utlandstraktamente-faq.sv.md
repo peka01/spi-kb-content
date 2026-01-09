@@ -6,30 +6,30 @@ languages:
   - sv
 format: md
 status: test
-folderId: TLauABhTrOIRuddZd08X
+folderId: null
 createdAt: '2026-01-08T15:41:16.389Z'
-updatedAt: '2026-01-08T15:49:13.659Z'
+updatedAt: '2026-01-09T09:56:34.046Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
+  targetAudience: []
+  guidelineVersions:
+    news: 3
+    getting_started: 2
+    constitution: 1
+    instruction: 7
+    article_matching: 1
+    tone_voice: 1
+    faq: 1
+  productId: Lön
+  area1: general
   tags:
     - update
     - general
     - faq
-  guidelineVersions:
-    getting_started: 2
-    faq: 1
-    article_matching: 1
-    tone_voice: 1
-    news: 3
-    instruction: 7
-    constitution: 1
-  targetAudience: []
-  area2: ''
-  area1: general
   solution: Lön
-  productId: Lön
+  area2: ''
 ---
 Här hittar du svar på de vanligaste frågorna om de senaste förbättringarna för utlandstraktamente i Spiris Lön.
 
