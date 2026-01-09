@@ -9,38 +9,40 @@ format: md
 status: test
 folderId: null
 createdAt: '2026-01-08T14:13:44.416Z'
-updatedAt: '2026-01-09T10:54:00.605Z'
+updatedAt: '2026-01-09T12:22:29.019Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
+updatedBy: Per.Karlsson@visma.com
 updatedByName: Per Karlsson
-translationBase: {}
+currentVersion: 2
 languageUpdatedAt:
   en: '2026-01-08T14:13:44.416Z'
-  sv: '2026-01-08T14:15:53.920Z'
-updatedBy: Per.Karlsson@visma.com
+  sv: '2026-01-09T12:22:27.387Z'
+translationBase: {}
 metadata:
+  area1: general
+  targetAudience: []
   solution: Skatt & Bokslut
+  guidelineVersions:
+    getting_started: 2
+    instruction: 7
+    constitution: 1
+    tone_voice: 1
+    faq: 1
+    article_matching: 1
+    news: 3
+  productId: Skatt & Bokslut
+  locale: sv-se
   tags:
     - update
     - general
     - faq
-  targetAudience: []
+  visibility: public
   area2: ''
-  locale: sv-se
-  area1: general
-  guidelineVersions:
-    article_matching: 1
-    constitution: 1
-    instruction: 7
-    tone_voice: 1
-    faq: 1
-    news: 3
-    getting_started: 2
-  productId: Skatt & Bokslut
+  cshAnchors: []
 ---
-# Vanliga frågor om export
+# Vanliga frågor om exporter
 
 Här hittar du information om hur du använder den nya funktionen för att exportera dokumentation i Skatt & Bokslut. Detta är ett smidigt sätt att arkivera företagets underlag och säkerställa att du följer lagkrav på lagring av data.
 
