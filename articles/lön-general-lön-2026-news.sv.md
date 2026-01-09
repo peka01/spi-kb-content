@@ -6,30 +6,30 @@ languages:
   - sv
 format: md
 status: test
-folderId: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-09T15:20:46.557Z'
-updatedAt: '2026-01-09T15:21:03.620Z'
+updatedAt: '2026-01-09T15:21:49.342Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
+  targetAudience: []
   guidelineVersions:
-    constitution: 1
+    tone_voice: 1
     faq: 1
     article_matching: 1
-    tone_voice: 1
-    news: 3
     instruction: 7
     getting_started: 2
-  targetAudience: []
-  solution: Lön
-  area1: general
-  productId: Lön
-  area2: ''
+    constitution: 1
+    news: 3
   tags:
     - update
     - general
     - news
+  area1: general
+  solution: Lön
+  productId: Lön
+  area2: ''
 ---
 # Redo för löneåret 2026 – allt du behöver för en trygg start
 
