@@ -1,65 +1,59 @@
 ---
+folderId: null
+updatedAt: '2026-01-09T15:17:57.318Z'
+pendingReview: true
 title: lön 2026 (Custom)
-slug: general-lön-2026-custom
 languages:
   - sv
-format: md
-status: draft
-folderId: null
+slug: general-lön-2026-custom
 publishedAt: null
-createdAt: '2026-01-09T15:18:07.546Z'
-updatedAt: '2026-01-09T15:18:07.546Z'
-id: kyGeQXEAsfDlDdogBPRk
+reviewedAt: null
+createdAt: '2026-01-09T15:13:48.426Z'
+lastLLMUpdateAt: '2026-01-09T15:17:57.317Z'
+status: draft
+format: md
+id: IDfTDBHWbiyCG2qixTtj
 metadata:
   productId: Lön
   solution: Lön
-  area1: general
-  area2: ''
   targetAudience: []
   tags:
     - update
     - general
     - custom
+  area1: general
   guidelineVersions:
+    instruction: 7
+    getting_started: 2
+    article_matching: 1
     faq: 1
     constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
     tone_voice: 1
+    news: 3
+  area2: ''
 ---
-# Lön 2026: Allt du behöver veta inför det nya året
+# Nyheter för lön 2026 – allt du behöver veta inför årsskiftet
 
-Nu är det dags att blicka framåt mot 2026! För att du ska kunna fokusera på din verksamhet och dina anställda har vi uppdaterat din ekonomiplattform så att den följer alla nya lagar och regler för det kommande året. 
+Vi lanserar nu de lagstadgade uppdateringarna och funktionsförbättringarna för löneåret 2026. Genom att justera skattetabeller, basbelopp och formler för Fora-rapportering säkerställer vi att din verksamhet följer alla aktuella krav och att övergången mellan 2025 och 2026 blir så smidig som möjligt.
 
-Här går vi igenom de viktigaste ändringarna som gör att dina lönekörningar blir rätta, trygga och enkla att genomföra.
+## Tryggt och rätt med nya skattetabeller
+Varje år sker förändringar i de svenska skattereglerna och beloppsgränserna. I denna uppdatering har vi fört in de senaste skattetabellerna och justerat de lagstadgade beräkningarna som gäller för inkomståret 2026. Det innebär att du inte behöver göra några manuella ändringar för att skatten ska dras korrekt för dina anställda – Spiris sköter det åt dig.
 
-### Vad innebär uppdateringen för dig?
+## Uppdateringar för Fora-rapportering
+För dig som har administrativa tjänstemän har vi genomfört viktiga tekniska justeringar. Vi har uppdaterat formlerna för de lönearter som är kopplade till Fora för 2026. Detta säkerställer att underlaget för försäkringspremier och den årliga rapporteringen blir exakt enligt de nya kraven för perioden 2025/2026.
 
-Varje år sker förändringar i svensk lagstiftning som påverkar hur lön beräknas. Vi har sett till att plattformen är helt synkad med de nya kraven för kalenderåret 2026. Det betyder att du inte behöver oroa dig för manuella uträkningar av skatter eller försäkringspremier – funktionerna sköter det åt dig.
+Genom att formlerna nu är optimerade minskar risken för fel vid rapporteringen, vilket sparar tid och ger dig en bättre överblick över företagets personalkostnader.
 
-#### Uppdaterade skattetabeller och beräkningar
-Från och med den första lönekörningen för 2026 används de nya skattetabellerna. Plattformen räknar automatiskt ut rätt källskatt och arbetsgivaravgifter baserat på de senaste besluten från Skatteverket. 
+## Smidigt årsskifte för din verksamhet
+Övergången till det nya löneåret sker sömlöst i din ekonomiplattform. När du skapar årets första lönekörning för 2026 används de nya inställningarna och beräkningsreglerna automatiskt. 
 
-#### Nyheter för Fora och administrativa arbetare
-En viktig del i årets uppdatering rör rapporteringen till Fora. Vi har justerat formlerna för de lönearter som används för administrativa tjänstemän. Detta säkerställer att försäkringspremier och underlag för Fora blir helt korrekta enligt de nya riktlinjerna för 2026.
+**Detta ingår i uppdateringen:**
+*   **Aktuella skattetabeller:** Automatiska uppdateringar baserade på Skatteverkets nya beslut för 2026.
+*   **Nya basbelopp:** Justeringar av prisbasbelopp och andra centrala värden som påverkar löneberäkningen.
+*   **Uppdaterade lönearter:** Specifika formeljusteringar för administrativa tjänstemän och Fora-rapportering för att möta de senaste kraven.
+*   **Regelefterlevnad:** Full anpassning till svenska lagar och regler för räkenskapsåret 2026.
 
-### Så förbereder du dig
+## Så förbereder du dig
+Du behöver inte göra några komplicerade inställningar för att ta del av nyheterna. Det räcker att du ser till att din ekonomiplattform är uppdaterad till den senaste versionen. När du sedan påbörjar arbetet med januari månads löner kommer funktionerna att känna av att det är ett nytt år och tillämpa de korrekta reglerna helt automatiskt.
 
-Det bästa med din ekonomiplattform är att det mesta sker per automatik. Här är några enkla steg för en smidig övergång:
-
-1.  **Slutför 2025:** Gör klart den sista lönekörningen och eventuella rapporteringar för innevarande år som vanligt.
-2.  **Kontrollera anställningsuppgifter:** Passa på att se över om några anställda har bytt adress eller fått ändrad skattetabell inför det nya året. Du gör detta under fliken för anställda i menyn.
-3.  **Kör igång med januari:** När du skapar din första lönekörning med utbetalningsdatum i januari 2026 kommer plattformen automatiskt att använda de nya reglerna och formlerna.
-
-### Varför är detta viktigt?
-
-Genom att hålla plattformen uppdaterad säkerställer vi tillsammans att:
-*   Dina anställda får rätt lön utbetald i rätt tid.
-*   Företaget betalar in korrekta skatter och avgifter.
-*   Rapporteringen till myndigheter och försäkringsbolag (som Fora) sker utan felmarginaler.
-
-Vi vill att du ska känna dig trygg i att din lönehantering är i goda händer, så att du får mer tid över till annat. Skulle du ha frågor kring en specifik löneart eller hur en beräkning gjorts, finns information och hjälp alltid nära till hands i plattformens hjälpcenter.
-
-Vi önskar dig ett framgångsrikt och smidigt löneår 2026!
+Vi på Spiris vill att ditt lönearbete ska vara så enkelt och bekymmersfritt som möjligt. Med dessa uppdateringar på plats kan du fokusera på din verksamhet, medan vi ser till att tekniken och lagkraven följer med i svängarna.
