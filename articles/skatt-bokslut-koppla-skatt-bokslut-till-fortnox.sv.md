@@ -6,40 +6,40 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-09T13:04:22.800Z'
-updatedAt: '2026-01-09T13:07:38.315Z'
+updatedAt: '2026-01-09T13:08:53.695Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  sv: '2026-01-09T13:06:47.737Z'
-  en: '2026-01-09T13:04:22.800Z'
 updatedByName: Per Karlsson
-translationBase: {}
-updatedBy: Per.Karlsson@visma.com
 currentVersion: 2
+translationBase: {}
+languageUpdatedAt:
+  en: '2026-01-09T13:04:22.800Z'
+  sv: '2026-01-09T13:06:47.737Z'
+updatedBy: Per.Karlsson@visma.com
 metadata:
+  productId: Skatt & Bokslut
+  targetAudience: []
+  area2: ''
+  area1: general
+  guidelineVersions:
+    faq: 1
+    tone_voice: 1
+    getting_started: 2
+    instruction: 7
+    constitution: 1
+    news: 3
+    article_matching: 1
+  visibility: public
+  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
-  productId: Skatt & Bokslut
-  visibility: public
   cshAnchors: []
-  guidelineVersions:
-    faq: 1
-    tone_voice: 1
-    instruction: 7
-    news: 3
-    getting_started: 2
-    constitution: 1
-    article_matching: 1
-  solution: Skatt & Bokslut
-  area2: ''
-  area1: general
-  targetAudience: []
 ---
 # Koppla **{{resource:common_product_name_variable_taxation_year_end_closing}}** till Fortnox
 
