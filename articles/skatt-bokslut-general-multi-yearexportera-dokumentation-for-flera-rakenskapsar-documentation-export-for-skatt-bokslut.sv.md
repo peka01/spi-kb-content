@@ -10,35 +10,36 @@ format: md
 status: test
 folderId: null
 createdAt: '2026-01-08T14:13:33.410Z'
-updatedAt: '2026-01-09T09:56:57.654Z'
+updatedAt: '2026-01-09T10:45:32.748Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 translationBase: {}
-updatedByName: Per Karlsson
 languageUpdatedAt:
   en: '2026-01-08T14:13:33.410Z'
   sv: '2026-01-08T14:16:53.048Z'
+updatedByName: Per Karlsson
 updatedBy: Per.Karlsson@visma.com
 currentVersion: 1
 metadata:
   solution: Skatt & Bokslut
+  area1: general
   guidelineVersions:
-    article_matching: 1
-    faq: 1
-    constitution: 1
-    instruction: 7
-    news: 3
     tone_voice: 1
     getting_started: 2
-  area1: general
-  productId: Skatt & Bokslut
-  targetAudience: []
+    faq: 1
+    news: 3
+    constitution: 1
+    article_matching: 1
+    instruction: 7
   tags:
     - update
     - general
     - instruction
+  targetAudience: []
+  productId: Skatt & Bokslut
   area2: ''
+  locale: sv-se
 ---
 # Exportera dokumentation för flera räkenskapsår
 
