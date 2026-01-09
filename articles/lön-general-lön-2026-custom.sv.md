@@ -1,64 +1,67 @@
 ---
-title: Lön 2026 (Custom)
-slug: general-lön-2026-custom
-languages:
-  - sv
+publishedAt: null
+createdAt: '2026-01-09T14:37:52.543Z'
+folderId: null
 format: md
 status: draft
-folderId: null
-publishedAt: null
-createdAt: '2026-01-09T14:42:33.372Z'
-updatedAt: '2026-01-09T14:42:33.372Z'
-id: 1BlPqintPVogPCF8Zhmw
+languages:
+  - sv
+title: Lön 2026 (Custom)
+reviewedAt: '2026-01-09T14:42:52.533Z'
+lastLLMUpdateAt: '2026-01-09T14:42:07.473Z'
+slug: general-lön-2026-custom
+pendingReview: false
+updatedAt: '2026-01-09T14:42:52.534Z'
+id: 3lmUV37FjU5enMVuldim
 metadata:
-  productId: Lön
-  solution: Lön
-  area1: general
   area2: ''
   targetAudience: []
+  solution: Lön
   tags:
     - update
     - general
     - custom
+  area1: general
+  productId: Lön
   guidelineVersions:
     faq: 1
-    constitution: 1
+    tone_voice: 1
+    instruction: 7
+    article_matching: 1
     getting_started: 2
     news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
+    constitution: 1
 ---
-# Lön 2026 – En trygg start på det nya året
+# Lön 2026 – Allt är klart för det nya året
 
-Nu är din ekonomiplattform redo för löneåret 2026! Vi har uppdaterat Spiris Lön med de senaste lagändringarna, skattetabellerna och beloppen så att du kan känna dig helt trygg med att dina lönekörningar blir korrekta från start.
+Spiris är nu fullt uppdaterad för löneåret 2026 med nya skattetabeller och lagstadgade ändringar. Vi har bland annat sänkt SINK-skatten, justerat åldersgränser för arbetsgivaravgifter och infört en ny hantering för Växa-stödet. Allt för att dina lönekörningar ska bli så enkla och korrekta som möjligt.
 
-Här går vi igenom de viktigaste nyheterna och vad de innebär för dig och din verksamhet.
+## Det här har ändrats
 
-## Vad är nytt för 2026?
+Inför det nya året har flera viktiga regeländringar trätt i kraft. Här är de mest centrala uppdateringarna som påverkar din lönehantering:
 
-Varje år sker förändringar i lagar och regler som påverkar lönehanteringen. Spiris sköter det mesta per automatik, men här är de största förändringarna du bör ha koll på:
+*   **Sänkt SINK-skatt:** Skatten för begränsat skattskyldiga (SINK) har sänkts från 25 % till 22,5 %.
+*   **Ny åldersgräns för arbetsgivaravgifter:** Gränsen för när du betalar den lägre ålderspensionsavgiften har höjts. Det innebär att du betalar fulla arbetsgivaravgifter fram till att den anställde fyller 67 år.
+*   **Förmåner och traktamenten:** Alla belopp för bilförmåner, milersättning, traktamenten och kostförmåner är uppdaterade till 2026 års nivåer.
+*   **Fora-rapportering för tjänstemän:** Åldersgränsen för tjänstemän har ändrats. Den slutliga rapporteringen för 2025, som görs i början av 2026, omfattar nu tjänstemän upp till 66 år. Plattformen har full koll på dessa gränser och ser till att rätt personer kommer med i din rapport.
 
-*   **Sänkt SINK-skatt:** Skatten för dig som bor utomlands men arbetar i Sverige (SINK) sänks från 25 % till 22,5 %. Plattformen räknar ut detta automatiskt för de medarbetare det berör.
-*   **Höjd åldersgräns för arbetsgivaravgifter:** Gränsen för när du betalar lägre arbetsgivaravgifter för äldre medarbetare har höjts till 67 år.
-*   **Nya belopp för förmåner:** Alla värden för bilförmån, milersättning, traktamenten och kostförmån är uppdaterade till 2026 års nivåer.
-*   **Fora-rapportering:** För slutredovisningen av 2025 (som görs i början av 2026) har åldersgränsen för tjänstemän höjts till 66 år.
+## Ny hantering av Växa-stödet
 
-## Viktig ändring för Växa-stödet
+Från och med januari 2026 har reglerna för hur Växa-stödet redovisas ändrats. Tidigare drogs stödet av direkt i arbetsgivardeklarationen (AGI), men nu fungerar det istället som en återbetalning i efterhand.
 
-Från och med januari 2026 ändras rutinerna för hur du får ersättning för Växa-stödet. Tidigare drogs stödet av direkt i arbetsgivardeklarationen, men nu har Skatteverket infört en ny process:
+**Så här fungerar det nu:**
+Istället för ett direkt avdrag i deklarationen skapar plattformen automatiskt en extra sida i din AGI-fil (PDF). Detta underlag använder du för att manuellt ansöka om återbetalning hos Skatteverket. Du ser alltså ingen automatisk sänkning av beloppet direkt i själva huvudblanketten för arbetsgivardeklarationen längre.
 
-1.  **Inget automatiskt avdrag:** Stödet dras inte längre av direkt i din arbetsgivardeklaration (AGI).
-2.  **Manuellt underlag:** När du skapar din arbetsgivardeklaration i Spiris genereras en extra sida i PDF-filen. Detta dokument fungerar som ett underlag för din ansökan.
-3.  **Ansök hos Skatteverket:** Du använder informationen från underlaget för att manuellt ansöka om återbetalning direkt hos Skatteverket.
+## Så här gör du din första lönekörning för 2026
 
-## Så kommer du igång
+Du behöver inte göra några manuella inställningar för att aktivera det nya året. Så fort du väljer ett utbetalningsdatum under 2026 i din lönekörning aktiveras de nya reglerna och tabellerna automatiskt.
 
-Du behöver inte göra några manuella inställningar för att börja använda de nya reglerna. Så snart du skapar en lönekörning med ett utbetalningsdatum under 2026 kommer plattformen att använda de uppdaterade värdena.
+1. Skapa en ny lönekörning i vyn för löner.
+2. Ange ett utbetalningsdatum som infaller under 2026.
+3. Kontrollera att alla anställda har rätt skatteinställningar om de har fått nya beslut från Skatteverket.
+4. Slutför lönekörningen som vanligt.
 
-1.  Gå till vyn för lönekörningar.
-2.  Välj att skapa en **Ny lönekörning**.
-3.  Sätt utbetalningsdatumet till 2026.
-4.  Plattformen sköter resten – från skatteberäkningar till korrekta sociala avgifter.
+## Tips
+> Kom ihåg att ladda ner det nya PDF-underlaget för Växa-stödet i samband med att du skapar din arbetsgivardeklaration. Du behöver detta för att manuellt ansöka om återbetalningen hos Skatteverket.
 
-Vi på Spiris vill att din lönehantering ska vara så smidig och bekymmersfri som möjligt. Genom att vi håller koll på lagar och regler får du mer tid över till att utveckla ditt företag.
+Vi på Spiris önskar dig ett smidigt och framgångsrikt löneår 2026!
