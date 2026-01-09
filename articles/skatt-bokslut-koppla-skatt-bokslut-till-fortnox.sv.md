@@ -1,6 +1,6 @@
 ---
 id: pQT0OK9H3Sopr3yqCNLT
-title: FN
+title: Koppla Skatt & Bokslut till Fortnox
 slug: koppla-skatt-bokslut-till-fortnox
 languages:
   - sv
@@ -9,37 +9,37 @@ format: md
 status: draft
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-09T13:04:22.800Z'
-updatedAt: '2026-01-09T13:07:10.666Z'
+updatedAt: '2026-01-09T13:07:38.315Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedBy: Per.Karlsson@visma.com
-updatedByName: Per Karlsson
 languageUpdatedAt:
   sv: '2026-01-09T13:06:47.737Z'
   en: '2026-01-09T13:04:22.800Z'
+updatedByName: Per Karlsson
 translationBase: {}
-currentVersion: 1
+updatedBy: Per.Karlsson@visma.com
+currentVersion: 2
 metadata:
-  area1: general
-  solution: Skatt & Bokslut
-  area2: ''
-  productId: Skatt & Bokslut
-  targetAudience: []
-  cshAnchors: []
-  guidelineVersions:
-    getting_started: 2
-    article_matching: 1
-    instruction: 7
-    news: 3
-    tone_voice: 1
-    constitution: 1
-    faq: 1
-  visibility: public
   tags:
     - update
     - general
     - instruction
+  productId: Skatt & Bokslut
+  visibility: public
+  cshAnchors: []
+  guidelineVersions:
+    faq: 1
+    tone_voice: 1
+    instruction: 7
+    news: 3
+    getting_started: 2
+    constitution: 1
+    article_matching: 1
+  solution: Skatt & Bokslut
+  area2: ''
+  area1: general
+  targetAudience: []
 ---
 # Koppla **{{resource:common_product_name_variable_taxation_year_end_closing}}** till Fortnox
 
