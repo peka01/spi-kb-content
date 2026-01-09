@@ -1,41 +1,41 @@
 ---
-status: draft
+folderId: null
 languages:
   - sv
-updatedAt: '2026-01-09T10:39:07.930Z'
+reviewedAt: null
+status: draft
+updatedAt: '2026-01-09T10:45:31.582Z'
+publishedAt: null
+id: 4UegKcABxTKQznQX8V0T
+format: md
 slug: general-amili
+createdAt: '2026-01-09T10:45:31.582Z'
 title: Amili
 lastLLMUpdateAt: null
-id: rLSVIlWMzk2pVYGoKvcO
-folderId: null
-format: md
-reviewedAt: null
-publishedAt: null
-createdAt: '2026-01-09T10:37:20.369Z'
 metadata:
+  solution: Bokföring & Fakturering
+  targetAudience: []
+  guidelineVersions:
+    news: 3
+    article_matching: 1
+    constitution: 1
+    tone_voice: 1
+    getting_started: 2
+    instruction: 7
+    faq: 1
+  cshMappings:
+    - name: sales_customer
+      addedAt: '2026-01-09T10:39:05.754Z'
+      deprecated: false
+      description: ''
+  locale: sv-se
+  area2: ''
   tags:
     - update
     - general
     - instruction
-  targetAudience: []
-  productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
-  guidelineVersions:
-    tone_voice: 1
-    article_matching: 1
-    news: 3
-    getting_started: 2
-    constitution: 1
-    faq: 1
-    instruction: 7
   area1: general
-  locale: sv-se
-  cshMappings:
-    - deprecated: false
-      description: ''
-      name: sales_customer
-      addedAt: '2026-01-09T10:39:05.754Z'
-  area2: ''
+  productId: Bokföring & Fakturering
 ---
 # Aktivera Visma Inkasso för snabbare betalningar
 
