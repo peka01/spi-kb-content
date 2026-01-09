@@ -6,30 +6,30 @@ languages:
   - sv
 format: md
 status: test
-folderId: 4zao97Xq4RveDtmPm6Od
+folderId: null
 createdAt: '2026-01-08T13:42:25.003Z'
-updatedAt: '2026-01-08T13:49:11.522Z'
+updatedAt: '2026-01-09T09:57:17.874Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  solution: Bokföring & Fakturering
-  area2: ''
-  productId: Bokföring & Fakturering
-  area1: general
-  targetAudience: []
-  guidelineVersions:
-    news: 3
-    tone_voice: 1
-    getting_started: 2
-    faq: 1
-    instruction: 7
-    article_matching: 1
-    constitution: 1
   tags:
     - update
     - general
     - instruction
+  targetAudience: []
+  solution: Bokföring & Fakturering
+  productId: Bokföring & Fakturering
+  area2: ''
+  area1: general
+  guidelineVersions:
+    instruction: 7
+    tone_voice: 1
+    constitution: 1
+    news: 3
+    faq: 1
+    getting_started: 2
+    article_matching: 1
 ---
 # Få koll på din ekonomi via översikten
 
