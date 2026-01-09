@@ -6,45 +6,45 @@ languages:
   - sv
   - en
 format: md
-status: published
+status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-09T13:04:32.309Z'
-updatedAt: '2026-01-09T15:42:47.703Z'
+updatedAt: '2026-01-09T15:42:51.946Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-translationBase: {}
 currentVersion: 2
-updatedByName: Per Karlsson
-updatedBy: Per.Karlsson@visma.com
 languageUpdatedAt:
   sv: '2026-01-09T13:04:32.309Z'
   en: '2026-01-09T13:04:32.309Z'
+updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
+translationBase: {}
 metadata:
-  area2: ''
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  visibility: public
+  cshMappings:
+    - name: test
+      addedAt: '2026-01-09T15:27:52.310Z'
+      deprecated: false
+      description: ''
   tags:
     - update
     - general
     - news
-  cshMappings:
-    - name: test
-      deprecated: false
-      description: ''
-      addedAt: '2026-01-09T15:27:52.310Z'
-  cshAnchors: []
   area1: general
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
   targetAudience: []
-  visibility: public
+  area2: ''
   guidelineVersions:
-    constitution: 1
-    tone_voice: 1
-    news: 3
-    faq: 1
     article_matching: 1
-    instruction: 7
+    constitution: 1
+    news: 3
     getting_started: 2
+    faq: 1
+    tone_voice: 1
+    instruction: 7
+  cshAnchors: []
 ---
 # Nu blir bokslutet enklare – upptäck vår nya koppling till Fortnox
 
