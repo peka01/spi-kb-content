@@ -1,36 +1,46 @@
 ---
-folderId: null
-status: draft
+id: 1BlPqintPVogPCF8Zhmw
 title: Lön 2026 (Custom)
-lastLLMUpdateAt: '2026-01-09T14:46:13.038Z'
-format: md
+slug: general-lön-2026-custom
 languages:
   - sv
-updatedAt: '2026-01-09T14:48:02.808Z'
+  - en
+format: md
+status: draft
+folderId: null
 createdAt: '2026-01-09T14:42:33.372Z'
+updatedAt: '2026-01-09T14:49:05.957Z'
 publishedAt: null
-slug: general-lön-2026-custom
 pendingReview: false
 reviewedAt: '2026-01-09T14:48:02.808Z'
-id: 1BlPqintPVogPCF8Zhmw
+lastLLMUpdateAt: '2026-01-09T14:46:13.038Z'
+languageUpdatedAt:
+  en: '2026-01-09T14:48:02.808Z'
+  sv: '2026-01-09T14:48:57.593Z'
+updatedByName: Per Karlsson
+currentVersion: 1
+translationBase: {}
+updatedBy: Per.Karlsson@visma.com
 metadata:
+  guidelineVersions:
+    tone_voice: 1
+    instruction: 7
+    constitution: 1
+    article_matching: 1
+    news: 3
+    faq: 1
+    getting_started: 2
+  targetAudience: []
+  area2: ''
+  cshAnchors: []
+  visibility: public
   solution: Lön
+  productId: Lön
+  area1: general
   tags:
     - update
     - general
     - custom
-  guidelineVersions:
-    getting_started: 2
-    constitution: 1
-    instruction: 7
-    faq: 1
-    article_matching: 1
-    news: 3
-    tone_voice: 1
-  targetAudience: []
-  productId: Lön
-  area1: general
-  area2: ''
 ---
 # Lön 2026 – En trygg start på det nya året
 
