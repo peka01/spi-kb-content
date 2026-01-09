@@ -9,38 +9,38 @@ format: md
 status: draft
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-09T13:19:44.610Z'
-updatedAt: '2026-01-09T14:42:20.144Z'
+updatedAt: '2026-01-09T14:43:40.280Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
+pendingReview: false
+reviewedAt: '2026-01-09T14:43:40.280Z'
 lastLLMUpdateAt: '2026-01-09T14:42:20.144Z'
+updatedBy: Per.Karlsson@visma.com
+currentVersion: 1
 updatedByName: Per Karlsson
+translationBase: {}
 languageUpdatedAt:
   sv: '2026-01-09T13:21:10.767Z'
   en: '2026-01-09T13:21:10.767Z'
-currentVersion: 1
-updatedBy: Per.Karlsson@visma.com
-translationBase: {}
 metadata:
-  solution: Lön
-  area2: ''
-  cshAnchors: []
-  area1: general
-  productId: Lön
-  targetAudience: []
   tags:
     - update
     - general
     - news
+  solution: Lön
+  cshAnchors: []
+  area1: general
   visibility: public
+  targetAudience: []
+  area2: ''
+  productId: Lön
   guidelineVersions:
+    tone_voice: 1
+    constitution: 1
     getting_started: 2
     faq: 1
-    tone_voice: 1
     instruction: 7
-    news: 3
     article_matching: 1
-    constitution: 1
+    news: 3
 ---
 # Lön 2026 – Allt är klart för det nya året!
 
