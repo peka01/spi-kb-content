@@ -4,32 +4,43 @@ title: Dashboard
 slug: general-dashboard
 languages:
   - sv
+  - en
 format: md
 status: test
 folderId: null
 createdAt: '2026-01-08T13:42:25.003Z'
-updatedAt: '2026-01-09T09:57:17.874Z'
+updatedAt: '2026-01-09T10:32:23.616Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+currentVersion: 2
+updatedBy: Per.Karlsson@visma.com
+languageUpdatedAt:
+  sv: '2026-01-09T10:21:02.132Z'
+  en: '2026-01-09T10:21:02.132Z'
+translationBase: {}
+updatedByName: Per Karlsson
 metadata:
+  guidelineVersions:
+    article_matching: 1
+    faq: 1
+    news: 3
+    instruction: 7
+    getting_started: 2
+    constitution: 1
+    tone_voice: 1
+  area2: ''
+  visibility: public
+  solution: Bokföring & Fakturering
+  cshAnchors:
+    - sales_customer_form
+  area1: ''
+  targetAudience: []
+  productId: Bokföring & Fakturering
   tags:
     - update
     - general
     - instruction
-  targetAudience: []
-  solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
-  area2: ''
-  area1: general
-  guidelineVersions:
-    instruction: 7
-    tone_voice: 1
-    constitution: 1
-    news: 3
-    faq: 1
-    getting_started: 2
-    article_matching: 1
 ---
 # Få koll på din ekonomi via översikten
 
