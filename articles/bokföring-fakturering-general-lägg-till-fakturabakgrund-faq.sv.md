@@ -4,35 +4,43 @@ title: Lägg till fakturabakgrund (Faq)
 slug: general-lägg-till-fakturabakgrund-faq
 languages:
   - sv
+  - en
 format: md
 status: test
 folderId: null
 createdAt: '2026-01-06T11:44:04.094Z'
-updatedAt: '2026-01-09T09:57:14.694Z'
+updatedAt: '2026-01-09T10:32:54.343Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+updatedBy: Per.Karlsson@visma.com
+translationBase: {}
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  en: '2026-01-09T09:57:14.694Z'
+  sv: '2026-01-09T10:32:52.805Z'
+currentVersion: 1
 metadata:
-  guidelineVersions:
-    instruction: 7
-    constitution: 1
-    tone_voice: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    faq: 1
-  solution: Bokföring & Fakturering
-  area2: ''
   area1: general
-  productId: Bokföring & Fakturering
+  targetAudience: []
   tags:
     - update
     - general
     - faq
-  targetAudience: []
+  solution: Bokföring & Fakturering
+  visibility: public
+  area2: ''
+  guidelineVersions:
+    faq: 1
+    article_matching: 1
+    constitution: 1
+    instruction: 7
+    getting_started: 2
+    news: 3
+    tone_voice: 1
+  productId: Bokföring & Fakturering
+  cshAnchors: []
 ---
-Här är en FAQ-artikel som förklarar den nya funktionen för flera fakturabakgrunder i Spiris.
-
 # FAQ: Hantera flera fakturabakgrunder
 
 Har du flera olika varumärken eller verksamhetsgrenar under samma organisationsnummer? Nu kan du enkelt anpassa utseendet på dina försäljningsdokument genom att använda upp till fem olika fakturabakgrunder.
