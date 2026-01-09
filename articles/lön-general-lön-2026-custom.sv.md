@@ -1,68 +1,58 @@
 ---
-slug: general-lön-2026-custom
-publishedAt: null
-status: draft
-reviewedAt: null
-folderId: null
-lastLLMUpdateAt: '2026-01-09T15:15:49.506Z'
 title: lön 2026 (Custom)
-updatedAt: '2026-01-09T15:15:49.506Z'
-format: md
-pendingReview: true
-createdAt: '2026-01-09T15:11:57.742Z'
+slug: general-lön-2026-custom
 languages:
   - sv
-id: 2P2vL6WuH3la0bnZ2rNH
+format: md
+status: draft
+folderId: null
+publishedAt: null
+createdAt: '2026-01-09T15:15:59.523Z'
+updatedAt: '2026-01-09T15:15:59.523Z'
+id: QSQepOsSyixH0lFqLDkz
 metadata:
+  productId: Lön
+  solution: Lön
+  area1: general
+  area2: ''
   targetAudience: []
   tags:
     - update
     - general
     - custom
-  area2: ''
-  productId: Lön
-  solution: Lön
-  area1: general
   guidelineVersions:
-    article_matching: 1
-    getting_started: 2
+    faq: 1
     constitution: 1
+    getting_started: 2
+    news: 3
+    article_matching: 1
     instruction: 7
     tone_voice: 1
-    news: 3
-    faq: 1
 ---
-## Redo för löneåret 2026? 🚀 Allt du behöver veta om de senaste uppdateringarna!
+# Dags för löneåret 2026 – här är det viktigaste du behöver veta
 
-Vi har nu lanserat de lagstadgade uppdateringarna för räkenskapsåret 2025/2026 i vår ekonomiplattform. Genom att inkludera nya skattetabeller och uppdaterade formler för Fora-rapportering säkerställer vi att din lönehantering är korrekt och följer svensk lag från dag ett. Uppdateringen sker automatiskt för att ge dig en trygg och smidig start på det nya året.
+Nu är vi redo för ett nytt år! Vi har uppdaterat din ekonomiplattform så att allt rullar på smidigt när du ska börja hantera lönerna för 2026. Med den här uppdateringen kan du känna dig trygg med att alla beräkningar följer de senaste lagkraven och reglerna.
 
-Hej alla lönestjärnor! 👋
+Här går vi igenom de viktigaste ändringarna som hjälper dig att få en enkel start på det nya året.
 
-Vi vet att årsskiftet alltid innebär en hel del att hålla reda på. Men oroa er inte – vi på Spiris har gjort grovjobbet åt er! Vi är glada att meddela att de obligatoriska lagstadgade uppdateringarna och justeringarna för räkenskapsåret 2025/2026 nu är implementerade i vår ekonomiplattform.
+## Lagstadgade ändringar och skattetabeller
+Varje årsskifte innebär nya regler från Skatteverket och andra myndigheter. Vi har sett till att din plattform är helt uppdaterad med:
+*   **Nya skattetabeller:** De senaste skattetabellerna för 2026 finns nu på plats, vilket säkerställer att källskatten för dina anställda blir helt rätt från första lönen.
+*   **Belopp och gränsvärden:** Alla viktiga siffror, såsom prisbasbelopp och brytpunkter, är justerade enligt de nya reglerna för räkenskapsåret 2025/2026.
 
-### Vad innebär detta för dig?
-Vårt fokus har varit att säkerställa att övergången till 2026 blir så smidig och trygg som möjligt. Här är de viktigaste höjdpunkterna i den senaste uppdateringen:
+## Uppdateringar för Fora-rapportering
+För dig som har administrativa tjänstemän har vi gjort specifika förbättringar i hur försäkringspremier beräknas. 
 
-*   **Nya skattetabeller och lagkrav:** Vi har uppdaterat ekonomiplattformen med de senaste skatteberäkningarna och rapporteringskraven för att följa svensk lagstiftning till punkt och pricka.
-*   **Uppdaterade Fora-formler:** Vi har lagt extra krut på att uppdatera formlerna för löneartskoder som rör Fora för administrativ personal för 2026. Det betyder mer exakta beräkningar och enklare försäkringsrapportering för dig.
-*   **Sömlös övergång:** Uppdateringen bygger vidare på de stabila processer vi satte förra året, vilket gör att du kan känna dig trygg när du genomför årets första lönekörning 2026.
+Vi har uppdaterat formlerna för de lönearter som rör Fora för tjänstemän. Det innebär att underlaget för rapporteringen blir mer exakt och följer de senaste kraven för 2026. Du behöver inte göra några manuella ändringar i formlerna själv – plattformen sköter detta automatiskt åt dig.
 
-### Varför är detta viktigt?
-Genom att vi implementerar dessa ändringar i god tid slipper du manuella justeringar och kan lita på att funktionerna sköter de komplexa beräkningarna åt dig. Det ger dig mer korrekt underlag för både skatt och försäkringspremier, vilket innebär mer tid över till annat – och en betydligt lugnare start på det nya året! ☕
+## Så förbereder du dig för första lönen 2026
+För att övergången till det nya året ska bli så enkel som möjligt rekommenderar vi att du kikar på följande:
 
-***
+1.  **Slutför 2025:** Se till att alla lönekörningar och arbetsgivardeklarationer för det föregående året är klara och inskickade.
+2.  **Kontrollera anställningsuppgifter:** Gå gärna igenom dina anställda under fliken för personal och se så att uppgifter om fackförbund och försäkringstillhörighet stämmer inför det nya året.
+3.  **Hämta nya skatteuppgifter:** Kom ihåg att göra en ny CSR-förfrågan (Centrala skatteregistret) för att få in aktuella skatteuppgifter för alla anställda inför den första utbetalningen i januari.
 
-### Låt oss diskutera! 💬
-Vi är nyfikna på hur ni förbereder er inför det nya löneåret:
+## Vi finns här för dig
+Vårt mål är att lönehanteringen ska ta så lite tid som möjligt, så att du kan fokusera på din verksamhet. Genom att vi håller plattformen uppdaterad med de senaste lagkraven kan du alltid lita på att dina löner blir korrekta.
 
-1.  Vilken del av årsskifteshanteringen tycker du brukar vara mest utmanande?
-2.  Finns det någon specifik funktion kring Fora eller skattehantering som du skulle vilja veta mer om?
-3.  Har ni redan börjat planera för 2026, eller ligger fokus fortfarande helt på att stänga 2025?
-
-Dela med dig av dina tankar, frågor eller tips till kollegorna här i forumet. Vi finns här för att stötta er hela vägen genom årsskiftet!
-
-Bästa hälsningar,
-
-**Forumansvarig & Teamet bakom Lön på Spiris**
-
-#Lön2026 #Löneadministration #Årsskifte #Fora #Skatteverket #Effektivitet
+Har du frågor om ditt abonnemang eller specifika funktioner i din ekonomiplattform? Du hittar alltid mer hjälp och vägledning i vårt hjälpcenter.
