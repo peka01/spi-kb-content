@@ -6,51 +6,52 @@ languages:
   - sv
   - en
 format: md
-status: test
+status: draft
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-09T13:19:44.610Z'
-updatedAt: '2026-01-09T14:30:13.870Z'
+updatedAt: '2026-01-09T14:42:20.144Z'
 publishedAt: null
+pendingReview: true
 reviewedAt: null
-lastLLMUpdateAt: null
+lastLLMUpdateAt: '2026-01-09T14:42:20.144Z'
 updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-09T13:21:10.767Z'
+  en: '2026-01-09T13:21:10.767Z'
 currentVersion: 1
 updatedBy: Per.Karlsson@visma.com
 translationBase: {}
-languageUpdatedAt:
-  en: '2026-01-09T13:21:10.767Z'
-  sv: '2026-01-09T13:21:10.767Z'
 metadata:
-  visibility: public
+  solution: Lön
+  area2: ''
   cshAnchors: []
-  guidelineVersions:
-    getting_started: 2
-    tone_voice: 1
-    instruction: 7
-    article_matching: 1
-    constitution: 1
-    faq: 1
-    news: 3
+  area1: general
   productId: Lön
   targetAudience: []
-  area1: general
-  area2: ''
   tags:
     - update
     - general
     - news
-  solution: Lön
+  visibility: public
+  guidelineVersions:
+    getting_started: 2
+    faq: 1
+    tone_voice: 1
+    instruction: 7
+    news: 3
+    article_matching: 1
+    constitution: 1
 ---
-# Nytt år, nya möjligheter – Spiris Lön är redo för 2026!
+# Lön 2026 – Allt är klart för det nya året!
 
-Nu kan du blicka framåt och börja planera för nästa år. Vi har uppdaterat **Spiris Lön** och **Egen lön** med alla lagkrav, skattetabeller och regeländringar som gäller för 2026. Det betyder att du redan nu kan skapa lönekörningar med utbetalningsdatum under det nya året och känna dig trygg med att beräkningarna blir rätt.
+Nu är **Spiris Lön** och **Egen lön** uppdaterade för 2026. Vi har lagt in alla nya skattetabeller, lagkrav och belopp så att du kan känna dig trygg med att dina lönekörningar för det nya året blir helt rätt från start.
 
-Här är en genomgång av de viktigaste nyheterna och vad de innebär för dig.
+Här är en genomgång av de viktigaste nyheterna och vad de innebär för dig och ditt företag.
 
 ### Smidigare hantering av Växa-stödet
 Från och med januari 2026 ändras reglerna för hur växa-stödet hanteras enligt lagkrav. Tidigare drogs stödet av direkt i arbetsgivardeklarationen (AGI), men nu behöver du istället ansöka om återbetalning av arbetsgivaravgifterna hos Skatteverket i efterhand.
 
-För att göra detta så enkelt som möjligt för dig har vi lagt till en extra sida i PDF-utskriften av arbetsgivardeklarationen. Denna sida fungerar som ett färdigt underlag med de uppgifter du behöver för din ansökan hos Skatteverket.
+För att göra detta så enkelt som möjligt för dig har vi lagt till en extra sida i **PDF-utskriften av arbetsgivardeklarationen**. Denna sida fungerar som ett färdigt underlag med de uppgifter du behöver för din ansökan hos Skatteverket.
 
 ### Viktiga lagändringar och belopp för 2026
 Vi har sett till att plattformen automatiskt hanterar de nya nivåerna för skatter och avgifter:
@@ -69,6 +70,6 @@ Utöver de stora lagändringarna har vi självklart även uppdaterat:
 *   Prisbasbelopp.
 *   Inlämningsdatum för arbetsgivardeklarationer.
 
-Du behöver inte göra några manuella inställningar för dessa generella uppdateringar – de finns på plats nästa gång du skapar en lönekörning för 2026.
+Du behöver inte göra några manuella inställningar för dessa generella uppdateringar – de finns på plats nästa gång du skapar en **lönekörning** med utbetalningsdatum under 2026.
 
 Vi på **Spiris** önskar dig en smidig och stressfri start på det nya löneåret!
