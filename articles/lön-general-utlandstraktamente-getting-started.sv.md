@@ -7,40 +7,40 @@ languages:
   - en
 format: md
 status: test
-folderId: null
+folderId: IKNKCDDC45TUZXBVLz0i
 createdAt: '2026-01-08T15:40:54.774Z'
-updatedAt: '2026-01-09T12:43:29.476Z'
+updatedAt: '2026-01-09T13:12:12.002Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedBy: Per.Karlsson@visma.com
 languageUpdatedAt:
   sv: '2026-01-08T15:49:11.656Z'
   en: '2026-01-08T15:49:11.656Z'
-updatedByName: Per Karlsson
-currentVersion: 1
 translationBase: {}
+updatedBy: Per.Karlsson@visma.com
+currentVersion: 1
+updatedByName: Per Karlsson
 metadata:
-  locale: sv-se
-  area2: ''
-  visibility: public
-  guidelineVersions:
-    instruction: 7
-    faq: 1
-    tone_voice: 1
-    news: 3
-    article_matching: 1
-    constitution: 1
-    getting_started: 2
-  cshAnchors: []
-  productId: Lön
-  area1: general
-  targetAudience: []
   tags:
     - update
     - general
     - getting_started
+  guidelineVersions:
+    news: 3
+    getting_started: 2
+    constitution: 1
+    faq: 1
+    instruction: 7
+    article_matching: 1
+    tone_voice: 1
   solution: Lön
+  area1: general
+  visibility: public
+  productId: Lön
+  cshAnchors: []
+  targetAudience: []
+  locale: sv-se
+  area2: ''
 ---
 # Kom i gång med utlandstraktamente
 
