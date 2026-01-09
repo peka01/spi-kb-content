@@ -9,42 +9,42 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-09T13:04:32.309Z'
-updatedAt: '2026-01-09T15:28:00.480Z'
+updatedAt: '2026-01-09T15:28:01.343Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
-  sv: '2026-01-09T13:04:32.309Z'
   en: '2026-01-09T13:04:32.309Z'
+  sv: '2026-01-09T13:04:32.309Z'
+updatedBy: Per.Karlsson@visma.com
+updatedByName: Per Karlsson
 translationBase: {}
 currentVersion: 2
-updatedByName: Per Karlsson
-updatedBy: Per.Karlsson@visma.com
 metadata:
   cshAnchors: []
-  area2: ''
+  area1: general
+  guidelineVersions:
+    article_matching: 1
+    faq: 1
+    tone_voice: 1
+    instruction: 7
+    news: 3
+    constitution: 1
+    getting_started: 2
+  visibility: public
   targetAudience: []
-  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  area2: ''
   tags:
     - update
     - general
     - news
-  guidelineVersions:
-    news: 3
-    getting_started: 2
-    tone_voice: 1
-    instruction: 7
-    constitution: 1
-    faq: 1
-    article_matching: 1
-  solution: Skatt & Bokslut
-  area1: general
+  productId: Skatt & Bokslut
   cshMappings:
-    - description: ''
+    - name: test
+      description: ''
       deprecated: false
       addedAt: '2026-01-09T15:27:52.310Z'
-      name: test
-  visibility: public
 ---
 # Nu blir bokslutet enklare – upptäck vår nya koppling till Fortnox
 
