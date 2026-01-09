@@ -9,39 +9,39 @@ format: md
 status: test
 folderId: null
 createdAt: '2026-01-08T13:42:25.003Z'
-updatedAt: '2026-01-09T10:45:31.787Z'
+updatedAt: '2026-01-09T10:53:59.578Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2026-01-09T10:21:02.132Z'
-  sv: '2026-01-09T10:21:02.132Z'
-currentVersion: 2
 updatedByName: Per Karlsson
 translationBase: {}
 updatedBy: Per.Karlsson@visma.com
+currentVersion: 2
+languageUpdatedAt:
+  en: '2026-01-09T10:21:02.132Z'
+  sv: '2026-01-09T10:21:02.132Z'
 metadata:
+  solution: Bokföring & Fakturering
   tags:
     - update
     - general
     - instruction
+  visibility: public
+  guidelineVersions:
+    news: 3
+    instruction: 7
+    constitution: 1
+    getting_started: 2
+    article_matching: 1
+    tone_voice: 1
+    faq: 1
+  area1: ''
+  targetAudience: []
+  area2: ''
   locale: sv-se
   cshAnchors:
     - sales_customer_form
-  targetAudience: []
-  area1: ''
-  guidelineVersions:
-    tone_voice: 1
-    constitution: 1
-    news: 3
-    article_matching: 1
-    instruction: 7
-    getting_started: 2
-    faq: 1
-  area2: ''
-  solution: Bokföring & Fakturering
   productId: Bokföring & Fakturering
-  visibility: public
 ---
 # Få koll på din ekonomi via översikten
 
