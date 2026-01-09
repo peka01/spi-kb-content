@@ -1,33 +1,35 @@
 ---
+id: ctJyClmqPHB2lpfofjF3
 title: Lön 2026 (News)
 slug: general-lön-2026-news
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-09T13:19:44.610Z'
-updatedAt: '2026-01-09T13:19:44.610Z'
-id: ctJyClmqPHB2lpfofjF3
+updatedAt: '2026-01-09T13:21:10.767Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Lön
   solution: Lön
-  area1: general
-  area2: ''
-  targetAudience: []
   tags:
     - update
     - general
     - news
+  area1: general
+  productId: Lön
+  area2: ''
   guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
     tone_voice: 1
+    getting_started: 2
+    constitution: 1
+    instruction: 7
+    article_matching: 1
+    faq: 1
+    news: 3
+  targetAudience: []
 ---
 # Nytt år, nya möjligheter – Spiris Lön är redo för 2026!
 
