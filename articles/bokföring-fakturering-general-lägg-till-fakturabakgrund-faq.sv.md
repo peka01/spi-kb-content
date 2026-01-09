@@ -9,38 +9,38 @@ format: md
 status: test
 folderId: null
 createdAt: '2026-01-06T11:44:04.094Z'
-updatedAt: '2026-01-09T10:53:59.701Z'
+updatedAt: '2026-01-09T12:43:29.187Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+currentVersion: 1
+updatedByName: Per Karlsson
+translationBase: {}
 updatedBy: Per.Karlsson@visma.com
 languageUpdatedAt:
   sv: '2026-01-09T10:32:52.805Z'
   en: '2026-01-09T09:57:14.694Z'
-updatedByName: Per Karlsson
-translationBase: {}
-currentVersion: 1
 metadata:
-  area1: general
-  cshAnchors: []
-  visibility: public
-  targetAudience: []
-  guidelineVersions:
-    getting_started: 2
-    faq: 1
-    constitution: 1
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
-    news: 3
+  locale: sv-se
   area2: ''
+  guidelineVersions:
+    tone_voice: 1
+    getting_started: 2
+    instruction: 7
+    article_matching: 1
+    constitution: 1
+    faq: 1
+    news: 3
+  visibility: public
+  cshAnchors: []
+  productId: Bokföring & Fakturering
+  area1: general
+  targetAudience: []
   tags:
     - update
     - general
     - faq
-  locale: sv-se
   solution: Bokföring & Fakturering
-  productId: Bokföring & Fakturering
 ---
 # FAQ: Hantera flera fakturabakgrunder
 
