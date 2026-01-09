@@ -9,37 +9,38 @@ format: md
 status: test
 folderId: null
 createdAt: '2026-01-08T15:41:16.389Z'
-updatedAt: '2026-01-09T10:33:08.526Z'
+updatedAt: '2026-01-09T10:45:32.224Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
-languageUpdatedAt:
-  sv: '2026-01-09T10:33:07.075Z'
-  en: '2026-01-09T09:56:34.046Z'
 translationBase: {}
-currentVersion: 1
 updatedBy: Per.Karlsson@visma.com
+updatedByName: Per Karlsson
+currentVersion: 1
+languageUpdatedAt:
+  en: '2026-01-09T09:56:34.046Z'
+  sv: '2026-01-09T10:33:07.075Z'
 metadata:
-  solution: Lön
+  locale: sv-se
   tags:
     - update
     - general
     - faq
-  visibility: public
-  area2: ''
   productId: Lön
   targetAudience: []
-  area1: general
   cshAnchors: []
+  area1: general
+  area2: ''
   guidelineVersions:
     getting_started: 2
-    news: 3
     article_matching: 1
-    tone_voice: 1
-    instruction: 7
     constitution: 1
     faq: 1
+    instruction: 7
+    news: 3
+    tone_voice: 1
+  solution: Lön
+  visibility: public
 ---
 ## Hur kan jag ändra antal på kopplade lönearter för utlandstraktamente?
 Tidigare var det inte möjligt att justera antalet på de lönearter som automatiskt följer med vid utlandstraktamente (exempelvis lönearterna 1215, 1216 och 1217). I och med den senaste uppdateringen har vi öppnat upp för mer flexibilitet.
