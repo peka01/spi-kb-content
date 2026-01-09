@@ -1,36 +1,36 @@
 ---
+status: draft
+createdAt: '2026-01-09T13:39:51.976Z'
+folderId: null
 publishedAt: null
+id: dKyJb1iXu0EUL0LfDP9Z
+format: md
+reviewedAt: null
+slug: general-lön-2026
+lastLLMUpdateAt: null
+title: Lön 2026
 languages:
   - sv
-createdAt: '2026-01-09T13:27:06.368Z'
-slug: general-lön-2026
-reviewedAt: null
-folderId: null
-id: yuFmNj5aQj59IgdZGbI7
-status: draft
-title: Lön 2026
-format: md
-updatedAt: '2026-01-09T13:27:06.368Z'
-lastLLMUpdateAt: null
+updatedAt: '2026-01-09T13:39:51.976Z'
 metadata:
-  productId: Lön
-  guidelineVersions:
-    news: 3
-    getting_started: 2
-    faq: 1
-    tone_voice: 1
-    instruction: 7
-    article_matching: 1
-    constitution: 1
-  area1: general
-  locale: sv-se
-  area2: ''
-  targetAudience: []
   solution: Lön
+  locale: sv-se
+  productId: Lön
+  area2: ''
   tags:
     - update
     - general
     - instruction
+  targetAudience: []
+  area1: general
+  guidelineVersions:
+    faq: 1
+    constitution: 1
+    article_matching: 1
+    tone_voice: 1
+    getting_started: 2
+    instruction: 7
+    news: 3
 ---
 # Förbered och kör löner för 2026
 
