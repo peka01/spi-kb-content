@@ -6,64 +6,67 @@ languages:
   - sv
   - en
 format: md
-status: test
+status: draft
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-09T13:04:32.309Z'
-updatedAt: '2026-01-09T15:42:51.946Z'
+updatedAt: '2026-01-13T13:38:20.369Z'
 publishedAt: null
+pendingReview: true
 reviewedAt: null
-lastLLMUpdateAt: null
+lastLLMUpdateAt: '2026-01-13T13:38:20.369Z'
+translationBase: {}
 currentVersion: 2
 languageUpdatedAt:
-  sv: '2026-01-09T13:04:32.309Z'
   en: '2026-01-09T13:04:32.309Z'
+  sv: '2026-01-09T13:04:32.309Z'
 updatedByName: Per Karlsson
 updatedBy: Per.Karlsson@visma.com
-translationBase: {}
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  visibility: public
   cshMappings:
-    - name: test
-      addedAt: '2026-01-09T15:27:52.310Z'
+    - description: ''
       deprecated: false
-      description: ''
+      name: test
+      addedAt: '2026-01-09T15:27:52.310Z'
   tags:
     - update
     - general
     - news
-  area1: general
-  targetAudience: []
   area2: ''
+  area1: general
   guidelineVersions:
-    article_matching: 1
-    constitution: 1
-    news: 3
-    getting_started: 2
-    faq: 1
     tone_voice: 1
+    getting_started: 2
+    article_matching: 1
     instruction: 7
+    constitution: 1
+    faq: 1
+    news: 3
+  targetAudience: []
+  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
+  visibility: public
   cshAnchors: []
 ---
-# Nu blir bokslutet enklare – upptäck vår nya koppling till Fortnox
+# Nu blir kopplingen till Fortnox ännu kraftfullare – upptäck de senaste förbättringarna
 
-**Glöm krånglig filhantering och manuell import. Med vår nya integration mellan Visma Skatt & Bokslut och Fortnox kan du nu synka din bokföringsdata och skicka verifikationer direkt mellan plattformarna. Funktionen finns tillgänglig nu för alla användare och gör ditt bokslutsarbete både snabbare och säkrare.**
+**Vi tar nu nästa steg i utvecklingen av kopplingen mellan Visma Skatt & Bokslut och Fortnox. Genom ett utökat datautbyte och smartare automatisering kan du nu hantera ditt bokslut med ännu mindre manuell handpåläggning och säkrare avstämningar. Uppdateringen är tillgänglig nu och gör ditt arbetsflöde mer effektivt än någonsin.**
 
-Vi på Spiris strävar alltid efter att göra din arbetsdag mer effektiv och minska den administrativa bördan. Därför är vi glada att presentera en efterlängtad nyhet: en direktintegration med Fortnox. För dig som arbetar i båda plattformarna innebär detta ett betydligt smidigare flöde från löpande bokföring till färdigt bokslut och skattedeklaration.
+Vi på Spiris strävar alltid efter att göra din arbetsdag mer effektiv och minska den administrativa bördan. Vår koppling till Fortnox har redan hjälpt många att slippa krånglig filhantering, och nu lanserar vi nästa fas i denna utveckling. För dig som arbetar i båda plattformarna innebär detta ett ännu mer omfattande och sömlöst flöde från löpande bokföring till färdigt bokslut och skattedeklaration.
 
-### Vad innebär nyheten för dig?
-Tidigare har överföring av data ofta inneburit att du behövt exportera och importera SIE4-filer manuellt. Med den nya kopplingen försvinner dessa mellansteg. Nu kan du istället låta plattformarna prata direkt med varandra, vilket sparar tid och minskar risken för fel.
+### Vad innebär uppdateringen för dig?
+Tidigare har vi fokuserat på att eliminera manuell export och import av SIE4-filer. Med den senaste uppdateringen utökar vi plattformarnas förmåga att prata med varandra. Det innebär att mer ekonomisk data kan utväxlas automatiskt, vilket minskar behovet av manuella avstämningar och säkerställer att informationen alltid är synkroniserad mellan systemen.
 
 **Här är de viktigaste fördelarna:**
-*   **Automatisk hämtning av bokföringsdata:** Hämta SIE4-data direkt från Fortnox in i Visma Skatt & Bokslut med ett enkelt knapptryck.
+*   **Utökat datautbyte:** Nu stödjer kopplingen ett mer omfattande utbyte av ekonomisk information, vilket ger en djupare integration mellan din bokföring och ditt bokslutsarbete.
+*   **Högre grad av automatisering:** Fler steg i processen sker nu per automatik, vilket minimerar risken för mänskliga fel och sparar värdefull tid.
+*   **Automatisk hämtning av bokföringsdata:** Hämta data direkt från Fortnox in i Visma Skatt & Bokslut med ett enkelt knapptryck.
 *   **Smidig export av verifikationer:** När bokslutsarbetet är klart kan du skicka färdiga verifikationer direkt tillbaka till Fortnox.
-*   **Synkning av bilagor:** Integrationen stödjer även överföring av kund- och leverantörsreskontrabilagor, vilket ger dig ett komplett underlag utan manuellt arbete.
+*   **Synkning av bilagor:** Funktionen stödjer även överföring av kund- och leverantörsreskontrabilagor, vilket ger dig ett komplett underlag utan manuellt arbete.
 
 ### Mer tid för rådgivning
-Genom att automatisera dataflödet mellan din bokföringsplattform och ditt bokslutsprogram får du mer tid över till det som verkligen ger värde – att analysera siffrorna och ge kvalificerad rådgivning till dina kunder. Du kan lita på att informationen är korrekt och att du alltid arbetar med de senaste siffrorna.
+Genom att automatisera dataflödet mellan din ekonomiplattform och ditt bokslutsprogram får du mer tid över till det som verkligen ger värde – att analysera siffrorna och ge kvalificerad rådgivning till dina kunder. Med den förbättrade kopplingen kan du lita på att informationen är korrekt och att du alltid arbetar med de senaste siffrorna, utan att behöva lägga tid på manuell kontroll.
 
 ### Hur kommer jag igång?
-Du hittar inställningarna för den nya kopplingen direkt inne i Visma Skatt & Bokslut. Genom att autentisera dig mot Fortnox skapas en säker länk som du sedan kan använda för att hämta och skicka data närhelst det behövs i din arbetsprocess.
+Om du redan använder kopplingen kommer du märka de nya förbättringarna direkt i ditt arbetsflöde. Om du inte har aktiverat den än hittar du inställningarna direkt inne i Visma Skatt & Bokslut. Genom att autentisera dig mot Fortnox skapas en säker länk som du sedan kan använda för att hämta och skicka data närhelst det behövs i din arbetsprocess.
 
-Vi hoppas att denna nya funktion ska göra din nästa bokslutsperiod betydligt behagligare!
+Vi hoppas att dessa nya förbättringar ska göra din nästa bokslutsperiod betydligt behagligare och mer effektiv!
