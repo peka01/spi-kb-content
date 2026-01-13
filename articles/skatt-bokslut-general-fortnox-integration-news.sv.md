@@ -6,19 +6,15 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-13T14:15:53.369Z'
-updatedAt: '2026-01-13T14:25:56.828Z'
+updatedAt: '2026-01-13T14:26:03.469Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2026-01-13T14:20:29.558Z'
-  sv: '2026-01-13T14:20:29.558Z'
-updatedByName: Per Karlsson
 currentVersion: 2
-updatedBy: Per.Karlsson@visma.com
+updatedByName: Per Karlsson
 translationBase:
   en: >-
     # Nu blir bokslutet enklare – upptäck vår nya Fortnox-integration!
@@ -90,25 +86,29 @@ translationBase:
     Vi hoppas att denna nyhet ska ge dig en lugnare och mer effektiv
     bokslutsperiod. Mer tid till rådgivning och mindre tid till filhantering –
     precis som det ska vara!
+languageUpdatedAt:
+  sv: '2026-01-13T14:20:29.558Z'
+  en: '2026-01-13T14:20:29.558Z'
+updatedBy: Per.Karlsson@visma.com
 metadata:
-  area2: ''
-  productId: Skatt & Bokslut
-  targetAudience: []
-  solution: Skatt & Bokslut
-  guidelineVersions:
-    instruction: 7
-    article_matching: 1
-    faq: 1
-    tone_voice: 1
-    getting_started: 2
-    news: 3
-    constitution: 1
-  visibility: public
-  area1: general
   tags:
     - update
     - general
     - news
+  guidelineVersions:
+    faq: 1
+    article_matching: 1
+    news: 3
+    constitution: 1
+    getting_started: 2
+    instruction: 7
+    tone_voice: 1
+  area2: ''
+  area1: general
+  visibility: public
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  targetAudience: []
 ---
 # Nu blir bokslutet enklare – upptäck vår nya Fortnox-integration!
 
