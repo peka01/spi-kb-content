@@ -9,22 +9,25 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-13T14:15:53.369Z'
-updatedAt: '2026-01-13T14:20:33.218Z'
+updatedAt: '2026-01-13T14:21:08.968Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
-updatedBy: Per.Karlsson@visma.com
+languageUpdatedAt:
+  en: '2026-01-13T14:20:29.558Z'
+  sv: '2026-01-13T14:20:29.558Z'
 translationBase:
   en: >-
     # Nu blir bokslutet enklare – upptäck vår nya Fortnox-integration!
 
 
     **Nu lanserar vi en direktintegration mellan Spiris och Fortnox för dig som
-    arbetar i Skatt & Bokslut. Genom att koppla samman plattformarna via API kan
-    du nu sköta både import av bokföringsdata och export av bokslutshändelser
-    helt sömlöst. Funktionen är tillgänglig för alla användare och gör ditt
-    arbete mer effektivt från start till mål.**
+    arbetar i
+    **{{resource:common_product_name_variable_taxation_year_end_closing}}**.
+    Genom att koppla samman plattformarna via API kan du nu sköta både import av
+    bokföringsdata och export av bokslutshändelser helt sömlöst. Funktionen är
+    tillgänglig för alla användare och gör ditt arbete mer effektivt från start
+    till mål.**
 
 
     Vi strävar alltid efter att göra ditt ekonomiarbete så smidigt som möjligt.
@@ -84,33 +87,32 @@ translationBase:
     Vi hoppas att denna nyhet ska ge dig en lugnare och mer effektiv
     bokslutsperiod. Mer tid till rådgivning och mindre tid till filhantering –
     precis som det ska vara!
-currentVersion: 1
-languageUpdatedAt:
-  sv: '2026-01-13T14:20:29.558Z'
-  en: '2026-01-13T14:15:53.369Z'
+updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
+currentVersion: 2
 metadata:
-  area1: general
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  area2: ''
   targetAudience: []
+  guidelineVersions:
+    constitution: 1
+    news: 3
+    instruction: 7
+    getting_started: 2
+    article_matching: 1
+    faq: 1
+    tone_voice: 1
+  area1: general
+  visibility: public
   tags:
     - update
     - general
     - news
-  productId: Skatt & Bokslut
-  visibility: public
-  area2: ''
-  guidelineVersions:
-    article_matching: 1
-    constitution: 1
-    news: 3
-    faq: 1
-    tone_voice: 1
-    getting_started: 2
-    instruction: 7
-  solution: Skatt & Bokslut
 ---
 # Year-end closing just got easier – discover our new Fortnox integration!
 
-**We are now launching a direct integration between Spiris and Fortnox for those working in Tax & Year-end Closing. By connecting the platforms via API, you can now handle both the import of accounting data and the export of year-end adjustments completely seamlessly. The feature is available to all users and makes your work more efficient from start to finish.**
+**We are now launching a direct integration between Spiris and Fortnox for those working in **{{resource:common_product_name_variable_taxation_year_end_closing}}**. By connecting the platforms via API, you can now handle both the import of accounting data and the export of year-end closing events completely seamlessly. The feature is available to all users and makes your work more efficient from start to finish.**
 
 We always strive to make your financial work as smooth as possible. Previously, you had to handle SIE files manually to move data from Fortnox to Tax & Year-end Closing. With our new integration, that step is completely eliminated. Instead, a secure and direct link is created that saves time, reduces the risk of manual errors, and gives you better control over the numbers.
 
