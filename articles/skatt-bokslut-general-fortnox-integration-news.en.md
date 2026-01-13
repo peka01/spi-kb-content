@@ -7,15 +7,18 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-13T14:15:53.369Z'
-updatedAt: '2026-01-13T14:21:08.968Z'
+updatedAt: '2026-01-13T14:25:56.828Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
   en: '2026-01-13T14:20:29.558Z'
   sv: '2026-01-13T14:20:29.558Z'
+updatedByName: Per Karlsson
+currentVersion: 2
+updatedBy: Per.Karlsson@visma.com
 translationBase:
   en: >-
     # Nu blir bokslutet enklare – upptäck vår nya Fortnox-integration!
@@ -87,24 +90,21 @@ translationBase:
     Vi hoppas att denna nyhet ska ge dig en lugnare och mer effektiv
     bokslutsperiod. Mer tid till rådgivning och mindre tid till filhantering –
     precis som det ska vara!
-updatedByName: Per Karlsson
-updatedBy: Per.Karlsson@visma.com
-currentVersion: 2
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
   area2: ''
+  productId: Skatt & Bokslut
   targetAudience: []
+  solution: Skatt & Bokslut
   guidelineVersions:
-    constitution: 1
-    news: 3
     instruction: 7
-    getting_started: 2
     article_matching: 1
     faq: 1
     tone_voice: 1
-  area1: general
+    getting_started: 2
+    news: 3
+    constitution: 1
   visibility: public
+  area1: general
   tags:
     - update
     - general
