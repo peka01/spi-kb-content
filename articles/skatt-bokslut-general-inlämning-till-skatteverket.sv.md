@@ -9,37 +9,37 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-15T08:38:43.606Z'
-updatedAt: '2026-01-15T08:43:47.542Z'
+updatedAt: '2026-01-15T08:44:46.174Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
+pendingReview: false
+reviewedAt: '2026-01-15T08:44:46.174Z'
 lastLLMUpdateAt: '2026-01-15T08:43:47.542Z'
 currentVersion: 1
-updatedByName: Per Karlsson
-updatedBy: Per.Karlsson@visma.com
-translationBase: {}
 languageUpdatedAt:
   sv: '2026-01-15T08:41:42.894Z'
   en: '2026-01-15T08:38:43.606Z'
+updatedBy: Per.Karlsson@visma.com
+translationBase: {}
+updatedByName: Per Karlsson
 metadata:
-  guidelineVersions:
-    news: 3
-    tone_voice: 1
-    constitution: 1
-    getting_started: 2
-    faq: 1
-    instruction: 7
-    article_matching: 1
-  targetAudience: []
+  solution: Skatt & Bokslut
+  area1: general
+  productId: Skatt & Bokslut
+  visibility: public
   tags:
     - update
     - general
     - instruction
+  guidelineVersions:
+    article_matching: 1
+    constitution: 1
+    instruction: 7
+    tone_voice: 1
+    getting_started: 2
+    news: 3
+    faq: 1
+  targetAudience: []
   area2: ''
-  solution: Skatt & Bokslut
-  visibility: public
-  productId: Skatt & Bokslut
-  area1: general
 ---
 # Lämna in deklarationen till Skatteverket
 
