@@ -6,40 +6,40 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: null
 createdAt: '2026-01-15T08:38:43.606Z'
-updatedAt: '2026-01-15T08:58:49.268Z'
+updatedAt: '2026-01-15T08:59:01.794Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-15T08:44:46.174Z'
 lastLLMUpdateAt: '2026-01-15T08:43:47.542Z'
-currentVersion: 3
-translationBase: {}
-updatedByName: Per Karlsson
-updatedBy: Per.Karlsson@visma.com
 languageUpdatedAt:
   sv: '2026-01-15T08:58:47.542Z'
   en: '2026-01-15T08:38:43.606Z'
+updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
+translationBase: {}
+currentVersion: 3
 metadata:
   tags:
     - update
     - general
     - instruction
+  targetAudience: []
+  area1: general
+  visibility: public
+  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
   area2: ''
   guidelineVersions:
+    tone_voice: 1
+    faq: 1
     instruction: 7
-    getting_started: 2
+    article_matching: 1
     constitution: 1
     news: 3
-    article_matching: 1
-    faq: 1
-    tone_voice: 1
-  visibility: public
-  targetAudience: []
-  solution: Skatt & Bokslut
-  area1: general
-  productId: Skatt & Bokslut
+    getting_started: 2
 ---
 # Inlämning till Skatteverket
 
