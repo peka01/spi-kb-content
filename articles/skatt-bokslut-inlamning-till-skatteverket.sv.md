@@ -7,39 +7,39 @@ languages:
   - en
 format: md
 status: test
-folderId: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-15T08:38:43.606Z'
-updatedAt: '2026-01-15T08:59:01.794Z'
+updatedAt: '2026-01-15T09:00:42.872Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-15T08:44:46.174Z'
 lastLLMUpdateAt: '2026-01-15T08:43:47.542Z'
+updatedByName: Per Karlsson
+translationBase: {}
+updatedBy: Per.Karlsson@visma.com
+currentVersion: 3
 languageUpdatedAt:
   sv: '2026-01-15T08:58:47.542Z'
   en: '2026-01-15T08:38:43.606Z'
-updatedByName: Per Karlsson
-updatedBy: Per.Karlsson@visma.com
-translationBase: {}
-currentVersion: 3
 metadata:
+  targetAudience: []
+  solution: Skatt & Bokslut
+  area1: general
   tags:
     - update
     - general
     - instruction
-  targetAudience: []
-  area1: general
   visibility: public
-  solution: Skatt & Bokslut
-  productId: Skatt & Bokslut
-  area2: ''
   guidelineVersions:
     tone_voice: 1
-    faq: 1
-    instruction: 7
-    article_matching: 1
-    constitution: 1
     news: 3
     getting_started: 2
+    faq: 1
+    constitution: 1
+    article_matching: 1
+    instruction: 7
+  productId: Skatt & Bokslut
+  area2: ''
 ---
 # Inlämning till Skatteverket
 
