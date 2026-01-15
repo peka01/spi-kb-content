@@ -9,37 +9,37 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-15T08:38:43.606Z'
-updatedAt: '2026-01-15T08:58:12.002Z'
+updatedAt: '2026-01-15T08:58:49.268Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-15T08:44:46.174Z'
 lastLLMUpdateAt: '2026-01-15T08:43:47.542Z'
-currentVersion: 2
-languageUpdatedAt:
-  en: '2026-01-15T08:38:43.606Z'
-  sv: '2026-01-15T08:57:55.100Z'
+currentVersion: 3
+translationBase: {}
 updatedByName: Per Karlsson
 updatedBy: Per.Karlsson@visma.com
-translationBase: {}
+languageUpdatedAt:
+  sv: '2026-01-15T08:58:47.542Z'
+  en: '2026-01-15T08:38:43.606Z'
 metadata:
-  targetAudience: []
-  visibility: public
-  productId: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
   area2: ''
-  solution: Skatt & Bokslut
-  area1: general
   guidelineVersions:
+    instruction: 7
     getting_started: 2
-    tone_voice: 1
-    faq: 1
     constitution: 1
     news: 3
-    instruction: 7
     article_matching: 1
+    faq: 1
+    tone_voice: 1
+  visibility: public
+  targetAudience: []
+  solution: Skatt & Bokslut
+  area1: general
+  productId: Skatt & Bokslut
 ---
 # Inlämning till Skatteverket
 
@@ -82,8 +82,3 @@ Om du föredrar att skicka in deklarationen per post kan du skapa en PDF.
 
 ## Tips
 > **Digital inlämning för fler bolagsformer:** Nu kan även du som driver handelsbolag eller stiftelse använda den smidiga API-överföringen för inkomstdeklaration 3 och 4. Det sparar tid och minskar risken för manuella fel vid filhantering. Tänk på att detta gäller från beskattningsår 2025-P1.
-
-## Mer information
-- **Övriga upplysningar till inkomstdeklarationen (fritextbrev):** Om du behöver lämna extra information kan du skapa ett fritextbrev under **Deklarationsbilagor** innan du skickar in.
-- **Klarmarkera kontroller:** Du kan dölja varningar i deklarationskontrollen genom att klarmarkera dem. De visas då med en grön ikon om du väljer att visa alla kontroller.
-- **Status hos Skatteverket:** Om överföringen via API inte går igenom kan det bero på tillfälliga avbrott hos Skatteverket. Kontrollera gärna deras statussida om problemet kvarstår.
