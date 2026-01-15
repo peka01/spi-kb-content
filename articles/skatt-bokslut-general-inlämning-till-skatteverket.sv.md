@@ -1,33 +1,44 @@
 ---
+id: tG1j7RbyuX5tuj4UXT45
 title: Inlämning till Skatteverket
 slug: general-inlämning-till-skatteverket
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2026-01-15T08:38:43.606Z'
-updatedAt: '2026-01-15T08:38:43.606Z'
-id: tG1j7RbyuX5tuj4UXT45
+updatedAt: '2026-01-15T08:42:01.475Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  en: '2026-01-15T08:38:43.606Z'
+  sv: '2026-01-15T08:41:42.894Z'
+translationBase: {}
+currentVersion: 1
+updatedBy: Per.Karlsson@visma.com
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  area1: general
   area2: ''
-  targetAudience: []
+  visibility: public
   tags:
     - update
     - general
     - instruction
+  targetAudience: []
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
   guidelineVersions:
     faq: 1
     constitution: 1
     getting_started: 2
+    tone_voice: 1
+    instruction: 7
     news: 3
     article_matching: 1
-    instruction: 7
-    tone_voice: 1
+  area1: general
 ---
 # Lämna in deklarationen till Skatteverket
 
