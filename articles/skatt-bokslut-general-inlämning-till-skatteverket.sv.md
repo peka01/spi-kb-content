@@ -9,61 +9,64 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-15T08:38:43.606Z'
-updatedAt: '2026-01-15T08:42:01.475Z'
+updatedAt: '2026-01-15T08:43:47.542Z'
 publishedAt: null
+pendingReview: true
 reviewedAt: null
-lastLLMUpdateAt: null
-updatedByName: Per Karlsson
-languageUpdatedAt:
-  en: '2026-01-15T08:38:43.606Z'
-  sv: '2026-01-15T08:41:42.894Z'
-translationBase: {}
+lastLLMUpdateAt: '2026-01-15T08:43:47.542Z'
 currentVersion: 1
+updatedByName: Per Karlsson
 updatedBy: Per.Karlsson@visma.com
+translationBase: {}
+languageUpdatedAt:
+  sv: '2026-01-15T08:41:42.894Z'
+  en: '2026-01-15T08:38:43.606Z'
 metadata:
-  area2: ''
-  visibility: public
+  guidelineVersions:
+    news: 3
+    tone_voice: 1
+    constitution: 1
+    getting_started: 2
+    faq: 1
+    instruction: 7
+    article_matching: 1
+  targetAudience: []
   tags:
     - update
     - general
     - instruction
-  targetAudience: []
-  productId: Skatt & Bokslut
+  area2: ''
   solution: Skatt & Bokslut
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    tone_voice: 1
-    instruction: 7
-    news: 3
-    article_matching: 1
+  visibility: public
+  productId: Skatt & Bokslut
   area1: general
 ---
 # Lämna in deklarationen till Skatteverket
 
-När det är dags att avsluta räkenskapsåret och skicka in företagets uppgifter gör du det smidigt under vyn för inlämning. Här får du hjälp att kontrollera att allt är rätt ifyllt innan du skickar iväg deklarationen digitalt eller skriver ut den för manuell hantering.
+När det är dags att avsluta räkenskapsåret och skicka in företagets uppgifter gör du det smidigt under vyn för inlämning. Här får du hjälp att kontrollera att allt är rätt ifyllt innan du skickar iväg deklarationen digitalt eller skriver ut den för manuell hantering. 
+
+Från och med beskattningsår 2025-P1 kan även handelsbolag, ekonomiska föreningar och stiftelser lämna in sina deklarationer (INK3 och INK4) helt digitalt via API, på samma enkla sätt som aktiebolag (INK2).
 
 ## Så här gör du
 
-Innan du skickar in deklarationen är det bra att veta att plattformen automatiskt gör en **Deklarationskontroll**. Den letar efter vanliga fel eller inkonsekvenser. Om något behöver rättas visas en förklaring, och genom att klicka på **Gå till kontroll** hamnar du direkt på det fält som behöver ses över.
+Innan du skickar in deklarationen gör plattformen automatiskt en **Deklarationskontroll**. Den letar efter vanliga fel eller inkonsekvenser. Om något behöver rättas visas en förklaring, och genom att klicka på **Gå till kontroll** hamnar du direkt på det fält som behöver ses över.
 
 Du kan välja mellan tre olika sätt att lämna in deklarationen:
 
 ### Alternativ 1: Automatisk överföring via API (rekommenderas)
-Detta är det enklaste sättet för dig som deklarerar Inkomstdeklaration 2 (INK2).
+Detta är det enklaste sättet för dig som deklarerar **Inkomstdeklaration 2, 3 eller 4**.
 
 1. Gå till **Årsavslut** – **Deklarationsblanketter** – **Inlämning**.
-2. Välj **Inkomstdeklaration - lämna (API)** som inlämningsmetod.
+2. Välj **Inkomstdeklaration - lämna (API)** som inlämningsmetod. 
 3. Kontrollera uppgifterna för uppgiftslämnaren. Om du behöver ändra något väljer du **Redigera/återställ uppgiftslämnare**.
-4. Klicka på **Lämna in**. Uppgifterna förs nu över till Skatteverket.
+4. Klicka på **Lämna in**. Uppgifterna förs nu över direkt till Skatteverket.
 5. För att deklarationen ska vara giltig måste den signeras av behörig person. Klicka på länken till **Mina sidor** hos Skatteverket som visas på skärmen för att logga in och skriva under.
 6. När det är klart kan du markera rutan **Inkomstdeklarationen är underskriven på Mina sidor** i Spiris för att hålla koll på statusen.
 
 ### Alternativ 2: Filöverföring via Skatteverkets tjänst (SRU)
-Om du inte kan använda API-metoden kan du ladda ner filer som du sedan laddar upp hos Skatteverket.
+Om du föredrar att använda den traditionella filöverföringen kan du ladda ner SRU-filer. Du kan enkelt växla mellan API och SRU på inlämningssidan.
 
-1. Välj om du vill inkludera hela **Inkomstdeklaration 2 (INK2)** eller bara bilagorna.
+1. Välj om du vill inkludera hela inkomstdeklarationen eller bara bilagorna.
 2. Klicka på **Ladda ner info.sru** och **Ladda ner blanketter.sru**. Filerna sparas på din dator.
 3. Gå till Skatteverkets sida för filöverföring och logga in.
 4. Ladda upp de två filerna du precis sparade ner.
@@ -78,8 +81,9 @@ Om du föredrar att skicka in deklarationen per post kan du skapa en PDF.
 5. Skriv ut dokumentet, skriv under för hand och posta till Skatteverket.
 
 ## Tips
-> **Håll koll på statusen:** Om överföringen via API inte går igenom kan det bero på tillfälliga avbrott hos Skatteverket. Kontrollera gärna deras statussida. Ett annat vanligt tips är att se efter så att du inte råkat skriva in negativa belopp i fält som inte tillåter det, då detta kan stoppa överföringen.
+> **Digital inlämning för fler bolagsformer:** Nu kan även du som driver handelsbolag eller stiftelse använda den smidiga API-överföringen för inkomstdeklaration 3 och 4. Det sparar tid och minskar risken för manuella fel vid filhantering. Tänk på att detta gäller från beskattningsår 2025-P1.
 
 ## Mer information
 - **Övriga upplysningar till inkomstdeklarationen (fritextbrev):** Om du behöver lämna extra information kan du skapa ett fritextbrev under **Deklarationsbilagor** innan du skickar in.
 - **Klarmarkera kontroller:** Du kan dölja varningar i deklarationskontrollen genom att klarmarkera dem. De visas då med en grön ikon om du väljer att visa alla kontroller.
+- **Status hos Skatteverket:** Om överföringen via API inte går igenom kan det bero på tillfälliga avbrott hos Skatteverket. Kontrollera gärna deras statussida om problemet kvarstår.
