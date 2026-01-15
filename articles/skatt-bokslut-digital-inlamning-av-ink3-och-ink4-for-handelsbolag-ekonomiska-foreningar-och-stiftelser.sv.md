@@ -9,38 +9,38 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: null
 createdAt: '2026-01-15T08:43:57.605Z'
-updatedAt: '2026-01-15T08:56:49.298Z'
+updatedAt: '2026-01-15T08:57:17.929Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
 languageUpdatedAt:
-  sv: '2026-01-15T08:56:14.029Z'
   en: '2026-01-15T08:43:57.605Z'
-currentVersion: 3
-updatedBy: Per.Karlsson@visma.com
+  sv: '2026-01-15T08:56:14.029Z'
 translationBase: {}
+updatedBy: Per.Karlsson@visma.com
+currentVersion: 3
+updatedByName: Per Karlsson
 metadata:
-  visibility: public
   solution: Skatt & Bokslut
-  area2: ''
   guidelineVersions:
-    instruction: 7
-    faq: 1
-    constitution: 1
-    news: 3
-    tone_voice: 1
     getting_started: 2
+    tone_voice: 1
+    faq: 1
     article_matching: 1
+    instruction: 7
+    news: 3
+    constitution: 1
+  area1: general
   targetAudience: []
+  visibility: public
   tags:
     - update
     - general
     - news
-  area1: general
+  area2: ''
   productId: Skatt & Bokslut
 ---
 # Digital inlämning av INK3 och INK4  för handelsbolag, ekonomiska föreningar och stiftelser
