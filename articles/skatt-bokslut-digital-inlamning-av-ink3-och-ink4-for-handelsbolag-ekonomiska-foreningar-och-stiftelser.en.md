@@ -12,13 +12,14 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-15T08:43:57.605Z'
-updatedAt: '2026-01-19T15:13:48.582Z'
+updatedAt: '2026-01-19T15:14:29.713Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
   sv: '2026-01-15T08:56:14.029Z'
-  en: '2026-01-19T15:13:36.062Z'
+  en: '2026-01-19T15:14:22.927Z'
+currentVersion: 5
 translationBase:
   en: >-
     # Digital inlämning av INK3 och INK4  för handelsbolag, ekonomiska
@@ -33,27 +34,26 @@ translationBase:
     direkt bekräftelse på att inlämningen har tagits emot.
 updatedByName: Per Karlsson
 updatedBy: Per.Karlsson@visma.com
-currentVersion: 4
 metadata:
+  area1: general
   guidelineVersions:
-    getting_started: 2
-    constitution: 1
     article_matching: 1
-    instruction: 7
     news: 3
+    getting_started: 2
+    instruction: 7
+    constitution: 1
     faq: 1
     tone_voice: 1
   targetAudience: []
-  area1: general
   visibility: public
-  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - news
   area2: ''
   productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
 ---
-# Digital Submission of INK3 and INK4 for Trading Companies, Financial Associations, and Foundations
+# Digital Submission of INK3 and INK4 for Trading partnerships, economic associations and foundations
 
 From and including 2025-P1, you can submit Income Tax Return 3 and 4 digitally via Skatteverket’s API directly for trading partnerships, economic associations and foundations. This flow replaces the need for manual handling of SRU files and streamlines the entire declaration process. On the submission page, you can now easily choose between the new API connection or the traditional method with SRU files. The update reduces the risk of manual errors and provides you with a direct confirmation that the submission has been received.
