@@ -9,13 +9,14 @@ format: md
 status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-08T14:13:44.416Z'
-updatedAt: '2026-01-19T15:02:11.911Z'
+updatedAt: '2026-01-19T15:03:13.440Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+updatedByName: Per Karlsson
 languageUpdatedAt:
   en: '2026-01-19T15:01:36.935Z'
-  sv: '2026-01-19T15:02:08.939Z'
+  sv: '2026-01-19T15:03:04.949Z'
 updatedBy: Per.Karlsson@visma.com
 translationBase:
   en: >
@@ -108,29 +109,28 @@ translationBase:
     *   [Läs mer om arkivering av räkenskapsår](#)
 
     *   [Spara underlag enligt bokföringslagen](#)
-currentVersion: 5
-updatedByName: Per Karlsson
+currentVersion: 6
 metadata:
-  visibility: public
-  guidelineVersions:
-    article_matching: 1
-    getting_started: 2
-    tone_voice: 1
-    faq: 1
-    constitution: 1
-    news: 3
-    instruction: 7
   solution: Skatt & Bokslut
+  guidelineVersions:
+    instruction: 7
+    constitution: 1
+    faq: 1
+    getting_started: 2
+    article_matching: 1
+    news: 3
+    tone_voice: 1
+  locale: sv-se
   cshAnchors: []
+  targetAudience: []
+  productId: Skatt & Bokslut
+  area1: general
+  area2: ''
+  visibility: public
   tags:
     - update
     - general
     - faq
-  area2: ''
-  productId: Skatt & Bokslut
-  targetAudience: []
-  area1: general
-  locale: sv-se
 ---
 # Vanliga frågor om exporter
 
@@ -140,9 +140,9 @@ Här hittar du information om hur du använder den nya funktionen för att expor
 För att skapa en samlad arkivfil med din dokumentation gör du följande:
 
 1. Gå till menyn **Underhåll** och välj ****{{resource:ExportData_title_ExportData}}****.
-2. Välj alternativet **Dokumentation**.
-3. I rullistan för **Räkenskapsår** markerar du de år du vill inkludera i exporten. Du kan välja ett eller flera år samtidigt genom att bocka i rutorna.
-4. Klicka på knappen **Exportera**.
+2. Välj alternativet ****{{resource:ExportData_option_Documentation}}****.
+3. I rullistan för ****{{resource:Startpage_hdr_FinancialYear}}**** markerar du de år du vill inkludera i exporten. Du kan välja ett eller flera år samtidigt genom att bocka i rutorna.
+4. Klicka på knappen ****{{resource:Maintenance_ExportData_hdr_Export}}****.
 5. En förloppsindikator visas medan filen skapas. När exporten är klar får du en notis och kan ladda ner en ZIP-fil som innehåller din dokumentation.
 
 ### Vad innehåller den exporterade ZIP-filen?
