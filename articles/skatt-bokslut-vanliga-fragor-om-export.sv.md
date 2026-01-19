@@ -9,10 +9,14 @@ format: md
 status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-08T14:13:44.416Z'
-updatedAt: '2026-01-19T15:01:39.829Z'
+updatedAt: '2026-01-19T15:02:11.911Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+languageUpdatedAt:
+  en: '2026-01-19T15:01:36.935Z'
+  sv: '2026-01-19T15:02:08.939Z'
+updatedBy: Per.Karlsson@visma.com
 translationBase:
   en: >
     # Vanliga frågor om exporter
@@ -104,33 +108,29 @@ translationBase:
     *   [Läs mer om arkivering av räkenskapsår](#)
 
     *   [Spara underlag enligt bokföringslagen](#)
-updatedBy: Per.Karlsson@visma.com
-languageUpdatedAt:
-  en: '2026-01-19T15:01:36.935Z'
-  sv: '2026-01-09T12:22:27.387Z'
+currentVersion: 5
 updatedByName: Per Karlsson
-currentVersion: 4
 metadata:
-  area1: general
-  cshAnchors: []
-  locale: sv-se
   visibility: public
-  targetAudience: []
-  productId: Skatt & Bokslut
+  guidelineVersions:
+    article_matching: 1
+    getting_started: 2
+    tone_voice: 1
+    faq: 1
+    constitution: 1
+    news: 3
+    instruction: 7
   solution: Skatt & Bokslut
-  area2: ''
+  cshAnchors: []
   tags:
     - update
     - general
     - faq
-  guidelineVersions:
-    instruction: 7
-    article_matching: 1
-    tone_voice: 1
-    faq: 1
-    getting_started: 2
-    constitution: 1
-    news: 3
+  area2: ''
+  productId: Skatt & Bokslut
+  targetAudience: []
+  area1: general
+  locale: sv-se
 ---
 # Vanliga frågor om exporter
 
@@ -139,7 +139,7 @@ Här hittar du information om hur du använder den nya funktionen för att expor
 ### Hur exporterar jag dokumentation för flera räkenskapsår?
 För att skapa en samlad arkivfil med din dokumentation gör du följande:
 
-1. Gå till menyn **Underhåll** och välj **Exportera data**.
+1. Gå till menyn **Underhåll** och välj ****{{resource:ExportData_title_ExportData}}****.
 2. Välj alternativet **Dokumentation**.
 3. I rullistan för **Räkenskapsår** markerar du de år du vill inkludera i exporten. Du kan välja ett eller flera år samtidigt genom att bocka i rutorna.
 4. Klicka på knappen **Exportera**.
