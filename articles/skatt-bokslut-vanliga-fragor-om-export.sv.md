@@ -9,11 +9,10 @@ format: md
 status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-08T14:13:44.416Z'
-updatedAt: '2026-01-19T14:55:55.846Z'
+updatedAt: '2026-01-19T15:01:39.829Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 3
 translationBase:
   en: >
     # Vanliga frågor om exporter
@@ -105,32 +104,33 @@ translationBase:
     *   [Läs mer om arkivering av räkenskapsår](#)
 
     *   [Spara underlag enligt bokföringslagen](#)
-updatedByName: Per Karlsson
-languageUpdatedAt:
-  sv: '2026-01-09T12:22:27.387Z'
-  en: '2026-01-19T14:55:45.921Z'
 updatedBy: Per.Karlsson@visma.com
+languageUpdatedAt:
+  en: '2026-01-19T15:01:36.935Z'
+  sv: '2026-01-09T12:22:27.387Z'
+updatedByName: Per Karlsson
+currentVersion: 4
 metadata:
-  locale: sv-se
-  solution: Skatt & Bokslut
-  cshAnchors: []
-  area2: ''
-  visibility: public
-  guidelineVersions:
-    article_matching: 1
-    news: 3
-    tone_voice: 1
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    instruction: 7
   area1: general
+  cshAnchors: []
+  locale: sv-se
+  visibility: public
+  targetAudience: []
+  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  area2: ''
   tags:
     - update
     - general
     - faq
-  targetAudience: []
-  productId: Skatt & Bokslut
+  guidelineVersions:
+    instruction: 7
+    article_matching: 1
+    tone_voice: 1
+    faq: 1
+    getting_started: 2
+    constitution: 1
+    news: 3
 ---
 # Vanliga frågor om exporter
 
