@@ -12,10 +12,16 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-15T08:43:57.605Z'
-updatedAt: '2026-01-19T15:16:32.079Z'
+updatedAt: '2026-01-19T15:16:51.273Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+updatedBy: Per.Karlsson@visma.com
+currentVersion: 8
+languageUpdatedAt:
+  en: '2026-01-19T15:14:45.555Z'
+  sv: '2026-01-19T15:16:47.835Z'
+updatedByName: Per Karlsson
 translationBase:
   en: >-
     # Digital inlämning av INK3 och INK4  för handelsbolag, ideella föreningar
@@ -28,31 +34,25 @@ translationBase:
     enkelt välja mellan den nya API-kopplingen eller den traditionella metoden
     med SRU-filer. Uppdateringen minskar risken för manuella fel och ger dig en
     direkt bekräftelse på att inlämningen har tagits emot
-languageUpdatedAt:
-  en: '2026-01-19T15:14:45.555Z'
-  sv: '2026-01-19T15:14:45.555Z'
-updatedBy: Per.Karlsson@visma.com
-updatedByName: Per Karlsson
-currentVersion: 7
 metadata:
+  guidelineVersions:
+    article_matching: 1
+    getting_started: 2
+    news: 3
+    constitution: 1
+    tone_voice: 1
+    faq: 1
+    instruction: 7
   productId: Skatt & Bokslut
-  visibility: public
-  area1: general
   area2: ''
   tags:
     - update
     - general
     - news
-  targetAudience: []
-  guidelineVersions:
-    news: 3
-    tone_voice: 1
-    instruction: 7
-    constitution: 1
-    faq: 1
-    article_matching: 1
-    getting_started: 2
+  visibility: public
   solution: Skatt & Bokslut
+  area1: general
+  targetAudience: []
 ---
 # Digital submission of INK3 and INK4 for partnerships, non-profit organizations, and foundations
 Starting from 2025-P1, you can submit income tax returns 3 and 4 digitally via the Swedish Tax Agency's API directly for partnerships, economic associations, and foundations. This workflow replaces the need for manual handling of SRU files and streamlines the entire tax return process. On the submission page, you can now easily choose between the new API connection or the traditional method using SRU files. The update reduces the risk of manual errors and provides you with immediate confirmation that the submission has been received.
