@@ -9,38 +9,38 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-20T14:30:58.465Z'
-updatedAt: '2026-01-20T14:32:57.719Z'
+updatedAt: '2026-01-20T14:33:45.195Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
-updatedByName: Per Karlsson
-updatedBy: Per.Karlsson@visma.com
 translationBase: {}
 languageUpdatedAt:
+  sv: '2026-01-20T14:33:40.064Z'
   en: '2026-01-20T14:30:58.465Z'
-  sv: '2026-01-20T14:32:53.775Z'
+updatedBy: Per.Karlsson@visma.com
+currentVersion: 2
+updatedByName: Per Karlsson
 metadata:
-  targetAudience: []
+  guidelineVersions:
+    tone_voice: 1
+    article_matching: 1
+    constitution: 1
+    instruction: 7
+    faq: 1
+    getting_started: 2
+    news: 3
+  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
-  solution: Skatt & Bokslut
   area1: general
-  area2: ''
-  guidelineVersions:
-    faq: 1
-    instruction: 7
-    constitution: 1
-    tone_voice: 1
-    news: 3
-    article_matching: 1
-    getting_started: 2
+  targetAudience: []
   visibility: public
   productId: Skatt & Bokslut
+  area2: ''
 ---
-# Hantera Fortnox-integrationen i Skatt & Bokslut
+# Hantera Fortnox-integrationen i **{{resource:common_product_name_variable_taxation_year_end_closing}}**
 
 Genom att koppla samman Spiris Skatt & Bokslut med Fortnox kan du arbeta mer effektivt och säkert med ditt bokslut. Integrationen gör det möjligt att hämta bokföringsdata direkt via ett API och skicka tillbaka bokslutstransaktioner utan att behöva hantera SIE-filer manuellt. Detta minskar risken för fel och sparar värdefull tid.
 
