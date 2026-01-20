@@ -1,33 +1,44 @@
 ---
+id: yh0nBPvwjnP2j2EjpLbK
 title: Fortnoxintegrationen
 slug: general-fortnoxintegrationen
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2026-01-20T14:30:58.465Z'
-updatedAt: '2026-01-20T14:30:58.465Z'
-id: yh0nBPvwjnP2j2EjpLbK
+updatedAt: '2026-01-20T14:32:57.719Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
+updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
+translationBase: {}
+languageUpdatedAt:
+  en: '2026-01-20T14:30:58.465Z'
+  sv: '2026-01-20T14:32:53.775Z'
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  area1: general
-  area2: ''
   targetAudience: []
   tags:
     - update
     - general
     - instruction
+  solution: Skatt & Bokslut
+  area1: general
+  area2: ''
   guidelineVersions:
     faq: 1
+    instruction: 7
     constitution: 1
-    getting_started: 2
+    tone_voice: 1
     news: 3
     article_matching: 1
-    instruction: 7
-    tone_voice: 1
+    getting_started: 2
+  visibility: public
+  productId: Skatt & Bokslut
 ---
 # Hantera Fortnox-integrationen i Skatt & Bokslut
 
@@ -38,7 +49,7 @@ Genom att koppla samman Spiris Skatt & Bokslut med Fortnox kan du arbeta mer eff
 ### Anslut Fortnox som datakälla
 Du kan välja Fortnox som datakälla antingen när du startar ett nytt uppdrag i **Startguiden** eller genom att ändra inställningarna för ett befintligt uppdrag.
 
-1. Gå till **Underhåll** – **Inställningar** – **Datakälla**.
+1. Gå till ****{{resource:Menu_title_Maintenance}}**** – **Inställningar** – **Datakälla**.
 2. Välj **Fortnox** i listan över tillgängliga datakällor.
 3. Klicka på knappen **Importera från Fortnox**.
 4. Du skickas nu till Fortnox inloggningsportal. Logga in med dina vanliga uppgifter för Fortnox och godkänn att Spiris får läsa och skriva data.
