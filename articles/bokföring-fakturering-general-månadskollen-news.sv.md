@@ -1,33 +1,35 @@
 ---
+id: JotbOAOFCIKugHFVp6Mc
 title: Månadskollen (News)
 slug: general-månadskollen-news
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: null
-publishedAt: null
 createdAt: '2026-01-21T09:12:03.585Z'
-updatedAt: '2026-01-21T09:12:03.585Z'
-id: JotbOAOFCIKugHFVp6Mc
+updatedAt: '2026-01-21T12:05:44.325Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
   area1: general
-  area2: ''
-  targetAudience: []
   tags:
     - update
     - general
     - news
+  targetAudience: []
+  solution: Bokföring & Fakturering
+  productId: Bokföring & Fakturering
   guidelineVersions:
-    faq: 1
-    constitution: 1
     getting_started: 2
     news: 3
-    article_matching: 1
+    constitution: 1
     instruction: 7
     tone_voice: 1
+    faq: 1
+    article_matching: 1
+  area2: ''
 ---
 # Se hur mycket tid du sparar med en smartare Månadskoll
 
