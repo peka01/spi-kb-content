@@ -9,36 +9,43 @@ format: md
 status: test
 folderId: IKNKCDDC45TUZXBVLz0i
 createdAt: '2026-01-21T08:57:04.214Z'
-updatedAt: '2026-01-21T12:16:40.696Z'
+updatedAt: '2026-01-21T12:29:06.671Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-translationBase: {}
-updatedByName: Per Karlsson
 currentVersion: 3
-updatedBy: Per.Karlsson@visma.com
+translationBase: {}
 languageUpdatedAt:
-  en: '2026-01-21T12:10:37.294Z'
   sv: '2026-01-21T12:14:20.123Z'
+  en: '2026-01-21T12:10:37.294Z'
+updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
 metadata:
+  guidelineVersions:
+    news: 3
+    constitution: 1
+    tone_voice: 1
+    faq: 1
+    instruction: 7
+    article_matching: 1
+    getting_started: 2
+  solution: Lön
   tags:
     - update
     - general
     - instruction
-  area1: general
-  visibility: public
-  solution: Lön
   targetAudience: []
-  guidelineVersions:
-    getting_started: 2
-    constitution: 1
-    faq: 1
-    news: 3
-    tone_voice: 1
-    instruction: 7
-    article_matching: 1
-  area2: ''
+  cshAnchors:
+    - app_angularrecon_analysis_appendix
+  visibility: public
+  cshMappings:
+    - deprecated: false
+      name: app_angularrecon_analysis_appendix
+      description: ''
+      addedAt: '2026-01-21T12:29:02.431Z'
   productId: Lön
+  area1: general
+  area2: ''
 ---
 # Hantera nettosemester för intermittenta anställda
 
