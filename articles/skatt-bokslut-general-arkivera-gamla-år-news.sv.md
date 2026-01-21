@@ -1,33 +1,35 @@
 ---
+id: ImivOR0zVNVEiI78WoYX
 title: Arkivera gamla år (News)
 slug: general-arkivera-gamla-år-news
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-21T07:58:10.776Z'
-updatedAt: '2026-01-21T07:58:10.776Z'
-id: ImivOR0zVNVEiI78WoYX
+updatedAt: '2026-01-21T08:01:47.181Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  area1: general
   area2: ''
-  targetAudience: []
   tags:
     - update
     - general
     - news
+  solution: Skatt & Bokslut
+  targetAudience: []
   guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
     instruction: 7
+    getting_started: 2
     tone_voice: 1
+    faq: 1
+    article_matching: 1
+    news: 3
+    constitution: 1
+  productId: Skatt & Bokslut
+  area1: general
 ---
 # Nyhet: Enklare arkivering och export av dina räkenskapsår
 
