@@ -9,14 +9,15 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:58:10.776Z'
-updatedAt: '2026-01-21T11:44:39.706Z'
+updatedAt: '2026-01-21T11:45:08.343Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
 languageUpdatedAt:
-  en: '2026-01-21T08:09:53.109Z'
   sv: '2026-01-21T08:09:53.109Z'
+  en: '2026-01-21T11:45:03.458Z'
+currentVersion: 3
+updatedBy: Per.Karlsson@visma.com
 translationBase:
   en: >-
     # Nyhet: Enklare arkivering och export av dina räkenskapsår
@@ -88,29 +89,28 @@ translationBase:
 
     Vi hoppas att denna nyhet ska ge dig en tryggare och mer tidseffektiv
     hantering av dina räkenskapsår i Spiris!
-currentVersion: 2
-updatedBy: Per.Karlsson@visma.com
+updatedByName: Per Karlsson
 metadata:
   targetAudience: []
-  area2: ''
-  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
   tags:
     - update
     - general
     - news
-  productId: Skatt & Bokslut
   area1: general
   visibility: public
   guidelineVersions:
-    getting_started: 2
-    faq: 1
+    constitution: 1
     tone_voice: 1
     news: 3
-    instruction: 7
-    constitution: 1
     article_matching: 1
+    faq: 1
+    getting_started: 2
+    instruction: 7
+  area2: ''
+  solution: Skatt & Bokslut
 ---
-# New Feature: Easier archiving and export of your fiscal years
+# New Feature: Easier archiving and export of your financialyears
 
 We are now launching a long-awaited feature in Spiris Skatt & Bokslut that makes it easier than ever to save and archive your year-end closing history. You can now export complete documentation for one or more fiscal years simultaneously into a well-structured ZIP file.
 
