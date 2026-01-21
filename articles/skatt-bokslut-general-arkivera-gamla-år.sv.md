@@ -1,33 +1,35 @@
 ---
+id: pzjuXHIFA2pW7ZQj5ga6
 title: Arkivera gamla år
 slug: general-arkivera-gamla-år
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-21T07:57:58.507Z'
-updatedAt: '2026-01-21T07:57:58.507Z'
-id: pzjuXHIFA2pW7ZQj5ga6
+updatedAt: '2026-01-21T08:02:22.828Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
+  guidelineVersions:
+    instruction: 7
+    article_matching: 1
+    news: 3
+    faq: 1
+    tone_voice: 1
+    getting_started: 2
+    constitution: 1
   area1: general
-  area2: ''
+  solution: Skatt & Bokslut
   targetAudience: []
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
+  productId: Skatt & Bokslut
+  area2: ''
 ---
 # Arkivera och exportera räkenskapsår
 
