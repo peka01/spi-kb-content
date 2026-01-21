@@ -9,23 +9,19 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:58:10.776Z'
-updatedAt: '2026-01-21T11:46:11.325Z'
+updatedAt: '2026-01-21T11:49:55.188Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  sv: '2026-01-21T11:46:08.179Z'
-  en: '2026-01-21T11:45:03.458Z'
-currentVersion: 4
-updatedByName: Per Karlsson
 translationBase:
   en: >-
     # Nyhet: Enklare arkivering och export av dina räkenskapsår
 
 
-    Nu lanserar vi en efterlängtad funktion i Spiris Skatt & Bokslut som gör det
-    enklare än någonsin att spara ner och arkivera din bokslutshistorik. Du kan
-    nu exportera komplett dokumentation för ett eller flera räkenskapsår
+    Nu lanserar vi en efterlängtad funktion i
+    **{{resource:common_product_name_variable_taxation_year_end_closing}}** som
+    gör det enklare än någonsin att spara ner och arkivera din bokslutshistorik.
+    Du kan nu exportera komplett dokumentation för ett eller flera räkenskapsår
     samtidigt till en välstrukturerad ZIP-fil.
 
 
@@ -89,25 +85,30 @@ translationBase:
 
     Vi hoppas att denna nyhet ska ge dig en tryggare och mer tidseffektiv
     hantering av dina räkenskapsår i Spiris!
+currentVersion: 5
+languageUpdatedAt:
+  en: '2026-01-21T11:46:08.179Z'
+  sv: '2026-01-21T11:49:53.333Z'
 updatedBy: Per.Karlsson@visma.com
+updatedByName: Per Karlsson
 metadata:
+  targetAudience: []
   solution: Skatt & Bokslut
+  area2: ''
+  visibility: public
   tags:
     - update
     - general
     - news
-  visibility: public
   guidelineVersions:
-    instruction: 7
     constitution: 1
-    news: 3
     getting_started: 2
-    tone_voice: 1
     article_matching: 1
+    tone_voice: 1
     faq: 1
-  targetAudience: []
+    instruction: 7
+    news: 3
   area1: general
-  area2: ''
   productId: Skatt & Bokslut
 ---
 # Nyhet: Enklare arkivering och export av dina räkenskapsår
@@ -139,4 +140,4 @@ Denna funktion är tillgänglig för alla användare, även för dig som har ett
 
 Skulle något dokument mot förmodan inte kunna skapas, får du tydlig information om detta via notissystemet, så att du alltid kan lita på att din arkivering är komplett.
 
-Vi hoppas att denna nyhet ska ge dig en tryggare och mer tidseffektiv hantering av dina räkenskapsår i Spiris!
+Vi hoppas att denna nyhet ska ge dig en tryggare och mer tidseffektiv hantering av dina räkenskapsår i {{resource:Common_Company_Name_Short}}!
