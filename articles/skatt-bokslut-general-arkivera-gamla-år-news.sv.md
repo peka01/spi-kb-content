@@ -6,30 +6,30 @@ languages:
   - sv
 format: md
 status: draft
-folderId: vZ6IMwn3WcrkxEemzXO8
+folderId: null
 createdAt: '2026-01-21T07:58:10.776Z'
-updatedAt: '2026-01-21T08:01:47.181Z'
+updatedAt: '2026-01-21T08:03:03.676Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  area2: ''
+  area1: general
+  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - news
-  solution: Skatt & Bokslut
-  targetAudience: []
   guidelineVersions:
     instruction: 7
-    getting_started: 2
-    tone_voice: 1
     faq: 1
+    constitution: 1
     article_matching: 1
     news: 3
-    constitution: 1
+    tone_voice: 1
+    getting_started: 2
   productId: Skatt & Bokslut
-  area1: general
+  area2: ''
+  targetAudience: []
 ---
 # Nyhet: Enklare arkivering och export av dina räkenskapsår
 
