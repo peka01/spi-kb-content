@@ -4,32 +4,41 @@ title: Arkivera gamla år (News)
 slug: general-arkivera-gamla-år-news
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:58:10.776Z'
-updatedAt: '2026-01-21T08:03:03.676Z'
+updatedAt: '2026-01-21T08:11:07.211Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+languageUpdatedAt:
+  en: '2026-01-21T08:03:03.676Z'
+  sv: '2026-01-21T08:09:53.109Z'
+currentVersion: 1
+updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
+translationBase: {}
 metadata:
-  area1: general
+  visibility: public
+  productId: Skatt & Bokslut
+  guidelineVersions:
+    tone_voice: 1
+    constitution: 1
+    instruction: 7
+    news: 3
+    article_matching: 1
+    faq: 1
+    getting_started: 2
+  targetAudience: []
   solution: Skatt & Bokslut
   tags:
     - update
     - general
     - news
-  guidelineVersions:
-    instruction: 7
-    faq: 1
-    constitution: 1
-    article_matching: 1
-    news: 3
-    tone_voice: 1
-    getting_started: 2
-  productId: Skatt & Bokslut
+  area1: general
   area2: ''
-  targetAudience: []
 ---
 # Nyhet: Enklare arkivering och export av dina räkenskapsår
 
