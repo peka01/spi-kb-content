@@ -9,15 +9,15 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:58:10.776Z'
-updatedAt: '2026-01-21T11:45:08.343Z'
+updatedAt: '2026-01-21T11:46:11.325Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
-  sv: '2026-01-21T08:09:53.109Z'
+  sv: '2026-01-21T11:46:08.179Z'
   en: '2026-01-21T11:45:03.458Z'
-currentVersion: 3
-updatedBy: Per.Karlsson@visma.com
+currentVersion: 4
+updatedByName: Per Karlsson
 translationBase:
   en: >-
     # Nyhet: Enklare arkivering och export av dina räkenskapsår
@@ -89,26 +89,26 @@ translationBase:
 
     Vi hoppas att denna nyhet ska ge dig en tryggare och mer tidseffektiv
     hantering av dina räkenskapsår i Spiris!
-updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
 metadata:
-  targetAudience: []
-  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - news
-  area1: general
   visibility: public
   guidelineVersions:
+    instruction: 7
     constitution: 1
-    tone_voice: 1
     news: 3
+    getting_started: 2
+    tone_voice: 1
     article_matching: 1
     faq: 1
-    getting_started: 2
-    instruction: 7
+  targetAudience: []
+  area1: general
   area2: ''
-  solution: Skatt & Bokslut
+  productId: Skatt & Bokslut
 ---
 # New Feature: Easier archiving and export of your financialyears
 
