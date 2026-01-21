@@ -5,31 +5,31 @@ slug: general-påminnelsehantering
 languages:
   - sv
 format: md
-status: test
+status: draft
 folderId: null
 createdAt: '2026-01-21T09:04:00.238Z'
-updatedAt: '2026-01-21T12:05:48.207Z'
+updatedAt: '2026-01-21T12:06:29.642Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  guidelineVersions:
-    tone_voice: 1
-    faq: 1
-    constitution: 1
-    news: 3
-    instruction: 7
-    getting_started: 2
-    article_matching: 1
-  targetAudience: []
-  area2: ''
-  area1: general
   solution: Bokföring & Fakturering
+  area2: ''
   tags:
     - update
     - general
     - instruction
+  targetAudience: []
   productId: Bokföring & Fakturering
+  guidelineVersions:
+    constitution: 1
+    faq: 1
+    getting_started: 2
+    article_matching: 1
+    instruction: 7
+    tone_voice: 1
+    news: 3
+  area1: general
 ---
 # Hantera påminnelser och inkasso
 
