@@ -1,33 +1,36 @@
 ---
+updatedAt: '2026-01-21T12:46:33.004Z'
+lastLLMUpdateAt: null
 title: lön 2026
+reviewedAt: null
+createdAt: '2026-01-21T12:46:33.004Z'
+folderId: null
 slug: general-lön-2026
+publishedAt: null
 languages:
   - sv
+id: xGG1j0DD6UGGVmlJgnr1
 format: md
 status: draft
-folderId: null
-publishedAt: null
-createdAt: '2026-01-09T15:20:00.083Z'
-updatedAt: '2026-01-09T15:20:00.083Z'
-id: wY9XAY98CKdDZke5ZbOP
 metadata:
-  productId: Lön
-  solution: Lön
-  area1: general
   area2: ''
-  targetAudience: []
+  locale: sv-se
+  area1: general
+  solution: Lön
   tags:
     - update
     - general
     - instruction
+  productId: Lön
+  targetAudience: []
   guidelineVersions:
-    faq: 1
     constitution: 1
-    getting_started: 2
+    instruction: 7
     news: 3
     article_matching: 1
-    instruction: 7
     tone_voice: 1
+    faq: 1
+    getting_started: 2
 ---
 # Förbered och hantera löner för 2026
 
