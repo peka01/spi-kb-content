@@ -1,33 +1,35 @@
 ---
+id: VOVgeZAv5dB5U110j3el
 title: Månadskollen
 slug: general-månadskollen
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: null
-publishedAt: null
 createdAt: '2026-01-21T09:11:50.791Z'
-updatedAt: '2026-01-21T09:11:50.791Z'
-id: VOVgeZAv5dB5U110j3el
+updatedAt: '2026-01-21T12:05:46.150Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
-  area1: general
-  area2: ''
-  targetAudience: []
   tags:
     - update
     - general
     - instruction
+  targetAudience: []
+  area2: ''
+  area1: general
+  solution: Bokföring & Fakturering
   guidelineVersions:
-    faq: 1
-    constitution: 1
     getting_started: 2
-    news: 3
-    article_matching: 1
+    constitution: 1
+    faq: 1
     instruction: 7
+    article_matching: 1
     tone_voice: 1
+    news: 3
+  productId: Bokföring & Fakturering
 ---
 # Få bättre insikt med den uppdaterade Månadskollen
 
