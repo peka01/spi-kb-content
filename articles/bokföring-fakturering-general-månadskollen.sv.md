@@ -5,10 +5,10 @@ slug: general-månadskollen
 languages:
   - sv
 format: md
-status: test
+status: draft
 folderId: null
 createdAt: '2026-01-21T09:11:50.791Z'
-updatedAt: '2026-01-21T12:05:46.150Z'
+updatedAt: '2026-01-21T12:06:31.990Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
@@ -17,19 +17,19 @@ metadata:
     - update
     - general
     - instruction
-  targetAudience: []
-  area2: ''
   area1: general
-  solution: Bokföring & Fakturering
   guidelineVersions:
     getting_started: 2
-    constitution: 1
-    faq: 1
-    instruction: 7
-    article_matching: 1
     tone_voice: 1
     news: 3
+    faq: 1
+    constitution: 1
+    instruction: 7
+    article_matching: 1
   productId: Bokföring & Fakturering
+  solution: Bokföring & Fakturering
+  area2: ''
+  targetAudience: []
 ---
 # Få bättre insikt med den uppdaterade Månadskollen
 
