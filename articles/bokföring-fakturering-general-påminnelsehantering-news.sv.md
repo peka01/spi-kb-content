@@ -1,63 +1,74 @@
 ---
+id: 5QIJHXHkDinhXDKWWaNI
 title: Påminnelsehantering (News)
 slug: general-påminnelsehantering-news
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2026-01-21T09:04:12.462Z'
-updatedAt: '2026-01-21T09:04:12.462Z'
-id: 5QIJHXHkDinhXDKWWaNI
+updatedAt: '2026-01-21T09:23:09.480Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
+languageUpdatedAt:
+  en: '2026-01-21T09:04:12.462Z'
+  sv: '2026-01-21T09:22:34.425Z'
+translationBase: {}
+updatedBy: andreas.nogander@visma.com
+updatedByName: Andreas Nogander
 metadata:
-  productId: Bokföring & Fakturering
   solution: Bokföring & Fakturering
-  area1: general
-  area2: ''
-  targetAudience: []
   tags:
     - update
     - general
     - news
+  visibility: public
+  area2: ''
+  productId: Bokföring & Fakturering
   guidelineVersions:
     faq: 1
-    constitution: 1
     getting_started: 2
-    news: 3
-    article_matching: 1
     instruction: 7
     tone_voice: 1
+    constitution: 1
+    news: 3
+    article_matching: 1
+  area1: general
+  targetAudience: []
 ---
 # Nyhet: Enklare och smartare påminnelsehantering med Visma Amili
 
-**Nu lanserar vi en ny, helt integrerad lösning för att hantera dina påminnelser och inkassoärenden direkt i Spiris. Genom vårt samarbete med Visma Amili får du en modern plattform som hjälper dig att få betalt snabbare, samtidigt som du sparar tid på administration.**
+**Nu lanserar vi en ny funktion för att sköta dina påminnelser och inkassoärenden direkt i Spiris. Genom vårt samarbete med Visma Amili får du ett smidigt verktyg som hjälper dig att få betalt snabbare, samtidigt som du slipper lägga tid på onödigt pappersarbete.**
 
-Att hålla koll på obetalda fakturor kan vara både tidskrävande och stressigt. För att göra din vardag lite enklare har vi nu ersatt den tidigare tjänsten ”Påminnelse Direkt” med en ny, kraftfull funktion för påminnelsehantering. Den största skillnaden är att allt nu sker sömlöst inifrån din ekonomiplattform.
+Att hålla koll på obetalda fakturor kan vara både tidskrävande och stressigt. För att göra din vardag lättare har vi ersatt den gamla tjänsten ”Påminnelse Direkt” med en ny och bättre funktion för påminnelser. Den största skillnaden är att allt nu sker direkt inifrån programmet.
 
 ### Vad innebär nyheten för dig?
 
-Med den nya påminnelsehanteringen får du full kontroll över hela kedjan – från första påminnelsen till eventuellt inkasso – utan att behöva lämna Spiris.
+Med den nya påminnelsehanteringen har du koll på hela kedjan – från första påminnelsen till ett eventuellt inkassokrav – utan att behöva lämna Spiris.
 
-*   **Smidig aktivering:** Du kommer igång direkt inifrån plattformen. Första gången du väljer att skicka en påminnelse via tjänsten guidas du genom ett enkelt uppstartsupplägg.
-*   **Status direkt i fakturalistan:** Du behöver inte gissa vad som händer med dina ärenden. I fakturalistan ser du statusuppdateringar i realtid, som till exempel "Påminnelse skickad", "Inkasso" eller "Bestriden".
-*   **Stöd för ROT/RUT och Green Tech:** Nu kan du även skicka fakturor med skattereduktion för påminnelsehantering, vilket gör funktionen tillgänglig för ännu fler typer av verksamheter.
-*   **Full kontroll:** Du kan när som helst välja att dra tillbaka ett ärende eller avsluta det direkt från fakturavyn om kunden betalar till dig eller om ni kommer överens på annat sätt.
+*   **Enkelt att komma igång:** Du aktiverar tjänsten direkt i programmet. Första gången du skickar en påminnelse får du hjälp steg för steg så att du kommer igång rätt.
+*   **Se vad som händer direkt:** Du behöver inte gissa vad som händer med dina fakturor. I fakturalistan ser du uppdateringar direkt, till exempel om en påminnelse är skickad, om ärendet gått till inkasso eller om kunden har protesterat mot fakturan.
+*   **Fungerar med ROT, RUT och Grön teknik:** Nu kan du även skicka påminnelser på fakturor med skattereduktion. Det gör att funktionen fungerar för fler typer av företag och branscher.
+*   **Du har kontrollen:** Du kan när som helst välja att avbryta ett ärende direkt i fakturavyn, till exempel om kunden betalar direkt till dig eller om ni kommer överens på annat sätt.
 
 ### Så här fungerar det
 
-När en faktura har förfallit kan du välja åtgärden för att skicka en påminnelse via Visma Amili. Detta kan göras både från den specifika fakturan eller direkt från listläget. 
+När sista betalningsdagen på en faktura har passerat kan du välja att skicka en påminnelse via Visma Amili. Det gör du enkelt antingen inifrån den specifika fakturan eller direkt i listan över alla dina fakturor. 
 
-När ärendet väl är skickat tar Visma Amili över och sköter kontakten med din kund på ett professionellt sätt som värnar om din kundrelation. Skulle fakturan betalas matchas betalningen automatiskt i Spiris om du har en bankkoppling, och ärendet hos Visma Amili uppdateras direkt.
+När du har skickat ärendet tar Visma Amili över och sköter kontakten med din kund på ett professionellt sätt som vårdar din kundrelation. Om fakturan betalas och du har en bankkoppling till Spiris, bokförs betalningen automatiskt och ärendet hos Visma Amili avslutas direkt.
 
 ### Fördelar med den nya funktionen
 
-*   **Minskad administration:** Inga manuella listor eller krångliga exporter. Allt flyter på automatiskt.
-*   **Snabbare betalning:** Automatiserade processer gör att du får in dina pengar snabbare, vilket stärker ditt företags kassaflöde.
-*   **Ökad synlighet:** Med tydliga statusar har du alltid full insyn i var i processen fakturan befinner sig.
-*   **Direktlänk till portalen:** För mer avancerade ärenden finns en direktlänk till Visma Amilis egen portal där du kan se detaljerad historik.
+*   **Mindre pappersarbete:** Du slipper hålla koll på manuella listor. Allt sköts automatiskt i systemet.
+*   **Få betalt snabbare:** Automatiska processer gör att pengarna kommer in fortare, vilket förbättrar företagets ekonomi.
+*   **Tydlig översikt:** Med tydlig status på varje faktura vet du alltid exakt var i processen den befinner sig.
+*   **Enkel länk till portalen:** Om du behöver se mer detaljerad historik finns en direktlänk till Visma Amilis egen sida där du hittar all information om ärendet.
 
 ### Bra att veta
-Denna funktion är tillgänglig för svenska företag och gäller fakturor utställda i SEK. Om du tidigare har använt Påminnelse Direkt kommer du att märka att detta är ett stort lyft både vad gäller användarvänlighet och funktionalitet.
+Denna funktion fungerar för svenska företag och gäller fakturor som är utställda i svenska kronor (SEK). Om du har använt Påminnelse Direkt tidigare kommer du att märka att den nya funktionen är mycket enklare att använda och har fler smarta funktioner.
 
-Börja använda påminnelsehanteringen redan idag och låt plattformen sköta uppföljningen, så att du kan fokusera på det du gör bäst – att driva ditt företag!
+Börja använda påminnelsehanteringen redan idag! Låt programmet sköta uppföljningen åt dig, så att du kan fokusera på det du gör bäst – att driva ditt företag.**{{resource:common_product_name_variable_amili}}****{{resource:common_product_name_variable_amili}}**
