@@ -1,4 +1,5 @@
 ---
+id: XyNEyYx5h6iOHexQ12Tv
 title: Appen Spiris
 slug: general-appen-spiris
 languages:
@@ -6,32 +7,34 @@ languages:
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2026-01-21T09:02:15.182Z'
-updatedAt: '2026-01-21T09:02:15.182Z'
-id: XyNEyYx5h6iOHexQ12Tv
+updatedAt: '2026-01-21T09:06:13.970Z'
+publishedAt: null
+pendingReview: true
+reviewedAt: null
+lastLLMUpdateAt: '2026-01-21T09:06:13.970Z'
 metadata:
-  productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
-  area1: general
-  area2: ''
   targetAudience: []
   tags:
     - update
     - general
     - instruction
+  area1: general
+  productId: Bokföring & Fakturering
+  area2: ''
+  solution: Bokföring & Fakturering
   guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
     news: 3
+    faq: 1
+    getting_started: 2
     article_matching: 1
-    instruction: 7
     tone_voice: 1
+    constitution: 1
+    instruction: 7
 ---
-# Hantera din ekonomi i appen Spiris
+# Hantera företagets ekonomi i appen Spiris
 
-Med appen Spiris har du alltid din ekonomiplattform nära till hands, oavsett om du är på språng eller sitter hos en kund. Du kan enkelt sköta de viktigaste uppgifterna direkt i mobilen – som att fota kvitton, skicka fakturor och hålla koll på bankbalansen – vilket sparar tid och ger dig full kontroll över företagets ekonomi.
+Med appen Spiris har du alltid din ekonomiplattform nära till hands, oavsett om du är på språng eller sitter hos en kund. Du kan enkelt sköta de viktigaste uppgifterna direkt i mobilen – som att fota kvitton, skicka fakturor och hålla koll på bankbalansen. Det sparar tid, minskar stressen och ger dig full kontroll över företagets ekonomi var du än befinner dig.
 
 ## Så här gör du
 
@@ -42,7 +45,7 @@ Med appen Spiris har du alltid din ekonomiplattform nära till hands, oavsett om
 5. För att få en överblick över dina fakturor, tryck på menyn **Fakturering** och välj **Kundfakturor**. Här kan du se status på skickade fakturor och skapa nya genom att klicka på **Skapa faktura**.
 
 ## Tips
-> Genom att fota dina kvitton direkt när du får dem slipper du samla papper på hög och riskerar inte att tappa bort viktiga underlag. Det gör även att din bokföring alltid är uppdaterad i realtid.
+> Genom att fota dina kvitton direkt när du får dem slipper du samla papper på hög och riskerar inte att tappa bort viktiga underlag. Det gör även att din bokföring alltid är uppdaterad i realtid, vilket ger dig en tryggare överblick.
 
 ## Mer information
 - Skapa din första faktura i mobilen
