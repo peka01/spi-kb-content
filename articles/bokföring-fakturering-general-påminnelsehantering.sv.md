@@ -1,33 +1,35 @@
 ---
+id: pMulH8QkDRuNQiiLrwEp
 title: Påminnelsehantering
 slug: general-påminnelsehantering
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: null
-publishedAt: null
 createdAt: '2026-01-21T09:04:00.238Z'
-updatedAt: '2026-01-21T09:04:00.238Z'
-id: pMulH8QkDRuNQiiLrwEp
+updatedAt: '2026-01-21T12:05:48.207Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: Bokföring & Fakturering
-  solution: Bokföring & Fakturering
-  area1: general
-  area2: ''
+  guidelineVersions:
+    tone_voice: 1
+    faq: 1
+    constitution: 1
+    news: 3
+    instruction: 7
+    getting_started: 2
+    article_matching: 1
   targetAudience: []
+  area2: ''
+  area1: general
+  solution: Bokföring & Fakturering
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
-    tone_voice: 1
+  productId: Bokföring & Fakturering
 ---
 # Hantera påminnelser och inkasso
 
