@@ -9,23 +9,19 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:58:10.776Z'
-updatedAt: '2026-01-21T11:46:11.325Z'
+updatedAt: '2026-01-21T11:49:55.188Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  sv: '2026-01-21T11:46:08.179Z'
-  en: '2026-01-21T11:45:03.458Z'
-currentVersion: 4
-updatedByName: Per Karlsson
 translationBase:
   en: >-
     # Nyhet: Enklare arkivering och export av dina räkenskapsår
 
 
-    Nu lanserar vi en efterlängtad funktion i Spiris Skatt & Bokslut som gör det
-    enklare än någonsin att spara ner och arkivera din bokslutshistorik. Du kan
-    nu exportera komplett dokumentation för ett eller flera räkenskapsår
+    Nu lanserar vi en efterlängtad funktion i
+    **{{resource:common_product_name_variable_taxation_year_end_closing}}** som
+    gör det enklare än någonsin att spara ner och arkivera din bokslutshistorik.
+    Du kan nu exportera komplett dokumentation för ett eller flera räkenskapsår
     samtidigt till en välstrukturerad ZIP-fil.
 
 
@@ -89,32 +85,37 @@ translationBase:
 
     Vi hoppas att denna nyhet ska ge dig en tryggare och mer tidseffektiv
     hantering av dina räkenskapsår i Spiris!
+currentVersion: 5
+languageUpdatedAt:
+  en: '2026-01-21T11:46:08.179Z'
+  sv: '2026-01-21T11:49:53.333Z'
 updatedBy: Per.Karlsson@visma.com
+updatedByName: Per Karlsson
 metadata:
+  targetAudience: []
   solution: Skatt & Bokslut
+  area2: ''
+  visibility: public
   tags:
     - update
     - general
     - news
-  visibility: public
   guidelineVersions:
-    instruction: 7
     constitution: 1
-    news: 3
     getting_started: 2
-    tone_voice: 1
     article_matching: 1
+    tone_voice: 1
     faq: 1
-  targetAudience: []
+    instruction: 7
+    news: 3
   area1: general
-  area2: ''
   productId: Skatt & Bokslut
 ---
-# New Feature: Easier archiving and export of your financialyears
+# New: Easier archiving and export of your fiscal years
 
-We are now launching a long-awaited feature in Spiris Skatt & Bokslut that makes it easier than ever to save and archive your year-end closing history. You can now export complete documentation for one or more fiscal years simultaneously into a well-structured ZIP file.
+We are now launching a long-awaited feature in **{{resource:common_product_name_variable_taxation_year_end_closing}}** that makes it easier than ever to save and archive your year-end closing history. You can now export complete documentation for one or more fiscal years simultaneously to a well-structured ZIP file.
 
-This update is designed to help you comply with legal data storage requirements and provides you with a secure, human-readable backup of all your work in the platform.
+This update is designed to help you meet legal requirements for data storage and provides you with a secure, human-readable backup of all your work in the platform.
 
 ### Everything gathered in a smart folder structure
 When you perform an export, the platform automatically creates an organized ZIP file. Inside the file, you will find a clear folder structure:
