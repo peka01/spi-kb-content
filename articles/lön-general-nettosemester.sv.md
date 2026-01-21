@@ -9,38 +9,38 @@ format: md
 status: test
 folderId: IKNKCDDC45TUZXBVLz0i
 createdAt: '2026-01-21T08:57:04.214Z'
-updatedAt: '2026-01-21T12:15:21.116Z'
+updatedAt: '2026-01-21T12:16:40.696Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+translationBase: {}
+updatedByName: Per Karlsson
+currentVersion: 3
+updatedBy: Per.Karlsson@visma.com
 languageUpdatedAt:
   en: '2026-01-21T12:10:37.294Z'
   sv: '2026-01-21T12:14:20.123Z'
-currentVersion: 1
-updatedBy: Per.Karlsson@visma.com
-translationBase: {}
-updatedByName: Per Karlsson
 metadata:
-  guidelineVersions:
-    article_matching: 1
-    constitution: 1
-    instruction: 7
-    news: 3
-    getting_started: 2
-    faq: 1
-    tone_voice: 1
-  solution: Lön
-  visibility: public
   tags:
     - update
     - general
     - instruction
-  productId: Lön
-  targetAudience: []
   area1: general
+  visibility: public
+  solution: Lön
+  targetAudience: []
+  guidelineVersions:
+    getting_started: 2
+    constitution: 1
+    faq: 1
+    news: 3
+    tone_voice: 1
+    instruction: 7
+    article_matching: 1
   area2: ''
+  productId: Lön
 ---
-# Hantera SEMESTER för intermittenta anställda
+# Hantera nettosemester för intermittenta anställda
 
 Nettosemester är en beräkningsmetod som anpassar antal semesterdagar och semesterlön efter en anställds faktiska arbetsdagar i förhållande till en heltidstjänst. Denna funktion är särskilt användbar för intermittenta anställda, det vill säga personer som arbetar färre dagar per vecka än vad som är standard på företaget (exempelvis tre dagar i veckan istället för fem). 
 
