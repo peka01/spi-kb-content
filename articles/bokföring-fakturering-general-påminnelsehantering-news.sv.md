@@ -6,39 +6,39 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: Vj2AxTKtlxUEcICYbTxa
 createdAt: '2026-01-21T09:04:12.462Z'
-updatedAt: '2026-01-21T12:04:01.887Z'
+updatedAt: '2026-01-21T12:05:41.669Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 updatedByName: Andreas Nogander
 translationBase: {}
-currentVersion: 2
 updatedBy: andreas.nogander@visma.com
+currentVersion: 2
 languageUpdatedAt:
   sv: '2026-01-21T10:07:56.215Z'
   en: '2026-01-21T09:04:12.462Z'
 metadata:
   targetAudience: []
-  area1: general
+  visibility: public
+  solution: Bokföring & Fakturering
+  area2: ''
   tags:
     - update
     - general
     - news
+  area1: general
   productId: Bokföring & Fakturering
-  area2: ''
-  visibility: public
-  solution: Bokföring & Fakturering
   guidelineVersions:
-    article_matching: 1
+    faq: 1
     news: 3
     getting_started: 2
-    faq: 1
     constitution: 1
-    instruction: 7
     tone_voice: 1
+    instruction: 7
+    article_matching: 1
 ---
 # Nyhet: Enklare och smartare påminnelsehantering med **{{resource:common_product_name_variable_amili}}**
 
