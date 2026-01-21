@@ -6,30 +6,30 @@ languages:
   - sv
 format: md
 status: draft
-folderId: vZ6IMwn3WcrkxEemzXO8
+folderId: null
 createdAt: '2026-01-21T07:57:58.507Z'
-updatedAt: '2026-01-21T08:02:22.828Z'
+updatedAt: '2026-01-21T08:03:11.887Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  guidelineVersions:
-    instruction: 7
-    article_matching: 1
-    news: 3
-    faq: 1
-    tone_voice: 1
-    getting_started: 2
-    constitution: 1
-  area1: general
-  solution: Skatt & Bokslut
   targetAudience: []
+  area1: general
   tags:
     - update
     - general
     - instruction
-  productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
   area2: ''
+  guidelineVersions:
+    article_matching: 1
+    news: 3
+    getting_started: 2
+    tone_voice: 1
+    constitution: 1
+    instruction: 7
+    faq: 1
+  productId: Skatt & Bokslut
 ---
 # Arkivera och exportera räkenskapsår
 
