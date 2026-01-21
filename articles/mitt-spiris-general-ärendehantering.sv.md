@@ -1,41 +1,43 @@
 ---
-updatedBy: Malin.Salgfors@visma.com
-status: draft
-translationBase: {}
-folderId: null
-publishedAt: null
+id: zYyOxVTcQe3Nul8RSBX3
 title: Ärendehantering
-createdAt: '2026-01-21T08:55:58.470Z'
-updatedByName: Malin Sälgfors
-format: md
 slug: general-ärendehantering
-languageUpdatedAt:
-  sv: '2026-01-21T09:11:32.595Z'
-  en: '2026-01-21T08:55:58.470Z'
-updatedAt: '2026-01-21T09:11:58.745Z'
-currentVersion: 1
 languages:
   - sv
   - en
-id: zYyOxVTcQe3Nul8RSBX3
+format: md
+status: draft
+folderId: tK5mxwYH79Ie0TRIvGUR
+createdAt: '2026-01-21T08:55:58.470Z'
+updatedAt: '2026-01-21T11:26:15.288Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+languageUpdatedAt:
+  en: '2026-01-21T08:55:58.470Z'
+  sv: '2026-01-21T09:11:32.595Z'
+updatedByName: Malin Sälgfors
+currentVersion: 1
+translationBase: {}
+updatedBy: Malin.Salgfors@visma.com
 metadata:
   tags:
     - update
     - general
     - instruction
+  visibility: public
+  guidelineVersions:
+    instruction: 7
+    tone_voice: 1
+    faq: 1
+    getting_started: 2
+    constitution: 1
+    article_matching: 1
+    news: 3
   solution: Mitt Spiris
   area2: ''
   productId: Mitt Spiris
   area1: general
-  guidelineVersions:
-    faq: 1
-    news: 3
-    article_matching: 1
-    getting_started: 2
-    constitution: 1
-    tone_voice: 1
-    instruction: 7
-  visibility: public
   targetAudience: []
 ---
 # Hantera ärenden från din redovisningsbyrå
