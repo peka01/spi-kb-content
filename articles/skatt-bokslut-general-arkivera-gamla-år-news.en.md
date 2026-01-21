@@ -9,10 +9,12 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:58:10.776Z'
-updatedAt: '2026-01-21T11:49:55.188Z'
+updatedAt: '2026-01-21T11:50:37.576Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+updatedBy: Per.Karlsson@visma.com
+currentVersion: 6
 translationBase:
   en: >-
     # Nyhet: Enklare arkivering och export av dina räkenskapsår
@@ -84,32 +86,30 @@ translationBase:
 
 
     Vi hoppas att denna nyhet ska ge dig en tryggare och mer tidseffektiv
-    hantering av dina räkenskapsår i Spiris!
-currentVersion: 5
-languageUpdatedAt:
-  en: '2026-01-21T11:46:08.179Z'
-  sv: '2026-01-21T11:49:53.333Z'
-updatedBy: Per.Karlsson@visma.com
+    hantering av dina räkenskapsår i {{resource:Common_Company_Name_Short}}!
 updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-21T11:49:53.333Z'
+  en: '2026-01-21T11:49:53.333Z'
 metadata:
-  targetAudience: []
   solution: Skatt & Bokslut
-  area2: ''
+  guidelineVersions:
+    instruction: 7
+    getting_started: 2
+    tone_voice: 1
+    article_matching: 1
+    constitution: 1
+    faq: 1
+    news: 3
+  targetAudience: []
+  productId: Skatt & Bokslut
   visibility: public
   tags:
     - update
     - general
     - news
-  guidelineVersions:
-    constitution: 1
-    getting_started: 2
-    article_matching: 1
-    tone_voice: 1
-    faq: 1
-    instruction: 7
-    news: 3
   area1: general
-  productId: Skatt & Bokslut
+  area2: ''
 ---
 # New: Easier archiving and export of your fiscal years
 
@@ -138,6 +138,6 @@ Since an export of multiple years can contain a lot of data, the process runs in
 ### Available to everyone
 This feature is available to all users, including those with a read-only subscription. This means you can retrieve your history at any time and save it locally or at the firm.
 
-In the unlikely event that a document cannot be created, you will receive clear information about this via the notification system, so you can always trust that your archiving is complete.
+Should any document, against all odds, fail to be created, you will receive clear information about this via the notification system, so you can always trust that your archiving is complete.
 
-We hope this update provides you with a more secure and time-efficient management of your fiscal years in Spiris!
+We hope this update will provide you with more secure and time-efficient management of your financial years in {{resource:Common_Company_Name_Short}}!
