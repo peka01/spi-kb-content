@@ -5,31 +5,31 @@ slug: general-nettosemester
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: IKNKCDDC45TUZXBVLz0i
 createdAt: '2026-01-21T08:57:04.214Z'
-updatedAt: '2026-01-21T11:40:51.203Z'
+updatedAt: '2026-01-21T12:10:37.294Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
   area2: ''
-  targetAudience: []
   solution: Lön
+  targetAudience: []
+  productId: Lön
+  area1: general
+  guidelineVersions:
+    getting_started: 2
+    news: 3
+    faq: 1
+    article_matching: 1
+    tone_voice: 1
+    constitution: 1
+    instruction: 7
   tags:
     - update
     - general
     - instruction
-  guidelineVersions:
-    tone_voice: 1
-    faq: 1
-    constitution: 1
-    article_matching: 1
-    getting_started: 2
-    instruction: 7
-    news: 3
-  productId: Lön
-  area1: general
 ---
 # Hantera nettosemester för intermittenta anställda
 
