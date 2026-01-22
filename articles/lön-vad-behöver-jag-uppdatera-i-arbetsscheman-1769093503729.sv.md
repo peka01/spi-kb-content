@@ -1,37 +1,46 @@
 ---
+id: o0EAflElMyetwPGBHsi2
+title: Vad behöver jag uppdatera i arbetsscheman?
+slug: vad-behöver-jag-uppdatera-i-arbetsscheman-1769093503729
 languages:
   - sv
-updatedBy: Per.Karlsson@visma.com
-createdAt: '2026-01-22T14:51:43.801Z'
-title: '## Vad behöver jag uppdatera i arbetsscheman?'
-slug: vad-behöver-jag-uppdatera-i-arbetsscheman-1769093503729
-status: draft
-updatedByName: Per Karlsson
-updatedAt: '2026-01-22T14:51:44.053Z'
+  - en
 format: md
+status: draft
 folderId: null
-currentVersion: 1
-id: o0EAflElMyetwPGBHsi2
+createdAt: '2026-01-22T14:51:43.801Z'
+updatedAt: '2026-01-22T14:52:13.157Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+languageUpdatedAt:
+  en: '2026-01-22T14:51:44.053Z'
+  sv: '2026-01-22T14:51:44.053Z'
+updatedByName: Per Karlsson
+currentVersion: 2
+updatedBy: Per.Karlsson@visma.com
+translationBase: {}
 metadata:
-  targetAudience: []
-  area1: general
+  visibility: public
   area2: ''
   solution: Lön
-  locale: sv
+  area1: general
   guidelineVersions:
-    tone_voice: 1
+    instruction: 7
     faq: 1
+    tone_voice: 1
     getting_started: 2
     article_matching: 1
-    constitution: 1
     news: 3
-    instruction: 7
-  productId: Lön
+    constitution: 1
   tags:
     - update
     - general
     - faq
     - news
+  targetAudience: []
+  productId: Lön
+  locale: sv
 ---
 ## Vad behöver jag uppdatera i arbetsscheman?
 För att beräkningen ska bli korrekt behöver plattformen veta vad som räknas som en full arbetsvecka på ditt företag. 
