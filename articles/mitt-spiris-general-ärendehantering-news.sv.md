@@ -5,26 +5,26 @@ slug: general-ärendehantering-news
 languages:
   - sv
 format: md
-status: test
+status: draft
 folderId: tK5mxwYH79Ie0TRIvGUR
 createdAt: '2026-01-21T08:56:30.532Z'
-updatedAt: '2026-01-22T09:35:53.350Z'
+updatedAt: '2026-01-22T09:38:08.095Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  area2: ''
-  productId: Mitt Spiris
   solution: Mitt Spiris
+  productId: Mitt Spiris
   targetAudience: []
   guidelineVersions:
-    instruction: 7
-    tone_voice: 1
-    getting_started: 2
     news: 3
-    article_matching: 1
-    constitution: 1
+    getting_started: 2
+    tone_voice: 1
     faq: 1
+    constitution: 1
+    article_matching: 1
+    instruction: 7
+  area2: ''
   tags:
     - update
     - general
