@@ -9,36 +9,36 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:57:58.507Z'
-updatedAt: '2026-01-22T13:29:10.651Z'
+updatedAt: '2026-01-22T13:33:01.544Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+updatedBy: Per.Karlsson@visma.com
 languageUpdatedAt:
   en: '2026-01-22T09:54:29.995Z'
-  sv: '2026-01-22T13:29:07.917Z'
-translationBase: {}
+  sv: '2026-01-22T13:32:28.429Z'
+currentVersion: 3
 updatedByName: Per Karlsson
-currentVersion: 2
-updatedBy: Per.Karlsson@visma.com
+translationBase: {}
 metadata:
-  area2: ''
   area1: general
-  visibility: public
-  productId: Skatt & Bokslut
-  targetAudience: []
   solution: Skatt & Bokslut
+  visibility: public
+  targetAudience: []
   guidelineVersions:
-    tone_voice: 1
     news: 3
-    constitution: 1
-    getting_started: 2
-    instruction: 7
-    article_matching: 1
     faq: 1
+    getting_started: 2
+    article_matching: 1
+    instruction: 7
+    tone_voice: 1
+    constitution: 1
+  area2: ''
   tags:
     - update
     - general
     - instruction
+  productId: Skatt & Bokslut
 ---
 # Arkivera och exportera räkenskapsår
 
@@ -46,7 +46,7 @@ I Spiris kan du nu enkelt exportera företagets dokumentation för ett eller fle
 
 ## Så här gör du
 
-1. Gå till menyn **Underhåll** och välj **Exportera data**.
+1. Gå till menyn ****{{resource:Menu_title_Maintenance}}**** och välj **Exportera data**.
 2. Välj alternativet **Dokumentation**.
 3. Under rubriken **Räkenskapsår**, välj de år du vill inkludera i din export. Du kan välja ett specifikt år eller markera flera år samtidigt.
 4. Klicka på knappen för att starta exporten.
@@ -62,7 +62,7 @@ Den nedladdade ZIP-filen är logiskt uppbyggd för att det ska vara enkelt att h
 *   **Innehåll:** I varje periodmapp finns PDF-filer med relevant dokumentation. Exporten inkluderar automatiskt perioder där det finns genomförda kontroller, markerade konton eller egna kommentarer.
 
 ## Tips
-> Denna funktion är även tillgänglig för dig som har ett abonnemang i läsläge, under **Underhåll** - **Exportera data**.. Det gör det möjligt att säkra din data och spara ner all historik i ett mänskligt läsbart format (PDF) även om du planerar att avsluta ditt arbete i plattformen.
+> Denna funktion är även tillgänglig för dig som har ett abonnemang i läsläge, under ****{{resource:Menu_title_Maintenance}}**** - **Exportera data**.. Det gör det möjligt att säkra din data och spara ner all historik i ett mänskligt läsbart format (PDF) även om du planerar att avsluta ditt arbete i plattformen.
 
 ## Mer information
 - **Export av SIE-fil**
