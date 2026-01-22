@@ -5,31 +5,31 @@ slug: general-ärendehantering-news
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: tK5mxwYH79Ie0TRIvGUR
 createdAt: '2026-01-21T08:56:30.532Z'
-updatedAt: '2026-01-22T09:38:08.095Z'
+updatedAt: '2026-01-22T09:42:13.792Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  solution: Mitt Spiris
+  area2: ''
   productId: Mitt Spiris
   targetAudience: []
   guidelineVersions:
     news: 3
-    getting_started: 2
-    tone_voice: 1
     faq: 1
+    instruction: 7
     constitution: 1
     article_matching: 1
-    instruction: 7
-  area2: ''
+    tone_voice: 1
+    getting_started: 2
+  area1: general
   tags:
     - update
     - general
     - news
-  area1: general
+  solution: Mitt Spiris
 ---
 # Smidigaste vägen till ett bättre samarbete – nu lanserar vi Ärendehantering
 
