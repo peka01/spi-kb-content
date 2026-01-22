@@ -9,36 +9,36 @@ format: md
 status: test
 folderId: tK5mxwYH79Ie0TRIvGUR
 createdAt: '2026-01-21T08:55:58.470Z'
-updatedAt: '2026-01-22T09:35:20.392Z'
+updatedAt: '2026-01-22T09:35:43.412Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedBy: Malin.Salgfors@visma.com
-translationBase: {}
-updatedByName: Malin Sälgfors
 currentVersion: 1
 languageUpdatedAt:
   en: '2026-01-21T08:55:58.470Z'
   sv: '2026-01-21T09:11:32.595Z'
+updatedBy: Malin.Salgfors@visma.com
+translationBase: {}
+updatedByName: Malin Sälgfors
 metadata:
+  targetAudience: []
+  solution: Mitt Spiris
+  visibility: public
+  area2: ''
+  productId: Mitt Spiris
+  area1: general
+  guidelineVersions:
+    getting_started: 2
+    news: 3
+    instruction: 7
+    article_matching: 1
+    constitution: 1
+    faq: 1
+    tone_voice: 1
   tags:
     - update
     - general
     - instruction
-  area1: general
-  targetAudience: []
-  solution: Mitt Spiris
-  productId: Mitt Spiris
-  area2: ''
-  visibility: public
-  guidelineVersions:
-    constitution: 1
-    article_matching: 1
-    news: 3
-    faq: 1
-    instruction: 7
-    tone_voice: 1
-    getting_started: 2
 ---
 # Hantera ärenden från din redovisningsbyrå
 
