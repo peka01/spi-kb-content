@@ -6,39 +6,39 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: tK5mxwYH79Ie0TRIvGUR
 createdAt: '2026-01-21T08:55:58.470Z'
-updatedAt: '2026-01-22T09:38:18.529Z'
+updatedAt: '2026-01-22T09:42:13.731Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+languageUpdatedAt:
+  en: '2026-01-21T08:55:58.470Z'
+  sv: '2026-01-21T09:11:32.595Z'
+updatedBy: Malin.Salgfors@visma.com
 updatedByName: Malin Sälgfors
 currentVersion: 1
-languageUpdatedAt:
-  sv: '2026-01-21T09:11:32.595Z'
-  en: '2026-01-21T08:55:58.470Z'
-updatedBy: Malin.Salgfors@visma.com
 translationBase: {}
 metadata:
+  guidelineVersions:
+    article_matching: 1
+    faq: 1
+    tone_voice: 1
+    getting_started: 2
+    news: 3
+    constitution: 1
+    instruction: 7
+  area2: ''
+  area1: general
+  solution: Mitt Spiris
   tags:
     - update
     - general
     - instruction
   visibility: public
-  area2: ''
-  productId: Mitt Spiris
   targetAudience: []
-  guidelineVersions:
-    instruction: 7
-    constitution: 1
-    news: 3
-    getting_started: 2
-    faq: 1
-    tone_voice: 1
-    article_matching: 1
-  solution: Mitt Spiris
-  area1: general
+  productId: Mitt Spiris
 ---
 # Hantera ärenden från din redovisningsbyrå
 
