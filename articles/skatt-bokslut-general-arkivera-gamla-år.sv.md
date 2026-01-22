@@ -9,12 +9,12 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:57:58.507Z'
-updatedAt: '2026-01-22T14:04:27.406Z'
+updatedAt: '2026-01-22T14:06:16.622Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedBy: Per.Karlsson@visma.com
-currentVersion: 7
+currentVersion: 8
+updatedByName: Per Karlsson
 translationBase:
   en: >-
     # Arkivera och exportera räkenskapsår
@@ -79,28 +79,28 @@ translationBase:
 
     - **Arkivera räkenskapsår**
 languageUpdatedAt:
-  sv: '2026-01-22T14:03:44.922Z'
+  sv: '2026-01-22T14:06:12.443Z'
   en: '2026-01-22T14:03:44.922Z'
-updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
 metadata:
-  targetAudience: []
-  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
-  area2: ''
-  area1: general
-  visibility: public
   productId: Skatt & Bokslut
+  solution: Skatt & Bokslut
+  visibility: public
+  targetAudience: []
+  area1: general
   guidelineVersions:
-    tone_voice: 1
+    constitution: 1
     instruction: 7
+    faq: 1
     getting_started: 2
+    tone_voice: 1
     news: 3
     article_matching: 1
-    constitution: 1
-    faq: 1
+  area2: ''
 ---
 # Arkivera och exportera räkenskapsår
 
@@ -124,7 +124,7 @@ Den nedladdade ZIP-filen är logiskt uppbyggd för att det ska vara enkelt att h
 *   **Innehåll:** I varje periodmapp finns PDF-filer med relevant dokumentation. Exporten inkluderar automatiskt perioder där det finns genomförda kontroller, markerade konton eller egna kommentarer.
 
 ## Tips
-> Denna funktion är även tillgänglig för dig som har ett abonnemang i läsläge, under ****{{resource:Menu_title_Maintenance}}**** - ****{{resource:ExportData_title_ExportData}}****.. Det gör det möjligt att säkra din data och spara ner all historik i ett mänskligt läsbart format (PDF) även om du planerar att avsluta ditt arbete i plattformen.
+> Denna funktion är även tillgänglig för dig som har ett abonnemang i läsläge, under ****{{resource:Menu_title_Maintenance}}**** - ****{{resource:ExportData_title_ExportData}}****. Det gör det möjligt att säkra din data och spara ner all historik i ett mänskligt läsbart format (PDF) även om du planerar att avsluta ditt arbete i plattformen.
 
 ## Mer information
 - **Export av SIE-fil**
