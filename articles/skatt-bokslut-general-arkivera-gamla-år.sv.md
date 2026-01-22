@@ -4,32 +4,41 @@ title: Arkivera gamla år
 slug: general-arkivera-gamla-år
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:57:58.507Z'
-updatedAt: '2026-01-21T08:03:11.887Z'
+updatedAt: '2026-01-22T13:29:10.651Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+languageUpdatedAt:
+  en: '2026-01-22T09:54:29.995Z'
+  sv: '2026-01-22T13:29:07.917Z'
+translationBase: {}
+updatedByName: Per Karlsson
+currentVersion: 2
+updatedBy: Per.Karlsson@visma.com
 metadata:
-  targetAudience: []
+  area2: ''
   area1: general
+  visibility: public
+  productId: Skatt & Bokslut
+  targetAudience: []
+  solution: Skatt & Bokslut
+  guidelineVersions:
+    tone_voice: 1
+    news: 3
+    constitution: 1
+    getting_started: 2
+    instruction: 7
+    article_matching: 1
+    faq: 1
   tags:
     - update
     - general
     - instruction
-  solution: Skatt & Bokslut
-  area2: ''
-  guidelineVersions:
-    article_matching: 1
-    news: 3
-    getting_started: 2
-    tone_voice: 1
-    constitution: 1
-    instruction: 7
-    faq: 1
-  productId: Skatt & Bokslut
 ---
 # Arkivera och exportera räkenskapsår
 
@@ -53,7 +62,7 @@ Den nedladdade ZIP-filen är logiskt uppbyggd för att det ska vara enkelt att h
 *   **Innehåll:** I varje periodmapp finns PDF-filer med relevant dokumentation. Exporten inkluderar automatiskt perioder där det finns genomförda kontroller, markerade konton eller egna kommentarer.
 
 ## Tips
-> Denna funktion är även tillgänglig för dig som har ett abonnemang i läsläge. Det gör det möjligt att säkra din data och spara ner all historik i ett mänskligt läsbart format (PDF) även om du planerar att avsluta ditt arbete i plattformen.
+> Denna funktion är även tillgänglig för dig som har ett abonnemang i läsläge, under **Underhåll** - **Exportera data**.. Det gör det möjligt att säkra din data och spara ner all historik i ett mänskligt läsbart format (PDF) även om du planerar att avsluta ditt arbete i plattformen.
 
 ## Mer information
 - **Export av SIE-fil**
