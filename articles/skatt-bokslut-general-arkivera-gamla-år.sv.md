@@ -9,16 +9,12 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:57:58.507Z'
-updatedAt: '2026-01-22T14:00:15.696Z'
+updatedAt: '2026-01-22T14:04:27.406Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2026-01-22T13:40:37.208Z'
-  sv: '2026-01-22T13:40:37.208Z'
 updatedBy: Per.Karlsson@visma.com
-currentVersion: 5
-updatedByName: Per Karlsson
+currentVersion: 7
 translationBase:
   en: >-
     # Arkivera och exportera räkenskapsår
@@ -37,7 +33,7 @@ translationBase:
     1. Gå till menyn ****{{resource:Menu_title_Maintenance}}**** och välj
     ****{{resource:ExportData_title_ExportData}}****.
 
-    2. Välj alternativet **Dokumentation**.
+    2. Välj alternativet ****{{resource:ExportData_option_Documentation}}****.
 
     3. Under rubriken **Räkenskapsår**, välj de år du vill inkludera i din
     export. Du kan välja ett specifikt år eller markera flera år samtidigt.
@@ -82,25 +78,29 @@ translationBase:
     - **Export av SIE-fil**
 
     - **Arkivera räkenskapsår**
+languageUpdatedAt:
+  sv: '2026-01-22T14:03:44.922Z'
+  en: '2026-01-22T14:03:44.922Z'
+updatedByName: Per Karlsson
 metadata:
-  guidelineVersions:
-    tone_voice: 1
-    faq: 1
-    instruction: 7
-    getting_started: 2
-    news: 3
-    constitution: 1
-    article_matching: 1
-  area2: ''
+  targetAudience: []
+  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
-  solution: Skatt & Bokslut
-  productId: Skatt & Bokslut
-  targetAudience: []
-  visibility: public
+  area2: ''
   area1: general
+  visibility: public
+  productId: Skatt & Bokslut
+  guidelineVersions:
+    tone_voice: 1
+    instruction: 7
+    getting_started: 2
+    news: 3
+    article_matching: 1
+    constitution: 1
+    faq: 1
 ---
 # Arkivera och exportera räkenskapsår
 
@@ -109,7 +109,7 @@ I {{resource:Common_Company_Name_Short}} kan du nu enkelt exportera företagets 
 ## Så här gör du
 
 1. Gå till menyn ****{{resource:Menu_title_Maintenance}}**** och välj ****{{resource:ExportData_title_ExportData}}****.
-2. Välj alternativet **Dokumentation**.
+2. Välj alternativet ****{{resource:ExportData_option_Documentation}}****.
 3. Under rubriken **Räkenskapsår**, välj de år du vill inkludera i din export. Du kan välja ett specifikt år eller markera flera år samtidigt.
 4. Klicka på knappen för att starta exporten.
 5. En framstegsmätare visas som visar hur arbetet fortskrider. Du kan fortsätta arbeta i andra delar av plattformen medan filen genereras.
