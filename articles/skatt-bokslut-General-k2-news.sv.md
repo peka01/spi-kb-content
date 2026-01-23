@@ -1,51 +1,56 @@
 ---
+id: vw8SrL3w4bcgoht6Hel8
 title: k2 (News)
 slug: General-k2-news
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2026-01-23T12:53:27.790Z'
-updatedAt: '2026-01-23T12:53:27.790Z'
-id: vw8SrL3w4bcgoht6Hel8
+updatedAt: '2026-01-23T12:54:37.789Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+translationBase: {}
+updatedBy: Per.Karlsson@visma.com
+languageUpdatedAt:
+  en: '2026-01-23T12:53:27.790Z'
+  sv: '2026-01-23T12:54:23.335Z'
+currentVersion: 1
+updatedByName: Per Karlsson
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
-  solution: Skatt & Bokslut
-  area1: General
-  area2: ''
-  targetAudience: []
   tags:
     - update
     - General
     - news
+  visibility: public
   guidelineVersions:
-    instruction: 1
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
     article_matching: 1
+    faq: 1
+    news: 3
     tone_voice: 1
+    getting_started: 2
+    instruction: 1
+    constitution: 1
+  productId: H9lmIe7pbreUwWDp3K3X
+  targetAudience: []
+  area1: General
+  area2: ''
+  solution: Skatt & Bokslut
 ---
-# Nu uppdaterar vi K2-regelverket – tryggt och enkelt för ditt företag
+# Uppdatering av K2-regelverket i {{resource:Common_Company_Name_Short}}
 
-**Vi har uppdaterat plattformen med de senaste förändringarna i K2-regelverket. Det innebär att dina balans- och resultaträkningar automatiskt följer de nya kraven, så att du kan lägga mindre tid på regler och mer tid på din verksamhet.**
-
-Att hålla koll på nya redovisningsregler kan kännas utmanande, men i Spiris sker uppdateringarna sömlöst. Vi har nu implementerat de senaste versionerna av balansräkningen och resultaträkningen baserat på de uppdaterade K2-reglerna. På så sätt kan du känna dig helt trygg med att din bokföring och dina rapporter lever upp till de senaste kraven från Bokföringsnämnden.
+**Vi har uppdaterat plattformen enligt de senaste förändringarna i K2-regelverket. Detta säkerställer att dina balans- och resultaträkningar automatiskt uppfyller Bokföringsnämndens nya krav.**
 
 ### Vad innebär förändringen?
-Uppdateringen rör främst hur vissa poster presenteras i dina finansiella rapporter. Genom att vi har anpassat plattformen efter de nya versionerna av balans- och resultaträkning, sköts de tekniska detaljerna i bakgrunden.
+Uppdateringen rör hur poster presenteras i de finansiella rapporterna. {{resource:Common_Company_Name_Short}} har anpassat systemet så att de tekniska förändringarna sker automatiskt i bakgrunden.
 
 ### Vem berörs och när?
 De nya reglerna gäller för:
 *   Räkenskapsår som påbörjas **1 januari 2026** eller senare.
-*   Nya företag som startar sitt allra första räkenskapsår **1 juli 2025** eller senare, förutsatt att de har ett förlängt räkenskapsår som avslutas tidigast **31 december 2026**.
+*   Nystartade företag med första räkenskapsår från **1 juli 2025** (vid förlängt räkenskapsår som avslutas tidigast 31 december 2026).
 
-### Så påverkas du i vardagen
-Du behöver inte göra något manuellt för att aktivera de nya versionerna. När ditt räkenskapsår faller inom ramen för de nya reglerna, kommer Spiris automatiskt att använda de uppdaterade mallarna för din rapportering. 
-
-Vårt mål är att göra din ekonomihantering så bekymmersfri som möjligt. Genom att vi ligger steget före med lagar och regler kan du fortsätta fokusera på det du gör bäst – att driva ditt företag framåt.
-
-Har du frågor om ditt räkenskapsår eller hur rapporterna ser ut? Du hittar som vanligt all information under dina inställningar för bokföring och rapportering i plattformen.
+### Ingen manuell åtgärd krävs
+Du behöver inte göra något själv. När ditt räkenskapsår omfattas av de nya reglerna använder {{resource:Common_Company_Name_Short}} automatiskt de uppdaterade mallarna för din rapportering. På så sätt kan du vara trygg med att din bokföring alltid följer gällande lagstiftning.
