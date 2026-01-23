@@ -9,38 +9,38 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-23T18:59:07.422Z'
-updatedAt: '2026-01-23T19:01:11.584Z'
+updatedAt: '2026-01-23T19:02:23.019Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2026-01-23T18:59:07.422Z'
-  sv: '2026-01-23T19:00:46.157Z'
-updatedByName: Per Karlsson
-currentVersion: 1
 updatedBy: per.karlsson@visma.com
+currentVersion: 2
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-23T19:02:04.370Z'
+  en: '2026-01-23T18:59:07.422Z'
 translationBase: {}
 metadata:
-  solution: Skatt & Bokslut
-  area1: General
-  targetAudience: []
-  visibility: public
-  guidelineVersions:
-    constitution: 1
-    news: 3
-    instruction: 1
-    getting_started: 2
-    faq: 1
-    article_matching: 1
-    tone_voice: 1
+  productId: H9lmIe7pbreUwWDp3K3X
   tags:
     - update
     - General
     - news
-  productId: H9lmIe7pbreUwWDp3K3X
+  area1: General
+  targetAudience: []
+  guidelineVersions:
+    faq: 1
+    getting_started: 2
+    instruction: 1
+    news: 3
+    tone_voice: 1
+    constitution: 1
+    article_matching: 1
+  solution: Skatt & Bokslut
   area2: ''
+  visibility: public
 ---
-# Exportera dokumentation för flera år i Skatt & Bokslut
+# Exportera dokumentation för flera år i {{resource:common_product_name_variable_taxation_year_end_closing}}
 
 Nu kan du exportera all dokumentation för ett eller flera räkenskapsår samtidigt i en strukturerad ZIP-fil. Funktionen förenklar arkiveringen och är tillgänglig för alla användare, inklusive de i läsläge.
 
@@ -54,7 +54,7 @@ Exporten genererar ett arkiv där all data är sorterad efter räkenskapsår och
 Endast perioder med genomförda kontroller eller kommentarer inkluderas, vilket ger ett rent och relevant arkiv.
 
 ### Så här gör du
-1. Gå till **Underhåll** och välj **Exportera data**.
+1. Gå till ****{{resource:EnumEventLogSource_lbl_Maintenance}}**** och välj ****{{resource:ExportData_title_ExportData}}****.
 2. Välj alternativet för dokumentation.
 3. Markera önskade räkenskapsår eller välj **Alla år**.
 4. Klicka på knappen för att starta exporten.
