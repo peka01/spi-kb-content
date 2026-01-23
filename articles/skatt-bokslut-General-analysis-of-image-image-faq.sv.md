@@ -7,9 +7,9 @@ format: md
 status: draft
 folderId: null
 publishedAt: null
-createdAt: '2026-01-23T13:33:04.487Z'
-updatedAt: '2026-01-23T13:33:04.487Z'
-id: ZhnEnMzT3agF8ANP8VJ2
+createdAt: '2026-01-23T13:34:26.150Z'
+updatedAt: '2026-01-23T13:34:26.150Z'
+id: cRN8Na0A3WrVgnkWZqhG
 metadata:
   productId: H9lmIe7pbreUwWDp3K3X
   solution: Skatt & Bokslut
@@ -29,33 +29,34 @@ metadata:
     article_matching: 1
     tone_voice: 1
 ---
-# Smartare bildanalys för dina kvitton och fakturor
+# Bildanalys i Spiris – så fungerar det
 
-Nu blir det ännu enklare att hantera dina digitala underlag i Spiris. Vi har uppdaterat vår funktion för bildanalys så att plattformen blir ännu pricksäkrare på att läsa av informationen i de bilder du laddar upp.
+Har du lagt märke till att Spiris analyserar dina bilder? Här har vi samlat svar på de vanligaste frågorna om hur den smarta bildanalysen underlättar din vardag och sparar tid åt dig.
 
-Här har vi samlat de vanligaste frågorna om hur den förbättrade bildanalysen hjälper dig i ditt dagliga arbete.
+## Vad innebär funktionen för bildanalys?
+**Svar:** Bildanalysen är en smart funktion i vår ekonomiplattform som automatiskt läser av och tolkar information från de bilder du laddar upp, till exempel kvitton eller fakturor.
 
-## Vad innebär den nya bildanalysen?
-När du laddar upp en bild på ett kvitto eller en faktura i Spiris, analyserar plattformen bilden automatiskt för att hitta viktig information. Den letar efter uppgifter som datum, belopp, moms och leverantör. Den senaste uppdateringen gör att den här tekniken har blivit ännu smartare och snabbare på att tolka detaljerna rätt, vilket sparar dig värdefull tid vid bokföringen.
+Istället för att du manuellt ska skriva in datum, belopp och leverantör, gör plattformen jobbet åt dig. Det innebär mindre administration för dig och mer tid över till annat som är roligare än pappersarbete.
 
-## Behöver jag göra något särskilt för att aktivera funktionen?
-Nej, du behöver inte ändra några inställningar. Den förbättrade bildanalysen är en naturlig del av ditt abonnemang och fungerar automatiskt varje gång du laddar upp ett nytt underlag. Det enda du behöver göra är att se till att bilden är så tydlig som möjligt.
+## Hur vet jag att en bild analyseras?
+**Svar:** När du laddar upp ett nytt underlag ser du en text som indikerar att bildanalys pågår. 
 
-## Vilka är fördelarna för mig som användare?
-*   **Mindre manuellt arbete:** Du slipper skriva in siffror och datum för hand i samma utsträckning som tidigare.
-*   **Ökad trygghet:** Risken för skrivfel minskar när plattformen själv föreslår de uppgifter den hittar på underlaget.
-*   **Snabbare hantering:** Hela flödet från att du tar en bild till att underlaget är redo att bokföras går smidigare.
+Plattformen arbetar då i bakgrunden med att identifiera viktig information i bilden. Det tar oftast bara några sekunder, och så fort det är klart presenteras ett färdigt förslag som du kan kontrollera och godkänna.
 
-## Vad händer om informationen tolkas fel?
-Även om tekniken är avancerad är det alltid du som har sista ordet. Om en siffra eller ett datum inte tolkas helt korrekt kan du enkelt klicka i fältet för den specifika uppgiften och korrigera informationen manuellt innan du godkänner underlaget. Spiris lär sig dessutom över tid, vilket gör att precisionen ständigt förbättras.
+## Vilka typer av bilder kan analyseras?
+**Svar:** Funktionen är optimerad för att läsa av ekonomiska underlag. Det fungerar bäst på:
+* **Kvitton:** Både långa butikskvitton och mindre handskrivna lappar (om de är tydliga).
+* **Leverantörsfakturor:** Plattformen hittar snabbt OCR-nummer, förfallodatum och belopp.
+* **Reseräkningar:** Information om utlägg tolkas automatiskt.
 
-## Tips för bästa möjliga analys
-För att bildanalysen ska fungera så bra som möjligt, tänk på följande när du fotograferar eller skannar dina underlag:
-*   Placera kvittot på en mörk och plan yta.
-*   Se till att det finns bra belysning och undvik skuggor över texten.
-*   Håll kameran stilla så att bilden blir skarp.
-*   Se till att hela dokumentet syns i bilden, inklusive alla hörn.
+För att analysen ska bli så pricksäker som möjligt är det bra om bilden är skarp, har bra belysning och att hela dokumentet syns tydligt utan att kanterna klipps av.
 
-### Relaterade länkar
-*   Ladda upp kvitton via mobilen
-*   Hantera digitala fakturor i Spiris
+## Vad gör jag om analysen inte hittar all information?
+**Svar:** Om en bild är suddig eller om informationen är svår att tyda kan du alltid komplettera uppgifterna själv.
+
+Du ser enkelt i vyn för underlaget vilka fält som behöver fyllas i. Klicka bara i fältet och skriv in rätt uppgifter. Det fina är att plattformen lär sig över tid – ju mer du använder den, desto bättre blir den på att förstå just dina underlag!
+
+## Relaterade länkar
+* Så här laddar du upp underlag i mobilen
+* Kom igång med automatisk bokföring
+* Tips för bättre bildkvalitet vid fotografering av kvitton
