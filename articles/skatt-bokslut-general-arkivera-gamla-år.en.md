@@ -9,14 +9,16 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:57:58.507Z'
-updatedAt: '2026-01-23T09:58:18.976Z'
+updatedAt: '2026-01-23T10:00:09.548Z'
 publishedAt: null
 pendingReview: true
 reviewedAt: null
-lastLLMUpdateAt: '2026-01-23T09:58:18.976Z'
-updatedBy: Per.Karlsson@visma.com
+lastLLMUpdateAt: '2026-01-23T10:00:09.548Z'
 updatedByName: Per Karlsson
-currentVersion: 8
+languageUpdatedAt:
+  en: '2026-01-22T14:03:44.922Z'
+  sv: '2026-01-22T14:06:12.443Z'
+updatedBy: Per.Karlsson@visma.com
 translationBase:
   en: >-
     # Arkivera och exportera räkenskapsår
@@ -80,28 +82,26 @@ translationBase:
     - **Export av SIE-fil**
 
     - **Arkivera räkenskapsår**
-languageUpdatedAt:
-  en: '2026-01-22T14:03:44.922Z'
-  sv: '2026-01-22T14:06:12.443Z'
+currentVersion: 8
 metadata:
+  guidelineVersions:
+    faq: 1
+    getting_started: 2
+    news: 3
+    instruction: 1
+    article_matching: 1
+    tone_voice: 1
+    constitution: 1
+  productId: Skatt & Bokslut
+  area1: general
   visibility: public
-  solution: Skatt & Bokslut
   tags:
     - update
     - general
     - instruction
-  targetAudience: []
-  productId: Skatt & Bokslut
-  area1: general
   area2: ''
-  guidelineVersions:
-    news: 3
-    getting_started: 2
-    tone_voice: 1
-    faq: 1
-    article_matching: 1
-    instruction: 1
-    constitution: 1
+  targetAudience: []
+  solution: Skatt & Bokslut
 ---
 # Archive and export fiscal years
 
