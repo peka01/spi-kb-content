@@ -9,11 +9,12 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:58:10.776Z'
-updatedAt: '2026-01-23T09:59:52.096Z'
+updatedAt: '2026-01-23T11:32:46.852Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
+pendingReview: false
+reviewedAt: '2026-01-23T11:32:46.851Z'
 lastLLMUpdateAt: '2026-01-23T09:59:52.096Z'
+currentVersion: 6
 updatedBy: Per.Karlsson@visma.com
 translationBase:
   en: >-
@@ -87,20 +88,19 @@ translationBase:
 
     Vi hoppas att denna nyhet ska ge dig en tryggare och mer tidseffektiv
     hantering av dina räkenskapsår i {{resource:Common_Company_Name_Short}}!
-updatedByName: Per Karlsson
 languageUpdatedAt:
   en: '2026-01-21T11:49:53.333Z'
   sv: '2026-01-21T11:49:53.333Z'
-currentVersion: 6
+updatedByName: Per Karlsson
 metadata:
   guidelineVersions:
-    getting_started: 2
-    tone_voice: 1
-    constitution: 1
-    instruction: 1
     faq: 1
-    news: 3
+    tone_voice: 1
+    instruction: 1
+    constitution: 1
+    getting_started: 2
     article_matching: 1
+    news: 3
 ---
 # New: Easier archiving and export of your fiscal years
 
