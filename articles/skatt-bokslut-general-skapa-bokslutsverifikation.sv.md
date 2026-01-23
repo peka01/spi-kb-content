@@ -1,50 +1,60 @@
 ---
-title: Skapa bokslutsverifikation
-slug: general-skapa-bokslutsverifikation
+publishedAt: null
+lastLLMUpdateAt: '2026-01-23T11:31:53.151Z'
+status: draft
+format: md
 languages:
   - sv
-format: md
-status: draft
+title: Skapa bokslutsverifikation
+slug: general-skapa-bokslutsverifikation
+updatedAt: '2026-01-23T11:31:53.151Z'
+currentVersion: 1
 folderId: null
-publishedAt: null
+reviewedAt: null
+pendingReview: true
 createdAt: '2026-01-21T08:17:14.791Z'
-updatedAt: '2026-01-21T08:17:14.791Z'
 id: FmU1TyeznkiP2QgKKoXI
 metadata:
-  productId: Skatt & Bokslut
-  solution: Skatt & Bokslut
-  area1: general
-  area2: ''
   targetAudience: []
+  solution: Skatt & Bokslut
+  area2: ''
+  productId: Skatt & Bokslut
+  area1: general
   tags:
     - update
     - general
     - instruction
   guidelineVersions:
-    faq: 1
-    constitution: 1
     getting_started: 2
-    news: 3
-    article_matching: 1
-    instruction: 7
+    constitution: 1
     tone_voice: 1
+    news: 3
+    faq: 1
+    article_matching: 1
+    instruction: 1
 ---
 # Skapa bokslutsverifikation
 
-När du är klar med ditt bokslutsarbete och alla justeringar är gjorda, behöver du bokföra årets resultat och eventuella bokslutsdispositioner. Genom att skapa en bokslutsverifikation i Spiris ser du till att bokföringen stämmer överens med ditt färdiga bokslut, vilket ger dig en trygg och smidig övergång till nästa räkenskapsår.
+När du har gjort dina sista justeringar i bokslutet är det dags att bokföra årets resultat och eventuella bokslutsdispositioner. Genom att skapa en bokslutsverifikation i Spiris ser du till att bokföringen stämmer överens med ditt färdiga bokslut. Det ger dig en trygg och smidig övergång till nästa räkenskapsår, så att du kan lägga din tid på det som är viktigt för ditt företag istället för att oroa dig för gamla siffror.
 
-## Så här gör du
+## Förutsättningar
+Innan du skapar bokslutsverifikationen behöver du säkerställa att:
+* Alla perioder under året är avstämda och klara.
+* Du har gått igenom och godkänt alla kontroller och skatteberäkningar i din ekonomiplattform.
 
-1. Kontrollera att alla justeringar och beräkningar i din skatte- och bokslutsfunktion är korrekta och att du är nöjd med resultatet.
-2. Navigera till vyn för färdigställande av bokslutet.
-3. Klicka på knappen **Skapa bokslutsverifikation**.
-4. Granska de föreslagna bokföringsposterna i dialogrutan som visas.
-5. Bekräfta genom att klicka på **Bokför**. Verifikationen skapas nu automatiskt i din bokföring och får nästa lediga nummer i din nummerserie för bokslutsverifikationer.
+## Så gör du
+1. Gå till vyn för färdigställande av bokslutet.
+2. Klicka på knappen **Skapa bokslutsverifikation**.
+3. Granska de föreslagna bokföringsposterna i rutan som visas.
+4. Bekräfta genom att klicka på **Bokför**. 
+
+## Resultat
+Verifikationen skapas nu automatiskt i din bokföring och får nästa lediga nummer i din nummerserie för bokslutsverifikationer. Nu är ditt bokslut formellt bokfört och klart för det nya året!
 
 ## Tips
-> Innan du skapar bokslutsverifikationen är det bra att säkerställa att alla tidigare perioder under året är avstämda och klara. Det gör att ditt slutgiltiga årsresultat blir helt korrekt och du slipper göra ändringar i efterhand.
+Genom att vara noggrann med avstämningarna under året blir det sista steget i bokslutet både enklare och går snabbare. Du slipper göra ändringar i efterhand och kan lita på att dina siffror är korrekta från start.
 
 ## Mer information
-- Arbeta med bokslutskontroller
-- Hantera skatteberäkning
-- Avsluta räkenskapsår i bokföringen
+* Arbeta med bokslutskontroller
+* Hantera skatteberäkning
+* Avsluta räkenskapsår i bokföringen
