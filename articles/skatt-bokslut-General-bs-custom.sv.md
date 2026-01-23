@@ -1,33 +1,44 @@
 ---
+id: j69i2Xc9dPSHSPvj7V8b
 title: BS (Custom)
 slug: General-bs-custom
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2026-01-23T13:11:31.907Z'
-updatedAt: '2026-01-23T13:11:31.907Z'
-id: j69i2Xc9dPSHSPvj7V8b
+updatedAt: '2026-01-23T13:21:40.501Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
+updatedBy: Per.Karlsson@visma.com
+languageUpdatedAt:
+  en: '2026-01-23T13:11:31.907Z'
+  sv: '2026-01-23T13:20:56.205Z'
+translationBase: {}
+updatedByName: Per Karlsson
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
   solution: Skatt & Bokslut
-  area1: General
-  area2: ''
+  visibility: public
+  productId: H9lmIe7pbreUwWDp3K3X
+  guidelineVersions:
+    article_matching: 1
+    getting_started: 2
+    instruction: 1
+    faq: 1
+    constitution: 1
+    tone_voice: 1
+    news: 3
   targetAudience: []
+  area2: ''
   tags:
     - update
     - General
     - custom
-  guidelineVersions:
-    instruction: 1
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
-    tone_voice: 1
+  area1: General
 ---
 Här är ett utkast på ett engagerande foruminlägg baserat på den tekniska informationen.
 
@@ -37,7 +48,7 @@ Här är ett utkast på ett engagerande foruminlägg baserat på den tekniska in
 
 Hej alla ekonomikämpar!
 
-Vi vet alla att periodavslut och årsavslut kan vara intensiva perioder. Därför är vi extra glada över att lyfta fram de senaste optimeringarna i **Balansavstämning – Översikt**. Det här är inte bara en tabell – det är ditt nya kommandocenter för ett felfritt bokslut!
+Vi vet alla att periodavslut och årsavslut kan vara intensiva perioder. Därför är vi extra glada över att lyfta fram de senaste optimeringarna i ****{{resource:Menu_title_Routines_Recon_BS}}** – Översikt**. Det här är inte bara en tabell – det är ditt nya kommandocenter för ett felfritt bokslut!
 
 Här är tre höjdpunkter som vi tror kommer göra din vardag betydligt smidigare:
 
