@@ -9,12 +9,17 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T07:58:10.776Z'
-updatedAt: '2026-01-21T11:50:37.576Z'
+updatedAt: '2026-01-23T09:51:15.320Z'
 publishedAt: null
+pendingReview: true
 reviewedAt: null
-lastLLMUpdateAt: null
-updatedBy: Per.Karlsson@visma.com
+lastLLMUpdateAt: '2026-01-23T09:51:15.320Z'
 currentVersion: 6
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-21T11:49:53.333Z'
+  en: '2026-01-21T11:49:53.333Z'
+updatedBy: Per.Karlsson@visma.com
 translationBase:
   en: >-
     # Nyhet: Enklare arkivering och export av dina räkenskapsår
@@ -87,29 +92,25 @@ translationBase:
 
     Vi hoppas att denna nyhet ska ge dig en tryggare och mer tidseffektiv
     hantering av dina räkenskapsår i {{resource:Common_Company_Name_Short}}!
-updatedByName: Per Karlsson
-languageUpdatedAt:
-  sv: '2026-01-21T11:49:53.333Z'
-  en: '2026-01-21T11:49:53.333Z'
 metadata:
+  visibility: public
+  targetAudience: []
+  area2: ''
   solution: Skatt & Bokslut
   guidelineVersions:
-    instruction: 7
+    news: 3
+    constitution: 1
+    instruction: 1
+    article_matching: 1
+    faq: 1
     getting_started: 2
     tone_voice: 1
-    article_matching: 1
-    constitution: 1
-    faq: 1
-    news: 3
-  targetAudience: []
   productId: Skatt & Bokslut
-  visibility: public
   tags:
     - update
     - general
     - news
   area1: general
-  area2: ''
 ---
 # New: Easier archiving and export of your fiscal years
 
