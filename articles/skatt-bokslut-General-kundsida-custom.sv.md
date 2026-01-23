@@ -1,32 +1,43 @@
 ---
+id: wCU1KWC5k0eEb9O20llt
 title: Kundsida (Custom)
 slug: General-kundsida-custom
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2026-01-23T13:26:07.454Z'
-updatedAt: '2026-01-23T13:26:07.454Z'
-id: wCU1KWC5k0eEb9O20llt
+updatedAt: '2026-01-23T13:30:31.005Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
+updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
+translationBase: {}
+languageUpdatedAt:
+  en: '2026-01-23T13:26:07.454Z'
+  sv: '2026-01-23T13:30:23.431Z'
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
-  solution: Skatt & Bokslut
-  area1: General
   area2: ''
-  targetAudience: []
+  solution: Skatt & Bokslut
+  productId: H9lmIe7pbreUwWDp3K3X
   tags:
     - update
     - General
     - custom
+  visibility: public
+  targetAudience: []
+  area1: General
   guidelineVersions:
-    instruction: 1
-    faq: 1
-    constitution: 1
     getting_started: 2
+    instruction: 1
     news: 3
+    faq: 1
     article_matching: 1
+    constitution: 1
     tone_voice: 1
 ---
 Här är ett förslag på ett engagerande foruminlägg anpassat för att skapa nyfikenhet och uppmuntra till interaktion.
