@@ -7,13 +7,16 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-23T18:59:07.422Z'
-updatedAt: '2026-01-23T19:03:14.688Z'
+updatedAt: '2026-01-23T19:03:46.320Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 3
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  en: '2026-01-23T19:02:04.370Z'
+  sv: '2026-01-23T19:02:04.370Z'
 translationBase:
   en: >-
     # Exportera dokumentation för flera år i
@@ -58,29 +61,26 @@ translationBase:
     Under processen visas en framstegsindikator, och du får en notis om exporten
     mot förmodan inte skulle vara komplett.
 updatedBy: per.karlsson@visma.com
-languageUpdatedAt:
-  en: '2026-01-23T19:02:04.370Z'
-  sv: '2026-01-23T19:02:04.370Z'
-updatedByName: Per Karlsson
+currentVersion: 3
 metadata:
-  visibility: public
   solution: Skatt & Bokslut
+  visibility: public
+  area2: ''
   tags:
     - update
     - General
     - news
-  area2: ''
-  area1: General
   targetAudience: []
-  productId: H9lmIe7pbreUwWDp3K3X
   guidelineVersions:
-    getting_started: 2
-    tone_voice: 1
-    instruction: 1
-    constitution: 1
-    article_matching: 1
-    faq: 1
     news: 3
+    tone_voice: 1
+    getting_started: 2
+    constitution: 1
+    faq: 1
+    article_matching: 1
+    instruction: 1
+  area1: General
+  productId: H9lmIe7pbreUwWDp3K3X
 ---
 # Export documentation for multiple years in {{resource:common_product_name_variable_taxation_year_end_closing}}
 
