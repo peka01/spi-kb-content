@@ -7,9 +7,9 @@ format: md
 status: draft
 folderId: null
 publishedAt: null
-createdAt: '2026-01-26T06:36:26.062Z'
-updatedAt: '2026-01-26T06:36:26.062Z'
-id: FKza2VBtDXAjoQhuEX1g
+createdAt: '2026-01-26T06:40:53.880Z'
+updatedAt: '2026-01-26T06:40:53.880Z'
+id: lQAjW2iN2K63DK1ucPBF
 metadata:
   productId: H9lmIe7pbreUwWDp3K3X
   solution: Skatt & Bokslut
@@ -29,27 +29,27 @@ metadata:
     article_matching: 1
     tone_voice: 1
 ---
-# Nu blir det enklare att följa nya regler för balans- och resultaträkningar
+# Nu uppdateras balans- och resultaträkningen för stiftelser och föreningar
 
-**Vi har infört stöd för olika versioner av balans- och resultaträkningar i Spiris. Det innebär att stiftelser och ideella föreningar automatiskt får rätt struktur baserat på när deras räkenskapsår startar, helt i linje med Bokföringsnämndens senaste riktlinjer. Uppdateringen finns tillgänglig nu för alla användare som hanterar dessa organisationsformer.**
+Vi har infört stöd för olika versioner av balans- och resultaträkningar i vår ekonomiplattform. Det innebär att stiftelser och ideella föreningar automatiskt får rätt uppställning baserat på när deras räkenskapsår börjar, helt enligt Bokföringsnämndens nya riktlinjer. Denna uppdatering säkerställer att din rapportering alltid följer aktuella regler utan att du behöver hålla koll på tekniska detaljer.
 
-Bokföringsnämnden (BFN) har nyligen uppdaterat sina riktlinjer, vilket innebär att stiftelser och ideella föreningar behöver använda olika uppställningar för sin balans- och resultaträkning beroende på när räkenskapsåret inleds. För att göra din vardag smidigare och säkerställa att allt blir rätt från början, har vi nu byggt in en smart versionshantering direkt i vår ekonomiplattform.
+### Vad innebär förändringen?
 
-### Rätt struktur vid rätt tillfälle
-Du behöver inte längre fundera på vilken mall som gäller för just din kund eller organisation. Spiris håller koll på datumen åt dig:
+Bokföringsnämnden (BFN) har presenterat nya riktlinjer som påverkar hur balans- och resultaträkningar ska struktureras för stiftelser och ideella föreningar. Det avgörande är när räkenskapsåret startar:
 
-*   **Räkenskapsår som startar senast 2024-06-30:** Plattformen använder den tidigare strukturen för balans- och resultaträkning.
-*   **Räkenskapsår som startar efter 2024-06-30:** Plattformen tillämpar automatiskt den nya strukturen enligt de senaste riktlinjerna.
+*   **Räkenskapsår som börjar före 2024-06-30:** Använder den tidigare strukturen för balans- och resultaträkning.
+*   **Räkenskapsår som börjar 2024-06-30 eller senare:** Använder den nya, uppdaterade strukturen.
 
-### Så fungerar det för dig
-När du arbetar med avstämningar och rapporter i plattformen känner funktionen av vilket startdatum räkenskapsåret har. Om du skulle ändra startdatumet för ett räkenskapsår uppdateras strukturen automatiskt om det nya datumet kräver en annan version. 
+För att hantera detta på ett smidigt sätt har vi byggt in en versionshantering i plattformens funktioner för avstämning. Det betyder att Spiris nu känner av startdatumet för ditt räkenskapsår och automatiskt presenterar rätt uppställning för dig.
 
-Detta innebär mindre manuell handpåläggning och en trygghet i att du alltid följer gällande regelverk.
+### Trygghet i din avstämning
 
-### Trygghet i låsta perioder
-Vi vet hur viktigt det är att historisk data förblir intakt. Därför fungerar den nya versionshanteringen på samma trygga sätt som i årsredovisningen: om en period redan är låst kommer den inte att påverkas om en ny version av en struktur appliceras. Din historik förblir precis så som den var när du låste den.
+Det bästa med den här uppdateringen är att du inte behöver oroa dig för att gamla siffror ändras av misstag. Om du har låsta perioder i din avstämning kommer de att behålla den struktur som gällde när de låstes. Den nya versionen av balans- och resultaträkningen tillämpas först på nya, olåsta perioder som omfattas av de nya reglerna.
 
-### Varför gör vi detta?
-Vårt mål är att Spiris ska vara den mest flexibla och hjälpsamma plattformen för dig som jobbar med ekonomi. Genom att automatisera hanteringen av lagkrav och riktlinjer från Bokföringsnämnden vill vi ge dig mer tid till det som faktiskt betyder något – att ge råd och utveckla verksamheten, snarare än att leta efter rätt rapportmall.
+### Fördelar för dig
 
-Denna uppdatering är ett första steg i att samla alla strukturer för balans- och resultaträkningar på ett och samma ställe i plattformen, vilket gör att vi snabbt kan rulla ut framtida förändringar och förbättringar till dig.
+*   **Alltid korrekt:** Du kan lita på att din ekonomiplattform följer de senaste lagkraven från Bokföringsnämnden.
+*   **Smidigare årsavslut:** Eftersom strukturerna i avstämningen nu matchar de som krävs i årsredovisningen, blir steget från löpande bokföring till färdig rapport ännu kortare.
+*   **Mindre manuellt arbete:** Du behöver inte manuellt justera kontokopplingar eller rapportmallar när de nya reglerna träder i kraft för din organisation.
+
+Vi jobbar ständigt med att göra Spiris ännu smartare, så att du kan lägga mindre tid på regelverk och mer tid på din verksamhet. Den här uppdateringen är ett steg i att göra din ekonomiska vardag lite enklare och tryggare.
