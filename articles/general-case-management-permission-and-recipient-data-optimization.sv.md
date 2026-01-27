@@ -8,25 +8,25 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T09:15:37.566Z'
-updatedAt: '2026-01-27T10:32:36.351Z'
+updatedAt: '2026-01-27T10:46:59.104Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2026-01-27T10:32:36.232Z'
+pendingReview: false
+reviewedAt: '2026-01-27T10:46:58.993Z'
+lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
   guidelineVersions:
     instruction: 1
-    news: 3
     article_matching: 1
     constitution: 1
-    faq: 1
     tone_voice: 1
+    news: 3
+    faq: 1
     getting_started: 2
 ---
 # Hantera ärenden tryggt med rätt behörigheter
 
-I den här uppdateringen har vi fokuserat på att göra din arbetsdag i Visma både säkrare och mer överskådlig. Genom att förfina hur behörigheter fungerar i ärendehanteringen kan ni nu styra vem som har tillgång till känslig information med större precision. Dessutom har vi rensat i listorna så att du slipper se samma mottagare flera gånger, vilket gör det enklare att välja rätt person direkt.
+I den här uppdateringen har vi fokuserat på att göra din arbetsdag i Spiris både säkrare och mer överskådlig. Genom att förfina hur behörigheter fungerar i ärendehanteringen kan ni nu styra vem som har tillgång till känslig information med större precision. Dessutom har vi rensat i listorna så att du slipper se samma mottagare flera gånger, vilket gör det enklare att välja rätt person direkt.
 
 ## Så här gör du
 
@@ -38,5 +38,5 @@ I den här uppdateringen har vi fokuserat på att göra din arbetsdag i Visma b�
 > Genom att regelbundet se över era behörigheter säkerställer ni att känsliga uppgifter i ärenden endast är tillgängliga för de kollegor som faktiskt behöver dem. Det skapar en tryggare arbetsmiljö för både er och era kunder.
 
 ## Mer information
-- Kom igång med ärendehantering i Visma
+- Kom igång med ärendehantering i Spiris
 - Hantera användare och roller i plattformen
