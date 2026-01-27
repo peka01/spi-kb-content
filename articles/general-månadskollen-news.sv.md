@@ -6,9 +6,9 @@ languages:
   - sv
 format: md
 status: test
-folderId: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-21T09:12:03.585Z'
-updatedAt: '2026-01-27T12:46:57.864Z'
+updatedAt: '2026-01-27T15:17:23.911Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:46:57.718Z'
@@ -16,12 +16,12 @@ lastLLMUpdateAt: null
 currentVersion: 2
 metadata:
   guidelineVersions:
-    tone_voice: 1
+    instruction: 1
+    constitution: 1
     news: 3
     getting_started: 2
     article_matching: 1
-    instruction: 1
-    constitution: 1
+    tone_voice: 1
     faq: 1
 ---
 # Se hur mycket tid du sparar med en smartare Månadskoll
