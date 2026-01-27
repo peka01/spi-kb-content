@@ -6,30 +6,30 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-26T13:13:22.399Z'
-updatedAt: '2026-01-27T11:06:27.027Z'
+updatedAt: '2026-01-27T15:24:12.461Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T10:47:25.121Z'
 lastLLMUpdateAt: null
-updatedBy: per.karlsson@visma.com
+currentVersion: 1
 updatedByName: Per Karlsson
+translationBase: {}
+updatedBy: per.karlsson@visma.com
 languageUpdatedAt:
   en: '2026-01-26T13:13:22.399Z'
   sv: '2026-01-26T13:13:22.399Z'
-currentVersion: 1
-translationBase: {}
 metadata:
   guidelineVersions:
-    getting_started: 2
     instruction: 1
+    faq: 1
+    tone_voice: 1
     article_matching: 1
     constitution: 1
     news: 3
-    faq: 1
-    tone_voice: 1
+    getting_started: 2
   solution: Skatt & Bokslut
 ---
 # Arbeta med externa bilagor
