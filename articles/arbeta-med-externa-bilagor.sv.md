@@ -9,26 +9,26 @@ format: md
 status: draft
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-26T13:13:22.399Z'
-updatedAt: '2026-01-27T10:31:36.764Z'
+updatedAt: '2026-01-27T10:47:25.247Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2026-01-27T10:31:36.695Z'
-languageUpdatedAt:
-  sv: '2026-01-26T13:13:22.399Z'
-  en: '2026-01-26T13:13:22.399Z'
-currentVersion: 1
-updatedByName: Per Karlsson
+pendingReview: false
+reviewedAt: '2026-01-27T10:47:25.121Z'
+lastLLMUpdateAt: null
 updatedBy: per.karlsson@visma.com
+currentVersion: 1
 translationBase: {}
+languageUpdatedAt:
+  en: '2026-01-26T13:13:22.399Z'
+  sv: '2026-01-26T13:13:22.399Z'
+updatedByName: Per Karlsson
 metadata:
   guidelineVersions:
+    tone_voice: 1
     instruction: 1
+    getting_started: 2
     faq: 1
     news: 3
     constitution: 1
-    tone_voice: 1
-    getting_started: 2
     article_matching: 1
 ---
 # Arbeta med externa bilagor
@@ -76,7 +76,7 @@ När du har laddat upp dina filer finns det flera smarta funktioner för att han
 *   **Länka till flera konton:** Du kan koppla samma bilaga till flera olika konton, även om de tillhör olika kontogrupper.
 *   **Förhandsgranska:** Istället för att ladda ner filen kan du klicka på **bildikonen** till höger om länken för att se innehållet direkt på skärmen.
 *   **Ladda ner:** Klicka på filnamnet för att ladda ner dokumentet till din dator.
-*   **Redigera filer:** Om du behöver ändra i en Word- eller Excel-fil laddar du ner den, gör dina ändringar och raderar sedan den gamla versionen i Visma innan du laddar upp den nya.
+*   **Redigera filer:** Om du behöver ändra i en Word- eller Excel-fil laddar du ner den, gör dina ändringar och raderar sedan den gamla versionen i Spiris innan du laddar upp den nya.
 *   **Ta bort:** Klicka på **papperskorgen** bredvid en fil för att radera den.
 *   **Kopiera till nästa period:** Om du väljer att kopiera en bilaga till en framtida period följer alla uppladdade filer med automatiskt.
 
@@ -105,7 +105,7 @@ Om du har laddat upp en lösenordsskyddad eller krypterad PDF-fil tillsammans me
 Om du får ett felmeddelande om att en PDF-fil är skadad kan du oftast laga den själv:
 1. Öppna PDF-filen i en vanlig webbläsare eller i en PDF-läsare (t.ex. Adobe Reader).
 2. Välj **Spara som** och spara ner en ny kopia av filen.
-3. Ladda upp den nya versionen i Visma.
+3. Ladda upp den nya versionen i Spiris.
 
 ### Resultat
 Dina underlag är nu säkert sparade och länkade till rätt konton, vilket gör din avstämning tydlig och enkel att följa upp för både dig själv och andra.
