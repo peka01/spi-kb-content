@@ -7,16 +7,18 @@ languages:
   - en
 format: md
 status: draft
-folderId: vZ6IMwn3WcrkxEemzXO8
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-23T14:21:31.675Z'
-updatedAt: '2026-01-27T07:10:05.693Z'
+updatedAt: '2026-01-27T07:10:35.733Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2026-01-23T14:24:16.726Z'
-  sv: '2026-01-27T07:09:47.935Z'
+updatedByName: Per Karlsson
 updatedBy: per.karlsson@visma.com
+currentVersion: 3
+languageUpdatedAt:
+  sv: '2026-01-27T07:09:47.935Z'
+  en: '2026-01-23T14:24:16.726Z'
 translationBase:
   en: >-
     # Nu enklare att deklarera för handelsbolag och stiftelser!
@@ -81,27 +83,25 @@ translationBase:
 
     Med ett helt digitalt flöde kan du lägga mindre tid på deklarationsfiler och
     mer tid på din verksamhet!
-currentVersion: 3
-updatedByName: Per Karlsson
 metadata:
-  guidelineVersions:
-    news: 3
-    getting_started: 2
-    constitution: 1
-    faq: 1
-    instruction: 1
-    tone_voice: 1
-    article_matching: 1
-  productId: H9lmIe7pbreUwWDp3K3X
-  area2: ''
   area1: General
   tags:
     - update
     - General
     - news
-  targetAudience: []
-  solution: Skatt & Bokslut
+  area2: ''
   visibility: public
+  guidelineVersions:
+    news: 3
+    faq: 1
+    tone_voice: 1
+    getting_started: 2
+    constitution: 1
+    instruction: 1
+    article_matching: 1
+  solution: Skatt & Bokslut
+  targetAudience: []
+  productId: H9lmIe7pbreUwWDp3K3X
 ---
 # Now easier to file tax returns for trading partnerships and foundations!
 
