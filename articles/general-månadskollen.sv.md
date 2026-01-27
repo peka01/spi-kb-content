@@ -6,32 +6,32 @@ languages:
   - sv
 format: md
 status: draft
-folderId: null
+folderId: SyxN5X57MPEqs9v8X1nA
 createdAt: '2026-01-21T09:11:50.791Z'
-updatedAt: '2026-01-27T14:20:12.214Z'
+updatedAt: '2026-01-27T14:32:58.192Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:46:51.071Z'
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
-updatedBy: per.karlsson@visma.com
-translationBase: {}
-currentVersion: 3
 languageUpdatedAt:
   sv: '2026-01-27T14:19:13.643Z'
+updatedByName: Per Karlsson
+currentVersion: 3
+translationBase: {}
+updatedBy: per.karlsson@visma.com
 metadata:
-  area2: ''
-  guidelineVersions:
-    faq: 1
-    tone_voice: 1
-    constitution: 1
-    news: 3
-    article_matching: 1
-    instruction: 1
-    getting_started: 2
   visibility: public
   area1: ''
+  area2: ''
   tags: []
+  guidelineVersions:
+    tone_voice: 1
+    faq: 1
+    getting_started: 2
+    constitution: 1
+    article_matching: 1
+    instruction: 1
+    news: 3
 ---
 # Få bättre insikt med den uppdaterade Månadskollen
 
