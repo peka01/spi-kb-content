@@ -8,28 +8,28 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T09:15:46.403Z'
-updatedAt: '2026-01-27T11:11:49.394Z'
+updatedAt: '2026-01-27T12:47:08.534Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: '2026-01-27T10:46:54.078Z'
-lastLLMUpdateAt: '2026-01-27T11:11:48.850Z'
+pendingReview: false
+reviewedAt: '2026-01-27T12:47:08.382Z'
+lastLLMUpdateAt: null
 currentVersion: 2
 metadata:
   guidelineVersions:
-    faq: 1
     tone_voice: 1
-    news: 3
-    constitution: 1
-    getting_started: 2
+    faq: 1
     instruction: 1
+    news: 3
+    getting_started: 2
     article_matching: 1
+    constitution: 1
 ---
 # Förbättrad behörighetsstyrning och tydligare mottagarlistor i ärendehanteringen
 
-Vi arbetar ständigt med att göra din vardag i **Spiris** tryggare och mer effektiv. I den senaste uppdateringen har vi fokuserat på att stärka säkerheten kring dina ärenden och rensat i listorna för att ge dig en bättre överblick.
+Vi arbetar ständigt med att göra din vardag på **Spiris** tryggare och mer effektiv. I den senaste uppdateringen har vi fokuserat på att stärka säkerheten kring dina ärenden och rensat upp i listorna för att ge dig en bättre överblick.
 
 ### Säkrare hantering med rätt behörigheter
-För att du ska kunna känna dig helt trygg med att känslig information hanteras på rätt sätt har vi förfinat logiken för behörigheter i ärendehanteringen. Det innebär att tillgången till information nu styrs ännu noggrannare utifrån de roller och rättigheter som är inställda i systemet. 
+För att du ska kunna känna dig helt trygg med att känslig information hanteras på rätt sätt har vi förfinat logiken för behörigheter i ärendehanteringen. Det innebär att tillgången till information nu styrs ännu noggrannare utifrån de roller och rättigheter som är inställda. 
 
 Genom att säkerställa att rätt person ser rätt information minskar vi risken för felhantering och gör det enklare för dig att fokusera på de uppgifter som faktiskt rör dig.
 
@@ -47,7 +47,7 @@ Det beror på de uppdaterade behörighetsinställningarna. För att öka datasä
 Vi har tagit bort dubbletter i listan för att göra den mer överskådlig. Tidigare kunde vissa mottagare visas flera gånger, men nu får du en unik och korrekt lista. Detta gör det enklare att navigera och minskar risken för att välja fel alternativ.
 
 ### Behöver jag göra något för att aktivera dessa ändringar?
-Nej, uppdateringen sker automatiskt. Du kan fortsätta arbeta i plattformen precis som vanligt, men med fördelen av en säkrare och mer städad miljö.
+Nej, uppdateringen sker automatiskt. Du kan fortsätta arbeta i din ekonomiplattform precis som vanligt, men med fördelen av en säkrare och mer städad miljö.
 
 ### Relaterade länkar
 *   Läs mer om hur du hanterar användare och behörigheter under inställningar för byrån.
