@@ -7,40 +7,40 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: IKNKCDDC45TUZXBVLz0i
 createdAt: '2026-01-22T14:30:11.667Z'
-updatedAt: '2026-01-22T14:32:03.040Z'
+updatedAt: '2026-01-27T15:22:33.433Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-translationBase: {}
 languageUpdatedAt:
-  en: '2026-01-22T14:30:11.989Z'
   sv: '2026-01-22T14:31:40.021Z'
-updatedBy: Per.Karlsson@visma.com
+  en: '2026-01-22T14:30:11.989Z'
 currentVersion: 3
 updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
+translationBase: {}
 metadata:
+  locale: sv
+  productId: Lön
+  area1: general
   targetAudience: []
   guidelineVersions:
-    article_matching: 1
     tone_voice: 1
-    news: 3
+    faq: 1
     getting_started: 2
     constitution: 1
-    faq: 1
+    article_matching: 1
+    news: 3
     instruction: 7
-  productId: Lön
   area2: ''
+  solution: Lön
+  visibility: public
   tags:
     - update
     - general
     - faq
     - faq
-  visibility: public
-  solution: Lön
-  locale: sv
-  area1: general
 ---
 # Vad innebär nettosemester?
 Nettosemester är en beräkningsmetod som används för att hantera semester för anställda som inte arbetar fem dagar i veckan, till exempel vid deltidsarbete eller vid scheman där arbetsdagarna är förlagda till vissa specifika dagar. Metoden anpassar både antalet semesterdagar och semesterlönen baserat på den anställdes faktiska arbetsdagar i förhållande till en ordinarie heltidsvecka (normalt fem dagar).
