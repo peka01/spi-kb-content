@@ -9,31 +9,31 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-21T09:12:03.585Z'
-updatedAt: '2026-01-27T15:17:36.361Z'
+updatedAt: '2026-01-27T15:24:12.412Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:46:57.718Z'
 lastLLMUpdateAt: null
-translationBase: {}
 updatedByName: Per Karlsson
+currentVersion: 3
+translationBase: {}
+updatedBy: per.karlsson@visma.com
 languageUpdatedAt:
   sv: '2026-01-27T15:17:23.911Z'
-currentVersion: 3
-updatedBy: per.karlsson@visma.com
 metadata:
+  visibility: public
   guidelineVersions:
-    faq: 1
-    getting_started: 2
     tone_voice: 1
-    article_matching: 1
+    constitution: 1
+    getting_started: 2
     news: 3
     instruction: 1
-    constitution: 1
+    faq: 1
+    article_matching: 1
   area2: ''
-  area1: ''
-  solution: Bokföring & Fakturering
-  visibility: public
   tags: []
+  solution: Bokföring & Fakturering
+  area1: ''
 ---
 # Se hur mycket tid du sparar med en smartare Månadskoll
 
