@@ -6,34 +6,34 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-21T08:57:32.927Z'
-updatedAt: '2026-01-27T15:17:57.345Z'
+updatedAt: '2026-01-27T15:24:12.411Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:59:36.839Z'
 lastLLMUpdateAt: null
-updatedBy: per.karlsson@visma.com
-translationBase: {}
-languageUpdatedAt:
-  sv: '2026-01-27T15:16:59.005Z'
 updatedByName: Per Karlsson
 currentVersion: 3
+languageUpdatedAt:
+  sv: '2026-01-27T15:16:59.005Z'
+updatedBy: per.karlsson@visma.com
+translationBase: {}
 metadata:
-  area1: ''
-  area2: ''
-  visibility: public
-  solution: Lön
   guidelineVersions:
-    constitution: 1
-    faq: 1
-    news: 3
-    instruction: 1
-    article_matching: 1
     tone_voice: 1
     getting_started: 2
+    instruction: 1
+    faq: 1
+    constitution: 1
+    news: 3
+    article_matching: 1
   tags: []
+  area2: ''
+  solution: Lön
+  area1: ''
+  visibility: public
 ---
 # Nyhet: Nu blir semesterhanteringen ännu smidigare med nettosemester
 
