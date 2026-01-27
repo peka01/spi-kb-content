@@ -9,31 +9,31 @@ format: md
 status: test
 folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2026-01-21T09:04:00.238Z'
-updatedAt: '2026-01-27T15:24:12.409Z'
+updatedAt: '2026-01-27T18:43:09.606Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T10:46:32.905Z'
 lastLLMUpdateAt: null
-currentVersion: 2
+updatedBy: per.karlsson@visma.com
 updatedByName: Per Karlsson
+translationBase: {}
+currentVersion: 2
 languageUpdatedAt:
   sv: '2026-01-27T10:46:33.023Z'
-translationBase: {}
-updatedBy: per.karlsson@visma.com
 metadata:
-  tags: []
+  solution: Bokföring & Fakturering
+  visibility: public
+  area2: ''
   area1: ''
   guidelineVersions:
-    news: 3
-    constitution: 1
+    news: 7
+    instruction: 1
     tone_voice: 1
     article_matching: 1
     faq: 1
-    instruction: 1
+    constitution: 1
     getting_started: 2
-  area2: ''
-  visibility: public
-  solution: Bokföring & Fakturering
+  tags: []
 ---
 # Hantera påminnelser och inkasso
 
