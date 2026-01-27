@@ -9,52 +9,34 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-21T09:12:03.585Z'
-updatedAt: '2026-01-27T18:30:47.739Z'
+updatedAt: '2026-01-27T18:40:31.748Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:46:57.718Z'
 lastLLMUpdateAt: null
-updatedBy: per.karlsson@visma.com
-currentVersion: 3
-translationBase: {}
 updatedByName: Per Karlsson
+currentVersion: 4
+translationBase: {}
 languageUpdatedAt:
-  sv: '2026-01-27T15:17:23.911Z'
+  sv: '2026-01-27T18:40:02.025Z'
+updatedBy: per.karlsson@visma.com
 metadata:
+  area2: ''
+  visibility: public
   area1: ''
-  solution: Bokföring & Fakturering
-  tags: []
   guidelineVersions:
-    getting_started: 2
+    instruction: 1
+    news: 7
     article_matching: 1
     faq: 1
     tone_voice: 1
+    getting_started: 2
     constitution: 1
-    news: 5
-    instruction: 1
-  area2: ''
-  visibility: public
+  solution: Bokföring & Fakturering
+  tags: []
 ---
-# Se hur mycket tid du sparar med en smartare Månadskoll
+## Se hur mycket tid du sparar med nya Månadskollen
 
-**Nu har Månadskollen i Spiris blivit ännu vassare. Med nya insikter om dina digitala flöden får du en tydlig bild av hur mycket tid du faktiskt sparar varje månad genom att jobba smart och automatiserat.**
+Nu har Månadskollen blivit ännu vassare för att hjälpa dig förstå det verkliga värdet av ditt digitala arbete. Genom nya insikter för både försäljning och inköp kan du se exakt hur stor andel av dina fakturor som hanteras helt digitalt via tjänster som Autoinvoice och Kivra jämfört med traditionella metoder. Det bästa är att du nu får din tidsvinst svart på vitt; Spiris beräknar automatiskt hur många timmar och minuter du sparar på att slippa manuell hantering och postgång, så att du kan lägga den tiden på att utveckla ditt företag istället.
 
-Vi vill att det ska vara enkelt att förstå värdet av ett digitalt arbetsflöde. Därför har vi uppdaterat den månatliga sammanställningen med mer detaljerad statistik och gjort den lättare att hitta när du loggar in i plattformen.
-
-### Full koll på dina digitala fakturor
-I den uppdaterade Månadskollen hittar du nu specifika sektioner för både försäljning och inköp. Här kan du se exakt hur många av dina fakturor som skickats eller tagits emot digitalt via tjänster som Autoinvoice, Kivra och inskanning, jämfört med traditionella metoder.
-
-Detta ger dig en bra överblick av hur nära du är ett helt papperslöst kassaflöde. Om du ännu inte kommit igång med digitala fakturor får du tips på hur mycket tid det finns att hämta genom att byta kanal.
-
-### Se din tidsvinst svart på vitt
-Det bästa med digitalisering är tiden du får över till annat. För att göra detta tydligt innehåller rapporten nu en beräkning av din tidsbesparing. Genom att analysera dina digitala volymer visar Spiris hur många timmar och minuter du har sparat på att slippa manuell hantering, kuvertering och postgång. Det är tid som du istället kan lägga på att utveckla ditt företag eller ta en välförtjänt fika.
-
-### Notisen stannar längre
-Vi vet att det är fullt upp i början av månaden. Tidigare försvann notisen om att din månadsrapport var klar efter bara en dag, vilket gjorde den lätt att missa. 
-
-Nu har vi ändrat detta så att notisen **Månadsrapporten är klar** ligger kvar under klockikonen i hela 14 dagar. Det betyder att du i lugn och ro kan gå in och kika på din statistik när det passar dig bäst under månadens första två veckor.
-
-### Så hittar du rapporten
-När en ny månad startar dyker notisen upp automatiskt i din att göra-lista eller under notiserna i Spiris. Klicka på notisen för att öppna den interaktiva rapporten och bläddra igenom dina framsteg för föregående månad.
-
-Vi hoppas att dessa nyheter ger dig både bättre insikt och en extra boost i ditt digitala arbete!
+För att göra det enklare att ta del av statistiken ligger notisen om att rapporten är klar nu kvar i hela 14 dagar under klockikonen, istället för att försvinna efter bara ett dygn. Du hittar rapporten direkt i din att göra-lista i början av varje månad och kan i lugn och ro klicka dig in för att följa dina framsteg mot ett papperslöst kassaflöde när det passar dig bäst under månadens första två veckor.
