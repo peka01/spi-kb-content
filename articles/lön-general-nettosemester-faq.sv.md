@@ -6,34 +6,34 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: IKNKCDDC45TUZXBVLz0i
 createdAt: '2026-01-21T08:57:18.299Z'
-updatedAt: '2026-01-27T15:22:39.462Z'
+updatedAt: '2026-01-27T15:24:12.405Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:59:41.533Z'
 lastLLMUpdateAt: null
 updatedByName: Per Karlsson
-updatedBy: per.karlsson@visma.com
-translationBase: {}
 currentVersion: 3
 languageUpdatedAt:
   sv: '2026-01-27T12:59:41.655Z'
+translationBase: {}
+updatedBy: per.karlsson@visma.com
 metadata:
-  tags: []
-  area2: ''
   solution: Lön
-  area1: ''
-  visibility: public
+  tags: []
   guidelineVersions:
-    instruction: 1
-    tone_voice: 1
-    faq: 1
     getting_started: 2
     constitution: 1
     news: 3
+    tone_voice: 1
+    instruction: 1
     article_matching: 1
+    faq: 1
+  visibility: public
+  area2: ''
+  area1: ''
 ---
 # Vanliga frågor om nettosemester
 
