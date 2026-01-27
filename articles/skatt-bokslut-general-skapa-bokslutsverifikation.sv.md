@@ -9,31 +9,31 @@ format: md
 status: draft
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-21T08:17:14.791Z'
-updatedAt: '2026-01-27T08:19:30.477Z'
+updatedAt: '2026-01-27T11:06:27.027Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-23T11:32:41.441Z'
 lastLLMUpdateAt: null
 translationBase: {}
-updatedBy: per.karlsson@visma.com
-updatedByName: Per Karlsson
-currentVersion: 5
 languageUpdatedAt:
   sv: '2026-01-27T08:04:58.799Z'
+updatedBy: per.karlsson@visma.com
+currentVersion: 5
+updatedByName: Per Karlsson
 metadata:
-  tags: []
   area2: ''
-  solution: Skatt & Bokslut
-  area1: ''
   guidelineVersions:
-    instruction: 1
-    news: 3
-    tone_voice: 1
-    faq: 1
     getting_started: 2
     constitution: 1
+    tone_voice: 1
+    faq: 1
     article_matching: 1
+    news: 3
+    instruction: 1
   visibility: public
+  tags: []
+  solution: Skatt & Bokslut
+  area1: ''
 ---
 # Skapa bokslutsverifikation
 
