@@ -9,27 +9,27 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-21T09:04:12.462Z'
-updatedAt: '2026-01-27T11:10:07.468Z'
+updatedAt: '2026-01-27T12:41:21.822Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: '2026-01-27T10:47:16.699Z'
+pendingReview: false
+reviewedAt: '2026-01-27T12:41:21.820Z'
 lastLLMUpdateAt: '2026-01-27T11:10:06.739Z'
+updatedBy: per.karlsson@visma.com
+translationBase: {}
+updatedByName: Per Karlsson
+currentVersion: 4
 languageUpdatedAt:
   en: '2026-01-21T09:04:12.462Z'
   sv: '2026-01-21T10:07:56.215Z'
-translationBase: {}
-updatedBy: per.karlsson@visma.com
-updatedByName: Per Karlsson
-currentVersion: 4
 metadata:
   guidelineVersions:
-    news: 3
-    tone_voice: 1
-    getting_started: 2
     instruction: 1
-    article_matching: 1
-    faq: 1
     constitution: 1
+    tone_voice: 1
+    faq: 1
+    getting_started: 2
+    article_matching: 1
+    news: 3
 ---
 # Nyhet: Enklare och smartare påminnelsehantering med **{{resource:common_product_name_variable_amili}}**
 
