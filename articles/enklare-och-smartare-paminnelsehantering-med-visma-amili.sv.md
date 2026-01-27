@@ -9,37 +9,37 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-21T09:04:12.462Z'
-updatedAt: '2026-01-27T10:31:53.090Z'
+updatedAt: '2026-01-27T10:47:16.812Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2026-01-27T10:31:53.023Z'
-updatedByName: Per Karlsson
+pendingReview: false
+reviewedAt: '2026-01-27T10:47:16.699Z'
+lastLLMUpdateAt: null
 currentVersion: 3
-translationBase: {}
 languageUpdatedAt:
   en: '2026-01-21T09:04:12.462Z'
   sv: '2026-01-21T10:07:56.215Z'
+translationBase: {}
 updatedBy: per.karlsson@visma.com
+updatedByName: Per Karlsson
 metadata:
   guidelineVersions:
-    instruction: 1
-    article_matching: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
     tone_voice: 1
+    article_matching: 1
+    getting_started: 2
     faq: 1
+    instruction: 1
+    news: 3
+    constitution: 1
 ---
 # Nyhet: Enklare och smartare påminnelsehantering med **{{resource:common_product_name_variable_amili}}**
 
-**Nu lanserar vi en ny funktion för att sköta dina påminnelser och inkassoärenden direkt i Visma. Genom vårt samarbete med **{{resource:common_product_name_variable_amili}}** får du ett smidigt verktyg som hjälper dig att få betalt snabbare, samtidigt som du slipper lägga tid på onödigt pappersarbete.**
+**Nu lanserar vi en ny funktion för att sköta dina påminnelser och inkassoärenden direkt i Spiris. Genom vårt samarbete med **{{resource:common_product_name_variable_amili}}** får du ett smidigt verktyg som hjälper dig att få betalt snabbare, samtidigt som du slipper lägga tid på onödigt pappersarbete.**
 
 Att hålla koll på obetalda fakturor kan vara både tidskrävande och stressigt. För att göra din vardag lättare har vi ersatt den gamla tjänsten ”Påminnelse Direkt” med en ny och bättre funktion för påminnelser. Den största skillnaden är att allt nu sker direkt inifrån programmet.
 
 ### Vad innebär nyheten för dig?
 
-Med den nya påminnelsehanteringen har du koll på hela kedjan – från första påminnelsen till ett eventuellt inkassokrav – utan att behöva lämna Visma.
+Med den nya påminnelsehanteringen har du koll på hela kedjan – från första påminnelsen till ett eventuellt inkassokrav – utan att behöva lämna Spiris.
 
 *   **Enkelt att komma igång:** Du aktiverar tjänsten direkt i programmet. Första gången du skickar en påminnelse får du hjälp steg för steg så att du kommer igång rätt.
 *   **Se vad som händer direkt:** Du behöver inte gissa vad som händer med dina fakturor. I fakturalistan ser du uppdateringar direkt, till exempel om en påminnelse är skickad, om ärendet gått till inkasso eller om kunden har protesterat mot fakturan.
@@ -50,7 +50,7 @@ Med den nya påminnelsehanteringen har du koll på hela kedjan – från första
 
 När sista betalningsdagen på en faktura har passerat kan du välja att skicka en påminnelse via Visma Amili. Det gör du enkelt antingen inifrån den specifika fakturan eller direkt i listan över alla dina fakturor. 
 
-När du har skickat ärendet tar Visma Amili över och sköter kontakten med din kund på ett professionellt sätt som vårdar din kundrelation. Om fakturan betalas och du har en bankkoppling till Visma, bokförs betalningen automatiskt och ärendet hos Visma Amili avslutas direkt.
+När du har skickat ärendet tar Visma Amili över och sköter kontakten med din kund på ett professionellt sätt som vårdar din kundrelation. Om fakturan betalas och du har en bankkoppling till Spiris, bokförs betalningen automatiskt och ärendet hos Visma Amili avslutas direkt.
 
 ### Fördelar med den nya funktionen
 
