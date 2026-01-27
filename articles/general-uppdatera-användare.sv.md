@@ -8,25 +8,25 @@ format: md
 status: test
 folderId: null
 createdAt: '2026-01-21T11:17:37.224Z'
-updatedAt: '2026-01-27T10:34:12.233Z'
+updatedAt: '2026-01-27T10:46:19.876Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2026-01-27T10:34:12.118Z'
+pendingReview: false
+reviewedAt: '2026-01-27T10:46:19.760Z'
+lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
   guidelineVersions:
-    instruction: 1
-    news: 3
     article_matching: 1
     faq: 1
-    tone_voice: 1
-    getting_started: 2
     constitution: 1
+    tone_voice: 1
+    news: 3
+    instruction: 1
+    getting_started: 2
 ---
 # Hantera och uppdatera användare
 
-I Visma är det enkelt att se till att rätt personer har tillgång till rätt verktyg. Genom att hålla din användarlista uppdaterad säkerställer du att samarbetet flyter på smidigt och att säkerheten i din ekonomiplattform förblir hög.
+I Spiris är det enkelt att se till att rätt personer har tillgång till rätt verktyg. Genom att hålla din användarlista uppdaterad säkerställer du att samarbetet flyter på smidigt och att säkerheten i din ekonomiplattform förblir hög.
 
 ## Så här gör du
 
