@@ -9,36 +9,35 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-21T09:04:12.462Z'
-updatedAt: '2026-01-27T12:45:03.912Z'
+updatedAt: '2026-01-27T12:46:34.723Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:41:21.820Z'
 lastLLMUpdateAt: '2026-01-27T11:10:06.739Z'
-updatedByName: Andreas Nogander
-currentVersion: 6
-translationBase: {}
 languageUpdatedAt:
   en: '2026-01-21T09:04:12.462Z'
-  sv: '2026-01-27T12:42:18.626Z'
+  sv: '2026-01-27T12:46:15.564Z'
+currentVersion: 7
+translationBase: {}
+updatedByName: Andreas Nogander
 updatedBy: andreas.nogander@visma.com
 metadata:
   visibility: public
+  tags: []
+  solution: Bokföring & Fakturering
+  area1: ''
   guidelineVersions:
     instruction: 1
-    getting_started: 2
     faq: 1
-    tone_voice: 1
-    article_matching: 1
     news: 3
+    getting_started: 2
+    article_matching: 1
+    tone_voice: 1
     constitution: 1
-  solution: Bokföring & Fakturering
   area2: ''
-  tags: []
-  area1: ''
 ---
-# Nyhet: Enklare och smartare påminnelsehantering med {resource:common_product_name_variable_amili}
-
-**Nu lanserar vi en ny funktion för att sköta dina påminnelser och inkassoärenden direkt i Spiris. Genom vårt samarbete med {{resource:common_product_name_variable_amili}} får du ett smidigt verktyg som hjälper dig att få betalt snabbare, samtidigt som du slipper lägga tid på onödigt pappersarbete.**
+# Nyhet: Enklare och smartare påminnelsehantering med {{resource:common_product_name_variable_amili}}
+Nu lanserar vi en ny funktion för att sköta dina påminnelser och inkassoärenden direkt i Spiris. Genom vårt samarbete med {{resource:common_product_name_variable_amili}} får du ett smidigt verktyg som hjälper dig att få betalt snabbare, samtidigt som du slipper lägga tid på onödigt pappersarbete.
 
 Att hålla koll på obetalda fakturor kan vara både tidskrävande och stressigt. För att göra din vardag lättare har vi ersatt den gamla tjänsten ”Påminnelse Direkt” med en ny och bättre funktion för påminnelser. Den största skillnaden är att allt nu sker direkt inifrån programmet.
 
