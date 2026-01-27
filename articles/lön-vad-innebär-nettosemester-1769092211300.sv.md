@@ -6,36 +6,36 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: IKNKCDDC45TUZXBVLz0i
 createdAt: '2026-01-22T14:30:11.667Z'
-updatedAt: '2026-01-27T15:22:33.433Z'
+updatedAt: '2026-01-27T15:24:12.406Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+translationBase: {}
+updatedBy: Per.Karlsson@visma.com
+updatedByName: Per Karlsson
+currentVersion: 3
 languageUpdatedAt:
   sv: '2026-01-22T14:31:40.021Z'
   en: '2026-01-22T14:30:11.989Z'
-currentVersion: 3
-updatedByName: Per Karlsson
-updatedBy: Per.Karlsson@visma.com
-translationBase: {}
 metadata:
+  targetAudience: []
+  visibility: public
+  guidelineVersions:
+    article_matching: 1
+    instruction: 7
+    constitution: 1
+    getting_started: 2
+    faq: 1
+    news: 3
+    tone_voice: 1
   locale: sv
   productId: Lön
-  area1: general
-  targetAudience: []
-  guidelineVersions:
-    tone_voice: 1
-    faq: 1
-    getting_started: 2
-    constitution: 1
-    article_matching: 1
-    news: 3
-    instruction: 7
-  area2: ''
   solution: Lön
-  visibility: public
+  area1: general
+  area2: ''
   tags:
     - update
     - general
