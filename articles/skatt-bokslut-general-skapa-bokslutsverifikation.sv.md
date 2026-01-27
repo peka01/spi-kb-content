@@ -6,34 +6,34 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-21T08:17:14.791Z'
-updatedAt: '2026-01-27T11:06:27.027Z'
+updatedAt: '2026-01-27T15:24:12.462Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-23T11:32:41.441Z'
 lastLLMUpdateAt: null
 translationBase: {}
+updatedBy: per.karlsson@visma.com
 languageUpdatedAt:
   sv: '2026-01-27T08:04:58.799Z'
-updatedBy: per.karlsson@visma.com
-currentVersion: 5
 updatedByName: Per Karlsson
+currentVersion: 5
 metadata:
   area2: ''
   guidelineVersions:
     getting_started: 2
-    constitution: 1
-    tone_voice: 1
-    faq: 1
-    article_matching: 1
     news: 3
+    faq: 1
+    constitution: 1
+    article_matching: 1
+    tone_voice: 1
     instruction: 1
+  area1: ''
+  solution: Skatt & Bokslut
   visibility: public
   tags: []
-  solution: Skatt & Bokslut
-  area1: ''
 ---
 # Skapa bokslutsverifikation
 
