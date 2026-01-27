@@ -8,21 +8,21 @@ format: md
 status: test
 folderId: null
 createdAt: '2026-01-21T11:17:37.224Z'
-updatedAt: '2026-01-27T10:46:19.876Z'
+updatedAt: '2026-01-27T11:13:08.281Z'
 publishedAt: null
-pendingReview: false
+pendingReview: true
 reviewedAt: '2026-01-27T10:46:19.760Z'
-lastLLMUpdateAt: null
-currentVersion: 1
+lastLLMUpdateAt: '2026-01-27T11:13:07.776Z'
+currentVersion: 2
 metadata:
   guidelineVersions:
+    getting_started: 2
+    tone_voice: 1
     article_matching: 1
+    instruction: 1
+    news: 3
     faq: 1
     constitution: 1
-    tone_voice: 1
-    news: 3
-    instruction: 1
-    getting_started: 2
 ---
 # Hantera och uppdatera användare
 
@@ -32,7 +32,7 @@ I Spiris är det enkelt att se till att rätt personer har tillgång till rätt 
 
 Följ dessa steg för att ändra uppgifter eller behörigheter för en befintlig användare:
 
-1. Gå till menyn för **Inställningar** och välj **Användare**.
+1. Gå till **Inställningar** och välj **Användare**.
 2. Klicka på namnet på den person vars uppgifter du vill ändra i listan.
 3. Uppdatera informationen i fälten, till exempel **Namn** eller **E-postadress**.
 4. Om du vill ändra vad användaren kan göra, justera valet under **Roll** eller välj ett annat **Abonnemang**.
