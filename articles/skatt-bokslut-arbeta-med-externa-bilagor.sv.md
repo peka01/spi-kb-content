@@ -7,38 +7,38 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-26T13:13:22.399Z'
-updatedAt: '2026-01-27T07:08:48.877Z'
+updatedAt: '2026-01-27T07:09:11.099Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  sv: '2026-01-26T13:13:22.399Z'
-  en: '2026-01-26T13:13:22.399Z'
 updatedBy: per.karlsson@visma.com
+languageUpdatedAt:
+  en: '2026-01-26T13:13:22.399Z'
+  sv: '2026-01-26T13:13:22.399Z'
 translationBase: {}
-updatedByName: Per Karlsson
 currentVersion: 1
+updatedByName: Per Karlsson
 metadata:
+  area1: General
+  area2: ''
+  targetAudience: []
+  guidelineVersions:
+    instruction: 1
+    tone_voice: 1
+    constitution: 1
+    faq: 1
+    getting_started: 2
+    article_matching: 1
+    news: 3
   visibility: public
+  productId: H9lmIe7pbreUwWDp3K3X
+  solution: Skatt & Bokslut
   tags:
     - update
     - General
     - instruction
-  area2: ''
-  guidelineVersions:
-    constitution: 1
-    faq: 1
-    getting_started: 2
-    tone_voice: 1
-    article_matching: 1
-    instruction: 1
-    news: 3
-  area1: General
-  targetAudience: []
-  solution: Skatt & Bokslut
-  productId: H9lmIe7pbreUwWDp3K3X
 ---
 # Arbeta med externa bilagor
 
