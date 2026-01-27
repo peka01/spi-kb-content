@@ -8,25 +8,25 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T08:57:32.927Z'
-updatedAt: '2026-01-27T10:32:22.395Z'
+updatedAt: '2026-01-27T10:47:06.907Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2026-01-27T10:32:22.290Z'
+pendingReview: false
+reviewedAt: '2026-01-27T10:47:06.793Z'
+lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
   guidelineVersions:
-    tone_voice: 1
-    getting_started: 2
-    instruction: 1
-    constitution: 1
-    faq: 1
-    article_matching: 1
     news: 3
+    getting_started: 2
+    article_matching: 1
+    faq: 1
+    constitution: 1
+    tone_voice: 1
+    instruction: 1
 ---
 # Nyhet: Nu blir semesterhanteringen ännu smidigare med nettosemester
 
-**Nu lanserar vi stöd för nettosemester i Visma Lön. Denna uppdatering är efterlängtad för dig som har anställda som arbetar färre dagar per vecka än företagets standard, då plattformen nu automatiskt kan hantera beräkningar av både semesterdagar och semesterlön baserat på den anställdes faktiska arbetsschema.**
+**Nu lanserar vi stöd för nettosemester i Spiris Lön. Denna uppdatering är efterlängtad för dig som har anställda som arbetar färre dagar per vecka än företagets standard, då plattformen nu automatiskt kan hantera beräkningar av både semesterdagar och semesterlön baserat på den anställdes faktiska arbetsschema.**
 
 Tidigare har semester i plattformen beräknats enligt bruttometoden, vilket innebär att alla anställda hanteras utifrån ett heltidsmått. Med den nya funktionen för nettosemester anpassas antalet semesterdagar och värdet på varje dag efter hur den anställde faktiskt arbetar. Det innebär mindre manuellt arbete för dig som löneadministratör och en mer rättvis beräkning för dina anställda.
 
@@ -37,7 +37,7 @@ Nettosemester används främst för intermittenta anställda – alltså persone
 En anställd arbetar 3 dagar i veckan (60 %). Med nettosemester får personen 15 semesterdagar istället för 25. Varje semesterdag blir å andra sidan värd mer pengar, så att den totala semesterlönen för de fem veckornas ledighet blir korrekt.
 
 ### Så kommer du igång
-För nya företag i Visma Lön är nettosemester nu förvalt som beräkningsmetod. Om du redan använder plattformen kan du själv välja att gå över till den nya metoden:
+För nya företag i Spiris Lön är nettosemester nu förvalt som beräkningsmetod. Om du redan använder plattformen kan du själv välja att gå över till den nya metoden:
 
 1. Navigera till **Inställningar** och välj **Löneinställningar**.
 2. Gå till fliken **Semester**.
@@ -60,6 +60,6 @@ Har du råkat göra en manuell justering av semesterdagarna i anställningsregis
 När du lägger in ingångsvärden för en anställd som arbetar intermittent, kommer plattformen nu att visa och beräkna dessa som nettovärden automatiskt, förutsatt att inställningen för nettosemester är aktiverad.
 
 ### Förbättrad precision vid schemaändringar
-En av de största fördelarna med den nya funktionen är hur plattformen hanterar schemaändringar mitt under ett semesterår. Om en anställd går upp eller ner i arbetstid (antal dagar per vecka), räknar Visma Lön automatiskt om de kvarvarande dagarna så att de matchar det nya schemat. På så sätt har den anställde alltid rätt antal dagar kvar i förhållande till sin nya arbetstid.
+En av de största fördelarna med den nya funktionen är hur plattformen hanterar schemaändringar mitt under ett semesterår. Om en anställd går upp eller ner i arbetstid (antal dagar per vecka), räknar Spiris Lön automatiskt om de kvarvarande dagarna så att de matchar det nya schemat. På så sätt har den anställde alltid rätt antal dagar kvar i förhållande till sin nya arbetstid.
 
-Vi hoppas att dessa förbättringar ska ge dig en ännu tryggare och mer effektiv semesterhantering i Visma!
+Vi hoppas att dessa förbättringar ska ge dig en ännu tryggare och mer effektiv semesterhantering i Spiris!
