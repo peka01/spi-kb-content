@@ -7,39 +7,39 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: IKNKCDDC45TUZXBVLz0i
 createdAt: '2026-01-22T14:51:43.801Z'
-updatedAt: '2026-01-22T14:52:13.157Z'
+updatedAt: '2026-01-27T15:22:29.084Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2026-01-22T14:51:44.053Z'
-  sv: '2026-01-22T14:51:44.053Z'
-updatedByName: Per Karlsson
-currentVersion: 2
 updatedBy: Per.Karlsson@visma.com
 translationBase: {}
+languageUpdatedAt:
+  sv: '2026-01-22T14:51:44.053Z'
+  en: '2026-01-22T14:51:44.053Z'
+updatedByName: Per Karlsson
+currentVersion: 2
 metadata:
-  visibility: public
+  area1: general
+  productId: Lön
   area2: ''
   solution: Lön
-  area1: general
-  guidelineVersions:
-    instruction: 7
-    faq: 1
-    tone_voice: 1
-    getting_started: 2
-    article_matching: 1
-    news: 3
-    constitution: 1
+  targetAudience: []
+  visibility: public
   tags:
     - update
     - general
     - faq
     - news
-  targetAudience: []
-  productId: Lön
+  guidelineVersions:
+    instruction: 7
+    tone_voice: 1
+    news: 3
+    constitution: 1
+    article_matching: 1
+    getting_started: 2
+    faq: 1
   locale: sv
 ---
 ## Vad behöver jag uppdatera i arbetsscheman?
