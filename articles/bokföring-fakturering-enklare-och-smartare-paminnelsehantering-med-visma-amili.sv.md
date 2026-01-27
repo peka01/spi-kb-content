@@ -9,32 +9,32 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-21T09:04:12.462Z'
-updatedAt: '2026-01-27T12:46:34.723Z'
+updatedAt: '2026-01-27T15:24:12.461Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:41:21.820Z'
 lastLLMUpdateAt: '2026-01-27T11:10:06.739Z'
-languageUpdatedAt:
-  en: '2026-01-21T09:04:12.462Z'
-  sv: '2026-01-27T12:46:15.564Z'
-currentVersion: 7
 translationBase: {}
+currentVersion: 7
 updatedByName: Andreas Nogander
 updatedBy: andreas.nogander@visma.com
+languageUpdatedAt:
+  sv: '2026-01-27T12:46:15.564Z'
+  en: '2026-01-21T09:04:12.462Z'
 metadata:
-  visibility: public
-  tags: []
   solution: Bokföring & Fakturering
   area1: ''
+  tags: []
+  area2: ''
   guidelineVersions:
-    instruction: 1
-    faq: 1
-    news: 3
-    getting_started: 2
-    article_matching: 1
     tone_voice: 1
     constitution: 1
-  area2: ''
+    instruction: 1
+    article_matching: 1
+    faq: 1
+    getting_started: 2
+    news: 3
+  visibility: public
 ---
 # Nyhet: Enklare och smartare påminnelsehantering med {{resource:common_product_name_variable_amili}}
 Nu lanserar vi en ny funktion för att sköta dina påminnelser och inkassoärenden direkt i Spiris. Genom vårt samarbete med {{resource:common_product_name_variable_amili}} får du ett smidigt verktyg som hjälper dig att få betalt snabbare, samtidigt som du slipper lägga tid på onödigt pappersarbete.
