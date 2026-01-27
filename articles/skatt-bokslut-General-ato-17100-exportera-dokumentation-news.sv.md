@@ -7,33 +7,33 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-27T09:54:38.340Z'
-updatedAt: '2026-01-27T10:55:43.214Z'
+updatedAt: '2026-01-27T15:21:06.037Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T10:47:45.763Z'
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  sv: '2026-01-27T10:31:03.276Z'
+translationBase: {}
 updatedBy: per.karlsson@visma.com
 updatedByName: Per Karlsson
-currentVersion: 3
-translationBase: {}
+languageUpdatedAt:
+  sv: '2026-01-27T10:31:03.276Z'
+currentVersion: 4
 metadata:
-  area2: ''
-  visibility: public
-  tags: []
   guidelineVersions:
-    instruction: 1
-    constitution: 1
-    getting_started: 2
-    faq: 1
-    article_matching: 1
     news: 3
+    instruction: 1
+    faq: 1
+    getting_started: 2
     tone_voice: 1
-  area1: ''
+    article_matching: 1
+    constitution: 1
+  area2: ''
   solution: Skatt & Bokslut
+  area1: ''
+  tags: []
+  visibility: public
 ---
 # Säkra din dokumentation – ny exportfunktion i Skatt & Bokslut
 
