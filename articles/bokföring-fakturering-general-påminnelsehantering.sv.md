@@ -6,34 +6,34 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2026-01-21T09:04:00.238Z'
-updatedAt: '2026-01-27T15:19:50.903Z'
+updatedAt: '2026-01-27T15:24:12.409Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T10:46:32.905Z'
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  sv: '2026-01-27T10:46:33.023Z'
 currentVersion: 2
 updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-27T10:46:33.023Z'
 translationBase: {}
 updatedBy: per.karlsson@visma.com
 metadata:
-  area1: ''
-  visibility: public
   tags: []
-  solution: Bokföring & Fakturering
-  area2: ''
+  area1: ''
   guidelineVersions:
-    getting_started: 2
-    faq: 1
-    constitution: 1
-    instruction: 1
     news: 3
+    constitution: 1
     tone_voice: 1
     article_matching: 1
+    faq: 1
+    instruction: 1
+    getting_started: 2
+  area2: ''
+  visibility: public
+  solution: Bokföring & Fakturering
 ---
 # Hantera påminnelser och inkasso
 
