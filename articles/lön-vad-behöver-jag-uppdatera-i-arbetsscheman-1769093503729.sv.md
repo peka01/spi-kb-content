@@ -6,41 +6,41 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: IKNKCDDC45TUZXBVLz0i
 createdAt: '2026-01-22T14:51:43.801Z'
-updatedAt: '2026-01-27T15:22:29.084Z'
+updatedAt: '2026-01-27T15:24:12.407Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedBy: Per.Karlsson@visma.com
 translationBase: {}
-languageUpdatedAt:
-  sv: '2026-01-22T14:51:44.053Z'
-  en: '2026-01-22T14:51:44.053Z'
+updatedBy: Per.Karlsson@visma.com
 updatedByName: Per Karlsson
 currentVersion: 2
+languageUpdatedAt:
+  en: '2026-01-22T14:51:44.053Z'
+  sv: '2026-01-22T14:51:44.053Z'
 metadata:
-  area1: general
   productId: Lön
-  area2: ''
   solution: Lön
-  targetAudience: []
-  visibility: public
   tags:
     - update
     - general
     - faq
     - news
+  targetAudience: []
+  locale: sv
+  area1: general
   guidelineVersions:
+    getting_started: 2
     instruction: 7
-    tone_voice: 1
     news: 3
+    tone_voice: 1
     constitution: 1
     article_matching: 1
-    getting_started: 2
     faq: 1
-  locale: sv
+  area2: ''
+  visibility: public
 ---
 ## Vad behöver jag uppdatera i arbetsscheman?
 För att beräkningen ska bli korrekt behöver plattformen veta vad som räknas som en full arbetsvecka på ditt företag. 
