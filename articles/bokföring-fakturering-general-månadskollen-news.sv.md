@@ -9,7 +9,7 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-21T09:12:03.585Z'
-updatedAt: '2026-01-27T15:24:12.412Z'
+updatedAt: '2026-01-27T18:09:33.598Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:46:57.718Z'
@@ -17,23 +17,23 @@ lastLLMUpdateAt: null
 updatedByName: Per Karlsson
 currentVersion: 3
 translationBase: {}
-updatedBy: per.karlsson@visma.com
 languageUpdatedAt:
   sv: '2026-01-27T15:17:23.911Z'
+updatedBy: per.karlsson@visma.com
 metadata:
-  visibility: public
-  guidelineVersions:
-    tone_voice: 1
-    constitution: 1
-    getting_started: 2
-    news: 3
-    instruction: 1
-    faq: 1
-    article_matching: 1
   area2: ''
-  tags: []
-  solution: Bokföring & Fakturering
+  guidelineVersions:
+    faq: 1
+    getting_started: 2
+    news: 4
+    instruction: 1
+    article_matching: 1
+    constitution: 1
+    tone_voice: 1
   area1: ''
+  visibility: public
+  solution: Bokföring & Fakturering
+  tags: []
 ---
 # Se hur mycket tid du sparar med en smartare Månadskoll
 
