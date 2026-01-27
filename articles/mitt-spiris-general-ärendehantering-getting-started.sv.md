@@ -5,25 +5,25 @@ slug: general-ärendehantering-getting-started
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: tK5mxwYH79Ie0TRIvGUR
 createdAt: '2026-01-21T08:56:19.119Z'
-updatedAt: '2026-01-27T11:07:31.059Z'
+updatedAt: '2026-01-27T15:24:12.461Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T10:46:49.210Z'
 lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
-  solution: Mitt Spiris
   guidelineVersions:
     instruction: 1
     article_matching: 1
-    constitution: 1
-    getting_started: 2
     tone_voice: 1
     news: 3
+    constitution: 1
+    getting_started: 2
     faq: 1
+  solution: Mitt Spiris
 ---
 # Kom i gång med ärendehantering i Mitt Spiris
 
