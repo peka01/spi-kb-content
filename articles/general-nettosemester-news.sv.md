@@ -6,9 +6,9 @@ languages:
   - sv
 format: md
 status: draft
-folderId: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-21T08:57:32.927Z'
-updatedAt: '2026-01-27T12:59:36.962Z'
+updatedAt: '2026-01-27T15:16:59.005Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:59:36.839Z'
@@ -16,13 +16,13 @@ lastLLMUpdateAt: null
 currentVersion: 2
 metadata:
   guidelineVersions:
-    getting_started: 2
-    article_matching: 1
     instruction: 1
     news: 3
-    tone_voice: 1
-    constitution: 1
+    getting_started: 2
     faq: 1
+    article_matching: 1
+    constitution: 1
+    tone_voice: 1
 ---
 # Nyhet: Nu blir semesterhanteringen ännu smidigare med nettosemester
 
