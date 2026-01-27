@@ -6,34 +6,34 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-27T09:54:38.340Z'
-updatedAt: '2026-01-27T15:21:29.497Z'
+updatedAt: '2026-01-27T15:24:12.409Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T10:47:45.763Z'
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
+updatedBy: per.karlsson@visma.com
+currentVersion: 4
+translationBase: {}
 languageUpdatedAt:
   sv: '2026-01-27T10:31:03.276Z'
-updatedBy: per.karlsson@visma.com
-translationBase: {}
-currentVersion: 4
+updatedByName: Per Karlsson
 metadata:
-  solution: Skatt & Bokslut
   guidelineVersions:
-    faq: 1
     instruction: 1
-    news: 3
-    getting_started: 2
     constitution: 1
-    article_matching: 1
+    getting_started: 2
     tone_voice: 1
-  tags: []
+    faq: 1
+    article_matching: 1
+    news: 3
+  area1: ''
   area2: ''
   visibility: public
-  area1: ''
+  solution: Skatt & Bokslut
+  tags: []
 ---
 # Säkra din dokumentation – ny exportfunktion i Skatt & Bokslut
 
