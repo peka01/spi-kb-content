@@ -8,25 +8,25 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T08:57:18.299Z'
-updatedAt: '2026-01-27T10:32:08.325Z'
+updatedAt: '2026-01-27T10:47:11.759Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2026-01-27T10:32:08.253Z'
+pendingReview: false
+reviewedAt: '2026-01-27T10:47:11.644Z'
+lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
   guidelineVersions:
+    tone_voice: 1
+    getting_started: 2
     faq: 1
     article_matching: 1
-    getting_started: 2
-    tone_voice: 1
     constitution: 1
     instruction: 1
     news: 3
 ---
 # Vanliga frågor om nettosemester
 
-Här har vi samlat svar på de vanligaste frågorna om den nya beräkningsmetoden för nettosemester i Visma. Denna funktion är särskilt hjälpsam för dig som har anställda som arbetar färre dagar per vecka än företagets standard (intermittent anställda).
+Här har vi samlat svar på de vanligaste frågorna om den nya beräkningsmetoden för nettosemester i Spiris. Denna funktion är särskilt hjälpsam för dig som har anställda som arbetar färre dagar per vecka än företagets standard (intermittent anställda).
 
 ## Vad innebär nettosemester?
 Nettosemester är en beräkningsmetod som anpassar antalet semesterdagar och semesterlönen baserat på den anställdes faktiska arbetsdagar i förhållande till en heltidsvecka. Istället för att dra semesterdagar även på dagar då personen inte skulle ha arbetat, räknar plattformen om dagarna till nettodagar. 
@@ -34,7 +34,7 @@ Nettosemester är en beräkningsmetod som anpassar antalet semesterdagar och sem
 Detta innebär att en anställd som arbetar deltid får färre semesterdagar, men varje dag är värd mer pengar. Slutresultatet blir detsamma i ledighet och ersättning, men administrationen blir betydligt enklare då du bara registrerar semester på de dagar den anställde faktiskt skulle ha arbetat.
 
 ## Hur aktiverar jag nettosemester för mitt företag?
-För nystartade företag i Visma är nettosemester numera förvalt som standard. Om du har ett befintligt företag kan du själv välja att byta metod.
+För nystartade företag i Spiris är nettosemester numera förvalt som standard. Om du har ett befintligt företag kan du själv välja att byta metod.
 
 1. Gå till **Inställningar**.
 2. Välj **Löneinställningar** och fliken **Semester**.
