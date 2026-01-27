@@ -5,25 +5,25 @@ slug: general-ärendehantering-faq
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: tK5mxwYH79Ie0TRIvGUR
 createdAt: '2026-01-21T08:56:08.869Z'
-updatedAt: '2026-01-27T11:07:31.118Z'
+updatedAt: '2026-01-27T15:24:12.461Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T10:46:42.594Z'
 lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
+  solution: Mitt Spiris
   guidelineVersions:
     constitution: 1
-    instruction: 1
-    tone_voice: 1
     getting_started: 2
     article_matching: 1
-    faq: 1
+    instruction: 1
+    tone_voice: 1
     news: 3
-  solution: Mitt Spiris
+    faq: 1
 ---
 # Vanliga frågor om ärendehantering i Mitt Spiris
 
