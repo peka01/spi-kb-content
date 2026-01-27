@@ -8,25 +8,25 @@ format: md
 status: draft
 folderId: tK5mxwYH79Ie0TRIvGUR
 createdAt: '2026-01-21T08:56:19.119Z'
-updatedAt: '2026-01-27T10:33:02.081Z'
+updatedAt: '2026-01-27T10:46:49.329Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2026-01-27T10:33:01.961Z'
+pendingReview: false
+reviewedAt: '2026-01-27T10:46:49.210Z'
+lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
   guidelineVersions:
-    constitution: 1
-    instruction: 1
-    tone_voice: 1
-    news: 3
-    getting_started: 2
     article_matching: 1
+    constitution: 1
+    news: 3
+    instruction: 1
     faq: 1
+    tone_voice: 1
+    getting_started: 2
 ---
-# Kom i gång med ärendehantering i Mitt Visma
+# Kom i gång med ärendehantering i Mitt Spiris
 
-Här får du en genomgång av hur du använder den nya funktionen för ärendehantering i Mitt Visma. Nu blir det ännu enklare att samarbeta och kommunicera med din redovisningsbyrå på ett strukturerat och säkert sätt.
+Här får du en genomgång av hur du använder den nya funktionen för ärendehantering i Mitt Spiris. Nu blir det ännu enklare att samarbeta och kommunicera med din redovisningsbyrå på ett strukturerat och säkert sätt.
 
 ### Översikt
 Ärendehanteringen är utformad för att samla all kommunikation mellan dig och din redovisningskonsult på ett och samma ställe. Istället för utspridda mejl och telefonsamtal kan ni nu hantera specifika frågor – som underlag som saknas eller godkännanden – direkt i din ekonomiplattform. Det ger dig bättre kontroll, minskar risken för missförstånd och gör att din bokföring kan bli klar snabbare.
@@ -41,11 +41,11 @@ Här får du en genomgång av hur du använder den nya funktionen för ärendeha
 ### Första steg
 
 **Steg 1: Förutsättningar**
-Det är din redovisningsbyrå som tar första steget genom att skapa ett ärende till dig från sitt system. För att du ska kunna se och svara på ärenden krävs ett aktivt samtycke mellan dig och byrån. När byrån skickar det första ärendet aktiveras funktionen automatiskt för dig i Mitt Visma.
+Det är din redovisningsbyrå som tar första steget genom att skapa ett ärende till dig från sitt system. För att du ska kunna se och svara på ärenden krävs ett aktivt samtycke mellan dig och byrån. När byrån skickar det första ärendet aktiveras funktionen automatiskt för dig i Mitt Spiris.
 
 **Steg 2: Hitta till dina ärenden**
-När din redovisningskonsult har skapat ett ärende till dig kommer en ny meny att dyka upp i Mitt Visma.
-1.  Logga in i **Mitt Visma**.
+När din redovisningskonsult har skapat ett ärende till dig kommer en ny meny att dyka upp i Mitt Spiris.
+1.  Logga in i **Mitt Spiris**.
 2.  I navigationsmenyn till vänster hittar du nu valet **Ärendehantering**.
 3.  Klicka på **Ärendehantering** för att se din personliga översikt.
 
