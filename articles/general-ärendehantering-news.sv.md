@@ -8,27 +8,27 @@ format: md
 status: draft
 folderId: tK5mxwYH79Ie0TRIvGUR
 createdAt: '2026-01-21T08:56:30.532Z'
-updatedAt: '2026-01-27T10:34:30.501Z'
+updatedAt: '2026-01-27T10:46:10.942Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2026-01-27T10:34:30.433Z'
+pendingReview: false
+reviewedAt: '2026-01-27T10:46:10.819Z'
+lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
   guidelineVersions:
-    faq: 1
-    news: 3
-    instruction: 1
-    tone_voice: 1
     article_matching: 1
     constitution: 1
+    faq: 1
+    instruction: 1
     getting_started: 2
+    news: 3
+    tone_voice: 1
 ---
 # Smidigaste vägen till ett bättre samarbete – nu lanserar vi Ärendehantering
 
-**Nu blir det ännu enklare att hålla kontakten med din redovisningsbyrå. Vi introducerar en helt ny funktion för ärendehantering direkt i Visma, som samlar alla frågor och underlag på ett och samma ställe. Slut på letande i inkorgen – nu har du full koll.**
+**Nu blir det ännu enklare att hålla kontakten med din redovisningsbyrå. Vi introducerar en helt ny funktion för ärendehantering direkt i Spiris, som samlar alla frågor och underlag på ett och samma ställe. Slut på letande i inkorgen – nu har du full koll.**
 
-Det kan ibland vara en utmaning att hålla reda på frågor, kompletteringar och dokument som skickas fram och tillbaka mellan dig och din byrå. För att underlätta din vardag och minska stressen lanserar vi nu en strukturerad ärendehantering i Mitt Visma.
+Det kan ibland vara en utmaning att hålla reda på frågor, kompletteringar och dokument som skickas fram och tillbaka mellan dig och din byrå. För att underlätta din vardag och minska stressen lanserar vi nu en strukturerad ärendehantering i Mitt Spiris.
 
 ### Allt samlat på ett ställe
 Med den nya funktionen kan din redovisningskonsult skapa specifika ärenden till dig direkt i plattformen. Istället för utspridda mejl eller telefonsamtal får du en tydlig överblick över vad som behöver göras. Du kan enkelt läsa, svara på och hantera dina ärenden när det passar dig.
@@ -38,7 +38,7 @@ För att hålla din information säker bygger funktionen på ett samtycke mellan
 
 1.  **Byrån tar första steget:** Din redovisningsbyrå skapar ett ärende till dig.
 2.  **Du ger ditt godkännande:** Första gången ett ärende skapas får du godkänna att funktionen används.
-3.  **Menyn aktiveras:** Så snart det finns ett aktivt ärende dyker en ny meny upp i din vy i Mitt Visma som heter **Ärenden**.
+3.  **Menyn aktiveras:** Så snart det finns ett aktivt ärende dyker en ny meny upp i din vy i Mitt Spiris som heter **Ärenden**.
 4.  **Tydlig översikt:** Under den nya menyn hittar du alla dina aktuella och avslutade ärenden presenterade som överskådliga kort.
 
 ### Enkel hantering i vardagen
