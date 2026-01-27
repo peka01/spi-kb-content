@@ -7,38 +7,38 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-23T13:49:32.184Z'
-updatedAt: '2026-01-23T13:58:27.865Z'
+updatedAt: '2026-01-27T07:11:17.620Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+currentVersion: 1
+translationBase: {}
+updatedBy: Per.Karlsson@visma.com
+updatedByName: Per Karlsson
 languageUpdatedAt:
   sv: '2026-01-23T13:49:32.184Z'
   en: '2026-01-23T13:49:32.184Z'
-updatedBy: Per.Karlsson@visma.com
-updatedByName: Per Karlsson
-translationBase: {}
-currentVersion: 1
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
-  targetAudience: []
-  visibility: public
-  area1: General
-  guidelineVersions:
-    instruction: 1
-    tone_voice: 1
-    getting_started: 2
-    faq: 1
-    article_matching: 1
-    news: 3
-    constitution: 1
-  solution: Skatt & Bokslut
   tags:
     - update
     - General
     - instruction
+  targetAudience: []
+  productId: H9lmIe7pbreUwWDp3K3X
   area2: ''
+  area1: General
+  guidelineVersions:
+    getting_started: 2
+    faq: 1
+    constitution: 1
+    instruction: 1
+    article_matching: 1
+    tone_voice: 1
+    news: 3
+  solution: Skatt & Bokslut
+  visibility: public
 ---
 Här är en guide som förklarar hur du hanterar flera aktieförvärv i löneunderlaget för din K10-blankett.
 
