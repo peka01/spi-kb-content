@@ -6,9 +6,9 @@ languages:
   - sv
 format: md
 status: draft
-folderId: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-21T08:17:14.791Z'
-updatedAt: '2026-01-23T11:32:41.518Z'
+updatedAt: '2026-01-27T07:12:07.358Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-23T11:32:41.441Z'
@@ -16,13 +16,13 @@ lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
   guidelineVersions:
-    constitution: 1
+    news: 3
+    tone_voice: 1
+    article_matching: 1
+    instruction: 1
     getting_started: 2
     faq: 1
-    article_matching: 1
-    tone_voice: 1
-    news: 3
-    instruction: 1
+    constitution: 1
 ---
 # Skapa bokslutsverifikation
 
