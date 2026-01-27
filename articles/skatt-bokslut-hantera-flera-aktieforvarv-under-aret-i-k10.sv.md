@@ -6,31 +6,31 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-23T13:49:32.184Z'
-updatedAt: '2026-01-27T11:06:26.971Z'
+updatedAt: '2026-01-27T15:24:12.462Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T10:47:31.219Z'
 lastLLMUpdateAt: null
-updatedBy: Per.Karlsson@visma.com
 translationBase: {}
-updatedByName: Per Karlsson
-currentVersion: 1
+updatedBy: Per.Karlsson@visma.com
 languageUpdatedAt:
-  en: '2026-01-23T13:49:32.184Z'
   sv: '2026-01-23T13:49:32.184Z'
+  en: '2026-01-23T13:49:32.184Z'
+currentVersion: 1
+updatedByName: Per Karlsson
 metadata:
-  solution: Skatt & Bokslut
   guidelineVersions:
-    instruction: 1
-    news: 3
-    tone_voice: 1
-    faq: 1
-    getting_started: 2
-    constitution: 1
     article_matching: 1
+    constitution: 1
+    instruction: 1
+    getting_started: 2
+    faq: 1
+    tone_voice: 1
+    news: 3
+  solution: Skatt & Bokslut
 ---
 Här är en guide som förklarar hur du hanterar flera aktieförvärv i löneunderlaget för din K10-blankett.
 
