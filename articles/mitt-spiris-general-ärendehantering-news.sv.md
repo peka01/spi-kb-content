@@ -6,34 +6,34 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-21T08:56:30.532Z'
-updatedAt: '2026-01-27T15:19:22.265Z'
+updatedAt: '2026-01-27T15:24:12.410Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T10:46:10.819Z'
 lastLLMUpdateAt: null
+translationBase: {}
+updatedBy: per.karlsson@visma.com
+updatedByName: Per Karlsson
 currentVersion: 2
 languageUpdatedAt:
   sv: '2026-01-27T10:46:10.942Z'
-updatedByName: Per Karlsson
-updatedBy: per.karlsson@visma.com
-translationBase: {}
 metadata:
+  tags: []
   guidelineVersions:
     instruction: 1
-    constitution: 1
-    tone_voice: 1
-    getting_started: 2
-    news: 3
-    article_matching: 1
     faq: 1
-  visibility: public
+    constitution: 1
+    news: 3
+    tone_voice: 1
+    article_matching: 1
+    getting_started: 2
   area1: ''
-  solution: Mitt Spiris
-  tags: []
   area2: ''
+  solution: Mitt Spiris
+  visibility: public
 ---
 # Smidigaste vägen till ett bättre samarbete – nu lanserar vi Ärendehantering
 
