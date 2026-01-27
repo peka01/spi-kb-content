@@ -6,20 +6,19 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-21T07:57:58.507Z'
-updatedAt: '2026-01-27T15:21:47.453Z'
+updatedAt: '2026-01-27T15:24:12.408Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-23T10:03:26.952Z'
 lastLLMUpdateAt: null
+currentVersion: 9
+updatedByName: Per Karlsson
 languageUpdatedAt:
   sv: '2026-01-22T14:06:12.443Z'
   en: '2026-01-22T14:03:44.922Z'
-updatedBy: per.karlsson@visma.com
-currentVersion: 9
-updatedByName: Per Karlsson
 translationBase:
   en: >-
     # Arkivera och exportera räkenskapsår
@@ -83,20 +82,21 @@ translationBase:
     - **Export av SIE-fil**
 
     - **Arkivera räkenskapsår**
+updatedBy: per.karlsson@visma.com
 metadata:
-  tags: []
+  area2: ''
+  visibility: public
+  area1: ''
+  solution: Skatt & Bokslut
   guidelineVersions:
-    constitution: 1
-    getting_started: 2
     instruction: 1
+    faq: 1
+    article_matching: 1
+    getting_started: 2
     news: 3
     tone_voice: 1
-    article_matching: 1
-    faq: 1
-  area2: ''
-  area1: ''
-  visibility: public
-  solution: Skatt & Bokslut
+    constitution: 1
+  tags: []
 ---
 # Arkivera och exportera räkenskapsår
 
