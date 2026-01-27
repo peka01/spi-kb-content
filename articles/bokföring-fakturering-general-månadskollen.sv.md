@@ -6,34 +6,34 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: SyxN5X57MPEqs9v8X1nA
 createdAt: '2026-01-21T09:11:50.791Z'
-updatedAt: '2026-01-27T15:16:34.402Z'
+updatedAt: '2026-01-27T15:24:12.461Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:46:51.071Z'
 lastLLMUpdateAt: null
-updatedBy: per.karlsson@visma.com
-currentVersion: 4
+updatedByName: Per Karlsson
 translationBase: {}
+currentVersion: 4
+updatedBy: per.karlsson@visma.com
 languageUpdatedAt:
   sv: '2026-01-27T14:19:13.643Z'
-updatedByName: Per Karlsson
 metadata:
+  tags: []
+  guidelineVersions:
+    getting_started: 2
+    tone_voice: 1
+    constitution: 1
+    article_matching: 1
+    news: 3
+    faq: 1
+    instruction: 1
+  solution: Bokföring & Fakturering
+  area2: ''
   area1: ''
   visibility: public
-  guidelineVersions:
-    instruction: 1
-    getting_started: 2
-    constitution: 1
-    news: 3
-    tone_voice: 1
-    article_matching: 1
-    faq: 1
-  tags: []
-  area2: ''
-  solution: Bokföring & Fakturering
 ---
 # Få bättre insikt med den uppdaterade Månadskollen
 
