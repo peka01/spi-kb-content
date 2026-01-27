@@ -9,31 +9,31 @@ format: md
 status: test
 folderId: tK5mxwYH79Ie0TRIvGUR
 createdAt: '2026-01-21T11:17:37.224Z'
-updatedAt: '2026-01-27T15:18:38.620Z'
+updatedAt: '2026-01-27T15:24:12.411Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:46:45.372Z'
 lastLLMUpdateAt: null
-currentVersion: 3
+updatedByName: Per Karlsson
 updatedBy: per.karlsson@visma.com
+translationBase: {}
+currentVersion: 3
 languageUpdatedAt:
   sv: '2026-01-27T12:46:45.505Z'
-translationBase: {}
-updatedByName: Per Karlsson
 metadata:
+  area2: ''
   visibility: public
+  solution: Mitt Spiris
+  tags: []
   guidelineVersions:
-    constitution: 1
     getting_started: 2
-    faq: 1
+    constitution: 1
     article_matching: 1
-    news: 3
+    faq: 1
     instruction: 1
     tone_voice: 1
-  solution: Mitt Spiris
+    news: 3
   area1: ''
-  tags: []
-  area2: ''
 ---
 # Hantera och uppdatera användare
 
