@@ -8,29 +8,25 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-27T09:54:38.340Z'
-updatedAt: '2026-01-27T10:47:41.354Z'
+updatedAt: '2026-01-27T10:47:45.833Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2026-01-27T10:31:03.058Z'
-updatedBy: per.karlsson@visma.com
-translationBase: {}
-updatedByName: Per Karlsson
-currentVersion: 1
+pendingReview: false
+reviewedAt: '2026-01-27T10:47:45.763Z'
+lastLLMUpdateAt: null
 languageUpdatedAt:
   sv: '2026-01-27T10:31:03.276Z'
+currentVersion: 1
+updatedByName: Per Karlsson
+translationBase: {}
+updatedBy: per.karlsson@visma.com
 metadata:
-  tags: []
-  area2: ''
-  visibility: public
-  area1: ''
   guidelineVersions:
-    getting_started: 2
-    instruction: 1
     tone_voice: 1
-    constitution: 1
-    news: 3
+    getting_started: 2
     faq: 1
+    instruction: 1
+    news: 3
+    constitution: 1
     article_matching: 1
 ---
 # Säkra din dokumentation – ny exportfunktion i Skatt & Bokslut
