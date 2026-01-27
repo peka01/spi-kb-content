@@ -8,25 +8,25 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T09:04:00.238Z'
-updatedAt: '2026-01-27T10:33:48.815Z'
+updatedAt: '2026-01-27T10:46:33.023Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2026-01-27T10:33:48.749Z'
+pendingReview: false
+reviewedAt: '2026-01-27T10:46:32.905Z'
+lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
   guidelineVersions:
-    constitution: 1
     instruction: 1
-    getting_started: 2
     faq: 1
-    tone_voice: 1
+    constitution: 1
     article_matching: 1
+    tone_voice: 1
     news: 3
+    getting_started: 2
 ---
 # Hantera påminnelser och inkasso
 
-Med tjänsten Påminnelsehantering i Visma kan du automatisera arbetet med förfallna fakturor och säkerställa att du får betalt i tid. Genom en sömlös integration med Amili sköts allt från påminnelser till eventuell inkassohantering direkt från din ekonomiplattform, vilket minskar din administration och förbättrar kassaflödet.
+Med tjänsten Påminnelsehantering i Spiris kan du automatisera arbetet med förfallna fakturor och säkerställa att du får betalt i tid. Genom en sömlös integration med Amili sköts allt från påminnelser till eventuell inkassohantering direkt från din ekonomiplattform, vilket minskar din administration och förbättrar kassaflödet.
 
 ## Så här gör du
 
@@ -46,7 +46,7 @@ Du kan skicka ärenden antingen direkt från fakturalistan eller inifrån en spe
 3. Kontrollera uppgifterna och bekräfta. Fakturan skickas nu digitalt till Amili som tar över den fortsatta hanteringen.
 
 ### Följ status på dina ärenden
-Du har full insyn i vad som händer med dina skickade fakturor direkt i Visma.
+Du har full insyn i vad som händer med dina skickade fakturor direkt i Spiris.
 
 1. I fakturalistan ser du statusen för varje ärende i realtid. Exempel på statusar är **Påminnelse skickad**, **Inkasso** eller **Bestriden**.
 2. Behöver du mer detaljerad information eller vill hantera komplexa ärenden kan du klicka på länken till **Amili-portalen** som visas i anslutning till fakturalistan.
