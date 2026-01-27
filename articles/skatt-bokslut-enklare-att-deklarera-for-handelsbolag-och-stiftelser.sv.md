@@ -6,16 +6,15 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-23T14:21:31.675Z'
-updatedAt: '2026-01-27T07:10:35.733Z'
+updatedAt: '2026-01-27T15:24:12.462Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 updatedByName: Per Karlsson
 updatedBy: per.karlsson@visma.com
-currentVersion: 3
 languageUpdatedAt:
   sv: '2026-01-27T07:09:47.935Z'
   en: '2026-01-23T14:24:16.726Z'
@@ -83,25 +82,26 @@ translationBase:
 
     Med ett helt digitalt flöde kan du lägga mindre tid på deklarationsfiler och
     mer tid på din verksamhet!
+currentVersion: 3
 metadata:
   area1: General
+  productId: H9lmIe7pbreUwWDp3K3X
+  guidelineVersions:
+    article_matching: 1
+    constitution: 1
+    instruction: 1
+    faq: 1
+    tone_voice: 1
+    getting_started: 2
+    news: 3
   tags:
     - update
     - General
     - news
-  area2: ''
-  visibility: public
-  guidelineVersions:
-    news: 3
-    faq: 1
-    tone_voice: 1
-    getting_started: 2
-    constitution: 1
-    instruction: 1
-    article_matching: 1
   solution: Skatt & Bokslut
+  area2: ''
   targetAudience: []
-  productId: H9lmIe7pbreUwWDp3K3X
+  visibility: public
 ---
 # Enklare att deklarera för handelsbolag och stiftelser!
 
