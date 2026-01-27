@@ -6,30 +6,30 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: tK5mxwYH79Ie0TRIvGUR
 createdAt: '2026-01-21T08:55:58.470Z'
-updatedAt: '2026-01-27T11:07:31.120Z'
+updatedAt: '2026-01-27T15:24:12.461Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T10:45:46.739Z'
 lastLLMUpdateAt: null
 updatedBy: Malin.Salgfors@visma.com
 updatedByName: Malin Sälgfors
-translationBase: {}
 currentVersion: 1
+translationBase: {}
 languageUpdatedAt:
   sv: '2026-01-21T09:11:32.595Z'
   en: '2026-01-21T08:55:58.470Z'
 metadata:
   guidelineVersions:
-    instruction: 1
-    article_matching: 1
+    getting_started: 2
+    tone_voice: 1
     faq: 1
     news: 3
-    tone_voice: 1
-    getting_started: 2
+    instruction: 1
     constitution: 1
+    article_matching: 1
   solution: Mitt Spiris
 ---
 # Hantera ärenden från din redovisningsbyrå
