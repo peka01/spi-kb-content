@@ -8,25 +8,25 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-21T09:15:37.566Z'
-updatedAt: '2026-01-27T11:11:25.432Z'
+updatedAt: '2026-01-27T12:59:32.061Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: '2026-01-27T10:46:58.993Z'
-lastLLMUpdateAt: '2026-01-27T11:11:24.951Z'
+pendingReview: false
+reviewedAt: '2026-01-27T12:59:31.933Z'
+lastLLMUpdateAt: null
 currentVersion: 2
 metadata:
   guidelineVersions:
     tone_voice: 1
-    faq: 1
+    getting_started: 2
     constitution: 1
     news: 3
-    instruction: 1
     article_matching: 1
-    getting_started: 2
+    faq: 1
+    instruction: 1
 ---
 # Hantera ärenden tryggt med rätt behörigheter
 
-I den här uppdateringen har vi fokuserat på att göra din arbetsdag i Spiris både säkrare och mer överskådlig. Genom att förfina hur behörigheter fungerar i ärendehanteringen kan ni nu styra vem som har tillgång till känslig information med större precision. Dessutom har vi optimerat mottagarlistorna för att eliminera dubbletter, vilket gör det enklare att välja rätt person direkt.
+I den här uppdateringen har vi fokuserat på att göra din arbetsdag i Spiris både säkrare och mer överskådlig. Genom att förfina hur behörigheter fungerar i ärendehanteringen kan ni nu styra vem som har tillgång till känslig information med större precision. Dessutom har vi rensat i listorna så att du slipper se samma mottagare flera gånger, vilket gör det enklare att välja rätt person direkt.
 
 ## Så här gör du
 
