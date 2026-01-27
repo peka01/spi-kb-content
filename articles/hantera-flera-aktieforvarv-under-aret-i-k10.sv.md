@@ -9,33 +9,33 @@ format: md
 status: draft
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-23T13:49:32.184Z'
-updatedAt: '2026-01-27T10:31:19.487Z'
+updatedAt: '2026-01-27T10:47:31.290Z'
 publishedAt: null
-pendingReview: true
-reviewedAt: null
-lastLLMUpdateAt: '2026-01-27T10:31:19.421Z'
-currentVersion: 1
-updatedBy: Per.Karlsson@visma.com
-translationBase: {}
+pendingReview: false
+reviewedAt: '2026-01-27T10:47:31.219Z'
+lastLLMUpdateAt: null
 updatedByName: Per Karlsson
+updatedBy: Per.Karlsson@visma.com
+currentVersion: 1
 languageUpdatedAt:
   en: '2026-01-23T13:49:32.184Z'
   sv: '2026-01-23T13:49:32.184Z'
+translationBase: {}
 metadata:
   guidelineVersions:
-    article_matching: 1
-    instruction: 1
-    faq: 1
-    news: 3
-    getting_started: 2
     constitution: 1
     tone_voice: 1
+    getting_started: 2
+    faq: 1
+    article_matching: 1
+    news: 3
+    instruction: 1
 ---
 Här är en guide som förklarar hur du hanterar flera aktieförvärv i löneunderlaget för din K10-blankett.
 
 # Hantera flera aktieförvärv under året i K10
 
-Om du har köpt eller på annat sätt förvärvat aktier vid flera tillfällen under det föregående året, behöver detta redovisas korrekt för att ditt lönebaserade utrymme ska bli rätt. Från och med beskattningsåret 2025 har Visma stöd för att hantera upp till tre separata förvärvstillfällen direkt i löneunderlaget.
+Om du har köpt eller på annat sätt förvärvat aktier vid flera tillfällen under det föregående året, behöver detta redovisas korrekt för att ditt lönebaserade utrymme ska bli rätt. Från och med beskattningsåret 2025 har Spiris stöd för att hantera upp till tre separata förvärvstillfällen direkt i löneunderlaget.
 
 Detta gör att beräkningen blir mer exakt och att du slipper manuella uträkningar utanför plattformen.
 
