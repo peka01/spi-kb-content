@@ -9,31 +9,31 @@ format: md
 status: test
 folderId: SyxN5X57MPEqs9v8X1nA
 createdAt: '2026-01-21T09:11:50.791Z'
-updatedAt: '2026-01-27T15:24:12.461Z'
+updatedAt: '2026-01-27T18:42:54.091Z'
 publishedAt: null
 pendingReview: false
 reviewedAt: '2026-01-27T12:46:51.071Z'
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
-translationBase: {}
-currentVersion: 4
 updatedBy: per.karlsson@visma.com
+translationBase: {}
 languageUpdatedAt:
   sv: '2026-01-27T14:19:13.643Z'
+updatedByName: Per Karlsson
+currentVersion: 4
 metadata:
-  tags: []
-  guidelineVersions:
-    getting_started: 2
-    tone_voice: 1
-    constitution: 1
-    article_matching: 1
-    news: 3
-    faq: 1
-    instruction: 1
-  solution: Bokföring & Fakturering
   area2: ''
+  tags: []
   area1: ''
   visibility: public
+  solution: Bokföring & Fakturering
+  guidelineVersions:
+    constitution: 1
+    tone_voice: 1
+    getting_started: 2
+    faq: 1
+    news: 7
+    instruction: 1
+    article_matching: 1
 ---
 # Få bättre insikt med den uppdaterade Månadskollen
 
