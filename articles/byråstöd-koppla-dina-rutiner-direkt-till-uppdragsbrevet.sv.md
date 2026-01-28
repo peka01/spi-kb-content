@@ -9,38 +9,38 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-28T12:14:07.888Z'
-updatedAt: '2026-01-28T12:16:12.613Z'
+updatedAt: '2026-01-28T13:05:11.746Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  sv: '2026-01-28T12:15:08.239Z'
-  en: '2026-01-28T12:14:07.888Z'
-translationBase: {}
+currentVersion: 2
 updatedBy: per.karlsson@visma.com
 updatedByName: Per Karlsson
-currentVersion: 1
+languageUpdatedAt:
+  sv: '2026-01-28T13:04:38.636Z'
+  en: '2026-01-28T12:14:07.888Z'
+translationBase: {}
 metadata:
+  area2: ''
+  targetAudience: []
+  visibility: public
+  productId: QMHbkKwylPyan6DOYaLe
   guidelineVersions:
+    instruction: 1
+    faq: 1
     getting_started: 2
     news: 9
-    instruction: 1
-    constitution: 1
-    faq: 1
     tone_voice: 1
     article_matching: 1
+    constitution: 1
   solution: Byråstöd
-  area2: ''
-  productId: QMHbkKwylPyan6DOYaLe
-  visibility: public
   tags:
     - update
     - General
     - news
-  targetAudience: []
   area1: General
 ---
-# Koppla dina rutiner direkt till uppdragsbrevet
+# Koppla dina rutiner direkt till uppdragsbrev
 
 Nu blir det ännu enklare att hålla ordning på vad du och din kund har kommit överens om. Genom att koppla dina rutiner direkt till uppdragsbrevet i {{resource:Common_Company_Name_Short}} säkerställer du att det faktiska arbetet alltid går hand i hand med avtalet. När du skapar eller uppdaterar ett uppdragsbrev väljer du enkelt vilka rutiner som ska ingå, vilket gör att du får en tydlig röd tråd från första signatur till det löpande arbetet i vår ekonomiplattform.
 
