@@ -1,4 +1,5 @@
 ---
+id: mOq4O9sERA7C4zobhueT
 title: Connect routine to Engagement letter page (News)
 slug: General-connect-routine-to-engagement-letter-page-news
 languages:
@@ -6,28 +7,29 @@ languages:
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2026-01-28T12:04:35.252Z'
-updatedAt: '2026-01-28T12:04:35.252Z'
-id: mOq4O9sERA7C4zobhueT
+updatedAt: '2026-01-28T12:07:46.760Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: QMHbkKwylPyan6DOYaLe
-  solution: Byråstöd
-  area1: General
-  area2: ''
+  guidelineVersions:
+    constitution: 1
+    instruction: 1
+    faq: 1
+    article_matching: 1
+    getting_started: 2
+    tone_voice: 1
+    news: 9
   targetAudience: []
+  productId: QMHbkKwylPyan6DOYaLe
   tags:
     - update
     - General
     - news
-  guidelineVersions:
-    instruction: 1
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 7
-    article_matching: 1
-    tone_voice: 1
+  area2: ''
+  area1: General
+  solution: Byråstöd
 ---
 **Smidigare hantering av uppdragsbrev med kopplade rutiner**
 
