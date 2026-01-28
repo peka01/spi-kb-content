@@ -7,15 +7,12 @@ languages:
   - en
 format: md
 status: draft
-folderId: zBIiVCqNofH1c30iTZQz
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-28T12:14:07.888Z'
-updatedAt: '2026-01-28T14:05:29.530Z'
+updatedAt: '2026-01-28T14:05:47.408Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
-currentVersion: 5
-updatedBy: per.karlsson@visma.com
 translationBase:
   en: >-
     # Koppla dina rutiner direkt till uppdragsbrev
@@ -40,28 +37,31 @@ translationBase:
     * **Effektiv hantering integrerad i arbetsflödet** – Funktionen är
     lättillgänglig vid upprättande av uppdragsbrev, vilket möjliggör smidig
     koppling och administration av arbetsrutiner.
+updatedByName: Per Karlsson
+updatedBy: per.karlsson@visma.com
 languageUpdatedAt:
-  sv: '2026-01-28T13:27:07.201Z'
   en: '2026-01-28T13:27:07.201Z'
+  sv: '2026-01-28T13:27:07.201Z'
+currentVersion: 6
 metadata:
-  guidelineVersions:
-    instruction: 1
-    news: 9
-    article_matching: 1
-    constitution: 1
-    faq: 1
-    getting_started: 2
-    tone_voice: 1
-  productId: QMHbkKwylPyan6DOYaLe
+  area1: General
+  visibility: public
+  targetAudience: []
   area2: ''
+  solution: Byråstöd
+  productId: QMHbkKwylPyan6DOYaLe
+  guidelineVersions:
+    faq: 1
+    constitution: 1
+    article_matching: 1
+    tone_voice: 1
+    news: 9
+    instruction: 1
+    getting_started: 2
   tags:
     - update
     - General
     - news
-  area1: General
-  visibility: public
-  solution: Byråstöd
-  targetAudience: []
 ---
 # Koppla dina rutiner direkt till uppdragsbrev
 
