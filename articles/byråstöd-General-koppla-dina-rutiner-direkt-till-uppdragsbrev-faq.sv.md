@@ -6,15 +6,13 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: null
 createdAt: '2026-01-28T14:19:08.227Z'
-updatedAt: '2026-01-28T14:21:35.540Z'
+updatedAt: '2026-01-28T14:21:52.550Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
-updatedBy: per.karlsson@visma.com
 translationBase:
   en: >-
     # Koppla dina rutiner direkt till uppdragsbrev
@@ -80,28 +78,30 @@ translationBase:
     *   Se hur du arbetar effektivt med **Uppdragsbrev** i
     {{resource:Common_Company_Name_Short}}.
 updatedByName: Per Karlsson
+updatedBy: per.karlsson@visma.com
 languageUpdatedAt:
   sv: '2026-01-28T14:20:50.921Z'
   en: '2026-01-28T14:20:50.921Z'
+currentVersion: 1
 metadata:
-  productId: QMHbkKwylPyan6DOYaLe
   guidelineVersions:
-    instruction: 1
-    constitution: 1
     getting_started: 2
-    tone_voice: 1
-    article_matching: 1
-    news: 9
+    instruction: 1
     faq: 1
-  visibility: public
+    constitution: 1
+    article_matching: 1
+    tone_voice: 1
+    news: 9
   solution: Byråstöd
+  productId: QMHbkKwylPyan6DOYaLe
+  area2: ''
+  visibility: public
   tags:
     - update
     - General
     - faq
-  targetAudience: []
-  area2: ''
   area1: General
+  targetAudience: []
 ---
 # Koppla dina rutiner direkt till uppdragsbrev
 
