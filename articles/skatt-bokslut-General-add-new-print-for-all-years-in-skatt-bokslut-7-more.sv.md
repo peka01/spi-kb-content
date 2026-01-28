@@ -1,33 +1,44 @@
 ---
+id: T2H6OMx7qwxezvL03Q68
 title: Add new print for all years in Skatt & Bokslut (+7 more)
 slug: General-add-new-print-for-all-years-in-skatt-bokslut-7-more
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2026-01-28T07:50:47.333Z'
-updatedAt: '2026-01-28T07:50:47.333Z'
-id: T2H6OMx7qwxezvL03Q68
+updatedAt: '2026-01-28T07:52:57.862Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+languageUpdatedAt:
+  sv: '2026-01-28T07:52:26.866Z'
+  en: '2026-01-28T07:50:47.333Z'
+updatedBy: per.karlsson@visma.com
+updatedByName: Per Karlsson
+translationBase: {}
+currentVersion: 1
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
-  solution: Skatt & Bokslut
   area1: General
+  solution: Skatt & Bokslut
   area2: ''
-  targetAudience: []
   tags:
     - update
     - General
     - instruction
+  productId: H9lmIe7pbreUwWDp3K3X
+  visibility: public
   guidelineVersions:
-    instruction: 1
-    faq: 1
     constitution: 1
+    instruction: 1
     getting_started: 2
-    news: 7
-    article_matching: 1
     tone_voice: 1
+    article_matching: 1
+    news: 7
+    faq: 1
+  targetAudience: []
 ---
 # Exportera och arkivera företagets dokumentation
 
@@ -41,7 +52,7 @@ För att kunna exportera dokumentation behöver du ha behörighet att arbeta i *
 ## Så här gör du
 Följ dessa steg för att skapa din export:
 
-1. Gå till menyn och välj **Underhåll** – **Exportera data**.
+1. Gå till menyn och välj ****{{resource:Menu_title_Maintenance}}**** – **Exportera data**.
 2. Markera kryssrutan för **Dokumentation**.
 3. Under rubriken **Räkenskapsår**, klicka i rullistan och välj de år du vill inkludera i exporten. Om du vill exportera allt kan du välja alternativet **Alla år**.
 4. (Valfritt) Håll muspekaren över informationsikonen (tooltip) till höger om valet för dokumentation för att se detaljerad information om vad exporten innehåller och vilket format den levereras i.
