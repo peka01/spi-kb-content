@@ -9,14 +9,13 @@ format: md
 status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T14:13:25.133Z'
-updatedAt: '2026-01-29T14:21:34.608Z'
+updatedAt: '2026-01-29T14:21:53.169Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 2
 languageUpdatedAt:
-  en: '2026-01-29T14:16:17.087Z'
   sv: '2026-01-29T14:21:32.166Z'
+  en: '2026-01-29T14:21:32.166Z'
 updatedByName: Per Karlsson
 updatedBy: per.karlsson@visma.com
 translationBase:
@@ -30,8 +29,8 @@ translationBase:
     du nu enkelt lägga till dessa siffror manuellt direkt i årsredovisningen.
 
 
-    Detta gör att du kan färdigställa och skicka in en korrekt årsredovisning
-    även om historiken saknas i plattformen.
+    Detta gör att du kan göra klart och skicka in en korrekt årsredovisning även
+    om historiken saknas i plattformen.
 
 
     ## Förutsättningar
@@ -86,25 +85,26 @@ translationBase:
     * **Flerårsöversikt:** Eftersom systemet inte har bokföringsdata att hämta
     ifrån för de tidigare åren, behöver du även se över och fylla i värdena i
     **Flerårsöversikten** manuellt.
+currentVersion: 3
 metadata:
-  guidelineVersions:
-    faq: 1
-    tone_voice: 1
-    instruction: 1
-    constitution: 1
-    article_matching: 1
-    news: 9
-    getting_started: 2
+  targetAudience: []
+  area2: ''
+  solution: Skatt & Bokslut
+  area1: General
+  productId: H9lmIe7pbreUwWDp3K3X
   visibility: public
   tags:
     - instruction
     - update
     - General
-  area2: ''
-  area1: General
-  productId: H9lmIe7pbreUwWDp3K3X
-  solution: Skatt & Bokslut
-  targetAudience: []
+  guidelineVersions:
+    tone_voice: 1
+    article_matching: 1
+    constitution: 1
+    faq: 1
+    getting_started: 2
+    news: 9
+    instruction: 1
 ---
 # Lägg till föregående år manuellt i din årsredovisning
 
