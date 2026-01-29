@@ -6,31 +6,31 @@ languages:
   - sv
 format: md
 status: test
-folderId: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T18:11:18.691Z'
-updatedAt: '2026-01-29T18:11:51.165Z'
+updatedAt: '2026-01-29T18:12:12.210Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
   productId: H9lmIe7pbreUwWDp3K3X
-  area1: General
-  area2: ''
   tags:
     - update
     - General
     - news
-  guidelineVersions:
-    faq: 1
-    constitution: 1
-    news: 9
-    article_matching: 1
-    tone_voice: 1
-    getting_started: 2
-    instruction: 1
   targetAudience: []
   solution: Skatt & Bokslut
+  guidelineVersions:
+    instruction: 1
+    faq: 1
+    news: 9
+    tone_voice: 1
+    getting_started: 2
+    constitution: 1
+    article_matching: 1
+  area2: ''
+  area1: General
 ---
 # Smidigare arkivering med ny exportfunktion i Skatt & Bokslut
 
