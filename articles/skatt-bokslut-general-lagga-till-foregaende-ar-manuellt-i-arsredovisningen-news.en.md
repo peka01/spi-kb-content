@@ -6,16 +6,13 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T14:13:37.778Z'
-updatedAt: '2026-01-29T14:18:28.617Z'
+updatedAt: '2026-01-29T14:18:41.347Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 2
-updatedByName: Per Karlsson
-updatedBy: per.karlsson@visma.com
 translationBase:
   en: >-
     # Nu kan du lägga till föregående års siffror manuellt
@@ -43,26 +40,29 @@ translationBase:
     som uppfyller alla lagkrav, helt utan att behöva krångla med gamla
     importfiler i efterhand.
 languageUpdatedAt:
-  sv: '2026-01-29T14:18:00.311Z'
   en: '2026-01-29T14:18:00.311Z'
+  sv: '2026-01-29T14:18:00.311Z'
+updatedByName: Per Karlsson
+updatedBy: per.karlsson@visma.com
+currentVersion: 2
 metadata:
-  guidelineVersions:
-    getting_started: 2
-    tone_voice: 1
-    news: 9
-    faq: 1
-    constitution: 1
-    article_matching: 1
-    instruction: 1
-  solution: Skatt & Bokslut
   area2: ''
-  visibility: public
   targetAudience: []
-  productId: H9lmIe7pbreUwWDp3K3X
   tags:
     - news
     - update
     - General
+  productId: H9lmIe7pbreUwWDp3K3X
+  guidelineVersions:
+    news: 9
+    constitution: 1
+    faq: 1
+    getting_started: 2
+    instruction: 1
+    article_matching: 1
+    tone_voice: 1
+  solution: Skatt & Bokslut
+  visibility: public
   area1: General
 ---
 # Now you can add previous year's figures manually
