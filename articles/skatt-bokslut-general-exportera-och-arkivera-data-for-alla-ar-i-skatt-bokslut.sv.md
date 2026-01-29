@@ -9,15 +9,11 @@ format: md
 status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T16:40:46.194Z'
-updatedAt: '2026-01-29T16:48:49.601Z'
+updatedAt: '2026-01-29T16:51:55.623Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  sv: '2026-01-29T16:46:46.420Z'
-  en: '2026-01-29T16:46:46.420Z'
-updatedBy: per.karlsson@visma.com
-updatedByName: Per Karlsson
+currentVersion: 2
 translationBase:
   en: >-
     # Exportera och arkivera data för flera år i
@@ -106,25 +102,29 @@ translationBase:
     Genom att använda denna funktion sparar du tid och kan känna dig trygg med
     att din digitala arkivering sköts på ett strukturerat och säkert sätt i
     {{resource:Common_Company_Name_Short}}.
-currentVersion: 1
+updatedBy: per.karlsson@visma.com
+languageUpdatedAt:
+  sv: '2026-01-29T16:51:49.648Z'
+  en: '2026-01-29T16:46:46.420Z'
+updatedByName: Per Karlsson
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
   guidelineVersions:
+    constitution: 1
     tone_voice: 1
     getting_started: 2
+    instruction: 1
     faq: 1
     news: 9
-    instruction: 1
-    constitution: 1
     article_matching: 1
   targetAudience: []
+  area1: General
+  productId: H9lmIe7pbreUwWDp3K3X
+  area2: ''
   tags:
     - instruction
     - update
     - General
-  area1: General
   solution: Skatt & Bokslut
-  area2: ''
   visibility: public
 ---
 # Exportera och arkivera data för flera år i {{resource:common_product_name_variable_taxation_year_end_closing}}
@@ -144,7 +144,7 @@ För att uppfylla lagkrav på arkivering eller för att ha en lokal säkerhetsko
 2. Under rubriken för export väljer du alternativet **Dokumentation**. 
 3. I listan ****{{resource:Startpage_hdr_FinancialYear}}**** markerar du de år du vill inkludera i exporten. Du kan välja ett enskilt år, flera specifika år eller markera **Alla år**.
 4. Klicka på knappen ****{{resource:Maintenance_ExportData_hdr_Export}}****.
-5. En förloppsindikator visas medan exporten förbereds. Du kan fortsätta arbeta i plattformen under tiden.
+5. En progress bar visas medan exporten förbereds. Du kan fortsätta arbeta i plattformen under tiden.
 6. När exporten är klar får du en notis. Klicka på länken i notisen för att ladda ner ZIP-filen.
 
 ## Resultat
