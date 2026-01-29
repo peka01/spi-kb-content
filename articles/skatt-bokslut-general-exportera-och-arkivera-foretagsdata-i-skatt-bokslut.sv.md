@@ -6,10 +6,10 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: null
 createdAt: '2026-01-29T17:09:31.676Z'
-updatedAt: '2026-01-29T17:12:12.680Z'
+updatedAt: '2026-01-29T17:12:39.779Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
@@ -106,29 +106,29 @@ translationBase:
     exporten efter en liten stund.
 currentVersion: 2
 updatedBy: per.karlsson@visma.com
-updatedByName: Per Karlsson
 languageUpdatedAt:
-  sv: '2026-01-29T17:11:44.402Z'
   en: '2026-01-29T17:11:44.402Z'
+  sv: '2026-01-29T17:11:44.402Z'
+updatedByName: Per Karlsson
 metadata:
-  solution: Skatt & Bokslut
-  productId: H9lmIe7pbreUwWDp3K3X
-  visibility: public
   area1: General
-  guidelineVersions:
-    getting_started: 2
-    article_matching: 1
-    tone_voice: 1
-    constitution: 1
-    faq: 1
-    instruction: 1
-    news: 9
+  visibility: public
   targetAudience: []
   tags:
     - instruction
     - update
     - General
+  guidelineVersions:
+    constitution: 1
+    getting_started: 2
+    instruction: 1
+    tone_voice: 1
+    faq: 1
+    article_matching: 1
+    news: 9
+  solution: Skatt & Bokslut
   area2: ''
+  productId: H9lmIe7pbreUwWDp3K3X
 ---
 # Exportera och arkivera företagsdata i {{resource:common_product_name_variable_taxation_year_end_closing}}
 
