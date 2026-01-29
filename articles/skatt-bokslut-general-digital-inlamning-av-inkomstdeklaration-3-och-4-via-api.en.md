@@ -6,16 +6,13 @@ languages:
   - sv
   - en
 format: md
-status: draft
-folderId: null
+status: test
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T10:41:40.085Z'
-updatedAt: '2026-01-29T10:46:01.704Z'
+updatedAt: '2026-01-29T10:48:01.151Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  en: '2026-01-29T10:45:31.843Z'
-  sv: '2026-01-29T10:45:31.843Z'
 translationBase:
   en: >
     # Digital inlämning av INK3 och INK4 via API
@@ -51,28 +48,31 @@ translationBase:
 
     5.  Du slutför sedan inlämningen genom att signera deklarationen på
     Skatteverkets webbplats (Mina sidor) när överföringen är klar.
-updatedBy: per.karlsson@visma.com
-updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-29T10:45:31.843Z'
+  en: '2026-01-29T10:45:31.843Z'
 currentVersion: 2
+updatedByName: Per Karlsson
+updatedBy: per.karlsson@visma.com
 metadata:
+  productId: H9lmIe7pbreUwWDp3K3X
+  area2: ''
   area1: General
-  targetAudience: []
-  visibility: public
+  solution: Skatt & Bokslut
   tags:
     - instruction
     - update
     - General
-  solution: Skatt & Bokslut
-  productId: H9lmIe7pbreUwWDp3K3X
+  targetAudience: []
+  visibility: public
   guidelineVersions:
+    article_matching: 1
+    instruction: 1
+    getting_started: 2
     tone_voice: 1
     constitution: 1
     faq: 1
-    instruction: 1
-    article_matching: 1
-    getting_started: 2
     news: 9
-  area2: ''
 ---
 # Digital submission of INK3 and INK4 via API
 
