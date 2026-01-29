@@ -7,12 +7,16 @@ languages:
   - en
 format: md
 status: test
-folderId: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T17:09:31.676Z'
-updatedAt: '2026-01-29T17:12:39.779Z'
+updatedAt: '2026-01-29T17:15:04.205Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+updatedBy: per.karlsson@visma.com
+languageUpdatedAt:
+  sv: '2026-01-29T17:11:44.402Z'
+  en: '2026-01-29T17:11:44.402Z'
 translationBase:
   en: >-
     # Exportera och arkivera företagsdata i
@@ -105,29 +109,25 @@ translationBase:
     felmeddelande som förklarar att filen inte kunde skapas. Prova att starta om
     exporten efter en liten stund.
 currentVersion: 2
-updatedBy: per.karlsson@visma.com
-languageUpdatedAt:
-  en: '2026-01-29T17:11:44.402Z'
-  sv: '2026-01-29T17:11:44.402Z'
 updatedByName: Per Karlsson
 metadata:
-  area1: General
-  visibility: public
+  area2: ''
+  solution: Skatt & Bokslut
   targetAudience: []
   tags:
     - instruction
     - update
     - General
+  visibility: public
+  area1: General
   guidelineVersions:
-    constitution: 1
-    getting_started: 2
-    instruction: 1
-    tone_voice: 1
-    faq: 1
     article_matching: 1
+    instruction: 1
+    faq: 1
+    tone_voice: 1
     news: 9
-  solution: Skatt & Bokslut
-  area2: ''
+    getting_started: 2
+    constitution: 1
   productId: H9lmIe7pbreUwWDp3K3X
 ---
 # Exportera och arkivera företagsdata i {{resource:common_product_name_variable_taxation_year_end_closing}}
