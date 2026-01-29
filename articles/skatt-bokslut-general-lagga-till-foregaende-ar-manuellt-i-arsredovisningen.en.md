@@ -9,36 +9,53 @@ format: md
 status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T14:13:25.133Z'
-updatedAt: '2026-01-29T14:21:53.169Z'
+updatedAt: '2026-01-29T14:25:13.855Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 languageUpdatedAt:
-  sv: '2026-01-29T14:21:32.166Z'
-  en: '2026-01-29T14:21:32.166Z'
+  sv: '2026-01-29T14:24:34.992Z'
+  en: '2026-01-29T14:24:34.992Z'
 updatedByName: Per Karlsson
+currentVersion: 4
 updatedBy: per.karlsson@visma.com
 translationBase:
   en: >-
     # Lägg till föregående år manuellt i din årsredovisning
 
 
-    För att en årsredovisning ska vara korrekt enligt årsredovisningslagen (ÅRL)
-    behöver den innehålla jämförelsetal från föregående år. Om du är ny
-    användare i Spiris och inte har läst in bokföringsdata för tidigare år, kan
-    du nu enkelt lägga till dessa siffror manuellt direkt i årsredovisningen.
+    Enligt lag måste en årsredovisning innehålla siffror från föregående år så
+    att det går att följa företagets utveckling.
 
 
-    Detta gör att du kan göra klart och skicka in en korrekt årsredovisning även
-    om historiken saknas i plattformen.
+    Om du är ny i Spiris och saknar historisk bokföringsdata (exempelvis via en
+    SIE-fil), kan du skriva in dessa siffror manuellt. Det är användbart om du
+    precis har bytt system eller saknar digitala filer men har förra årets
+    årsredovisning på papper eller PDF.
+
+
+    I årsredovisningsvyn ser du kolumner för både aktuellt år och jämförelseår.
+    Klicka direkt i fälten för jämförelseåret och fyll i beloppen från den
+    tidigare fastställda balans- och resultaträkningen.
+
+
+    **Exempel på poster att fylla i:**
+
+    *   **Nettoomsättning:** Total försäljning från föregående år.
+
+    *   **Eget kapital:** Aktiekapital och vinst/förlust från föregående år.
+
+    *   **Anläggningstillgångar:** Värdet på exempelvis maskiner och inventarier
+    vid förra årets slut.
+
+
+    Genom att lägga till dessa siffror blir din årsredovisning komplett och
+    följer gällande regler.
 
 
     ## Förutsättningar
 
-    För att kunna lägga till föregående år manuellt behöver följande stämma:
-
-    * Ingen bokföringsdata (via SIE-fil eller direktkoppling) finns inläst för
-    det föregående året.
+    * Ingen bokföringsdata finns inläst för det föregående året. året.
 
     * Företagets bildandedatum är satt till ett datum som ligger före det
     aktuella räkenskapsåret.
@@ -85,37 +102,44 @@ translationBase:
     * **Flerårsöversikt:** Eftersom systemet inte har bokföringsdata att hämta
     ifrån för de tidigare åren, behöver du även se över och fylla i värdena i
     **Flerårsöversikten** manuellt.
-currentVersion: 3
 metadata:
-  targetAudience: []
-  area2: ''
-  solution: Skatt & Bokslut
-  area1: General
-  productId: H9lmIe7pbreUwWDp3K3X
   visibility: public
+  guidelineVersions:
+    getting_started: 2
+    article_matching: 1
+    faq: 1
+    tone_voice: 1
+    news: 9
+    instruction: 1
+    constitution: 1
+  solution: Skatt & Bokslut
+  productId: H9lmIe7pbreUwWDp3K3X
+  targetAudience: []
+  area1: General
   tags:
     - instruction
     - update
     - General
-  guidelineVersions:
-    tone_voice: 1
-    article_matching: 1
-    constitution: 1
-    faq: 1
-    getting_started: 2
-    news: 9
-    instruction: 1
+  area2: ''
 ---
 # Add the previous year manually to your annual report
 
-For an annual report to be correct according to the Annual Accounts Act (ÅRL), it must contain comparative figures from the previous year. If you are a new user in Spiris and have not imported accounting data for previous years, you can now easily add these figures manually directly in the annual report.
+By law, an annual report must include figures from the previous year so that the company's development can be followed.
 
-This allows you to complete and submit a correct annual report even if the history is missing from the platform.
+If you are new to Spiris and lack historical accounting data (for example, via a SIE file), you can enter these figures manually. This is useful if you have just switched systems or lack digital files but have last year's annual report on paper or as a PDF.
+
+In the annual report view, you will see columns for both the current year and the comparative year. Click directly in the fields for the comparative year and fill in the amounts from the previously established balance sheet and income statement.
+
+**Examples of items to fill in:**
+*   **Net sales:** Total sales from the previous year.
+*   **Equity:** Share capital and profit/loss from the previous year.
+*   **Fixed assets:** The value of, for example, machinery and equipment at the end of last year.
+
+By adding these figures, your annual report becomes complete and complies with current regulations.
 
 ## Prerequisites
-To be able to add the previous year manually, the following must be true:
-* No accounting data (via SIE file or direct connection) has been imported for the previous year.
-* The company's formation date is set to a date prior to the current financial year.
+* No accounting data has been imported for the previous year.
+* The company's formation date is set to a date prior to the current fiscal year.
 
 ## How to do it
 
