@@ -1,33 +1,35 @@
 ---
+id: J343Q6pNNhOtQxSsRtAm
 title: Lägga till föregående år manuellt i årsredovisningen
 slug: general-lagga-till-foregaende-ar-manuellt-i-arsredovisningen-news
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T14:13:37.778Z'
-updatedAt: '2026-01-29T14:13:37.778Z'
-id: J343Q6pNNhOtQxSsRtAm
+updatedAt: '2026-01-29T14:17:29.655Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
-  solution: Skatt & Bokslut
-  area1: General
-  area2: ''
   targetAudience: []
+  area2: ''
   tags:
     - update
     - General
     - news
+  productId: H9lmIe7pbreUwWDp3K3X
+  solution: Skatt & Bokslut
+  area1: General
   guidelineVersions:
-    instruction: 1
-    faq: 1
-    constitution: 1
-    getting_started: 2
     news: 9
     article_matching: 1
+    faq: 1
     tone_voice: 1
+    instruction: 1
+    getting_started: 2
+    constitution: 1
 ---
 # Nu kan du lägga till föregående års siffror manuellt
 
