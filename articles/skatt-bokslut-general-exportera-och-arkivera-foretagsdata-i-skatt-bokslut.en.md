@@ -9,25 +9,22 @@ format: md
 status: draft
 folderId: null
 createdAt: '2026-01-29T17:09:31.676Z'
-updatedAt: '2026-01-29T17:11:07.639Z'
+updatedAt: '2026-01-29T17:12:12.680Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
-updatedByName: Per Karlsson
-languageUpdatedAt:
-  sv: '2026-01-29T17:10:30.405Z'
-  en: '2026-01-29T17:10:30.405Z'
 translationBase:
   en: >-
-    # Exportera och arkivera företagsdata i Skatt & Bokslut
+    # Exportera och arkivera företagsdata i
+    {{resource:common_product_name_variable_taxation_year_end_closing}}
 
 
     Här får du lära dig hur du exporterar och arkiverar all dokumentation för
-    ditt företag i Skatt & Bokslut. Denna funktion är framtagen för att du
-    enkelt ska kunna spara ner dina underlag enligt lagstadgade krav på
-    arkivering, eller för att ha en säkerhetskopia om du planerar att avsluta
-    ditt abonnemang.
+    ditt företag i
+    {{resource:common_product_name_variable_taxation_year_end_closing}}. Denna
+    funktion är framtagen för att du enkelt ska kunna spara ner dina underlag
+    enligt lagstadgade krav på arkivering, eller för att ha en säkerhetskopia om
+    du planerar att avsluta ditt abonnemang.
 
 
     ## Introduktion
@@ -45,7 +42,8 @@ translationBase:
     ## Förutsättningar
 
     För att kunna genomföra exporten behöver du ha behörighet att arbeta i den
-    aktuella klienten i Skatt & Bokslut.
+    aktuella klienten i
+    {{resource:common_product_name_variable_taxation_year_end_closing}}.
 
 
     ## Så här gör du
@@ -106,30 +104,35 @@ translationBase:
     *   **Exporten misslyckas helt:** Om ett allvarligt fel uppstår visas ett
     felmeddelande som förklarar att filen inte kunde skapas. Prova att starta om
     exporten efter en liten stund.
+currentVersion: 2
 updatedBy: per.karlsson@visma.com
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-29T17:11:44.402Z'
+  en: '2026-01-29T17:11:44.402Z'
 metadata:
+  solution: Skatt & Bokslut
+  productId: H9lmIe7pbreUwWDp3K3X
+  visibility: public
   area1: General
+  guidelineVersions:
+    getting_started: 2
+    article_matching: 1
+    tone_voice: 1
+    constitution: 1
+    faq: 1
+    instruction: 1
+    news: 9
+  targetAudience: []
   tags:
     - instruction
     - update
     - General
-  solution: Skatt & Bokslut
-  targetAudience: []
-  productId: H9lmIe7pbreUwWDp3K3X
   area2: ''
-  guidelineVersions:
-    faq: 1
-    article_matching: 1
-    instruction: 1
-    getting_started: 2
-    tone_voice: 1
-    constitution: 1
-    news: 9
-  visibility: public
 ---
-# Export and archive company data in Skatt & Bokslut
+# Export and archive company data in {{resource:common_product_name_variable_taxation_year_end_closing}}
 
-Here you will learn how to export and archive all documentation for your company in Skatt & Bokslut. This function is designed to allow you to easily save your documentation in accordance with statutory archiving requirements, or to have a backup if you plan to cancel your subscription.
+Here you will learn how to export and archive all documentation for your company in {{resource:common_product_name_variable_taxation_year_end_closing}}. This feature is designed to allow you to easily save your documentation in accordance with statutory archiving requirements, or to have a backup if you plan to cancel your subscription.
 
 ## Introduction
 By using the export function, the platform creates a structured ZIP file containing PDF documents for the years and periods you select. The documentation is automatically organized into folders, making it easy to find the correct records afterwards.
@@ -137,7 +140,7 @@ By using the export function, the platform creates a structured ZIP file contain
 This function is available to those with an active subscription, as well as those in read-only mode.
 
 ## Prerequisites
-To perform the export, you must have permission to work in the relevant client in Skatt & Bokslut.
+To be able to perform the export, you must have permission to work in the relevant client in {{resource:common_product_name_variable_taxation_year_end_closing}}.
 
 ## How to do it
 Follow these steps to export your company data:
