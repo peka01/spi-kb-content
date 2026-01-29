@@ -6,31 +6,31 @@ languages:
   - sv
 format: md
 status: test
-folderId: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T18:11:08.137Z'
-updatedAt: '2026-01-29T18:11:53.466Z'
+updatedAt: '2026-01-29T18:12:09.455Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
+  area1: General
+  productId: H9lmIe7pbreUwWDp3K3X
+  area2: ''
+  targetAudience: []
+  solution: Skatt & Bokslut
   tags:
     - update
     - General
     - instruction
   guidelineVersions:
+    faq: 1
     article_matching: 1
+    tone_voice: 1
+    constitution: 1
     news: 9
     getting_started: 2
-    tone_voice: 1
     instruction: 1
-    constitution: 1
-    faq: 1
-  targetAudience: []
-  solution: Skatt & Bokslut
-  productId: H9lmIe7pbreUwWDp3K3X
-  area1: General
-  area2: ''
 ---
 # Exportera och arkivera data från Skatt & Bokslut
 
