@@ -5,31 +5,31 @@ slug: general-hantera-paminnelser-med-visma-amili
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2026-01-29T16:04:21.796Z'
-updatedAt: '2026-01-29T16:08:16.913Z'
+updatedAt: '2026-01-29T17:57:07.667Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
+  area1: General
+  guidelineVersions:
+    constitution: 1
+    tone_voice: 1
+    article_matching: 1
+    news: 9
+    instruction: 1
+    faq: 1
+    getting_started: 2
   tags:
     - update
     - General
     - instruction
-  solution: Bokföring & Fakturering
-  guidelineVersions:
-    getting_started: 2
-    constitution: 1
-    faq: 1
-    article_matching: 1
-    tone_voice: 1
-    instruction: 1
-    news: 9
-  targetAudience: []
-  area1: General
   area2: ''
   productId: gJyQghcyd6TSzpL7kq5e
+  targetAudience: []
+  solution: Bokföring & Fakturering
 ---
 # Hantera påminnelser smidigt med Visma Amili
 
