@@ -1,33 +1,44 @@
 ---
+id: gTVIxgs0Yt1qKUYnsniS
 title: Exportera data för arkivering i Skatt & Bokslut
 slug: General-exportera-data-för-arkivering-i-skatt-bokslut
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-publishedAt: null
 createdAt: '2026-01-29T10:12:33.357Z'
-updatedAt: '2026-01-29T10:12:33.357Z'
-id: gTVIxgs0Yt1qKUYnsniS
+updatedAt: '2026-01-29T10:13:51.755Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+updatedBy: per.karlsson@visma.com
+languageUpdatedAt:
+  sv: '2026-01-29T10:13:27.521Z'
+  en: '2026-01-29T10:12:33.357Z'
+currentVersion: 1
+translationBase: {}
+updatedByName: Per Karlsson
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
   solution: Skatt & Bokslut
-  area1: General
-  area2: ''
-  targetAudience: []
   tags:
+    - instruction
     - update
     - General
-    - instruction
+  area2: ''
+  targetAudience: []
+  visibility: public
+  area1: General
   guidelineVersions:
-    instruction: 1
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 9
-    article_matching: 1
     tone_voice: 1
+    instruction: 1
+    article_matching: 1
+    news: 9
+    constitution: 1
+    faq: 1
+    getting_started: 2
+  productId: H9lmIe7pbreUwWDp3K3X
 ---
 # Exportera data för arkivering
 
@@ -44,12 +55,12 @@ Exporten inkluderar perioder där det finns:
 ## Förutsättningar
 För att kunna exportera data behöver du:
 * Ha ett aktivt abonnemang eller ha din plattform i läsläge (Read-only).
-* Ha behörighet att komma åt menyn för underhåll.
+* Ha behörighet att komma åt menyn för **{{resource:Menu_title_Maintenance}}**.
 
 ## Så här gör du
 Följ dessa steg för att generera din export:
 
-1. Navigera till menyn **Underhåll** och välj **Exportera data**.
+1. Navigera till menyn ****{{resource:Menu_title_Maintenance}}**** och välj **Exportera data**.
 2. Markera alternativet **Dokumentation**.
    * *Tips: Du kan föra muspekaren över informationssymbolen bredvid texten för att se detaljerad information om vad exporten innehåller, såsom skatteberäkningar, årsredovisningsunderlag och avstämningar.*
 3. Under rubriken **Räkenskapsår**, klicka i rullistan och markera de år du vill inkludera. Om du vill exportera all tillgänglig data väljer du **Alla år**.
