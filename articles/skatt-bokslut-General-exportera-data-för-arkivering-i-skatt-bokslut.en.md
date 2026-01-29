@@ -7,18 +7,18 @@ languages:
   - en
 format: md
 status: test
-folderId: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T09:41:22.369Z'
-updatedAt: '2026-01-29T09:49:09.528Z'
+updatedAt: '2026-01-29T09:50:12.121Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedByName: Per Karlsson
-currentVersion: 2
-languageUpdatedAt:
-  en: '2026-01-29T09:44:02.829Z'
-  sv: '2026-01-29T09:44:02.829Z'
 updatedBy: per.karlsson@visma.com
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-29T09:44:02.829Z'
+  en: '2026-01-29T09:44:02.829Z'
+currentVersion: 2
 translationBase:
   en: >-
     # Exportera data för arkivering i Skatt & Bokslut
@@ -107,23 +107,23 @@ translationBase:
     markeringar eller kommentarer finns för de valda åren) får du ett meddelande
     om att exporten misslyckades på grund av saknat innehåll.
 metadata:
-  guidelineVersions:
-    article_matching: 1
-    constitution: 1
-    news: 9
-    faq: 1
-    getting_started: 2
-    instruction: 1
-    tone_voice: 1
-  visibility: public
-  solution: Skatt & Bokslut
-  targetAudience: []
   tags:
     - instruction
     - update
     - General
-  area1: General
   productId: H9lmIe7pbreUwWDp3K3X
+  solution: Skatt & Bokslut
+  area1: General
+  guidelineVersions:
+    instruction: 1
+    article_matching: 1
+    getting_started: 2
+    constitution: 1
+    faq: 1
+    tone_voice: 1
+    news: 9
+  targetAudience: []
+  visibility: public
   area2: ''
 ---
 # Export data for archiving in Tax & Closing
