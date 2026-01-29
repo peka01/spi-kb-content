@@ -1,33 +1,35 @@
 ---
+id: ALhokLHBB4FApKCaxOP9
 title: 'Digital inlämning av inkomstdeklaration 3 och 4 (HB, ST och IF) via API'
 slug: General-digital-inlämning-av-inkomstdeklaration-3-och-4-hb-st-och-if-via-api
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T07:56:55.848Z'
-updatedAt: '2026-01-29T07:56:55.848Z'
-id: ALhokLHBB4FApKCaxOP9
+updatedAt: '2026-01-29T08:41:40.821Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
   solution: Skatt & Bokslut
-  area1: General
   area2: ''
   targetAudience: []
+  area1: General
+  guidelineVersions:
+    article_matching: 1
+    getting_started: 2
+    news: 9
+    tone_voice: 1
+    constitution: 1
+    instruction: 1
+    faq: 1
+  productId: H9lmIe7pbreUwWDp3K3X
   tags:
     - update
     - General
     - instruction
-  guidelineVersions:
-    instruction: 1
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 9
-    article_matching: 1
-    tone_voice: 1
 ---
 # Digital inlämning av INK3 och INK4 via API
 
