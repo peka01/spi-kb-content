@@ -7,16 +7,18 @@ languages:
   - en
 format: md
 status: draft
-folderId: d36dixyvClY1a3eN6fvb
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T14:13:25.133Z'
-updatedAt: '2026-01-29T14:17:03.741Z'
+updatedAt: '2026-01-29T14:17:24.308Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+updatedBy: per.karlsson@visma.com
 languageUpdatedAt:
-  en: '2026-01-29T14:16:17.087Z'
   sv: '2026-01-29T14:16:17.087Z'
+  en: '2026-01-29T14:16:17.087Z'
 currentVersion: 1
+updatedByName: Per Karlsson
 translationBase:
   en: >-
     # Lägg till föregående år manuellt i din årsredovisning
@@ -84,27 +86,25 @@ translationBase:
     * **Flerårsöversikt:** Eftersom systemet inte har bokföringsdata att hämta
     ifrån för de tidigare åren, behöver du även se över och fylla i värdena i
     **Flerårsöversikten** manuellt.
-updatedByName: Per Karlsson
-updatedBy: per.karlsson@visma.com
 metadata:
   productId: H9lmIe7pbreUwWDp3K3X
+  area1: General
+  solution: Skatt & Bokslut
+  targetAudience: []
+  area2: ''
+  visibility: public
   tags:
     - instruction
     - update
     - General
   guidelineVersions:
-    constitution: 1
     getting_started: 2
+    tone_voice: 1
+    constitution: 1
     article_matching: 1
+    news: 9
     faq: 1
     instruction: 1
-    tone_voice: 1
-    news: 9
-  visibility: public
-  area2: ''
-  area1: General
-  targetAudience: []
-  solution: Skatt & Bokslut
 ---
 # Lägg till föregående år manuellt i din årsredovisning
 
