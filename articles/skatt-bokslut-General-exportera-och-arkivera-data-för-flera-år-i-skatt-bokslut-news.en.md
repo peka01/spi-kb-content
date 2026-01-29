@@ -6,13 +6,16 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: null
 createdAt: '2026-01-29T10:25:15.550Z'
-updatedAt: '2026-01-29T10:27:34.019Z'
+updatedAt: '2026-01-29T10:28:01.267Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+languageUpdatedAt:
+  sv: '2026-01-29T10:27:03.029Z'
+  en: '2026-01-29T10:27:03.029Z'
 currentVersion: 1
 updatedBy: per.karlsson@visma.com
 updatedByName: Per Karlsson
@@ -41,28 +44,25 @@ translationBase:
     historik eller behöver förbereda material inför ett avslutat abonnemang, och
     funktionen är tillgänglig oavsett om du arbetar aktivt i plattformen eller
     befinner dig i läsläge.
-languageUpdatedAt:
-  sv: '2026-01-29T10:27:03.029Z'
-  en: '2026-01-29T10:27:03.029Z'
 metadata:
-  tags:
-    - news
-    - update
-    - General
   targetAudience: []
-  solution: Skatt & Bokslut
+  productId: H9lmIe7pbreUwWDp3K3X
   area1: General
   visibility: public
-  productId: H9lmIe7pbreUwWDp3K3X
   area2: ''
   guidelineVersions:
     instruction: 1
     tone_voice: 1
-    getting_started: 2
     constitution: 1
-    faq: 1
-    news: 9
     article_matching: 1
+    news: 9
+    faq: 1
+    getting_started: 2
+  solution: Skatt & Bokslut
+  tags:
+    - news
+    - update
+    - General
 ---
 # Export and archive data for multiple years simultaneously
 
