@@ -6,18 +6,18 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T14:13:25.133Z'
-updatedAt: '2026-01-29T14:17:24.308Z'
+updatedAt: '2026-01-29T14:18:43.846Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedBy: per.karlsson@visma.com
 languageUpdatedAt:
   sv: '2026-01-29T14:16:17.087Z'
   en: '2026-01-29T14:16:17.087Z'
 currentVersion: 1
+updatedBy: per.karlsson@visma.com
 updatedByName: Per Karlsson
 translationBase:
   en: >-
@@ -88,23 +88,23 @@ translationBase:
     **Flerårsöversikten** manuellt.
 metadata:
   productId: H9lmIe7pbreUwWDp3K3X
-  area1: General
   solution: Skatt & Bokslut
+  area1: General
   targetAudience: []
-  area2: ''
-  visibility: public
   tags:
     - instruction
     - update
     - General
+  area2: ''
+  visibility: public
   guidelineVersions:
-    getting_started: 2
+    instruction: 1
     tone_voice: 1
-    constitution: 1
+    faq: 1
     article_matching: 1
     news: 9
-    faq: 1
-    instruction: 1
+    getting_started: 2
+    constitution: 1
 ---
 # Lägg till föregående år manuellt i din årsredovisning
 
