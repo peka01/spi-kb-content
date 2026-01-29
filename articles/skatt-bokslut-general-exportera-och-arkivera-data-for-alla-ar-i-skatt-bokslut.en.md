@@ -7,12 +7,13 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T16:40:46.194Z'
-updatedAt: '2026-01-29T16:48:11.083Z'
+updatedAt: '2026-01-29T16:48:30.891Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+currentVersion: 1
 translationBase:
   en: >-
     # Exportera och arkivera data för flera år i
@@ -101,31 +102,30 @@ translationBase:
     Genom att använda denna funktion sparar du tid och kan känna dig trygg med
     att din digitala arkivering sköts på ett strukturerat och säkert sätt i
     {{resource:Common_Company_Name_Short}}.
-currentVersion: 1
+updatedByName: Per Karlsson
 updatedBy: per.karlsson@visma.com
 languageUpdatedAt:
-  en: '2026-01-29T16:46:46.420Z'
   sv: '2026-01-29T16:46:46.420Z'
-updatedByName: Per Karlsson
+  en: '2026-01-29T16:46:46.420Z'
 metadata:
+  visibility: public
+  productId: H9lmIe7pbreUwWDp3K3X
+  guidelineVersions:
+    faq: 1
+    news: 9
+    tone_voice: 1
+    instruction: 1
+    article_matching: 1
+    constitution: 1
+    getting_started: 2
+  targetAudience: []
   area1: General
+  solution: Skatt & Bokslut
+  area2: ''
   tags:
     - instruction
     - update
     - General
-  solution: Skatt & Bokslut
-  area2: ''
-  productId: H9lmIe7pbreUwWDp3K3X
-  guidelineVersions:
-    constitution: 1
-    instruction: 1
-    tone_voice: 1
-    news: 9
-    faq: 1
-    getting_started: 2
-    article_matching: 1
-  visibility: public
-  targetAudience: []
 ---
 # Export and archive data for multiple years in {{resource:common_product_name_variable_taxation_year_end_closing}}
 
