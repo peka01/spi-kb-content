@@ -1,34 +1,36 @@
 ---
+id: mwGvOh0vhONDfEMpFUie
 title: Exportera och arkivera företagsdata i Skatt & Bokslut
 slug: general-exportera-och-arkivera-foretagsdata-i-skatt-bokslut-news
 languages:
   - sv
 format: md
-status: draft
-folderId: null
-currentVersion: 1
-publishedAt: null
+status: test
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T17:09:41.660Z'
-updatedAt: '2026-01-29T17:09:41.660Z'
-id: mwGvOh0vhONDfEMpFUie
+updatedAt: '2026-01-29T17:15:00.704Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
-  solution: Skatt & Bokslut
-  area1: General
   area2: ''
-  targetAudience: []
   tags:
     - update
     - General
     - news
+  solution: Skatt & Bokslut
+  area1: General
   guidelineVersions:
-    instruction: 1
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 9
-    article_matching: 1
     tone_voice: 1
+    article_matching: 1
+    constitution: 1
+    instruction: 1
+    news: 9
+    faq: 1
+    getting_started: 2
+  productId: H9lmIe7pbreUwWDp3K3X
+  targetAudience: []
 ---
 # Exportera och arkivera företagsdata i Skatt & Bokslut
 
