@@ -6,30 +6,30 @@ languages:
   - sv
 format: md
 status: draft
-folderId: vZ6IMwn3WcrkxEemzXO8
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T14:13:25.133Z'
-updatedAt: '2026-01-29T14:14:57.617Z'
+updatedAt: '2026-01-29T14:14:59.467Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  area2: ''
-  solution: Skatt & Bokslut
-  productId: H9lmIe7pbreUwWDp3K3X
   tags:
     - update
     - General
     - instruction
   area1: General
+  area2: ''
   targetAudience: []
+  productId: H9lmIe7pbreUwWDp3K3X
+  solution: Skatt & Bokslut
   guidelineVersions:
+    article_matching: 1
     faq: 1
-    tone_voice: 1
-    constitution: 1
-    news: 9
     getting_started: 2
     instruction: 1
-    article_matching: 1
+    tone_voice: 1
+    news: 9
+    constitution: 1
 ---
 # Lägg till föregående år manuellt i din årsredovisning
 
