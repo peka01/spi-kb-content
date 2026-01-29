@@ -1,4 +1,5 @@
 ---
+id: imHw3yxaowiLq8eb7SSK
 title: 'Digital inlämning av inkomstdeklaration 3 och 4 (HB, ST och IF) via API'
 slug: >-
   General-digital-inlämning-av-inkomstdeklaration-3-och-4-hb-st-och-if-via-api-news
@@ -6,29 +7,30 @@ languages:
   - sv
 format: md
 status: draft
-folderId: null
-publishedAt: null
+folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T07:57:16.091Z'
-updatedAt: '2026-01-29T07:57:16.091Z'
-id: imHw3yxaowiLq8eb7SSK
+updatedAt: '2026-01-29T08:41:38.454Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
-  solution: Skatt & Bokslut
-  area1: General
   area2: ''
   targetAudience: []
+  solution: Skatt & Bokslut
   tags:
     - update
     - General
     - news
+  productId: H9lmIe7pbreUwWDp3K3X
   guidelineVersions:
-    instruction: 1
-    faq: 1
+    tone_voice: 1
+    article_matching: 1
+    news: 9
     constitution: 1
     getting_started: 2
-    news: 9
-    article_matching: 1
-    tone_voice: 1
+    faq: 1
+    instruction: 1
+  area1: General
 ---
 # Nu kan du lämna in inkomstdeklaration 3 och 4 digitalt via API
 
