@@ -7,29 +7,29 @@ languages:
   - sv
 format: md
 status: draft
-folderId: vZ6IMwn3WcrkxEemzXO8
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T07:57:16.091Z'
-updatedAt: '2026-01-29T08:41:38.454Z'
+updatedAt: '2026-01-29T08:41:45.785Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
+  solution: Skatt & Bokslut
   area2: ''
   targetAudience: []
-  solution: Skatt & Bokslut
+  productId: H9lmIe7pbreUwWDp3K3X
   tags:
     - update
     - General
     - news
-  productId: H9lmIe7pbreUwWDp3K3X
   guidelineVersions:
-    tone_voice: 1
-    article_matching: 1
-    news: 9
-    constitution: 1
-    getting_started: 2
     faq: 1
+    getting_started: 2
+    constitution: 1
+    article_matching: 1
     instruction: 1
+    tone_voice: 1
+    news: 9
   area1: General
 ---
 # Nu kan du lämna in inkomstdeklaration 3 och 4 digitalt via API
