@@ -6,40 +6,40 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: null
 createdAt: '2026-01-29T12:25:01.161Z'
-updatedAt: '2026-01-29T12:32:53.069Z'
+updatedAt: '2026-01-29T12:33:29.206Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 updatedBy: per.karlsson@visma.com
-currentVersion: 1
-updatedByName: Per Karlsson
 translationBase: {}
+updatedByName: Per Karlsson
+currentVersion: 1
 languageUpdatedAt:
   en: '2026-01-29T12:25:01.161Z'
   sv: '2026-01-29T12:25:01.161Z'
 metadata:
-  targetAudience: []
-  visibility: public
   area1: General
-  guidelineVersions:
-    constitution: 1
-    faq: 1
-    instruction: 1
-    news: 9
-    tone_voice: 1
-    article_matching: 1
-    getting_started: 2
   tags:
     - instruction
     - update
     - General
     - custom
-  area2: ''
-  productId: H9lmIe7pbreUwWDp3K3X
   solution: Skatt & Bokslut
+  productId: H9lmIe7pbreUwWDp3K3X
+  area2: ''
+  targetAudience: []
+  visibility: public
+  guidelineVersions:
+    news: 9
+    article_matching: 1
+    faq: 1
+    tone_voice: 1
+    instruction: 1
+    getting_started: 2
+    constitution: 1
 ---
 Här är ett förslag på ett engagerande foruminlägg baserat på din information.
 
