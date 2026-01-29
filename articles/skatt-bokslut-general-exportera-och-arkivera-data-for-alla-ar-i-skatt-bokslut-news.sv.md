@@ -5,32 +5,32 @@ slug: general-exportera-och-arkivera-data-for-alla-ar-i-skatt-bokslut-news
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T16:40:56.130Z'
-updatedAt: '2026-01-29T16:48:40.945Z'
+updatedAt: '2026-01-29T16:48:44.589Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 currentVersion: 1
 metadata:
-  area1: General
-  guidelineVersions:
-    faq: 1
-    instruction: 1
-    tone_voice: 1
-    news: 9
-    constitution: 1
-    article_matching: 1
-    getting_started: 2
   targetAudience: []
-  productId: H9lmIe7pbreUwWDp3K3X
   tags:
     - update
     - General
     - news
+  guidelineVersions:
+    constitution: 1
+    news: 9
+    article_matching: 1
+    tone_voice: 1
+    faq: 1
+    instruction: 1
+    getting_started: 2
   area2: ''
+  area1: General
   solution: Skatt & Bokslut
+  productId: H9lmIe7pbreUwWDp3K3X
 ---
 # Exportera och arkivera data för alla år i Skatt & Bokslut
 
