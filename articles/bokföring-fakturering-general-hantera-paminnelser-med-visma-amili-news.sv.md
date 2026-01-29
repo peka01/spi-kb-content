@@ -7,38 +7,38 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: t5C3XTnFg2qDzQ0j9VPb
 createdAt: '2026-01-29T16:04:30.166Z'
-updatedAt: '2026-01-29T16:07:51.890Z'
+updatedAt: '2026-01-29T16:08:06.146Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
-translationBase: {}
-languageUpdatedAt:
-  en: '2026-01-29T16:04:30.166Z'
-  sv: '2026-01-29T16:06:41.595Z'
 updatedByName: Andreas Nogander
+languageUpdatedAt:
+  sv: '2026-01-29T16:06:41.595Z'
+  en: '2026-01-29T16:04:30.166Z'
 updatedBy: andreas.nogander@visma.com
+translationBase: {}
+currentVersion: 1
 metadata:
-  visibility: public
+  guidelineVersions:
+    tone_voice: 1
+    getting_started: 2
+    article_matching: 1
+    constitution: 1
+    news: 9
+    faq: 1
+    instruction: 1
+  targetAudience: []
+  area2: ''
   productId: gJyQghcyd6TSzpL7kq5e
   area1: General
-  area2: ''
-  solution: Bokföring & Fakturering
-  guidelineVersions:
-    instruction: 1
-    getting_started: 2
-    constitution: 1
-    article_matching: 1
-    news: 9
-    tone_voice: 1
-    faq: 1
-  targetAudience: []
+  visibility: public
   tags:
     - news
     - update
     - General
+  solution: Bokföring & Fakturering
 ---
 # Hantera påminnelser smidigare med {{resource:common_product_name_variable_amili}}
 
