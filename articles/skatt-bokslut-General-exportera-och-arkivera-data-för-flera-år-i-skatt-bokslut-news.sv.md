@@ -9,14 +9,13 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T10:25:15.550Z'
-updatedAt: '2026-01-29T10:32:39.925Z'
+updatedAt: '2026-01-29T10:33:02.074Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 2
-languageUpdatedAt:
-  sv: '2026-01-29T10:32:37.893Z'
-  en: '2026-01-29T10:27:03.029Z'
+updatedBy: per.karlsson@visma.com
+updatedByName: Per Karlsson
+currentVersion: 3
 translationBase:
   en: >-
     # Exportera och arkivera data för flera år samtidigt
@@ -42,27 +41,28 @@ translationBase:
     historik eller behöver förbereda material inför ett avslutat abonnemang, och
     funktionen är tillgänglig oavsett om du arbetar aktivt i plattformen eller
     befinner dig i läsläge.
-updatedByName: Per Karlsson
-updatedBy: per.karlsson@visma.com
+languageUpdatedAt:
+  sv: '2026-01-29T10:32:37.893Z'
+  en: '2026-01-29T10:27:03.029Z'
 metadata:
-  solution: Skatt & Bokslut
   tags:
     - news
     - update
     - General
-  targetAudience: []
+  solution: Skatt & Bokslut
   productId: H9lmIe7pbreUwWDp3K3X
-  visibility: public
+  area1: General
   area2: ''
+  visibility: public
   guidelineVersions:
-    news: 9
     article_matching: 1
-    instruction: 1
     faq: 1
     constitution: 1
-    getting_started: 2
     tone_voice: 1
-  area1: General
+    instruction: 1
+    news: 9
+    getting_started: 2
+  targetAudience: []
 ---
 # Exportera och lagra data för flera år samtidigt
 
