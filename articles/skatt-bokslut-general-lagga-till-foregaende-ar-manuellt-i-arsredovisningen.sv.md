@@ -1,0 +1,61 @@
+---
+title: Lägga till föregående år manuellt i årsredovisningen
+slug: general-lagga-till-foregaende-ar-manuellt-i-arsredovisningen
+languages:
+  - sv
+format: md
+status: draft
+folderId: null
+publishedAt: null
+createdAt: '2026-01-29T14:13:25.133Z'
+updatedAt: '2026-01-29T14:13:25.133Z'
+id: 0UOZ2EbSedt1KYREPyPW
+metadata:
+  productId: H9lmIe7pbreUwWDp3K3X
+  solution: Skatt & Bokslut
+  area1: General
+  area2: ''
+  targetAudience: []
+  tags:
+    - update
+    - General
+    - instruction
+  guidelineVersions:
+    instruction: 1
+    faq: 1
+    constitution: 1
+    getting_started: 2
+    news: 9
+    article_matching: 1
+    tone_voice: 1
+---
+# Lägg till föregående år manuellt i din årsredovisning
+
+För att en årsredovisning ska vara korrekt enligt årsredovisningslagen (ÅRL) behöver den innehålla jämförelsetal från föregående år. Om du är ny användare i Spiris och inte har läst in bokföringsdata för tidigare år, kan du nu enkelt lägga till dessa siffror manuellt direkt i årsredovisningen.
+
+Detta gör att du kan färdigställa och skicka in en korrekt årsredovisning även om historiken saknas i plattformen.
+
+## Förutsättningar
+För att kunna lägga till föregående år manuellt behöver följande stämma:
+* Ingen bokföringsdata (via SIE-fil eller direktkoppling) finns inläst för det föregående året.
+* Företagets bildandedatum är satt till ett datum som ligger före det aktuella räkenskapsåret.
+
+## Så här gör du
+
+Följ dessa steg för att aktivera och fylla i jämförelsetal:
+
+1. Navigera till **Årsredovisning** i menyn.
+2. Välj **Grunduppgifter**.
+3. Markera rutan **Visa föregående år**.
+4. Kontrollera att rätt räkenskapsår anges i fältet för föregående år.
+5. Gå till **Resultaträkning** eller **Balansräkning**. En ny kolumn för föregående år visas nu.
+6. Fyll i värdena manuellt i kolumnen. 
+   * *Tips: Om du behöver se fler rader för att detaljstyra siffrorna kan du välja **Visa alla rader**.*
+7. Fortsätt till **Noter** och fyll i motsvarande uppgifter där det behövs för att årsredovisningen ska vara komplett.
+
+## Resultat
+När du har fyllt i siffrorna kommer din årsredovisning att innehålla korrekta jämförelsetal i både resultat- och balansräkningen samt i noterna. Även flervårsöversikten öppnas upp så att du kan komplettera med historisk data, vilket ger en professionell och korrekt bild av företagets utveckling.
+
+## Bra att veta
+* **Om du importerar data senare:** Om du väljer att läsa in en SIE-fil för föregående år vid ett senare tillfälle, kommer de manuellt inmatade värdena att ersättas av siffrorna från bokföringen.
+* **Flerårsöversikt:** Eftersom systemet inte har bokföringsdata att hämta ifrån för de tidigare åren, behöver du även se över och fylla i värdena i **Flerårsöversikten** manuellt.
