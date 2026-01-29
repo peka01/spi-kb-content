@@ -9,11 +9,14 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T10:25:15.550Z'
-updatedAt: '2026-01-29T10:28:22.997Z'
+updatedAt: '2026-01-29T10:32:39.925Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedBy: per.karlsson@visma.com
+currentVersion: 2
+languageUpdatedAt:
+  sv: '2026-01-29T10:32:37.893Z'
+  en: '2026-01-29T10:27:03.029Z'
 translationBase:
   en: >-
     # Exportera och arkivera data för flera år samtidigt
@@ -40,31 +43,28 @@ translationBase:
     funktionen är tillgänglig oavsett om du arbetar aktivt i plattformen eller
     befinner dig i läsläge.
 updatedByName: Per Karlsson
-languageUpdatedAt:
-  sv: '2026-01-29T10:27:03.029Z'
-  en: '2026-01-29T10:27:03.029Z'
-currentVersion: 1
+updatedBy: per.karlsson@visma.com
 metadata:
-  targetAudience: []
-  area1: General
+  solution: Skatt & Bokslut
   tags:
     - news
     - update
     - General
+  targetAudience: []
+  productId: H9lmIe7pbreUwWDp3K3X
+  visibility: public
+  area2: ''
   guidelineVersions:
+    news: 9
     article_matching: 1
-    tone_voice: 1
     instruction: 1
     faq: 1
-    news: 9
-    getting_started: 2
     constitution: 1
-  area2: ''
-  visibility: public
-  solution: Skatt & Bokslut
-  productId: H9lmIe7pbreUwWDp3K3X
+    getting_started: 2
+    tone_voice: 1
+  area1: General
 ---
-# Exportera och arkivera data för flera år samtidigt
+# Exportera och lagra data för flera år samtidigt
 
 Behöver du säkerställa att företagets bokslut och dokumentation finns sparade enligt gällande arkiveringsregler? Nu har vi gjort det enklare än någonsin i {{resource:Common_Company_Name_Short}} genom att introducera möjligheten att exportera data för flera år på en och samma gång. Du hittar den nya funktionen genom att navigera till ****{{resource:Menu_title_Maintenance}}**** och välja ****{{resource:ExportData_title_ExportData}}****. Här kan du markera exakt de räkenskapsår du vill arkivera, eller välja att ta med allt på en gång genom att markera kryssrutan för alla år.
 
