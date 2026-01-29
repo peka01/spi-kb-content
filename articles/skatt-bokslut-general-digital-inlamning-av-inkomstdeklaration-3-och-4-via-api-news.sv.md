@@ -5,31 +5,31 @@ slug: general-digital-inlamning-av-inkomstdeklaration-3-och-4-via-api-news
 languages:
   - sv
 format: md
-status: draft
+status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T10:41:28.723Z'
-updatedAt: '2026-01-29T10:46:27.211Z'
+updatedAt: '2026-01-29T10:48:01.150Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 metadata:
-  area1: General
-  solution: Skatt & Bokslut
+  guidelineVersions:
+    instruction: 1
+    constitution: 1
+    tone_voice: 1
+    news: 9
+    article_matching: 1
+    getting_started: 2
+    faq: 1
   tags:
     - update
     - General
     - news
+  solution: Skatt & Bokslut
+  area2: ''
+  area1: General
   targetAudience: []
   productId: H9lmIe7pbreUwWDp3K3X
-  area2: ''
-  guidelineVersions:
-    news: 9
-    faq: 1
-    constitution: 1
-    instruction: 1
-    getting_started: 2
-    article_matching: 1
-    tone_voice: 1
 ---
 # Nu kan du lämna in INK3 och INK4 digitalt
 
