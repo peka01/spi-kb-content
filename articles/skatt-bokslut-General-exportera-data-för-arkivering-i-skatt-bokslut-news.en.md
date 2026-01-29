@@ -7,17 +7,12 @@ languages:
   - en
 format: md
 status: draft
-folderId: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T10:12:41.499Z'
-updatedAt: '2026-01-29T10:15:02.377Z'
+updatedAt: '2026-01-29T10:15:10.811Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-languageUpdatedAt:
-  sv: '2026-01-29T10:14:27.454Z'
-  en: '2026-01-29T10:14:27.454Z'
-currentVersion: 1
-updatedBy: per.karlsson@visma.com
 translationBase:
   en: >-
     # Exportera all din data för smidig arkivering
@@ -42,26 +37,31 @@ translationBase:
     exporten slutförs ändå så att du får ut så mycket data som möjligt. När allt
     är klart laddar du enkelt ner zip-filen och har sedan en komplett och sökbar
     struktur över företagets bokslut och underlag direkt på din dator.
+languageUpdatedAt:
+  sv: '2026-01-29T10:14:27.454Z'
+  en: '2026-01-29T10:14:27.454Z'
+updatedBy: per.karlsson@visma.com
+currentVersion: 1
 updatedByName: Per Karlsson
 metadata:
   tags:
     - news
     - update
     - General
-  visibility: public
-  area1: General
-  guidelineVersions:
-    news: 9
-    instruction: 1
-    faq: 1
-    article_matching: 1
-    tone_voice: 1
-    getting_started: 2
-    constitution: 1
-  solution: Skatt & Bokslut
-  targetAudience: []
   area2: ''
+  area1: General
+  solution: Skatt & Bokslut
   productId: H9lmIe7pbreUwWDp3K3X
+  guidelineVersions:
+    faq: 1
+    news: 9
+    constitution: 1
+    instruction: 1
+    article_matching: 1
+    getting_started: 2
+    tone_voice: 1
+  visibility: public
+  targetAudience: []
 ---
 # Export all your data for smooth archiving
 
