@@ -9,11 +9,13 @@ format: md
 status: test
 folderId: vZ6IMwn3WcrkxEemzXO8
 createdAt: '2026-01-29T16:40:46.194Z'
-updatedAt: '2026-01-29T16:51:55.623Z'
+updatedAt: '2026-01-29T16:52:47.132Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 2
+languageUpdatedAt:
+  en: '2026-01-29T16:51:49.648Z'
+  sv: '2026-01-29T16:51:49.648Z'
 translationBase:
   en: >-
     # Exportera och arkivera data för flera år i
@@ -59,8 +61,8 @@ translationBase:
 
     4. Klicka på knappen ****{{resource:Maintenance_ExportData_hdr_Export}}****.
 
-    5. En förloppsindikator visas medan exporten förbereds. Du kan fortsätta
-    arbeta i plattformen under tiden.
+    5. En progress bar visas medan exporten förbereds. Du kan fortsätta arbeta i
+    plattformen under tiden.
 
     6. När exporten är klar får du en notis. Klicka på länken i notisen för att
     ladda ner ZIP-filen.
@@ -102,30 +104,28 @@ translationBase:
     Genom att använda denna funktion sparar du tid och kan känna dig trygg med
     att din digitala arkivering sköts på ett strukturerat och säkert sätt i
     {{resource:Common_Company_Name_Short}}.
-updatedBy: per.karlsson@visma.com
-languageUpdatedAt:
-  sv: '2026-01-29T16:51:49.648Z'
-  en: '2026-01-29T16:46:46.420Z'
+currentVersion: 3
 updatedByName: Per Karlsson
+updatedBy: per.karlsson@visma.com
 metadata:
-  guidelineVersions:
-    constitution: 1
-    tone_voice: 1
-    getting_started: 2
-    instruction: 1
-    faq: 1
-    news: 9
-    article_matching: 1
-  targetAudience: []
-  area1: General
-  productId: H9lmIe7pbreUwWDp3K3X
-  area2: ''
   tags:
     - instruction
     - update
     - General
-  solution: Skatt & Bokslut
+  targetAudience: []
   visibility: public
+  productId: H9lmIe7pbreUwWDp3K3X
+  area2: ''
+  guidelineVersions:
+    getting_started: 2
+    faq: 1
+    news: 9
+    article_matching: 1
+    constitution: 1
+    instruction: 1
+    tone_voice: 1
+  solution: Skatt & Bokslut
+  area1: General
 ---
 # Export and archive data for multiple years in {{resource:common_product_name_variable_taxation_year_end_closing}}
 
@@ -142,8 +142,8 @@ To fulfill legal archiving requirements or to have a local backup before a subsc
 
 1. Go to the menu and select ****{{resource:Menu_title_Maintenance}}**** – ****{{resource:ExportData_title_ExportData}}****.
 2. Under the export heading, select the **Documentation** option. 
-3. In the list ****{{resource:Startpage_hdr_FinancialYear}}****, select the years you want to include in the export. You can select a single year, several specific years, or select **All years**.
-4. Click the button ****{{resource:Maintenance_ExportData_hdr_Export}}****.
+3. In the ****{{resource:Startpage_hdr_FinancialYear}}**** list, select the years you want to include in the export. You can select a single year, several specific years, or select **All years**.
+4. Click the ****{{resource:Maintenance_ExportData_hdr_Export}}**** button.
 5. A progress bar is displayed while the export is being prepared. You can continue working in the platform in the meantime.
 6. When the export is complete, you will receive a notification. Click the link in the notification to download the ZIP file.
 
