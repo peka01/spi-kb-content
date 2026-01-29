@@ -9,16 +9,17 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-29T10:25:15.550Z'
-updatedAt: '2026-01-29T10:33:02.074Z'
+updatedAt: '2026-01-29T10:33:36.348Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-updatedBy: per.karlsson@visma.com
 updatedByName: Per Karlsson
-currentVersion: 3
+languageUpdatedAt:
+  sv: '2026-01-29T10:32:37.893Z'
+  en: '2026-01-29T10:32:37.893Z'
 translationBase:
   en: >-
-    # Exportera och arkivera data för flera år samtidigt
+    # Exportera och lagra data för flera år samtidigt
 
 
     Behöver du säkerställa att företagets bokslut och dokumentation finns
@@ -41,31 +42,30 @@ translationBase:
     historik eller behöver förbereda material inför ett avslutat abonnemang, och
     funktionen är tillgänglig oavsett om du arbetar aktivt i plattformen eller
     befinner dig i läsläge.
-languageUpdatedAt:
-  sv: '2026-01-29T10:32:37.893Z'
-  en: '2026-01-29T10:27:03.029Z'
+updatedBy: per.karlsson@visma.com
+currentVersion: 4
 metadata:
+  targetAudience: []
+  productId: H9lmIe7pbreUwWDp3K3X
+  guidelineVersions:
+    news: 9
+    tone_voice: 1
+    instruction: 1
+    getting_started: 2
+    constitution: 1
+    article_matching: 1
+    faq: 1
+  visibility: public
+  area2: ''
+  area1: General
   tags:
     - news
     - update
     - General
   solution: Skatt & Bokslut
-  productId: H9lmIe7pbreUwWDp3K3X
-  area1: General
-  area2: ''
-  visibility: public
-  guidelineVersions:
-    article_matching: 1
-    faq: 1
-    constitution: 1
-    tone_voice: 1
-    instruction: 1
-    news: 9
-    getting_started: 2
-  targetAudience: []
 ---
-# Export and archive data for multiple years simultaneously
+# Export and store data for multiple years at once
 
-Do you need to ensure that the company's annual accounts and documentation are saved according to current archiving regulations? We have now made it easier than ever in {{resource:Common_Company_Name_Short}} by introducing the possibility to export data for several years at once. You can find the new function by navigating to ****{{resource:Menu_title_Maintenance}}**** and selecting ****{{resource:ExportData_title_ExportData}}****. Here, you can select exactly the financial years you want to archive, or choose to include everything at once by checking the box for all years.
+Do you need to ensure that the company's year-end accounts and documentation are saved according to current archiving regulations? We have now made it easier than ever in {{resource:Common_Company_Name_Short}} by introducing the ability to export data for multiple years at once. You can find the new feature by navigating to ****{{resource:Menu_title_Maintenance}}**** and selecting ****{{resource:ExportData_title_ExportData}}****. Here, you can select exactly the financial years you want to archive, or choose to include everything at once by checking the box for all years.
 
-When you start the export, an organized zip file is created where all material is sorted into folders by year and period. Each supporting document is saved as a PDF, making it easy to both read and print the documentation in the future. You can follow the entire process via a status bar directly on the screen and receive a confirmation as soon as your file is ready to be downloaded. This is a perfect tool for those who want a complete backup of the company's history or need to prepare material for a terminated subscription, and the function is available regardless of whether you are working actively in the platform or are in read-only mode.
+When you start the export, an organized zip file is created where all material is sorted into folders by year and period. Each supporting document is saved as a PDF, making it easy to both read and print the documentation in the future. You can follow the entire process via a status bar directly on the screen and receive a confirmation as soon as your file is ready for download. This is a perfect tool for those who want a complete backup of the company's history or need to prepare material before a subscription ends, and the feature is available whether you are working actively in the platform or are in read-only mode.
