@@ -1,34 +1,44 @@
 ---
+id: y5oFfZuSbl8dOiYeT1c2
 title: Exportera data för arkivering i Skatt & Bokslut
 slug: general-exportera-data-for-arkivering-i-skatt-bokslut
 languages:
   - sv
+  - en
 format: md
 status: draft
 folderId: null
-currentVersion: 1
-publishedAt: null
 createdAt: '2026-01-30T09:14:39.669Z'
-updatedAt: '2026-01-30T09:14:39.669Z'
-id: y5oFfZuSbl8dOiYeT1c2
+updatedAt: '2026-01-30T09:20:01.529Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
+updatedBy: per.karlsson@visma.com
+updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-30T09:19:42.791Z'
+  en: '2026-01-30T09:14:39.669Z'
+translationBase: {}
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
+  guidelineVersions:
+    constitution: 1
+    faq: 1
+    tone_voice: 1
+    getting_started: 2
+    instruction: 1
+    article_matching: 1
+    news: 9
   solution: Skatt & Bokslut
-  area1: General
-  area2: ''
-  targetAudience: []
   tags:
+    - instruction
     - update
     - General
-    - instruction
-  guidelineVersions:
-    instruction: 1
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 9
-    article_matching: 1
-    tone_voice: 1
+  area1: General
+  targetAudience: []
+  productId: H9lmIe7pbreUwWDp3K3X
+  visibility: public
+  area2: ''
 ---
 # Exportera data för arkivering i Skatt & Bokslut
 
@@ -46,7 +56,7 @@ För att hålla arkivet relevant inkluderas endast perioder där:
 
 Följ dessa steg för att skapa din arkivfil:
 
-1.  Gå till menyn **Underhåll** och välj **Exportera data**.
+1.  Gå till menyn ****{{resource:Menu_title_Maintenance}}**** och välj **Exportera data**.
 2.  Markera kryssrutan för **Dokumentation**.
 3.  Välj de år du vill exportera i rullistan under **Räkenskapsår**. Du kan välja att exportera ett enskilt år eller markera **Alla år** för att ta ut allt på en gång.
 4.  Klicka på knappen **Exportera**.
