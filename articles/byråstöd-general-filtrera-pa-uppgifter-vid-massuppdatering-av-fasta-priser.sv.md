@@ -1,34 +1,36 @@
 ---
+id: nXGEKiqh4Q8C7qrMkex8
 title: Filtrera på uppgifter vid massuppdatering av fasta priser
 slug: general-filtrera-pa-uppgifter-vid-massuppdatering-av-fasta-priser
 languages:
   - sv
 format: md
 status: draft
-folderId: null
-currentVersion: 1
-publishedAt: null
+folderId: zBIiVCqNofH1c30iTZQz
 createdAt: '2026-01-30T06:53:35.868Z'
-updatedAt: '2026-01-30T06:53:35.868Z'
-id: nXGEKiqh4Q8C7qrMkex8
+updatedAt: '2026-01-30T06:57:35.365Z'
+publishedAt: null
+reviewedAt: null
+lastLLMUpdateAt: null
+currentVersion: 1
 metadata:
-  productId: QMHbkKwylPyan6DOYaLe
-  solution: Byråstöd
   area1: General
-  area2: ''
-  targetAudience: []
+  productId: QMHbkKwylPyan6DOYaLe
+  guidelineVersions:
+    news: 9
+    getting_started: 2
+    constitution: 1
+    faq: 1
+    tone_voice: 1
+    instruction: 1
+    article_matching: 1
   tags:
     - update
     - General
     - instruction
-  guidelineVersions:
-    instruction: 1
-    faq: 1
-    constitution: 1
-    getting_started: 2
-    news: 9
-    article_matching: 1
-    tone_voice: 1
+  targetAudience: []
+  area2: ''
+  solution: Byråstöd
 ---
 # Filtrera på uppgifter vid massuppdatering av fasta priser
 
