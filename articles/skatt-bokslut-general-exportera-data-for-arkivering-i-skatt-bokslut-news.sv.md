@@ -7,37 +7,37 @@ languages:
   - en
 format: md
 status: test
-folderId: null
+folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-30T09:14:51.328Z'
-updatedAt: '2026-01-30T09:26:47.012Z'
+updatedAt: '2026-01-30T09:27:40.485Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
+updatedBy: per.karlsson@visma.com
+currentVersion: 1
 updatedByName: Per Karlsson
-translationBase: {}
 languageUpdatedAt:
   en: '2026-01-30T09:14:51.328Z'
   sv: '2026-01-30T09:22:44.817Z'
-updatedBy: per.karlsson@visma.com
-currentVersion: 1
+translationBase: {}
 metadata:
-  productId: H9lmIe7pbreUwWDp3K3X
+  visibility: public
   tags:
     - news
     - update
     - General
   solution: Skatt & Bokslut
+  productId: H9lmIe7pbreUwWDp3K3X
+  area1: General
   guidelineVersions:
-    tone_voice: 1
     article_matching: 1
-    getting_started: 2
-    constitution: 1
     faq: 1
+    tone_voice: 1
+    constitution: 1
     instruction: 1
     news: 9
-  visibility: public
+    getting_started: 2
   area2: ''
-  area1: General
   targetAudience: []
 ---
 # Enklare arkivering – exportera dokumentation för flera år
