@@ -9,36 +9,36 @@ format: md
 status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-30T09:14:51.328Z'
-updatedAt: '2026-01-30T09:27:40.485Z'
+updatedAt: '2026-01-30T09:30:58.490Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
 updatedBy: per.karlsson@visma.com
-currentVersion: 1
-updatedByName: Per Karlsson
 languageUpdatedAt:
+  sv: '2026-01-30T09:30:42.975Z'
   en: '2026-01-30T09:14:51.328Z'
-  sv: '2026-01-30T09:22:44.817Z'
+currentVersion: 2
+updatedByName: Per Karlsson
 translationBase: {}
 metadata:
+  solution: Skatt & Bokslut
+  guidelineVersions:
+    constitution: 1
+    getting_started: 2
+    instruction: 1
+    news: 9
+    faq: 1
+    article_matching: 1
+    tone_voice: 1
+  targetAudience: []
   visibility: public
   tags:
     - news
     - update
     - General
-  solution: Skatt & Bokslut
   productId: H9lmIe7pbreUwWDp3K3X
   area1: General
-  guidelineVersions:
-    article_matching: 1
-    faq: 1
-    tone_voice: 1
-    constitution: 1
-    instruction: 1
-    news: 9
-    getting_started: 2
   area2: ''
-  targetAudience: []
 ---
 # Enklare arkivering – exportera dokumentation för flera år
 
@@ -46,7 +46,7 @@ Nu blir det betydligt enklare för dig att säkra din data inför framtiden och 
 
 Varje periodmapp innehåller detaljerade PDF-filer som täcker allt relevant underlag för den valda perioden. Detta ger en fullständig dokumentation av bokslutsskedet och inkluderar bland annat:
 
-* **Automatiska kontroller:** En sammanställning av systemets valideringar och eventuella varningar.
+* ****{{resource:EnumVoucherSource_lbl_TransactionAnalysis}}**:** En sammanställning av systemets valideringar och eventuella varningar.
 * **Avstämda konton:** Detaljerade rapporter för varje enskilt konto, inklusive tillhörande specifikationer och dokumentation.
 * **Kommentarer och anteckningar:** All kommunikation och de förklaringar som lagts till under arbetets gång för att motivera saldon eller justeringar.
 * **Rapporter:** Exempelvis balans- och resultaträkningar samt huvudbok för den aktuella perioden.
