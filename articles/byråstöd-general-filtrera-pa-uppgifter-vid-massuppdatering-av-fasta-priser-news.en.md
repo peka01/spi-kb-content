@@ -6,15 +6,18 @@ languages:
   - sv
   - en
 format: md
-status: draft
+status: test
 folderId: d36dixyvClY1a3eN6fvb
 createdAt: '2026-01-30T06:53:43.978Z'
-updatedAt: '2026-01-30T06:57:32.310Z'
+updatedAt: '2026-01-30T06:57:41.878Z'
 publishedAt: null
 reviewedAt: null
 lastLLMUpdateAt: null
-currentVersion: 1
+updatedBy: per.karlsson@visma.com
 updatedByName: Per Karlsson
+languageUpdatedAt:
+  sv: '2026-01-30T06:56:55.441Z'
+  en: '2026-01-30T06:56:55.441Z'
 translationBase:
   en: >-
     # Bättre kontroll när du justerar dina fasta priser i
@@ -37,29 +40,26 @@ translationBase:
     sparar värdefull tid och ger dig full kontroll, särskilt när du vill göra
     riktade prisjusteringar för specifika delar av ditt erbjudande utan att det
     påverkar resten av dina abonnemang.
-languageUpdatedAt:
-  en: '2026-01-30T06:56:55.441Z'
-  sv: '2026-01-30T06:56:55.441Z'
-updatedBy: per.karlsson@visma.com
+currentVersion: 1
 metadata:
-  productId: QMHbkKwylPyan6DOYaLe
   guidelineVersions:
-    instruction: 1
     getting_started: 2
-    tone_voice: 1
-    article_matching: 1
-    faq: 1
-    news: 9
     constitution: 1
+    news: 9
+    instruction: 1
+    tone_voice: 1
+    faq: 1
+    article_matching: 1
+  visibility: public
+  productId: QMHbkKwylPyan6DOYaLe
+  area1: General
   tags:
     - news
     - update
     - General
-  targetAudience: []
   area2: ''
-  visibility: public
+  targetAudience: []
   solution: Byråstöd
-  area1: General
 ---
 # Better control when adjusting your fixed prices in {{resource:Common_Product_Name_Variable_Advisor}}
 
