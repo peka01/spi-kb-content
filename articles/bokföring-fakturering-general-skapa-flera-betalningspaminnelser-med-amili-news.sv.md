@@ -8,9 +8,9 @@ status: draft
 folderId: null
 currentVersion: 1
 publishedAt: null
-createdAt: '2026-02-04T12:13:41.717Z'
-updatedAt: '2026-02-04T12:13:41.717Z'
-id: MK7ZC42IJZdVjeJ0PqRX
+createdAt: '2026-02-04T13:10:44.788Z'
+updatedAt: '2026-02-04T13:10:44.788Z'
+id: lsZM7cp4e9ejCeNSCuY0
 metadata:
   productId: gJyQghcyd6TSzpL7kq5e
   solution: Bokföring & Fakturering
@@ -30,8 +30,8 @@ metadata:
     tone_voice: 1
     news: 1
 ---
-# Skapa flera betalningspåminnelser med Amili
+# Skicka alla dina påminnelser på en gång med Amili
 
-Att hantera obetalda fakturor en och en kan vara tidskrävande, särskilt när du har mycket annat att fokusera på i ditt företag. Därför har vi nu gjort det möjligt för dig att skicka flera betalningspåminnelser samtidigt via Amili direkt i Spiris. Genom att integrera Amili i funktionen för masshantering av påminnelser får du ett mer effektivt flöde där du med bara några få klick kan se till att påminnelserna går iväg till dina kunder utan manuellt efterarbete.
+Nu blir det ännu enklare att få betalt i tid utan att behöva lägga ner onödig kraft på administration. Vi har uppdaterat funktionen för att skapa flera påminnelser samtidigt så att du nu kan använda Amili direkt i masshanteringen. Istället för att hantera varje förfallen faktura för sig kan du nu markera alla i listan och skicka dem till Amili i ett enda svep. Om du inte har aktiverat tjänsten än kan du göra det direkt i vyn via den nya informationsrutan som dyker upp, och när du väl är igång blir Amili ditt förvalda alternativ för att spara så mycket tid som möjligt.
 
-När du öppnar fönstret för att skapa flera påminnelser möts du av en ny och tydligare layout som ger dig en bättre överblick över dina utestående fakturor. Om du väljer att skicka påminnelserna med Amili sköts allt automatiskt, och du ser direkt i vyn vilka alternativ som är aktuella. Har du inte aktiverat Amili ännu kan du enkelt göra det via den nya informationsrutan som dyker upp högst upp i fönstret. När aktiveringen är klar blir Amili ditt förvalda alternativ, vilket gör att framtida påminnelsehantering går ännu snabbare. Det här sparar dig värdefull tid och hjälper dig att få betalt snabbare, samtidigt som du behåller full kontroll över dina kundrelationer.
+Vi har också passat på att snygga till vyn för masshantering så att den är mer överskådlig och snabbare att jobba i. När du väljer att skicka via Amili sköts ränteberäkningar och utskick automatiskt, vilket innebär att vissa manuella inställningar döljs för att förenkla processen och minska risken för fel. Det gör att du kan lita på att påminnelserna hanteras korrekt medan du fokuserar på din kärnverksamhet. Om du har många fakturor på gång har vi även optimerat prestandan så att listan laddar snabbare, allt för att ditt arbete i Spiris ska flyta på så smidigt som möjligt.
