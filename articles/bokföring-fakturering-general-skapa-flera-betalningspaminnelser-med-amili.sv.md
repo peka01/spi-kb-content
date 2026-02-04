@@ -8,9 +8,9 @@ status: draft
 folderId: null
 currentVersion: 1
 publishedAt: null
-createdAt: '2026-02-04T12:13:33.461Z'
-updatedAt: '2026-02-04T12:13:33.461Z'
-id: W31Q2UcjBm6Yw2b8LR75
+createdAt: '2026-02-04T13:10:35.707Z'
+updatedAt: '2026-02-04T13:10:35.707Z'
+id: Nzt9b5gTKwYcPIGgsbNT
 metadata:
   productId: gJyQghcyd6TSzpL7kq5e
   solution: Bokföring & Fakturering
@@ -30,43 +30,35 @@ metadata:
     tone_voice: 1
     news: 1
 ---
-# Skapa flera betalningspåminnelser med Amili
+Här får du en genomgång av hur du effektiviserar din kravhantering genom att skicka flera betalningspåminnelser samtidigt via Amili. Genom att använda den här funktionen i Spiris sparar du tid och säkerställer att dina påminnelser hanteras professionellt och automatiskt.
 
-Nu kan du hantera dina obetalda fakturor ännu effektivare i Spiris. Genom att använda funktionen för att skapa flera betalningspåminnelser samtidigt via Amili sparar du värdefull tid och säkerställer att dina påminnelser skickas ut korrekt och professionellt.
+## Introduktion
+Istället för att hantera varje förfallen faktura manuellt kan du nu välja att skicka påminnelser i grupp. Med Amili-integrationen sköts utskick och eventuella avgifter automatiskt, vilket ger dig ett smidigare flöde och bättre kontroll över dina kundinbetalningar.
 
 ## Förutsättningar
-
-För att kunna skicka påminnelser behöver du ha förfallna kundfakturor i din lista. Om du inte redan har aktiverat Amili kan du göra det direkt i samband med att du skapar påminnelserna.
+För att kunna använda funktionen behöver du:
+* Ha obetalda kundfakturor som har passerat sitt förfallodatum.
+* Ha aktiverat tjänsten Amili i din ekonomiplattform. Om du inte har gjort det än kan du starta aktiveringen direkt i guiden för påminnelser.
 
 ## Så här gör du
 
-Följ dessa steg för att skicka påminnelser till flera kunder samtidigt:
-
-1. Gå till din lista för kundfakturor.
-2. Markera de fakturor du vill skicka påminnelser för genom att använda kryssrutorna till vänster.
-3. Klicka på knappen **Skapa flera påminnelser**.
-4. Ett fönster öppnas där du ser en översikt över de valda fakturorna. I kolumnen för påminnelsetyp, välj **Skicka via Amili**.
-   - **Om du inte har aktiverat Amili tidigare:** Du ser en informationsruta högst upp i fönstret. Klicka på knappen för att starta aktiveringen. När aktiveringen är klar kan du gå vidare.
-   - **Om du redan använder Amili:** Amili kommer nu att vara förvalt som standard för att göra ditt arbete så smidigt som möjligt.
-5. När du väljer Amili blir alternativen för e-post och dröjsmålsränta gråmarkerade. Detta beror på att Amili automatiskt hanterar dessa delar åt dig enligt gällande regler.
-6. Kontrollera att rätt fakturor är markerade och klicka på **Skicka påminnelser**.
-
-### Bra att veta om att markera många fakturor
-För att plattformen ska arbeta så snabbt som möjligt finns det en gräns för hur många fakturor som markeras automatiskt om du använder "Markera alla"-funktionen. Om du har ett mycket stort antal fakturor kan du behöva skicka dem i omgångar eller bläddra mellan sidorna i listan.
+1. Gå till listan för kundfakturor.
+2. Klicka på knappen **Skapa flera påminnelser**. En ny ruta öppnas med en tydlig översikt över dina förfallna fakturor.
+3. Välj alternativet **Skicka påminnelse via Amili** under påminnelsetyp.
+   * **Obs!** Om du inte har aktiverat Amili tidigare visas en informationsruta högst upp. Klicka på knappen för att aktivera tjänsten så kan du fortsätta direkt.
+4. När du har valt Amili kommer valen för dröjsmålsränta och e-post att bli gråmarkerade. Detta beror på att Amili automatiskt hanterar dessa delar åt dig enligt gällande regler.
+5. Markera de fakturor i listan som du vill skicka påminnelser för. 
+   * *Tips: För att bibehålla hög prestanda kan du markera upp till 200 fakturor åt gången.*
+6. Kontrollera dina val och klicka på **Skicka påminnelser**.
 
 ## Resultat
+När du har bekräftat utskicket skickas underlagen digitalt till Amili. De ser till att påminnelsen når din kund på rätt sätt. Statusen på fakturorna uppdateras i Spiris så att du alltid har koll på vad som är påmint. 
 
-När du har klickat på skicka tas fakturorna om hand av Amili. De skickar ut påminnelserna till dina kunder och du kan se statusen på fakturorna direkt i din fakturalista. 
-
-Genom att låta Amili sköta påminnelserna får du:
-* **Minskad administration:** Du slipper skicka manuella mejl eller brev.
-* **Snabbare betalning:** Professionella påminnelser ökar chansen att få betalt i tid.
-* **Bättre överblick:** All status uppdateras automatiskt i din ekonomiplattform.
+När du väl har aktiverat tjänsten kommer Amili att vara förvalt som standard nästa gång du ska skicka påminnelser, men du kan självklart ändra till manuell hantering om du föredrar det för specifika fakturor.
 
 ## Felsökning
+**Jag kan inte klicka på knappen för att skicka till Amili?**
+Kontrollera att du har gått igenom aktiveringsflödet i informationsrutan högst upp i dialogrutan. Knappen blir aktiv så snart tjänsten är redo att användas.
 
-**Varför kan jag inte klicka på knappen för att skicka?**
-Om knappen är gråmarkerad beror det oftast på att Amili-funktionen inte är aktiverad ännu. Kontrollera informationsrutan högst upp i fönstret och följ instruktionerna för att komma igång.
-
-**Kan jag fortfarande skicka påminnelser manuellt?**
-Ja, även om Amili är aktiverat kan du alltid välja att ändra påminnelsetyp till manuell hantering för enskilda fakturor i listan innan du skickar.
+**Varför kan jag inte ändra inställningar för e-post?**
+När du använder Amili sköts distributionssättet automatiskt för att säkerställa att påminnelsen levereras på det mest effektiva sättet. Därför är dessa manuella inställningar låsta.
